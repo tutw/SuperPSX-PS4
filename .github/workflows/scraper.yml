@@ -47,14 +47,15 @@ jobs:
           echo "  - DLC.json: $(wc -l < DLC.json) líneas"
 
       - name: Commit & Push cambios
+        env:
+          GH_PAT: ${{ secrets.GH_PAT }}
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "github-actions[bot]"
           git add DLC.json games.json updates.json
           git commit -m "🔄 Actualizar enlaces PS4 - $(date -u +'%Y-%m-%d %H:%M:%S') UTC" || echo "Nada que commitear"
-          git push https://x-access-token:${{ secrets.GH_PAT }}@github.com/tutw/SuperPSX-PS4.git HEAD:main
-        env:
-          GH_PAT: ${{ secrets.GH_PAT }}
+          git remote set-url origin https://x-access-token:${GH_PAT}@github.com/tutw/SuperPSX-PS4.git
+          git push origin HEAD:main
 
       - name: Subir archivos como artefacto
         uses: actions/upload-artifact@v4

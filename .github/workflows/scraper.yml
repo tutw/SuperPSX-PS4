@@ -1,0 +1,84 @@
+name: SuperPSX PS4 Scraper
+
+on:
+  workflow_dispatch:  # Ejecución manual
+  schedule:
+    - cron: '0 6,18 * * *'  # 2 veces al día: 6 AM y 6 PM UTC
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: 📥 Clona el repositorio
+        uses: actions/checkout@v4
+
+      - name: 🐍 Configura Python 3.11
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+
+      - name: 📦 Instala dependencias
+        run: |
+          pip install --upgrade pip
+          pip install requests beautifulsoup4 lxml
+
+      - name: 🔍 Verificar archivo ps4_games_list.json
+        run: |
+          if [ ! -f "ps4_games_list.json" ]; then
+            echo "❌ Error: ps4_games_list.json no encontrado"
+            exit 1
+          fi
+          echo "✅ Archivo ps4_games_list.json encontrado"
+
+      - name: 🚀 Ejecutar scraper
+        run: |
+          echo "🚀 Iniciando scraping de SuperPSX..."
+          python scrape_superpsx.py
+
+      - name: 📊 Verificar resultados
+        run: |
+          echo "📊 Verificando archivos generados:"
+          ls -la *.json
+          echo ""
+          echo "📈 Estadísticas de archivos:"
+          if [ -f "games.json" ]; then
+            echo "  - games.json: $(wc -l < games.json) líneas"
+          fi
+          if [ -f "updates.json" ]; then
+            echo "  - updates.json: $(wc -l < updates.json) líneas"  
+          fi
+          if [ -f "DLC.json" ]; then
+            echo "  - DLC.json: $(wc -l < DLC.json) líneas"
+          fi
+
+      - name: 💾 Commit y push cambios
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "SuperPSX Scraper"
+
+          git add *.json
+
+          # Solo hacer commit si hay cambios
+          if git diff --staged --quiet; then
+            echo "ℹ️ No hay cambios que commitear"
+          else
+            echo "📝 Commiteando cambios..."
+            git commit -m "🔄 Actualizar enlaces PS4 - $(date -u +"%Y-%m-%d %H:%M:%S UTC")"
+            git push
+            echo "✅ Cambios pusheados exitosamente"
+          fi
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: 📤 Subir artefactos
+        uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: ps4-json-files
+          path: |
+            games.json
+            updates.json  
+            DLC.json
+          retention-days: 30

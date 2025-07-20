@@ -1,84 +1,66 @@
-name: SuperPSX PS4 Scraper
+name: SuperPSX Scraper
 
 on:
-  workflow_dispatch:  # Ejecución manual
+  workflow_dispatch:
   schedule:
-    - cron: '0 6,18 * * *'  # 2 veces al día: 6 AM y 6 PM UTC
+    - cron: '0 0 * * *'
 
 jobs:
   scrape:
     runs-on: ubuntu-latest
 
     steps:
-      - name: 📥 Clona el repositorio
+      - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: 🐍 Configura Python 3.11
+      - name: Set up Python
         uses: actions/setup-python@v4
         with:
-          python-version: '3.11'
-          cache: 'pip'
+          python-version: 3.11
 
-      - name: 📦 Instala dependencias
+      - name: Install dependencies
         run: |
           pip install --upgrade pip
           pip install requests beautifulsoup4 lxml
 
-      - name: 🔍 Verificar archivo ps4_games_list.json
+      - name: Verificar archivo base
         run: |
           if [ ! -f "ps4_games_list.json" ]; then
-            echo "❌ Error: ps4_games_list.json no encontrado"
+            echo "❌ Archivo ps4_games_list.json no encontrado"
             exit 1
+          else
+            echo "✅ Archivo ps4_games_list.json encontrado"
           fi
-          echo "✅ Archivo ps4_games_list.json encontrado"
 
-      - name: 🚀 Ejecutar scraper
+      - name: Scraping SuperPSX
         run: |
           echo "🚀 Iniciando scraping de SuperPSX..."
-          python scrape_superpsx.py
+          python scraper.py
 
-      - name: 📊 Verificar resultados
+      - name: Verificar archivos generados
         run: |
           echo "📊 Verificando archivos generados:"
-          ls -la *.json
-          echo ""
+          ls -lh *.json
           echo "📈 Estadísticas de archivos:"
-          if [ -f "games.json" ]; then
-            echo "  - games.json: $(wc -l < games.json) líneas"
-          fi
-          if [ -f "updates.json" ]; then
-            echo "  - updates.json: $(wc -l < updates.json) líneas"  
-          fi
-          if [ -f "DLC.json" ]; then
-            echo "  - DLC.json: $(wc -l < DLC.json) líneas"
-          fi
+          echo "  - games.json: $(wc -l < games.json) líneas"
+          echo "  - updates.json: $(wc -l < updates.json) líneas"
+          echo "  - DLC.json: $(wc -l < DLC.json) líneas"
 
-      - name: 💾 Commit y push cambios
+      - name: Commit & Push cambios
         run: |
           git config --local user.email "action@github.com"
-          git config --local user.name "SuperPSX Scraper"
-
-          git add *.json
-
-          # Solo hacer commit si hay cambios
-          if git diff --staged --quiet; then
-            echo "ℹ️ No hay cambios que commitear"
-          else
-            echo "📝 Commiteando cambios..."
-            git commit -m "🔄 Actualizar enlaces PS4 - $(date -u +"%Y-%m-%d %H:%M:%S UTC")"
-            git push
-            echo "✅ Cambios pusheados exitosamente"
-          fi
+          git config --local user.name "github-actions[bot]"
+          git add DLC.json games.json updates.json
+          git commit -m "🔄 Actualizar enlaces PS4 - $(date -u +'%Y-%m-%d %H:%M:%S') UTC" || echo "Nada que commitear"
+          git push https://x-access-token:${{ secrets.GH_PAT }}@github.com/tutw/SuperPSX-PS4.git HEAD:main
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_PAT: ${{ secrets.GH_PAT }}
 
-      - name: 📤 Subir artefactos
+      - name: Subir archivos como artefacto
         uses: actions/upload-artifact@v4
-        if: always()
         with:
           name: ps4-json-files
           path: |
-            games.json
-            updates.json  
             DLC.json
-          retention-days: 30
+            games.json
+            updates.json

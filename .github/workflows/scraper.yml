@@ -26,7 +26,7 @@ jobs:
           pip install -r requirements.txt
 
       - name: Run scraper (production mode)
-        run: python scraper.py --full --quiet
+        run: python scraper.py --full 
 
       - name: Configure Git user
         run: |

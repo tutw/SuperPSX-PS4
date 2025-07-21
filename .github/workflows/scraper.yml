@@ -1,14 +1,15 @@
-name: Scraper SuperPSX
+name: SuperPSX Scraper
 
 on:
   workflow_dispatch:
   schedule:
-    - cron: '0 15 * * *'
+    - cron: '0 */6 * * *' # Cada 6 horas
 
 jobs:
-  scraper:
+  scrape:
     runs-on: ubuntu-latest
-
+    permissions: # <--- Añade este bloque
+      contents: write # <--- Concede permiso de escritura para contenidos
     steps:
       - name: Checkout repo
         uses: actions/checkout@v4
@@ -18,39 +19,23 @@ jobs:
         with:
           python-version: '3.11'
 
-      - name: Upgrade pip and install requirements
+      - name: Install dependencies
         run: |
           pip install --upgrade pip
           pip install -r requirements.txt
 
-      - name: Ejecutar scraper
-        run: |
-          echo "🚀 Iniciando scraping de SuperPSX..."
-          python scraper.py
+      - name: Run scraper
+        run: python scraper.py
 
-      - name: Verificar archivos generados
-        run: |
-          echo "📊 Verificando archivos generados:"
-          ls -lh
-          echo "📈 Estadísticas de archivos:"
-          wc -l games.json || true
-          wc -l updates.json || true
-          wc -l DLC.json || true
-
-      - name: Configurar usuario Git
+      - name: Configure Git user
         run: |
           git config --global user.name "github-actions[bot]"
-          git config --global user.email "action@github.com"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
 
-      - name: Hacer commit si hay cambios
+      - name: Commit if changes
         run: |
           git add .
-          git diff --cached --quiet || git commit -m "🔄 Actualizar enlaces PS4 - $(date -u '+%Y-%m-%d %H:%M:%S') UTC"
-        continue-on-error: true
+          git diff --staged --quiet || git commit -m "🔄 Actualizar enlaces PS4 - $(date -u +%F %T UTC)"
 
-      - name: Push de cambios usando PAT
-        if: success()
-        env:
-          GH_PAT: ${{ secrets.GH_PAT }}
-        run: |
-          git push https://x-access-token:${GH_PAT}@github.com/${{ github.repository }}.git HEAD:${{ github.ref }}
+      - name: Push changes
+        run: git push

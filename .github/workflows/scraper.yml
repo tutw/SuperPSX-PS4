@@ -1,15 +1,16 @@
 name: SuperPSX Scraper
 
 on:
-  workflow_dispatch:
+  workflow_dispatch:  # Permite ejecución manual
   schedule:
-    - cron: '0 */6 * * *' # Cada 6 horas
+    - cron: '0 */12 * * *' # Cada 12 horas para evitar sobrecarga
 
 jobs:
   scrape:
     runs-on: ubuntu-latest
-    permissions: # <--- Añade este bloque
-      contents: write # <--- Concede permiso de escritura para contenidos
+    permissions:
+      contents: write # Permiso para escribir al repositorio
+
     steps:
       - name: Checkout repo
         uses: actions/checkout@v4
@@ -24,18 +25,23 @@ jobs:
           pip install --upgrade pip
           pip install -r requirements.txt
 
-      - name: Run scraper
-        run: python scraper.py
+      - name: Run scraper (production mode)
+        run: python scraper.py --full --quiet
 
       - name: Configure Git user
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
 
-      - name: Commit if changes
+      - name: Commit and push if changes
         run: |
-          git add .
+          git add *.json
           git diff --staged --quiet || git commit -m "🔄 Actualizar enlaces PS4 - $(date -u +%F %T UTC)"
+          git push
 
-      - name: Push changes
-        run: git push
+      - name: Upload artifacts (opcional)
+        uses: actions/upload-artifact@v4
+        with:
+          name: ps4-games-json
+          path: "*.json"
+          retention-days: 30

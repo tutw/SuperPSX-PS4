@@ -1,38 +1,29 @@
-name: SuperPSX Scraper
+name: Scraper SuperPSX
 
 on:
   workflow_dispatch:
   schedule:
-    - cron: '0 0 * * *'
+    - cron: '0 15 * * *'
 
 jobs:
-  scrape:
+  scraper:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout repository
+      - name: Checkout repo
         uses: actions/checkout@v4
 
       - name: Set up Python
-        uses: actions/setup-python@v4
+        uses: actions/setup-python@v5
         with:
-          python-version: 3.11
+          python-version: '3.11'
 
-      - name: Instalar dependencias
+      - name: Upgrade pip and install requirements
         run: |
           pip install --upgrade pip
-          pip install requests beautifulsoup4 lxml
+          pip install -r requirements.txt
 
-      - name: Verificar archivo base
-        run: |
-          if [ ! -f "ps4_games_list.json" ]; then
-            echo "❌ Archivo ps4_games_list.json no encontrado"
-            exit 1
-          else
-            echo "✅ Archivo ps4_games_list.json encontrado"
-          fi
-
-      - name: Scraping SuperPSX
+      - name: Ejecutar scraper
         run: |
           echo "🚀 Iniciando scraping de SuperPSX..."
           python scraper.py
@@ -40,28 +31,26 @@ jobs:
       - name: Verificar archivos generados
         run: |
           echo "📊 Verificando archivos generados:"
-          ls -lh *.json
+          ls -lh
           echo "📈 Estadísticas de archivos:"
-          echo "  - games.json: $(wc -l < games.json) líneas"
-          echo "  - updates.json: $(wc -l < updates.json) líneas"
-          echo "  - DLC.json: $(wc -l < DLC.json) líneas"
+          wc -l games.json || true
+          wc -l updates.json || true
+          wc -l DLC.json || true
 
-      - name: Commit & Push cambios
+      - name: Configurar usuario Git
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "action@github.com"
+
+      - name: Hacer commit si hay cambios
+        run: |
+          git add .
+          git diff --cached --quiet || git commit -m "🔄 Actualizar enlaces PS4 - $(date -u '+%Y-%m-%d %H:%M:%S') UTC"
+        continue-on-error: true
+
+      - name: Push de cambios usando PAT
+        if: success()
         env:
           GH_PAT: ${{ secrets.GH_PAT }}
         run: |
-          git config --local user.email "action@github.com"
-          git config --local user.name "github-actions[bot]"
-          git add DLC.json games.json updates.json
-          git commit -m "🔄 Actualizar enlaces PS4 - $(date -u +'%Y-%m-%d %H:%M:%S') UTC" || echo "Nada que commitear"
-          git remote set-url origin https://x-access-token:${GH_PAT}@github.com/tutw/SuperPSX-PS4.git
-          git push origin HEAD:main
-
-      - name: Subir archivos como artefacto
-        uses: actions/upload-artifact@v4
-        with:
-          name: ps4-json-files
-          path: |
-            DLC.json
-            games.json
-            updates.json
+          git push https://x-access-token:${GH_PAT}@github.com/${{ github.repository }}.git HEAD:${{ github.ref }}

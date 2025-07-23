@@ -1910,6 +1910,54 @@
       "download_text": "Viki",
       "key_description": "Game + Update v1.13 ⇛"
     },
+    "https://vikingfile.com/f/LkcyCOfwda": {
+      "region": "EUR",
+      "size": "14.50 GB",
+      "version": "1.00",
+      "release": "April 11, 2019",
+      "min_fw": "6.72+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/EARTH-DEFENSE-FORCE_IRON-RAIN-PS4-PKG.webp",
+      "name": "Earth Defense Force Iron Rain",
+      "type": "game",
+      "download_text": "Viki",
+      "key_description": "Game (6.72+) ⇛"
+    },
+    "https://vikingfile.com/f/zzi2jZb5Hu": {
+      "region": "EUR",
+      "size": "14.50 GB",
+      "version": "1.00",
+      "release": "April 11, 2019",
+      "min_fw": "6.72+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/EARTH-DEFENSE-FORCE_IRON-RAIN-PS4-PKG.webp",
+      "name": "Earth Defense Force Iron Rain",
+      "type": "update",
+      "download_text": "Viki",
+      "key_description": "Update v1.07 (6.72+) ⇛"
+    },
+    "https://vikingfile.com/f/LJAYZhTJye": {
+      "region": "EUR",
+      "size": "14.50 GB",
+      "version": "1.00",
+      "release": "April 11, 2019",
+      "min_fw": "Fix 5.05",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/EARTH-DEFENSE-FORCE_IRON-RAIN-PS4-PKG.webp",
+      "name": "Earth Defense Force Iron Rain",
+      "type": "update",
+      "download_text": "Viki",
+      "key_description": "Update v1.07 (Fix 5.05) ⇛"
+    },
+    "https://vikingfile.com/f/sQR8O5rbKZ": {
+      "region": "EUR",
+      "size": "14.50 GB",
+      "version": "1.00",
+      "release": "April 11, 2019",
+      "min_fw": null,
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/EARTH-DEFENSE-FORCE_IRON-RAIN-PS4-PKG.webp",
+      "name": "Earth Defense Force Iron Rain",
+      "type": "dlc",
+      "download_text": "Viki",
+      "key_description": "DLC (33) ⇛"
+    },
     "https://vikingfile.com/f/BI94Dzn8yW": {
       "region": "EUR",
       "size": "5GB",

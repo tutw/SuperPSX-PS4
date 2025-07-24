@@ -654,6 +654,30 @@
       "download_text": "OneFile",
       "key_description": "Game+Update-v1.04 ⇛"
     },
+    "https://1fichier.com/?l68q33lwrg6w2sndbtx3&af=4186346": {
+      "region": "EUR",
+      "size": "9GB",
+      "version": "1.00",
+      "release": "September 18, 2024",
+      "min_fw": null,
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/07/Achilles-Legends-Untold-PS4-PKG.webp",
+      "name": "Achilles Legends Untold",
+      "type": "game",
+      "download_text": "OneFile",
+      "key_description": "Game (11.50) ⇛"
+    },
+    "https://1fichier.com/?6nzfkl9za70qqt3vu1ct&af=4186346": {
+      "region": "EUR",
+      "size": "9GB",
+      "version": "1.00",
+      "release": "September 18, 2024",
+      "min_fw": "5.05/6.72/7.xx/9.00/11.00",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/07/Achilles-Legends-Untold-PS4-PKG.webp",
+      "name": "Achilles Legends Untold",
+      "type": "game",
+      "download_text": "OneFile",
+      "key_description": "Fix (5.05/6.72/7.xx/9.00/11.00) ⇛"
+    },
     "https://1fichier.com/?2oo233p0cl4j4b24pm5d&af=4186346": {
       "region": "EUR",
       "size": "500 MB",
@@ -4006,6 +4030,42 @@
       "type": "update",
       "download_text": "OneFile",
       "key_description": "Update 1.01 (Fix 5.05 / 6.72 / 7.02 / 7.55 / 9.00) ⇛"
+    },
+    "https://1fichier.com/?6udt8fye0nnjhqh38ne1&af=4186346": {
+      "region": "EUR",
+      "size": "2.8GB",
+      "version": "1.00",
+      "release": "April 7, 2020",
+      "min_fw": "7.02+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/07/BELOW-PS4-PKG.webp",
+      "name": "Below",
+      "type": "game",
+      "download_text": "OneFile",
+      "key_description": "Game (7.02+) ⇛"
+    },
+    "https://1fichier.com/?wfp65kjb9y712iwwla42&af=4186346": {
+      "region": "EUR",
+      "size": "2.8GB",
+      "version": "1.00",
+      "release": "April 7, 2020",
+      "min_fw": "7.02+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/07/BELOW-PS4-PKG.webp",
+      "name": "Below",
+      "type": "update",
+      "download_text": "OneFile",
+      "key_description": "Update v1.02 (7.02+) ⇛"
+    },
+    "https://1fichier.com/?5v7yy8m83fxvk6v6nyju&af=4186346": {
+      "region": "EUR",
+      "size": "2.8GB",
+      "version": "1.00",
+      "release": "April 7, 2020",
+      "min_fw": "Fix 5.05/6.72",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/07/BELOW-PS4-PKG.webp",
+      "name": "Below",
+      "type": "update",
+      "download_text": "OneFile",
+      "key_description": "Update v1.02 (Fix 5.05/6.72) ⇛"
     },
     "https://1fichier.com/?cgq7ky0s3p8du9j1564d&af=4186346": {
       "region": "EUR",
@@ -13766,6 +13826,30 @@
       "download_text": "OneFile",
       "key_description": "Update v1.07 (Fix 5.05) ⇛"
     },
+    "https://1fichier.com/?v0ej3xd34wxn7aefxez6&af=4186346": {
+      "region": "EUR",
+      "size": "6GB",
+      "version": "1.00",
+      "release": "May 27, 2021",
+      "min_fw": null,
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/07/Earth-Defense-Force-World-Brothers-PS4-PKG.webp",
+      "name": "Earth Defense Force World Brothers",
+      "type": "game",
+      "download_text": "OneFile",
+      "key_description": "Game (7.50+) ⇛"
+    },
+    "https://1fichier.com/?dn5hmfi3c2u9m1ve1nps&af=4186346": {
+      "region": "EUR",
+      "size": "6GB",
+      "version": "1.00",
+      "release": "May 27, 2021",
+      "min_fw": "Fix 5.05-11.00",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/07/Earth-Defense-Force-World-Brothers-PS4-PKG.webp",
+      "name": "Earth Defense Force World Brothers",
+      "type": "update",
+      "download_text": "OneFile",
+      "key_description": "Update v1.02 (Fix 5.05-11.00) ⇛"
+    },
     "https://1fichier.com/?tsfafbk2lmly8cix23yg&af=4186346": {
       "region": "EUR",
       "size": "11.53 GB",
@@ -18633,6 +18717,42 @@
       "type": "dlc",
       "download_text": "OneFile",
       "key_description": "All DLC ⇛"
+    },
+    "https://1fichier.com/?bgpiciz0v6aa4x29aimf&af=4186346": {
+      "region": "EUR",
+      "size": "17GB",
+      "version": "1.00",
+      "release": "December 14, 2023",
+      "min_fw": null,
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/07/Granblue-Fantasy-Versus-Rising-Deluxe-Edition-PS4-PKG.webp",
+      "name": "Granblue Fantasy Versus Rising Deluxe Edition",
+      "type": "game",
+      "download_text": "OneFile",
+      "key_description": "Game ⇛"
+    },
+    "https://1fichier.com/?smvn4atulxvq1795kzop&af=4186346": {
+      "region": "EUR",
+      "size": "17GB",
+      "version": "1.00",
+      "release": "December 14, 2023",
+      "min_fw": "Fix 5.05-11.00",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/07/Granblue-Fantasy-Versus-Rising-Deluxe-Edition-PS4-PKG.webp",
+      "name": "Granblue Fantasy Versus Rising Deluxe Edition",
+      "type": "update",
+      "download_text": "OneFile",
+      "key_description": "Update v2.02 (Fix 5.05-11.00) ⇛"
+    },
+    "https://1fichier.com/?180w52i5dctglzt7ju80&af=4186346": {
+      "region": "EUR",
+      "size": "17GB",
+      "version": "1.00",
+      "release": "December 14, 2023",
+      "min_fw": null,
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/07/Granblue-Fantasy-Versus-Rising-Deluxe-Edition-PS4-PKG.webp",
+      "name": "Granblue Fantasy Versus Rising Deluxe Edition",
+      "type": "dlc",
+      "download_text": "OneFile",
+      "key_description": "DLC ⇛"
     },
     "https://1fichier.com/?h5gmzl48cy46erno47ec&af=4186346": {
       "region": "EUR",
@@ -41447,6 +41567,54 @@
       "download_text": "OneFile",
       "key_description": "All DLC ⇛"
     },
+    "https://1fichier.com/?f0npe113okctdzu6jc2e&af=4186346": {
+      "region": "EUR",
+      "size": "16GB",
+      "version": "1.00",
+      "release": "May 11, 2023",
+      "min_fw": "11.00",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/07/Space-Engineers-PS4-PKG.webp",
+      "name": "Space Engineers",
+      "type": "game",
+      "download_text": "OneFile",
+      "key_description": "Game (11.00) ⇛"
+    },
+    "https://1fichier.com/?thiise73k98ybg9d2udw&af=4186346": {
+      "region": "EUR",
+      "size": "16GB",
+      "version": "1.00",
+      "release": "May 11, 2023",
+      "min_fw": "11.00",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/07/Space-Engineers-PS4-PKG.webp",
+      "name": "Space Engineers",
+      "type": "update",
+      "download_text": "OneFile",
+      "key_description": "Update v1.32 (11.00) ⇛"
+    },
+    "https://1fichier.com/?lgeo9kq2sf3xvgijk2rn&af=4186346": {
+      "region": "EUR",
+      "size": "16GB",
+      "version": "1.00",
+      "release": "May 11, 2023",
+      "min_fw": "Fix 5.05/6.72/7.xx/9.00",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/07/Space-Engineers-PS4-PKG.webp",
+      "name": "Space Engineers",
+      "type": "update",
+      "download_text": "OneFile",
+      "key_description": "Update v1.32 (Fix 5.05/6.72/7.xx/9.00) ⇛"
+    },
+    "https://1fichier.com/?dmq1x6jctf0pgxd8pacv&af=4186346": {
+      "region": "EUR",
+      "size": "16GB",
+      "version": "1.00",
+      "release": "May 11, 2023",
+      "min_fw": null,
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/07/Space-Engineers-PS4-PKG.webp",
+      "name": "Space Engineers",
+      "type": "dlc",
+      "download_text": "OneFile",
+      "key_description": "DLC ⇛"
+    },
     "https://1fichier.com/?k67tmn9ychotdz0n341m&af=4186346": {
       "region": "EUR",
       "size": "13GB",
@@ -43434,6 +43602,42 @@
       "download_text": "OneFile",
       "key_description": "Update v1.21 Fix (5.05/6.72/7.xx/8.xx) ⇛"
     },
+    "https://1fichier.com/?gfzxcjmckcus87i9btir&af=4186346": {
+      "region": "EUR",
+      "size": "213MB",
+      "version": "1.00",
+      "release": "Jul 5, 2024",
+      "min_fw": "11.00",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/07/Summer-Games-Beach-Volley-PS4.webp",
+      "name": "Summer Games Beach Volley",
+      "type": "game",
+      "download_text": "OneFile",
+      "key_description": "Game (11.00) ⇛"
+    },
+    "https://1fichier.com/?gtylmnp8nbmybxj074qx&af=4186346": {
+      "region": "EUR",
+      "size": "213MB",
+      "version": "1.00",
+      "release": "Jul 5, 2024",
+      "min_fw": "6.72/7.xx/9.00",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/07/Summer-Games-Beach-Volley-PS4.webp",
+      "name": "Summer Games Beach Volley",
+      "type": "game",
+      "download_text": "OneFile",
+      "key_description": "Fix (6.72/7.xx/9.00) ⇛"
+    },
+    "https://1fichier.com/?x3uemo3p1vnbmot6mtx5&af=4186346": {
+      "region": "EUR",
+      "size": "213MB",
+      "version": "1.00",
+      "release": "Jul 5, 2024",
+      "min_fw": null,
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/07/Summer-Games-Beach-Volley-PS4.webp",
+      "name": "Summer Games Beach Volley",
+      "type": "game",
+      "download_text": "OneFile",
+      "key_description": "Fix 5.05 ⇛"
+    },
     "https://1fichier.com/?1l3upf8xhimj3rjan3rd&af=4186346": {
       "region": "EUR",
       "size": "710.80 MB",
@@ -44285,6 +44489,30 @@
       "type": "update",
       "download_text": "OneFile",
       "key_description": "Game + Update 1.01 + Update 1.01 (Fix 5.05/6.72/7.02/7.55/9.00) ⇛"
+    },
+    "https://1fichier.com/?u0tesyykzgxl7jfl0h1a&af=4186346": {
+      "region": "EUR",
+      "size": "25GB",
+      "version": "1.00",
+      "release": "May 21, 2024",
+      "min_fw": null,
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/07/System.Shock-PS4-PKG.webp",
+      "name": "System Shock",
+      "type": "game",
+      "download_text": "OneFile",
+      "key_description": "Game ⇛"
+    },
+    "https://1fichier.com/?dau0g0dok1aw963gsn0x&af=4186346": {
+      "region": "EUR",
+      "size": "25GB",
+      "version": "1.00",
+      "release": "May 21, 2024",
+      "min_fw": "5.05/6.72/7.02/7.55/9.00/11.00",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/07/System.Shock-PS4-PKG.webp",
+      "name": "System Shock",
+      "type": "game",
+      "download_text": "OneFile",
+      "key_description": "Fix (5.05/6.72/7.02/7.55/9.00/11.00) ⇛"
     },
     "https://1fichier.com/?sy6j83mjw6qgcxkclpdm&af=4186346": {
       "region": "USA",

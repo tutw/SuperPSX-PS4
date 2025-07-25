@@ -144,6 +144,42 @@
       "download_text": "Viki",
       "key_description": "Fix (5.05/6.72/7.xx/9.00/11.00) ⇛"
     },
+    "https://vikingfile.com/f/mNtE1OAJgw": {
+      "region": "EUR",
+      "size": "1GB",
+      "version": "1.00",
+      "release": "July 8, 2022",
+      "min_fw": "9.00+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/07/Adventures-of-Chris-PS4-PKG.webp",
+      "name": "Adventures Of Chris",
+      "type": "game",
+      "download_text": "Viki",
+      "key_description": "Game (9.00+) ⇛"
+    },
+    "https://vikingfile.com/f/cNdUDi4CsA": {
+      "region": "EUR",
+      "size": "1GB",
+      "version": "1.00",
+      "release": "July 8, 2022",
+      "min_fw": "9.00+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/07/Adventures-of-Chris-PS4-PKG.webp",
+      "name": "Adventures Of Chris",
+      "type": "update",
+      "download_text": "Viki",
+      "key_description": "Update v1.01 (9.00+) ⇛"
+    },
+    "https://vikingfile.com/f/fXkBaIx97L": {
+      "region": "EUR",
+      "size": "1GB",
+      "version": "1.00",
+      "release": "July 8, 2022",
+      "min_fw": "Fix 5.05/6.72/7.xx",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/07/Adventures-of-Chris-PS4-PKG.webp",
+      "name": "Adventures Of Chris",
+      "type": "update",
+      "download_text": "Viki",
+      "key_description": "Update v1.01 (Fix 5.05/6.72/7.xx) ⇛"
+    },
     "https://vikingfile.com/f/M331Dc7m0P": {
       "region": "EUR",
       "size": "9.77 GB",
@@ -1430,6 +1466,42 @@
       "download_text": "Viki",
       "key_description": "DLC ⇛"
     },
+    "https://vikingfile.com/f/mDKiBI05D7": {
+      "region": "EUR",
+      "size": "4.5GB",
+      "version": "1.00",
+      "release": "July 14, 2015",
+      "min_fw": "9.00+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/07/Deception-IV-The-Nightmare-Princess-PS4-PKG.webp",
+      "name": "Deception IV The Nightmare Princess",
+      "type": "game",
+      "download_text": "Viki",
+      "key_description": "Game (9.00+) ⇛"
+    },
+    "https://vikingfile.com/f/ivUGTr9NU4": {
+      "region": "EUR",
+      "size": "4.5GB",
+      "version": "1.00",
+      "release": "July 14, 2015",
+      "min_fw": "Fix 5.05/6.72/7.02/7.55/9.00/11.00",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/07/Deception-IV-The-Nightmare-Princess-PS4-PKG.webp",
+      "name": "Deception IV The Nightmare Princess",
+      "type": "update",
+      "download_text": "Viki",
+      "key_description": "Update v1.01 (Fix 5.05/6.72/7.02/7.55/9.00/11.00) ⇛"
+    },
+    "https://vikingfile.com/f/0Rlt3wVsnN": {
+      "region": "EUR",
+      "size": "4.5GB",
+      "version": "1.00",
+      "release": "July 14, 2015",
+      "min_fw": null,
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/07/Deception-IV-The-Nightmare-Princess-PS4-PKG.webp",
+      "name": "Deception IV The Nightmare Princess",
+      "type": "dlc",
+      "download_text": "Viki",
+      "key_description": "DLCs ⇛"
+    },
     "https://vikingfile.com/f/IKWqt0kG9l": {
       "region": "EUR",
       "size": "2.52 GB",
@@ -1573,6 +1645,30 @@
       "type": "update",
       "download_text": "Viki",
       "key_description": "Update v1.03 (5.05+) ⇛"
+    },
+    "https://vikingfile.com/f/SXU2ewXbKF": {
+      "region": "EUR",
+      "size": "2GB",
+      "version": "1.02",
+      "release": "March 14, 2025",
+      "min_fw": "11.00",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/07/Disney-Pixar-Toy-Story-3-PS4-PKG.webp",
+      "name": "Disney Pixar Toy Story 3",
+      "type": "game",
+      "download_text": "Viki",
+      "key_description": "Game (v1.02) (11.00) ⇛"
+    },
+    "https://vikingfile.com/f/bK9bE1D2ft": {
+      "region": "EUR",
+      "size": "2GB",
+      "version": "1.00",
+      "release": "March 14, 2025",
+      "min_fw": "Fix 5.05/6.72/7.xx/9.00",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/07/Disney-Pixar-Toy-Story-3-PS4-PKG.webp",
+      "name": "Disney Pixar Toy Story 3",
+      "type": "update",
+      "download_text": "Viki",
+      "key_description": "Update v1.02 (Fix 5.05/6.72/7.xx/9.00) ⇛"
     },
     "https://vikingfile.com/f/az7vdS50QG": {
       "region": "EUR",
@@ -1837,6 +1933,42 @@
       "type": "dlc",
       "download_text": "Viki",
       "key_description": "DLC ⇛"
+    },
+    "https://vikingfile.com/f/gOmc7O1Rls": {
+      "region": "EUR",
+      "size": "8GB",
+      "version": "1.00",
+      "release": "March 13, 2025",
+      "min_fw": "12.00",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/07/Dungeons-of-The-Hinterberg-PS4-PKG.webp",
+      "name": "Dungeons Of The Hinterberg",
+      "type": "game",
+      "download_text": "Viki",
+      "key_description": "Game (12.00) ⇛"
+    },
+    "https://vikingfile.com/f/ftNwbXeMqe": {
+      "region": "EUR",
+      "size": "8GB",
+      "version": "1.00",
+      "release": "March 13, 2025",
+      "min_fw": "Fix 6.72/7.xx/9.00/11.00",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/07/Dungeons-of-The-Hinterberg-PS4-PKG.webp",
+      "name": "Dungeons Of The Hinterberg",
+      "type": "update",
+      "download_text": "Viki",
+      "key_description": "Update v1.02 (Fix 6.72/7.xx/9.00/11.00) ⇛"
+    },
+    "https://vikingfile.com/f/dQiV5JeFco": {
+      "region": "EUR",
+      "size": "8GB",
+      "version": "1.00",
+      "release": "March 13, 2025",
+      "min_fw": "Fix 5.05",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/07/Dungeons-of-The-Hinterberg-PS4-PKG.webp",
+      "name": "Dungeons Of The Hinterberg",
+      "type": "update",
+      "download_text": "Viki",
+      "key_description": "Update v1.02 (Fix 5.05) ⇛"
     },
     "https://vikingfile.com/f/mXH21Rqlcw": {
       "region": "EUR",
@@ -3544,6 +3676,30 @@
       "download_text": "Viki",
       "key_description": "Update v1.01 (5.05+) ⇛"
     },
+    "https://vikingfile.com/f/Y4UGJ9SLKj": {
+      "region": "EUR",
+      "size": "11.73 GB",
+      "version": "1.00",
+      "release": "December 10, 2024",
+      "min_fw": null,
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/07/Legacy-of-Kain-Soul-Reaver-1-2-Remastered-PS4-PKG.webp",
+      "name": "Legacy Of Kain Soul Reaver 1 2 Remastered",
+      "type": "game",
+      "download_text": "Viki",
+      "key_description": "Game ⇛"
+    },
+    "https://vikingfile.com/f/a8f4NMbQPG": {
+      "region": "EUR",
+      "size": "11.73 GB",
+      "version": "1.00",
+      "release": "December 10, 2024",
+      "min_fw": "Fix 5.05/6.72/7.02/7.55/9.00/11.00",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/07/Legacy-of-Kain-Soul-Reaver-1-2-Remastered-PS4-PKG.webp",
+      "name": "Legacy Of Kain Soul Reaver 1 2 Remastered",
+      "type": "update",
+      "download_text": "Viki",
+      "key_description": "Update v1.03 (Fix 5.05/6.72/7.02/7.55/9.00/11.00) ⇛"
+    },
     "https://vikingfile.com/f/hoLm2iGznK": {
       "region": "EUR",
       "size": "1.83GB",
@@ -3856,6 +4012,30 @@
       "download_text": "Viki",
       "key_description": "Additional Content DLC ⇛"
     },
+    "https://vikingfile.com/f/upGECRxBHZ": {
+      "region": "EUR",
+      "size": "10.5GB",
+      "version": "1.00",
+      "release": "May 15, 2018",
+      "min_fw": null,
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/07/Little-Witch-Academia-Chamber-of-Time-PS4-PKG.webp",
+      "name": "Little Witch Academia Chamber Of Time",
+      "type": "game",
+      "download_text": "Viki",
+      "key_description": "Game ⇛"
+    },
+    "https://vikingfile.com/f/bcCMFCYnkL": {
+      "region": "EUR",
+      "size": "10.5GB",
+      "version": "1.00",
+      "release": "May 15, 2018",
+      "min_fw": "Fix 5.05/6.72/7.02/7.55/9.00/11.00",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/07/Little-Witch-Academia-Chamber-of-Time-PS4-PKG.webp",
+      "name": "Little Witch Academia Chamber Of Time",
+      "type": "update",
+      "download_text": "Viki",
+      "key_description": "Update v1.02 (Fix 5.05/6.72/7.02/7.55/9.00/11.00) ⇛"
+    },
     "https://vikingfile.com/f/MPc36cbS9u": {
       "region": "EUR",
       "size": "5.4GB",
@@ -3963,6 +4143,30 @@
       "type": "update",
       "download_text": "Viki",
       "key_description": "Update v1.03 (Fix 9.00+) ⇛"
+    },
+    "https://vikingfile.com/f/6fDuDx5vNp": {
+      "region": "EUR",
+      "size": "1.29 GB",
+      "version": "1.02",
+      "release": "January 21, 2025",
+      "min_fw": null,
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/07/MediEvil-II-PS4-PKG.webp",
+      "name": "Medievil II",
+      "type": "game",
+      "download_text": "Viki",
+      "key_description": "Game (v1.02) (11.50) ⇛"
+    },
+    "https://vikingfile.com/f/OzAVqAdXdE": {
+      "region": "EUR",
+      "size": "1.29 GB",
+      "version": "1.00",
+      "release": "January 21, 2025",
+      "min_fw": "Fix 5.05/6.72/7.xx/9.00/11.00",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/07/MediEvil-II-PS4-PKG.webp",
+      "name": "Medievil II",
+      "type": "update",
+      "download_text": "Viki",
+      "key_description": "Update v1.02 (Fix 5.05/6.72/7.xx/9.00/11.00) ⇛"
     },
     "https://vikingfile.com/f/edayaG7xtt": {
       "region": "USA",
@@ -5541,6 +5745,30 @@
       "download_text": "Viki",
       "key_description": "DLC (19) ⇛"
     },
+    "https://vikingfile.com/f/ptJMXi9wmd": {
+      "region": "EUR",
+      "size": "6.8 GB",
+      "version": "1.00",
+      "release": "January 31, 2023",
+      "min_fw": null,
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/07/Season-A-letter-To-The-Future-PS4-PKG.webp",
+      "name": "Season A Letter To The Future",
+      "type": "game",
+      "download_text": "Viki",
+      "key_description": "Game ⇛"
+    },
+    "https://vikingfile.com/f/HYvw78iLHM": {
+      "region": "EUR",
+      "size": "6.8 GB",
+      "version": "1.00",
+      "release": "January 31, 2023",
+      "min_fw": "Fix 5.05/6.72/7.02/7.55/9.00/11.00",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/07/Season-A-letter-To-The-Future-PS4-PKG.webp",
+      "name": "Season A Letter To The Future",
+      "type": "update",
+      "download_text": "Viki",
+      "key_description": "Update v1.03 (Fix 5.05/6.72/7.02/7.55/9.00/11.00) ⇛"
+    },
     "https://vikingfile.com/f/3NiEA25Pi5": {
       "region": "EUR",
       "size": "20GB",
@@ -6807,6 +7035,30 @@
       "download_text": "Viki",
       "key_description": "Game v1.01 (5.05+) ⇛"
     },
+    "https://vikingfile.com/f/wW0jYoNtyv": {
+      "region": "EUR",
+      "size": "2.5GB",
+      "version": "1.00",
+      "release": "December 5, 2024",
+      "min_fw": null,
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/07/The-Thing-Remastered-PS4-PKG.webp",
+      "name": "The Thing Remastered",
+      "type": "game",
+      "download_text": "Viki",
+      "key_description": "Game ⇛"
+    },
+    "https://vikingfile.com/f/H3TI9gZo4V": {
+      "region": "EUR",
+      "size": "2.5GB",
+      "version": "1.00",
+      "release": "December 5, 2024",
+      "min_fw": "Fix 5.05/6.72/7.02/7.55/9.00/11.00",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/07/The-Thing-Remastered-PS4-PKG.webp",
+      "name": "The Thing Remastered",
+      "type": "update",
+      "download_text": "Viki",
+      "key_description": "Update v1.03 (Fix 5.05/6.72/7.02/7.55/9.00/11.00) ⇛"
+    },
     "https://vikingfile.com/f/cFogeDnlWH": {
       "region": "EUR",
       "size": "16GB",
@@ -7379,6 +7631,32 @@
       "type": "update",
       "download_text": "Viki",
       "key_description": "Update v1.01 (Fix 5.05) ⇛"
+    },
+    "https://vikingfile.com/f/dkPiYpKLeQ": {
+      "region": "USA",
+      "size": "32GB",
+      "version": "1.00",
+      "release": "September 25, 2018",
+      "min_fw": "5.05+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/07/Valkyria-Chronicles-4-PS4-PKG.webp",
+      "cusa": "CUSA10776",
+      "name": "Valkyria Chronicles 4",
+      "type": "game",
+      "download_text": "Viki",
+      "key_description": "Game (5.05+) ⇛"
+    },
+    "https://vikingfile.com/f/ZqFJNMApxc": {
+      "region": "USA",
+      "size": "32GB",
+      "version": "1.00",
+      "release": "September 25, 2018",
+      "min_fw": null,
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/07/Valkyria-Chronicles-4-PS4-PKG.webp",
+      "cusa": "CUSA10776",
+      "name": "Valkyria Chronicles 4",
+      "type": "dlc",
+      "download_text": "Viki",
+      "key_description": "DLC (11) ⇛"
     },
     "https://vikingfile.com/f/j5o0mBliF0": {
       "region": "EUR",

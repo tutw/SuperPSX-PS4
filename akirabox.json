@@ -511,6 +511,42 @@
       "download_text": "AKR",
       "key_description": "Game (5.05+) ⇛"
     },
+    "https://akirabox.com/APVmagOjjzXo/file": {
+      "region": "EUR",
+      "size": "1GB",
+      "version": "1.00",
+      "release": "July 8, 2022",
+      "min_fw": "9.00+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/07/Adventures-of-Chris-PS4-PKG.webp",
+      "name": "Adventures Of Chris",
+      "type": "game",
+      "download_text": "AKR",
+      "key_description": "Game (9.00+) ⇛"
+    },
+    "https://akirabox.com/jJD3VRg4E3a5/file": {
+      "region": "EUR",
+      "size": "1GB",
+      "version": "1.00",
+      "release": "July 8, 2022",
+      "min_fw": "9.00+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/07/Adventures-of-Chris-PS4-PKG.webp",
+      "name": "Adventures Of Chris",
+      "type": "update",
+      "download_text": "AKR",
+      "key_description": "Update v1.01 (9.00+) ⇛"
+    },
+    "https://akirabox.com/0JgG7qZJN3oY/file": {
+      "region": "EUR",
+      "size": "1GB",
+      "version": "1.00",
+      "release": "July 8, 2022",
+      "min_fw": "Fix 5.05/6.72/7.xx",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/07/Adventures-of-Chris-PS4-PKG.webp",
+      "name": "Adventures Of Chris",
+      "type": "update",
+      "download_text": "AKR",
+      "key_description": "Update v1.01 (Fix 5.05/6.72/7.xx) ⇛"
+    },
     "https://akirabox.com/2bJG88rrGOBE/file": {
       "region": "EUR",
       "size": "9.77 GB",
@@ -7441,6 +7477,42 @@
       "download_text": "AKR",
       "key_description": "Update v1.09 (5.05+) ⇛"
     },
+    "https://akirabox.com/0KezkkdNezD1/file": {
+      "region": "EUR",
+      "size": "4.5GB",
+      "version": "1.00",
+      "release": "July 14, 2015",
+      "min_fw": "9.00+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/07/Deception-IV-The-Nightmare-Princess-PS4-PKG.webp",
+      "name": "Deception IV The Nightmare Princess",
+      "type": "game",
+      "download_text": "AKR",
+      "key_description": "Game (9.00+) ⇛"
+    },
+    "https://akirabox.com/k0embvDlAmVb/file": {
+      "region": "EUR",
+      "size": "4.5GB",
+      "version": "1.00",
+      "release": "July 14, 2015",
+      "min_fw": "Fix 5.05/6.72/7.02/7.55/9.00/11.00",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/07/Deception-IV-The-Nightmare-Princess-PS4-PKG.webp",
+      "name": "Deception IV The Nightmare Princess",
+      "type": "update",
+      "download_text": "AKR",
+      "key_description": "Update v1.01 (Fix 5.05/6.72/7.02/7.55/9.00/11.00) ⇛"
+    },
+    "https://akirabox.com/Pbe3PJOrKGlX/file": {
+      "region": "EUR",
+      "size": "4.5GB",
+      "version": "1.00",
+      "release": "July 14, 2015",
+      "min_fw": null,
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/07/Deception-IV-The-Nightmare-Princess-PS4-PKG.webp",
+      "name": "Deception IV The Nightmare Princess",
+      "type": "dlc",
+      "download_text": "AKR",
+      "key_description": "DLCs ⇛"
+    },
     "https://akirabox.com/qw1ze2QQGXyn/file": {
       "region": "EUR",
       "size": "2.52 GB",
@@ -8411,6 +8483,30 @@
       "type": "dlc",
       "download_text": "AKR",
       "key_description": "DLC ⇛"
+    },
+    "https://akirabox.com/vgKGxOWqnz8Q/folder": {
+      "region": "EUR",
+      "size": "2GB",
+      "version": "1.02",
+      "release": "March 14, 2025",
+      "min_fw": "11.00",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/07/Disney-Pixar-Toy-Story-3-PS4-PKG.webp",
+      "name": "Disney Pixar Toy Story 3",
+      "type": "game",
+      "download_text": "AKR",
+      "key_description": "Game (v1.02) (11.00) ⇛"
+    },
+    "https://akirabox.com/Z9dzBkEAqGk1/file": {
+      "region": "EUR",
+      "size": "2GB",
+      "version": "1.00",
+      "release": "March 14, 2025",
+      "min_fw": "Fix 5.05/6.72/7.xx/9.00",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/07/Disney-Pixar-Toy-Story-3-PS4-PKG.webp",
+      "name": "Disney Pixar Toy Story 3",
+      "type": "update",
+      "download_text": "AKR",
+      "key_description": "Update v1.02 (Fix 5.05/6.72/7.xx/9.00) ⇛"
     },
     "https://akirabox.com/N2p3DPKk3Ma5/file": {
       "region": "EUR",
@@ -9446,6 +9542,42 @@
       "type": "update",
       "download_text": "AKR",
       "key_description": "Update v1.09 (Fix 5.05/6.72/7.x) ⇛"
+    },
+    "https://akirabox.com/2WVGrqZRAzkx/file": {
+      "region": "EUR",
+      "size": "8GB",
+      "version": "1.00",
+      "release": "March 13, 2025",
+      "min_fw": "12.00",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/07/Dungeons-of-The-Hinterberg-PS4-PKG.webp",
+      "name": "Dungeons Of The Hinterberg",
+      "type": "game",
+      "download_text": "AKR",
+      "key_description": "Game (12.00) ⇛"
+    },
+    "https://akirabox.com/l5YzMKbjemyO/file": {
+      "region": "EUR",
+      "size": "8GB",
+      "version": "1.00",
+      "release": "March 13, 2025",
+      "min_fw": "Fix 6.72/7.xx/9.00/11.00",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/07/Dungeons-of-The-Hinterberg-PS4-PKG.webp",
+      "name": "Dungeons Of The Hinterberg",
+      "type": "update",
+      "download_text": "AKR",
+      "key_description": "Update v1.02 (Fix 6.72/7.xx/9.00/11.00) ⇛"
+    },
+    "https://akirabox.com/vgKGxOWMrz8Q/file": {
+      "region": "EUR",
+      "size": "8GB",
+      "version": "1.00",
+      "release": "March 13, 2025",
+      "min_fw": "Fix 5.05",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/07/Dungeons-of-The-Hinterberg-PS4-PKG.webp",
+      "name": "Dungeons Of The Hinterberg",
+      "type": "update",
+      "download_text": "AKR",
+      "key_description": "Update v1.02 (Fix 5.05) ⇛"
     },
     "https://akirabox.com/QN9mE747z6dW/file": {
       "region": "USA",
@@ -16618,6 +16750,30 @@
       "download_text": "AKR",
       "key_description": "Update v1.03 (Fix.5.05) ⇛"
     },
+    "https://akirabox.com/LK0G1vMA9m91/file": {
+      "region": "EUR",
+      "size": "11.73 GB",
+      "version": "1.00",
+      "release": "December 10, 2024",
+      "min_fw": null,
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/07/Legacy-of-Kain-Soul-Reaver-1-2-Remastered-PS4-PKG.webp",
+      "name": "Legacy Of Kain Soul Reaver 1 2 Remastered",
+      "type": "game",
+      "download_text": "AKR",
+      "key_description": "Game ⇛"
+    },
+    "https://akirabox.com/E9Qz9WyYVmOL/file": {
+      "region": "EUR",
+      "size": "11.73 GB",
+      "version": "1.00",
+      "release": "December 10, 2024",
+      "min_fw": "Fix 5.05/6.72/7.02/7.55/9.00/11.00",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/07/Legacy-of-Kain-Soul-Reaver-1-2-Remastered-PS4-PKG.webp",
+      "name": "Legacy Of Kain Soul Reaver 1 2 Remastered",
+      "type": "update",
+      "download_text": "AKR",
+      "key_description": "Update v1.03 (Fix 5.05/6.72/7.02/7.55/9.00/11.00) ⇛"
+    },
     "https://akirabox.com/0JgG7eo83oYW/file": {
       "region": "USA",
       "size": "8GB",
@@ -17790,6 +17946,30 @@
       "type": "game",
       "download_text": "AKR",
       "key_description": "Fix (5.05/6.72) ⇛"
+    },
+    "https://akirabox.com/E9Qz9WyL0mOL/file": {
+      "region": "EUR",
+      "size": "10.5GB",
+      "version": "1.00",
+      "release": "May 15, 2018",
+      "min_fw": null,
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/07/Little-Witch-Academia-Chamber-of-Time-PS4-PKG.webp",
+      "name": "Little Witch Academia Chamber Of Time",
+      "type": "game",
+      "download_text": "AKR",
+      "key_description": "Game ⇛"
+    },
+    "https://akirabox.com/Y2xm0ja4qzRO/file": {
+      "region": "EUR",
+      "size": "10.5GB",
+      "version": "1.00",
+      "release": "May 15, 2018",
+      "min_fw": "Fix 5.05/6.72/7.02/7.55/9.00/11.00",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/07/Little-Witch-Academia-Chamber-of-Time-PS4-PKG.webp",
+      "name": "Little Witch Academia Chamber Of Time",
+      "type": "update",
+      "download_text": "AKR",
+      "key_description": "Update v1.02 (Fix 5.05/6.72/7.02/7.55/9.00/11.00) ⇛"
     },
     "https://akirabox.com/E1x3Ad5Lvmyk/file": {
       "region": "EUR",
@@ -19075,6 +19255,30 @@
       "type": "update",
       "download_text": "AKR",
       "key_description": "Update v1.04 (Fix 5.05/6.72/7.xx/8.xx) ⇛"
+    },
+    "https://akirabox.com/N2p3DkrvxmMa/file": {
+      "region": "EUR",
+      "size": "1.29 GB",
+      "version": "1.02",
+      "release": "January 21, 2025",
+      "min_fw": null,
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/07/MediEvil-II-PS4-PKG.webp",
+      "name": "Medievil II",
+      "type": "game",
+      "download_text": "AKR",
+      "key_description": "Game (v1.02) (11.50) ⇛"
+    },
+    "https://akirabox.com/gXeGOg6PPGAa/file": {
+      "region": "EUR",
+      "size": "1.29 GB",
+      "version": "1.00",
+      "release": "January 21, 2025",
+      "min_fw": "Fix 5.05/6.72/7.xx/9.00/11.00",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/07/MediEvil-II-PS4-PKG.webp",
+      "name": "Medievil II",
+      "type": "update",
+      "download_text": "AKR",
+      "key_description": "Update v1.02 (Fix 5.05/6.72/7.xx/9.00/11.00) ⇛"
     },
     "https://akirabox.com/Y2xm0Z7ozRO1/file": {
       "region": "EUR",
@@ -25539,6 +25743,30 @@
       "type": "update",
       "download_text": "AKR",
       "key_description": "Update v1.11 (Fix 5.05/6.72/7.xx/8.xx) ⇛"
+    },
+    "https://akirabox.com/qPez4rlgxmOY/file": {
+      "region": "EUR",
+      "size": "6.8 GB",
+      "version": "1.00",
+      "release": "January 31, 2023",
+      "min_fw": null,
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/07/Season-A-letter-To-The-Future-PS4-PKG.webp",
+      "name": "Season A Letter To The Future",
+      "type": "game",
+      "download_text": "AKR",
+      "key_description": "Game ⇛"
+    },
+    "https://akirabox.com/Xkrzorb9R3BO/file": {
+      "region": "EUR",
+      "size": "6.8 GB",
+      "version": "1.00",
+      "release": "January 31, 2023",
+      "min_fw": "Fix 5.05/6.72/7.02/7.55/9.00/11.00",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/07/Season-A-letter-To-The-Future-PS4-PKG.webp",
+      "name": "Season A Letter To The Future",
+      "type": "update",
+      "download_text": "AKR",
+      "key_description": "Update v1.03 (Fix 5.05/6.72/7.02/7.55/9.00/11.00) ⇛"
     },
     "https://akirabox.com/wgWGqJVQ6m4o/file": {
       "region": "EUR",
@@ -32856,6 +33084,30 @@
       "download_text": "AKR",
       "key_description": "Fix (5.05/6.72) ⇛"
     },
+    "https://akirabox.com/9QWmpYkPg3EB/file": {
+      "region": "EUR",
+      "size": "2.5GB",
+      "version": "1.00",
+      "release": "December 5, 2024",
+      "min_fw": null,
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/07/The-Thing-Remastered-PS4-PKG.webp",
+      "name": "The Thing Remastered",
+      "type": "game",
+      "download_text": "AKR",
+      "key_description": "Game ⇛"
+    },
+    "https://akirabox.com/1RgzRjve9zbp/file": {
+      "region": "EUR",
+      "size": "2.5GB",
+      "version": "1.00",
+      "release": "December 5, 2024",
+      "min_fw": "Fix 5.05/6.72/7.02/7.55/9.00/11.00",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/07/The-Thing-Remastered-PS4-PKG.webp",
+      "name": "The Thing Remastered",
+      "type": "update",
+      "download_text": "AKR",
+      "key_description": "Update v1.03 (Fix 5.05/6.72/7.02/7.55/9.00/11.00) ⇛"
+    },
     "https://akirabox.com/qLQ36P2KG19j/file": {
       "region": "USA",
       "size": "10GB",
@@ -35560,6 +35812,32 @@
       "type": "update",
       "download_text": "AKR",
       "key_description": "Update v1.01 (Fix 5.05) ⇛"
+    },
+    "https://akirabox.com/1RgzRjvR9zbp/file": {
+      "region": "USA",
+      "size": "32GB",
+      "version": "1.00",
+      "release": "September 25, 2018",
+      "min_fw": "5.05+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/07/Valkyria-Chronicles-4-PS4-PKG.webp",
+      "cusa": "CUSA10776",
+      "name": "Valkyria Chronicles 4",
+      "type": "game",
+      "download_text": "AKR",
+      "key_description": "Game (5.05+) ⇛"
+    },
+    "https://akirabox.com/2WVGrqZRgzkx/file": {
+      "region": "USA",
+      "size": "32GB",
+      "version": "1.00",
+      "release": "September 25, 2018",
+      "min_fw": null,
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/07/Valkyria-Chronicles-4-PS4-PKG.webp",
+      "cusa": "CUSA10776",
+      "name": "Valkyria Chronicles 4",
+      "type": "dlc",
+      "download_text": "AKR",
+      "key_description": "DLC (11) ⇛"
     },
     "https://akirabox.com/b5OzdJ2xamB8/file": {
       "region": "EUR",

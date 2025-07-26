@@ -9789,6 +9789,42 @@
       "download_text": "AKR",
       "key_description": "Game + Update v1.13 ⇛"
     },
+    "https://akirabox.com/APVmag5eVzXo/file": {
+      "region": "EUR",
+      "size": "14.50 GB",
+      "version": "1.00",
+      "release": "April 11, 2019",
+      "min_fw": "6.72+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/EARTH-DEFENSE-FORCE_IRON-RAIN-PS4-PKG.webp",
+      "name": "Earth Defense Force Iron Rain",
+      "type": "game",
+      "download_text": "AKR",
+      "key_description": "Game (6.72+) ⇛"
+    },
+    "https://akirabox.com/5pVzNa7lb37w/file": {
+      "region": "EUR",
+      "size": "14.50 GB",
+      "version": "1.00",
+      "release": "April 11, 2019",
+      "min_fw": "6.72+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/EARTH-DEFENSE-FORCE_IRON-RAIN-PS4-PKG.webp",
+      "name": "Earth Defense Force Iron Rain",
+      "type": "update",
+      "download_text": "AKR",
+      "key_description": "Update v1.07 (6.72+) ⇛"
+    },
+    "https://akirabox.com/7d5GLr7053xR/file": {
+      "region": "EUR",
+      "size": "14.50 GB",
+      "version": "1.00",
+      "release": "April 11, 2019",
+      "min_fw": "Fix 5.05",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/EARTH-DEFENSE-FORCE_IRON-RAIN-PS4-PKG.webp",
+      "name": "Earth Defense Force Iron Rain",
+      "type": "update",
+      "download_text": "AKR",
+      "key_description": "Update v1.07 (Fix 5.05) ⇛"
+    },
     "https://akirabox.com/gXeGOg7nkGAa/file": {
       "region": "EUR",
       "size": "14.50 GB",

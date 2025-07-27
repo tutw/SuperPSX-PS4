@@ -2763,6 +2763,30 @@
       "download_text": "OneFile",
       "key_description": "Update v1.04 (Fix 5.05/6.72/7.xx/8.xx/9.00) ⇛"
     },
+    "https://1fichier.com/?syu7anoc4i0ryb8nqi3y&af=4186346": {
+      "region": "EUR",
+      "size": "10GB",
+      "version": "1.00",
+      "release": "January 14, 2020",
+      "min_fw": "6.50",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/07/Atelier-Ayesha-The-Alchemist-of-Dusk-DX-PS4-PKG.webp",
+      "name": "Atelier Ayesha The Alchemist Of Dusk DX",
+      "type": "game",
+      "download_text": "OneFile",
+      "key_description": "Game (6.50+) ⇛"
+    },
+    "https://1fichier.com/?kp3z81d02vo85kdkemde&af=4186346": {
+      "region": "EUR",
+      "size": "10GB",
+      "version": "1.00",
+      "release": "January 14, 2020",
+      "min_fw": "6.50",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/07/Atelier-Ayesha-The-Alchemist-of-Dusk-DX-PS4-PKG.webp",
+      "name": "Atelier Ayesha The Alchemist Of Dusk DX",
+      "type": "game",
+      "download_text": "OneFile",
+      "key_description": "Fix 5.05 (@Pout) ⇛"
+    },
     "https://1fichier.com/?vpjbrotlo00o6yhfwrhg&af=4186346": {
       "region": "EUR",
       "size": "10GB",
@@ -9305,12 +9329,12 @@
       "size": "3.1GB",
       "version": "1.00",
       "release": "February 27, 2025",
-      "min_fw": "9.00+",
+      "min_fw": null,
       "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/07/Crowns-and-Pawns-Kingdom-of-Deceit-PS4-PKG.webp",
       "name": "Crowns And Pawns Kingdom Of Deceit",
       "type": "game",
       "download_text": "OneFile",
-      "key_description": "Game (9.00+) ⇛"
+      "key_description": "Game ⇛"
     },
     "https://1fichier.com/?2rjbwwcqamyhhcpidyyd&af=4186346": {
       "region": "EUR",

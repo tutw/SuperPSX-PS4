@@ -411,6 +411,30 @@
       "download_text": "Viki",
       "key_description": "DLC V2 ⇛"
     },
+    "https://vikingfile.com/f/smOBtkfeDA": {
+      "region": "EUR",
+      "size": "10GB",
+      "version": "1.00",
+      "release": "January 14, 2020",
+      "min_fw": "6.50+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/07/Atelier-Escha-Logy-Alchemists-of-the-Dusk-Sky-DX-PS4-PKG.webp",
+      "name": "Atelier Escha Logy Alchemists Of The Dusk Sky DX",
+      "type": "game",
+      "download_text": "Viki",
+      "key_description": "Game (6.50+) ⇛"
+    },
+    "https://vikingfile.com/f/G237h7X89b": {
+      "region": "EUR",
+      "size": "10GB",
+      "version": "1.00",
+      "release": "January 14, 2020",
+      "min_fw": "6.50+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/07/Atelier-Escha-Logy-Alchemists-of-the-Dusk-Sky-DX-PS4-PKG.webp",
+      "name": "Atelier Escha Logy Alchemists Of The Dusk Sky DX",
+      "type": "game",
+      "download_text": "Viki",
+      "key_description": "Fix 5.05 ⇛"
+    },
     "https://vikingfile.com/f/w7i0XtFGiv": {
       "region": "EUR",
       "size": "15GB",
@@ -446,6 +470,30 @@
       "type": "dlc",
       "download_text": "Viki",
       "key_description": "DLCs ⇛"
+    },
+    "https://vikingfile.com/f/69a6JjOTF3": {
+      "region": "EUR",
+      "size": "9GB",
+      "version": "1.00",
+      "release": "January 14, 2020",
+      "min_fw": "6.50+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/07/Atelier-Shallie-Alchemists-of-the-Dusk-Sea-DX-PS4-PKG.webp",
+      "name": "Atelier Shallie Alchemists Of The Dusk Sea DX",
+      "type": "game",
+      "download_text": "Viki",
+      "key_description": "Game (6.50+) ⇛"
+    },
+    "https://vikingfile.com/f/vEnvmO0hdB": {
+      "region": "EUR",
+      "size": "9GB",
+      "version": "1.00",
+      "release": "January 14, 2020",
+      "min_fw": "6.50+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/07/Atelier-Shallie-Alchemists-of-the-Dusk-Sea-DX-PS4-PKG.webp",
+      "name": "Atelier Shallie Alchemists Of The Dusk Sea DX",
+      "type": "game",
+      "download_text": "Viki",
+      "key_description": "Fix 5.05 ⇛"
     },
     "https://vikingfile.com/f/9wwGybN3yi": {
       "region": "EUR",
@@ -1269,6 +1317,42 @@
       "type": "dlc",
       "download_text": "Viki",
       "key_description": "DLC ⇛"
+    },
+    "https://vikingfile.com/f/AwlP1vHPUY": {
+      "region": "EUR",
+      "size": "3.1GB",
+      "version": "1.00",
+      "release": "February 27, 2025",
+      "min_fw": "9.00+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/07/Crowns-and-Pawns-Kingdom-of-Deceit-PS4-PKG.webp",
+      "name": "Crowns And Pawns Kingdom Of Deceit",
+      "type": "game",
+      "download_text": "Viki",
+      "key_description": "Game (9.00+) ⇛"
+    },
+    "https://vikingfile.com/f/AG1Q8AFyhB": {
+      "region": "EUR",
+      "size": "3.1GB",
+      "version": "1.00",
+      "release": "February 27, 2025",
+      "min_fw": null,
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/07/Crowns-and-Pawns-Kingdom-of-Deceit-PS4-PKG.webp",
+      "name": "Crowns And Pawns Kingdom Of Deceit",
+      "type": "game",
+      "download_text": "Viki",
+      "key_description": "Fix 5.05 ⇛"
+    },
+    "https://vikingfile.com/f/pb4nzSuZOy": {
+      "region": "EUR",
+      "size": "3.1GB",
+      "version": "1.00",
+      "release": "February 27, 2025",
+      "min_fw": null,
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/07/Crowns-and-Pawns-Kingdom-of-Deceit-PS4-PKG.webp",
+      "name": "Crowns And Pawns Kingdom Of Deceit",
+      "type": "game",
+      "download_text": "Viki",
+      "key_description": "Fix 6.72+ ⇛"
     },
     "https://vikingfile.com/f/xzx8pTuGoZ": {
       "region": "EUR",
@@ -6566,6 +6650,42 @@
       "type": "game",
       "download_text": "Viki",
       "key_description": "Fix (5.05/6.72/7.02/7.55/9.00/11.00) ⇛"
+    },
+    "https://vikingfile.com/f/zfjQ2GzplU": {
+      "region": "EUR",
+      "size": "2.8GB",
+      "version": "1.00",
+      "release": "June 15, 2021",
+      "min_fw": "9.00+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/07/Tails-Noir-PS4-PKG.webp",
+      "name": "Tails Noir",
+      "type": "game",
+      "download_text": "Viki",
+      "key_description": "Game (9.00+) ⇛"
+    },
+    "https://vikingfile.com/f/NAr908Gw9P": {
+      "region": "EUR",
+      "size": "2.8GB",
+      "version": "1.00",
+      "release": "June 15, 2021",
+      "min_fw": "9.00+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/07/Tails-Noir-PS4-PKG.webp",
+      "name": "Tails Noir",
+      "type": "update",
+      "download_text": "Viki",
+      "key_description": "Update v1.03 (9.00+) ⇛"
+    },
+    "https://vikingfile.com/f/SLURM4Z06Q": {
+      "region": "EUR",
+      "size": "2.8GB",
+      "version": "1.00",
+      "release": "June 15, 2021",
+      "min_fw": "Fix 5.05/6.72/7.xx",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/07/Tails-Noir-PS4-PKG.webp",
+      "name": "Tails Noir",
+      "type": "update",
+      "download_text": "Viki",
+      "key_description": "Update v1.03 (Fix 5.05/6.72/7.xx) ⇛"
     },
     "https://vikingfile.com/f/vajVNcEiC4": {
       "region": "EUR",

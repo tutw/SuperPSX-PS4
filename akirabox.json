@@ -1956,6 +1956,30 @@
       "download_text": "AKR",
       "key_description": "Update v1.04 (Fix 5.05/6.72/7.xx/8.xx/9.00) ⇛"
     },
+    "https://akirabox.com/7d5GLrO8a3xR/file": {
+      "region": "EUR",
+      "size": "10GB",
+      "version": "1.00",
+      "release": "January 14, 2020",
+      "min_fw": "6.50+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/07/Atelier-Escha-Logy-Alchemists-of-the-Dusk-Sky-DX-PS4-PKG.webp",
+      "name": "Atelier Escha Logy Alchemists Of The Dusk Sky DX",
+      "type": "game",
+      "download_text": "AKR",
+      "key_description": "Game (6.50+) ⇛"
+    },
+    "https://akirabox.com/Xkrzor8R93BO/file": {
+      "region": "EUR",
+      "size": "10GB",
+      "version": "1.00",
+      "release": "January 14, 2020",
+      "min_fw": "6.50+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/07/Atelier-Escha-Logy-Alchemists-of-the-Dusk-Sky-DX-PS4-PKG.webp",
+      "name": "Atelier Escha Logy Alchemists Of The Dusk Sky DX",
+      "type": "game",
+      "download_text": "AKR",
+      "key_description": "Fix 5.05 ⇛"
+    },
     "https://akirabox.com/dZxG5A8BGVjK/file": {
       "region": "EUR",
       "size": "11.64 GB",
@@ -2075,6 +2099,30 @@
       "type": "dlc",
       "download_text": "AKR",
       "key_description": "All DLC (27)  ⇛"
+    },
+    "https://akirabox.com/gXeGOgEX6GAa/file": {
+      "region": "EUR",
+      "size": "9GB",
+      "version": "1.00",
+      "release": "January 14, 2020",
+      "min_fw": "6.50+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/07/Atelier-Shallie-Alchemists-of-the-Dusk-Sea-DX-PS4-PKG.webp",
+      "name": "Atelier Shallie Alchemists Of The Dusk Sea DX",
+      "type": "game",
+      "download_text": "AKR",
+      "key_description": "Game (6.50+) ⇛"
+    },
+    "https://akirabox.com/ex5z249DamKq/file": {
+      "region": "EUR",
+      "size": "9GB",
+      "version": "1.00",
+      "release": "January 14, 2020",
+      "min_fw": "6.50+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/07/Atelier-Shallie-Alchemists-of-the-Dusk-Sea-DX-PS4-PKG.webp",
+      "name": "Atelier Shallie Alchemists Of The Dusk Sea DX",
+      "type": "game",
+      "download_text": "AKR",
+      "key_description": "Fix 5.05 ⇛"
     },
     "https://akirabox.com/0rpmvbJymRgZ/file": {
       "region": "EUR",
@@ -6104,6 +6152,42 @@
       "type": "game",
       "download_text": "AKR",
       "key_description": "Game (9.00+) ⇛"
+    },
+    "https://akirabox.com/E9Qz9WoN6mOL/file": {
+      "region": "EUR",
+      "size": "3.1GB",
+      "version": "1.00",
+      "release": "February 27, 2025",
+      "min_fw": "9.00+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/07/Crowns-and-Pawns-Kingdom-of-Deceit-PS4-PKG.webp",
+      "name": "Crowns And Pawns Kingdom Of Deceit",
+      "type": "game",
+      "download_text": "AKR",
+      "key_description": "Game (9.00+) ⇛"
+    },
+    "https://akirabox.com/Xkrzor8ak3BO/file": {
+      "region": "EUR",
+      "size": "3.1GB",
+      "version": "1.00",
+      "release": "February 27, 2025",
+      "min_fw": null,
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/07/Crowns-and-Pawns-Kingdom-of-Deceit-PS4-PKG.webp",
+      "name": "Crowns And Pawns Kingdom Of Deceit",
+      "type": "game",
+      "download_text": "AKR",
+      "key_description": "Fix 5.05 ⇛"
+    },
+    "https://akirabox.com/Y2xm0jyNozRO/file": {
+      "region": "EUR",
+      "size": "3.1GB",
+      "version": "1.00",
+      "release": "February 27, 2025",
+      "min_fw": null,
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/07/Crowns-and-Pawns-Kingdom-of-Deceit-PS4-PKG.webp",
+      "name": "Crowns And Pawns Kingdom Of Deceit",
+      "type": "game",
+      "download_text": "AKR",
+      "key_description": "Fix 6.72+ ⇛"
     },
     "https://akirabox.com/EL73gAEaG9Ba/file": {
       "region": "EUR",
@@ -30180,6 +30264,42 @@
       "type": "update",
       "download_text": "AKR",
       "key_description": "Update v1.19 With DLC (5.05+) ⇛"
+    },
+    "https://akirabox.com/EL73gb8QYm9B/file": {
+      "region": "EUR",
+      "size": "2.8GB",
+      "version": "1.00",
+      "release": "June 15, 2021",
+      "min_fw": "9.00+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/07/Tails-Noir-PS4-PKG.webp",
+      "name": "Tails Noir",
+      "type": "game",
+      "download_text": "AKR",
+      "key_description": "Game (9.00+) ⇛"
+    },
+    "https://akirabox.com/2WVGrqOgEzkx/file": {
+      "region": "EUR",
+      "size": "2.8GB",
+      "version": "1.00",
+      "release": "June 15, 2021",
+      "min_fw": "9.00+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/07/Tails-Noir-PS4-PKG.webp",
+      "name": "Tails Noir",
+      "type": "update",
+      "download_text": "AKR",
+      "key_description": "Update v1.03 (9.00+) ⇛"
+    },
+    "https://akirabox.com/M2BGw6rjMzj4/file": {
+      "region": "EUR",
+      "size": "2.8GB",
+      "version": "1.00",
+      "release": "June 15, 2021",
+      "min_fw": "Fix 5.05/6.72/7.xx",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/07/Tails-Noir-PS4-PKG.webp",
+      "name": "Tails Noir",
+      "type": "update",
+      "download_text": "AKR",
+      "key_description": "Update v1.03 (Fix 5.05/6.72/7.xx) ⇛"
     },
     "https://akirabox.com/qLQ36N4K319j/file": {
       "region": "EUR",

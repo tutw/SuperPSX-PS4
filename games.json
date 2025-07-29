@@ -7785,6 +7785,42 @@
       "download_text": "Viki",
       "key_description": "(Fix 5.05) ⇛"
     },
+    "https://vikingfile.com/f/gX2uDy5kHd": {
+      "region": "EUR",
+      "size": "5.30 GB",
+      "version": "2.03",
+      "release": "Sep 9, 2021",
+      "min_fw": "11.00",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/Ultra-Age-PS4-PKG.webp",
+      "name": "Ultra Age",
+      "type": "game",
+      "download_text": "Viki",
+      "key_description": "Game (v2.03) (11.00) ⇛"
+    },
+    "https://vikingfile.com/f/GaHBjbQFuN": {
+      "region": "EUR",
+      "size": "5.30 GB",
+      "version": "1.00",
+      "release": "Sep 9, 2021",
+      "min_fw": "Fix 5.05/6.72/7.02/7.55/9.00",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/Ultra-Age-PS4-PKG.webp",
+      "name": "Ultra Age",
+      "type": "update",
+      "download_text": "Viki",
+      "key_description": "Update v2.03 (Fix 5.05/6.72/7.02/7.55/9.00)"
+    },
+    "https://vikingfile.com/f/Y6GnbmJm2r": {
+      "region": "EUR",
+      "size": "5.30 GB",
+      "version": "1.00",
+      "release": "Sep 9, 2021",
+      "min_fw": "v2.03",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/Ultra-Age-PS4-PKG.webp",
+      "name": "Ultra Age",
+      "type": "dlc",
+      "download_text": "Viki",
+      "key_description": "DLC Rebirth Project ⇛"
+    },
     "https://vikingfile.com/f/lHqoZcEykV": {
       "region": "USA",
       "size": "45GB",

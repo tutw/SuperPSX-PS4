@@ -693,6 +693,18 @@
       "download_text": "AKR",
       "key_description": "Update v1.05 (Fix 5.05/6.72/7.xx) ⇛"
     },
+    "https://akirabox.com/E1x3AkrenGyk/file": {
+      "region": "EUR",
+      "size": "10GB",
+      "version": "1.02",
+      "release": "October 4, 2022",
+      "min_fw": "9.00+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/07/Alfred-Hitchcock-Vertigo-PS4-PKG.webp",
+      "name": "Alfred Hitchcock Vertigo",
+      "type": "game",
+      "download_text": "AKR",
+      "key_description": "Game (v1.02)(9.00+) ⇛"
+    },
     "https://akirabox.com/qLQ36DalG19j/file": {
       "region": "EUR",
       "size": "2.4GB",
@@ -5291,6 +5303,30 @@
       "download_text": "AKR",
       "key_description": "Game (8.50+) ⇛"
     },
+    "https://akirabox.com/LK0G1v80Nm91/file": {
+      "region": "EUR",
+      "size": "2GB",
+      "version": "1.00",
+      "release": "Oct 28, 2024",
+      "min_fw": null,
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/07/Clockwork-Tower-Rewind-PS4-PKG.webp",
+      "name": "Clockwork Tower Rewind",
+      "type": "game",
+      "download_text": "AKR",
+      "key_description": "Game ⇛"
+    },
+    "https://akirabox.com/E9Qz9Wl5JmOL/file": {
+      "region": "EUR",
+      "size": "2GB",
+      "version": "1.00",
+      "release": "Oct 28, 2024",
+      "min_fw": "5.05 / 6.72 / 7.02 / 7.55 / 9.00 / 11.00",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/07/Clockwork-Tower-Rewind-PS4-PKG.webp",
+      "name": "Clockwork Tower Rewind",
+      "type": "game",
+      "download_text": "AKR",
+      "key_description": "Fix (5.05 / 6.72 / 7.02 / 7.55 / 9.00 / 11.00) ⇛"
+    },
     "https://akirabox.com/E9Qz9kE0mOL2/file": {
       "region": "EUR",
       "size": "3.66 GB",
@@ -6212,6 +6248,54 @@
       "type": "game",
       "download_text": "AKR",
       "key_description": "Fix 6.72+ ⇛"
+    },
+    "https://akirabox.com/k0embv2P8mVb/file": {
+      "region": "EUR",
+      "size": "4GB",
+      "version": "1.00",
+      "release": "October 24, 2023",
+      "min_fw": "11.00",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/07/CRYMACHINA-PS4-PKG.webp",
+      "name": "Crymachina",
+      "type": "game",
+      "download_text": "AKR",
+      "key_description": "Game (11.00) ⇛"
+    },
+    "https://akirabox.com/l76mZR8qnman/file": {
+      "region": "EUR",
+      "size": "4GB",
+      "version": "1.00",
+      "release": "October 24, 2023",
+      "min_fw": "11.00",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/07/CRYMACHINA-PS4-PKG.webp",
+      "name": "Crymachina",
+      "type": "update",
+      "download_text": "AKR",
+      "key_description": "Update v1.08 (11.00) ⇛"
+    },
+    "https://akirabox.com/rk9zKrknZ30l/file": {
+      "region": "EUR",
+      "size": "4GB",
+      "version": "1.00",
+      "release": "October 24, 2023",
+      "min_fw": "Fix 5.05/6.72/7.xx/9.00",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/07/CRYMACHINA-PS4-PKG.webp",
+      "name": "Crymachina",
+      "type": "update",
+      "download_text": "AKR",
+      "key_description": "Update v1.08 (Fix 5.05/6.72/7.xx/9.00) ⇛"
+    },
+    "https://akirabox.com/XkrzorN0R3BO/file": {
+      "region": "EUR",
+      "size": "4GB",
+      "version": "1.00",
+      "release": "October 24, 2023",
+      "min_fw": null,
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/07/CRYMACHINA-PS4-PKG.webp",
+      "name": "Crymachina",
+      "type": "dlc",
+      "download_text": "AKR",
+      "key_description": "DLC (10) ⇛"
     },
     "https://akirabox.com/EL73gAEaG9Ba/file": {
       "region": "EUR",
@@ -31748,6 +31832,30 @@
       "download_text": "AKR",
       "key_description": "ALL DLC ⇛"
     },
+    "https://akirabox.com/ex5z24y5ymKq/file": {
+      "region": "EUR",
+      "size": "2GB",
+      "version": "1.00",
+      "release": "August 8, 2024",
+      "min_fw": "9.00+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/07/The-Exit-8-PS4-PKG.webp",
+      "name": "The Exit 8",
+      "type": "game",
+      "download_text": "AKR",
+      "key_description": "Game ⇛"
+    },
+    "https://akirabox.com/9AqGQBoZrmMn/file": {
+      "region": "EUR",
+      "size": "2GB",
+      "version": "1.00",
+      "release": "August 8, 2024",
+      "min_fw": "5.05/6.72/7.02/7.55/9.00/11.00",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/07/The-Exit-8-PS4-PKG.webp",
+      "name": "The Exit 8",
+      "type": "game",
+      "download_text": "AKR",
+      "key_description": "Fix (5.05/6.72/7.02/7.55/9.00/11.00) ⇛"
+    },
     "https://akirabox.com/9QWmpQpoJ3EB/file": {
       "region": "EUR",
       "size": "6GB",
@@ -31783,6 +31891,42 @@
       "type": "game",
       "download_text": "AKR",
       "key_description": "Fix 5.05 ⇛"
+    },
+    "https://akirabox.com/0rpmvrVQJmRg/file": {
+      "region": "EUR",
+      "size": "11GB",
+      "version": "1.00",
+      "release": "July 27, 2023",
+      "min_fw": null,
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/07/The-Expanse-A-Telltale-Series-PS4-PKG.webp",
+      "name": "The Expanse A Telltale Series",
+      "type": "game",
+      "download_text": "AKR",
+      "key_description": "Game ⇛"
+    },
+    "https://akirabox.com/QN9mEbJZ736d/file": {
+      "region": "EUR",
+      "size": "11GB",
+      "version": "1.00",
+      "release": "July 27, 2023",
+      "min_fw": "Fix 5.05/6.72/7.02/7.55/9.00/11.00",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/07/The-Expanse-A-Telltale-Series-PS4-PKG.webp",
+      "name": "The Expanse A Telltale Series",
+      "type": "update",
+      "download_text": "AKR",
+      "key_description": "Update v1.04 (Fix 5.05/6.72/7.02/7.55/9.00/11.00) ⇛"
+    },
+    "https://akirabox.com/gXeGOgKoNGAa/file": {
+      "region": "EUR",
+      "size": "11GB",
+      "version": "1.00",
+      "release": "July 27, 2023",
+      "min_fw": null,
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/07/The-Expanse-A-Telltale-Series-PS4-PKG.webp",
+      "name": "The Expanse A Telltale Series",
+      "type": "dlc",
+      "download_text": "AKR",
+      "key_description": "DLC ⇛"
     },
     "https://akirabox.com/Z9dzBggMGk1b/file": {
       "region": "USA",

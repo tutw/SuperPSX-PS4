@@ -240,6 +240,18 @@
       "download_text": "Viki",
       "key_description": "Update v1.05 (Fix 5.05/6.72/7.xx) ⇛"
     },
+    "https://vikingfile.com/f/jZkFT9VZEs": {
+      "region": "EUR",
+      "size": "10GB",
+      "version": "1.02",
+      "release": "October 4, 2022",
+      "min_fw": "9.00+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/07/Alfred-Hitchcock-Vertigo-PS4-PKG.webp",
+      "name": "Alfred Hitchcock Vertigo",
+      "type": "game",
+      "download_text": "Viki",
+      "key_description": "Game (v1.02)(9.00+) ⇛"
+    },
     "https://vikingfile.com/f/f8B1MMrqXU": {
       "region": "USA",
       "size": "3.5 GB",
@@ -1246,6 +1258,30 @@
       "download_text": "Viki",
       "key_description": "Game (8.50+) ⇛"
     },
+    "https://vikingfile.com/f/OxuARMoicF": {
+      "region": "EUR",
+      "size": "2GB",
+      "version": "1.00",
+      "release": "Oct 28, 2024",
+      "min_fw": null,
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/07/Clockwork-Tower-Rewind-PS4-PKG.webp",
+      "name": "Clockwork Tower Rewind",
+      "type": "game",
+      "download_text": "Viki",
+      "key_description": "Game ⇛"
+    },
+    "https://vikingfile.com/f/8ERGe6q0NE": {
+      "region": "EUR",
+      "size": "2GB",
+      "version": "1.00",
+      "release": "Oct 28, 2024",
+      "min_fw": "5.05 / 6.72 / 7.02 / 7.55 / 9.00 / 11.00",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/07/Clockwork-Tower-Rewind-PS4-PKG.webp",
+      "name": "Clockwork Tower Rewind",
+      "type": "game",
+      "download_text": "Viki",
+      "key_description": "Fix (5.05 / 6.72 / 7.02 / 7.55 / 9.00 / 11.00) ⇛"
+    },
     "https://vikingfile.com/f/aM37YdBkfC": {
       "region": "EUR",
       "size": "190MB",
@@ -1377,6 +1413,54 @@
       "type": "game",
       "download_text": "Viki",
       "key_description": "Fix 6.72+ ⇛"
+    },
+    "https://vikingfile.com/f/P2BBRMmLGb": {
+      "region": "EUR",
+      "size": "4GB",
+      "version": "1.00",
+      "release": "October 24, 2023",
+      "min_fw": "11.00",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/07/CRYMACHINA-PS4-PKG.webp",
+      "name": "Crymachina",
+      "type": "game",
+      "download_text": "Viki",
+      "key_description": "Game (11.00) ⇛"
+    },
+    "https://vikingfile.com/f/Rw9OowsbRC": {
+      "region": "EUR",
+      "size": "4GB",
+      "version": "1.00",
+      "release": "October 24, 2023",
+      "min_fw": "11.00",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/07/CRYMACHINA-PS4-PKG.webp",
+      "name": "Crymachina",
+      "type": "update",
+      "download_text": "Viki",
+      "key_description": "Update v1.08 (11.00) ⇛"
+    },
+    "https://vikingfile.com/f/jlHAx8LVOk": {
+      "region": "EUR",
+      "size": "4GB",
+      "version": "1.00",
+      "release": "October 24, 2023",
+      "min_fw": "Fix 5.05/6.72/7.xx/9.00",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/07/CRYMACHINA-PS4-PKG.webp",
+      "name": "Crymachina",
+      "type": "update",
+      "download_text": "Viki",
+      "key_description": "Update v1.08 (Fix 5.05/6.72/7.xx/9.00) ⇛"
+    },
+    "https://vikingfile.com/f/jnY9Uz0MEp": {
+      "region": "EUR",
+      "size": "4GB",
+      "version": "1.00",
+      "release": "October 24, 2023",
+      "min_fw": null,
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/07/CRYMACHINA-PS4-PKG.webp",
+      "name": "Crymachina",
+      "type": "dlc",
+      "download_text": "Viki",
+      "key_description": "DLC (10) ⇛"
     },
     "https://vikingfile.com/f/xzx8pTuGoZ": {
       "region": "EUR",
@@ -6939,6 +7023,30 @@
       "download_text": "Viki",
       "key_description": "ALL DLC ⇛"
     },
+    "https://vikingfile.com/f/6JdH6MLEYl": {
+      "region": "EUR",
+      "size": "2GB",
+      "version": "1.00",
+      "release": "August 8, 2024",
+      "min_fw": "9.00+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/07/The-Exit-8-PS4-PKG.webp",
+      "name": "The Exit 8",
+      "type": "game",
+      "download_text": "Viki",
+      "key_description": "Game ⇛"
+    },
+    "https://vikingfile.com/f/hkipagxliP": {
+      "region": "EUR",
+      "size": "2GB",
+      "version": "1.00",
+      "release": "August 8, 2024",
+      "min_fw": "5.05/6.72/7.02/7.55/9.00/11.00",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/07/The-Exit-8-PS4-PKG.webp",
+      "name": "The Exit 8",
+      "type": "game",
+      "download_text": "Viki",
+      "key_description": "Fix (5.05/6.72/7.02/7.55/9.00/11.00) ⇛"
+    },
     "https://vikingfile.com/f/P1RDnaxgJG": {
       "region": "EUR",
       "size": "6GB",
@@ -6974,6 +7082,42 @@
       "type": "game",
       "download_text": "Viki",
       "key_description": "Fix 5.05 ⇛"
+    },
+    "https://vikingfile.com/f/kXvuKWd7Eo": {
+      "region": "EUR",
+      "size": "11GB",
+      "version": "1.00",
+      "release": "July 27, 2023",
+      "min_fw": null,
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/07/The-Expanse-A-Telltale-Series-PS4-PKG.webp",
+      "name": "The Expanse A Telltale Series",
+      "type": "game",
+      "download_text": "Viki",
+      "key_description": "Game ⇛"
+    },
+    "https://vikingfile.com/f/kLyenU2BuJ": {
+      "region": "EUR",
+      "size": "11GB",
+      "version": "1.00",
+      "release": "July 27, 2023",
+      "min_fw": "Fix 5.05/6.72/7.02/7.55/9.00/11.00",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/07/The-Expanse-A-Telltale-Series-PS4-PKG.webp",
+      "name": "The Expanse A Telltale Series",
+      "type": "update",
+      "download_text": "Viki",
+      "key_description": "Update v1.04 (Fix 5.05/6.72/7.02/7.55/9.00/11.00) ⇛"
+    },
+    "https://vikingfile.com/f/5ncXnz0bIP": {
+      "region": "EUR",
+      "size": "11GB",
+      "version": "1.00",
+      "release": "July 27, 2023",
+      "min_fw": null,
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/07/The-Expanse-A-Telltale-Series-PS4-PKG.webp",
+      "name": "The Expanse A Telltale Series",
+      "type": "dlc",
+      "download_text": "Viki",
+      "key_description": "DLC ⇛"
     },
     "https://vikingfile.com/f/X2eNRuO1lq": {
       "region": "EUR",

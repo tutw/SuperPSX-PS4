@@ -30298,7 +30298,19 @@
       "download_text": "AKR",
       "key_description": "Update v1.10 (Fix 5.05-9.00) ⇛"
     },
-    "https://akirabox.com/E9Qz9aWrzOL2/folder": {
+    "https://akirabox.com/dkD3YqLWO3LQ/file": {
+      "region": "EUR",
+      "size": "32GB",
+      "version": "1.00",
+      "release": "October 6, 2023",
+      "min_fw": "Fix 5.05/6.72/7.02/7.55/9.00/11.00",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/01/Sword-Art-Online-Last-Recollection-Deluxe-Edition-PS4-PKG.webp",
+      "name": "Sword Art Online Last Recollection Deluxe Edition",
+      "type": "update",
+      "download_text": "AKR",
+      "key_description": "Update v1.21 (Fix 5.05/6.72/7.02/7.55/9.00/11.00) ⇛"
+    },
+    "https://akirabox.com/l76mZRaP7man/folder": {
       "region": "EUR",
       "size": "32GB",
       "version": "1.00",

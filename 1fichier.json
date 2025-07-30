@@ -22476,6 +22476,18 @@
       "download_text": "OneFile",
       "key_description": "Game (v2.01) ⇛"
     },
+    "https://1fichier.com/?xd3c70fljjndvewmq7qr&af=4186346": {
+      "region": "EUR",
+      "size": "580MB",
+      "version": "1.00",
+      "release": "May 29, 2020",
+      "min_fw": "7.00",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/07/Indiecalypse-PS4-PKG.webp",
+      "name": "Indiecalypse",
+      "type": "game",
+      "download_text": "OneFile",
+      "key_description": "Game (7.00+) ⇛"
+    },
     "https://1fichier.com/?91sh4sxalc5fq3vp86ui&af=4186346": {
       "region": "EUR",
       "size": "4.35 GB",
@@ -40439,6 +40451,30 @@
       "type": "update",
       "download_text": "OneFile",
       "key_description": "Update v1.02 (Fix 5.05/6.72/7.xx/9.00) ⇛"
+    },
+    "https://1fichier.com/?uzdvdb9vyuu8y01c2l60&af=4186346": {
+      "region": "EUR",
+      "size": "1GB",
+      "version": "1.00",
+      "release": "8 September 2023",
+      "min_fw": null,
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/07/Skabma-Snowfall-PS4-PKG.webp",
+      "name": "Skabma Snowfall",
+      "type": "game",
+      "download_text": "OneFile",
+      "key_description": "Game ⇛"
+    },
+    "https://1fichier.com/?y3oj3rsz2b5pig5hgn7b&af=4186346": {
+      "region": "EUR",
+      "size": "1GB",
+      "version": "1.00",
+      "release": "8 September 2023",
+      "min_fw": "11.00+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/07/Skabma-Snowfall-PS4-PKG.webp",
+      "name": "Skabma Snowfall",
+      "type": "update",
+      "download_text": "OneFile",
+      "key_description": "Update v1.04 (11.00+) ⇛"
     },
     "https://1fichier.com/?ev4k1ey4028ad1rud2vj&af=4186346": {
       "region": "EUR",

@@ -735,6 +735,30 @@
       "download_text": "Viki",
       "key_description": "Update v1.02 (Fix 5.05/6.72) ⇛"
     },
+    "https://vikingfile.com/f/lAsgyMT4pa": {
+      "region": "EUR",
+      "size": "4GB",
+      "version": "1.00",
+      "release": "March 1, 2023",
+      "min_fw": null,
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/07/Bendy-and-the-Dark-Revival-PS4-PKG.webp",
+      "name": "Bendy And The Dark Revival",
+      "type": "game",
+      "download_text": "Viki",
+      "key_description": "Game (9.50+) ⇛"
+    },
+    "https://vikingfile.com/f/fMnc2p12Kz": {
+      "region": "EUR",
+      "size": "4GB",
+      "version": "1.00",
+      "release": "March 1, 2023",
+      "min_fw": "Fix 5.05 / 6.72 / 7.02 / 7.55 / 9.00 / 11.00",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/07/Bendy-and-the-Dark-Revival-PS4-PKG.webp",
+      "name": "Bendy And The Dark Revival",
+      "type": "update",
+      "download_text": "Viki",
+      "key_description": "Update v1.02 (Fix 5.05 / 6.72 / 7.02 / 7.55 / 9.00 / 11.00) ⇛"
+    },
     "https://vikingfile.com/f/dp9lOVavCg": {
       "region": "EUR",
       "size": "10 GB",
@@ -3672,6 +3696,30 @@
       "type": "update",
       "download_text": "Viki",
       "key_description": "Update v1.04 (5.05+) ⇛"
+    },
+    "https://vikingfile.com/f/KtRrz7Ohiw": {
+      "region": "EUR",
+      "size": "2GB",
+      "version": "1.02",
+      "release": "July 16, 2024",
+      "min_fw": null,
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/07/Jeanne-d-Arc-PS4-PKG.webp",
+      "name": "Jeanne D Arc",
+      "type": "game",
+      "download_text": "Viki",
+      "key_description": "Game (v1.02)(11.50) ⇛"
+    },
+    "https://vikingfile.com/f/r0XK2aSfrU": {
+      "region": "EUR",
+      "size": "2GB",
+      "version": "1.00",
+      "release": "July 16, 2024",
+      "min_fw": "Fix 5.05/6.72/7.xx/9.00/11.00",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/07/Jeanne-d-Arc-PS4-PKG.webp",
+      "name": "Jeanne D Arc",
+      "type": "update",
+      "download_text": "Viki",
+      "key_description": "Update v1.02 (Fix 5.05/6.72/7.xx/9.00/11.00) ⇛"
     },
     "https://vikingfile.com/f/K4f8fnKhEz": {
       "region": "EUR",

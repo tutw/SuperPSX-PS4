@@ -4557,6 +4557,42 @@
       "download_text": "Viki",
       "key_description": "Update v3.12 (Fix 5.05/6.72/7.xx/9.00)"
     },
+    "https://vikingfile.com/f/peQYs8zCQz": {
+      "region": "EUR",
+      "size": "38GB",
+      "version": "1.00",
+      "release": "November 5, 2021",
+      "min_fw": null,
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/07/Mobile-Suit-Gundam-Battle-Operation-Code-Fairy-PS4-PKG.webp",
+      "name": "Mobile Suit Gundam Battle Operation Code Fairy",
+      "type": "game",
+      "download_text": "Viki",
+      "key_description": "Game ⇛"
+    },
+    "https://vikingfile.com/f/RhTa43CCp6": {
+      "region": "EUR",
+      "size": "38GB",
+      "version": "1.00",
+      "release": "November 5, 2021",
+      "min_fw": "Fix 5.05/6.72/7.02/7.55/9.00/11.00",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/07/Mobile-Suit-Gundam-Battle-Operation-Code-Fairy-PS4-PKG.webp",
+      "name": "Mobile Suit Gundam Battle Operation Code Fairy",
+      "type": "update",
+      "download_text": "Viki",
+      "key_description": "Update v1.03 (Fix 5.05/6.72/7.02/7.55/9.00/11.00) ⇛"
+    },
+    "https://vikingfile.com/f/qmoHAP0skN": {
+      "region": "EUR",
+      "size": "38GB",
+      "version": "1.00",
+      "release": "November 5, 2021",
+      "min_fw": null,
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/07/Mobile-Suit-Gundam-Battle-Operation-Code-Fairy-PS4-PKG.webp",
+      "name": "Mobile Suit Gundam Battle Operation Code Fairy",
+      "type": "dlc",
+      "download_text": "Viki",
+      "key_description": "DLC ⇛"
+    },
     "https://vikingfile.com/f/L3nOh4qPBq": {
       "region": "EUR",
       "size": "9 GB",
@@ -8017,6 +8053,42 @@
       "type": "dlc",
       "download_text": "Viki",
       "key_description": "DLC (11) ⇛"
+    },
+    "https://vikingfile.com/f/BfgLFlxwDS": {
+      "region": "EUR",
+      "size": "370MB",
+      "version": "1.00",
+      "release": "August 29, 2024",
+      "min_fw": null,
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/07/Vampire-Survivors-PS4-PKG.webp",
+      "name": "Vampire Survivors",
+      "type": "game",
+      "download_text": "Viki",
+      "key_description": "Game (11.50) ⇛"
+    },
+    "https://vikingfile.com/f/7e9MvBMUiK": {
+      "region": "EUR",
+      "size": "370MB",
+      "version": "1.00",
+      "release": "August 29, 2024",
+      "min_fw": "Fix 6.72/7.xx/9.00/11.00",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/07/Vampire-Survivors-PS4-PKG.webp",
+      "name": "Vampire Survivors",
+      "type": "update",
+      "download_text": "Viki",
+      "key_description": "Update v1.08 (Fix 6.72/7.xx/9.00/11.00) ⇛"
+    },
+    "https://vikingfile.com/f/oAbZjkrzXz": {
+      "region": "EUR",
+      "size": "370MB",
+      "version": "1.00",
+      "release": "August 29, 2024",
+      "min_fw": "Fix 5.05",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/07/Vampire-Survivors-PS4-PKG.webp",
+      "name": "Vampire Survivors",
+      "type": "update",
+      "download_text": "Viki",
+      "key_description": "Update v1.08 (Fix 5.05) ⇛"
     },
     "https://vikingfile.com/f/j5o0mBliF0": {
       "region": "EUR",

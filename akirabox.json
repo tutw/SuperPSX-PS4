@@ -15708,7 +15708,7 @@
       "download_text": "AKR",
       "key_description": "Savedata ⇛"
     },
-    "https://akirabox.com/2WVGr6OykGkx/file": {
+    "https://akirabox.com/Xkrzor4BP3BO/file": {
       "region": "EUR",
       "size": "1.1 GB",
       "version": "1.00",
@@ -15720,7 +15720,7 @@
       "download_text": "AKR",
       "key_description": "Game (9.00+) ⇛"
     },
-    "https://akirabox.com/0rpmvqwyBGRg/file": {
+    "https://akirabox.com/qPez4rZopmOY/file": {
       "region": "EUR",
       "size": "1.1 GB",
       "version": "1.00",
@@ -20217,6 +20217,42 @@
       "type": "update",
       "download_text": "AKR",
       "key_description": "Update v1.21 (Fix 5.05/6.72/7.xx/9.00) ⇛"
+    },
+    "https://akirabox.com/Xkrzor4P23BO/file": {
+      "region": "EUR",
+      "size": "38GB",
+      "version": "1.00",
+      "release": "November 5, 2021",
+      "min_fw": null,
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/07/Mobile-Suit-Gundam-Battle-Operation-Code-Fairy-PS4-PKG.webp",
+      "name": "Mobile Suit Gundam Battle Operation Code Fairy",
+      "type": "game",
+      "download_text": "AKR",
+      "key_description": "Game ⇛"
+    },
+    "https://akirabox.com/M2BGw6leOzj4/file": {
+      "region": "EUR",
+      "size": "38GB",
+      "version": "1.00",
+      "release": "November 5, 2021",
+      "min_fw": "Fix 5.05/6.72/7.02/7.55/9.00/11.00",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/07/Mobile-Suit-Gundam-Battle-Operation-Code-Fairy-PS4-PKG.webp",
+      "name": "Mobile Suit Gundam Battle Operation Code Fairy",
+      "type": "update",
+      "download_text": "AKR",
+      "key_description": "Update v1.03 (Fix 5.05/6.72/7.02/7.55/9.00/11.00) ⇛"
+    },
+    "https://akirabox.com/N2p3DkplkmMa/folder": {
+      "region": "EUR",
+      "size": "38GB",
+      "version": "1.00",
+      "release": "November 5, 2021",
+      "min_fw": null,
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/07/Mobile-Suit-Gundam-Battle-Operation-Code-Fairy-PS4-PKG.webp",
+      "name": "Mobile Suit Gundam Battle Operation Code Fairy",
+      "type": "dlc",
+      "download_text": "AKR",
+      "key_description": "DLC ⇛"
     },
     "https://akirabox.com/M2BGwPAPmj40/file": {
       "region": "EUR",
@@ -36366,6 +36402,42 @@
       "type": "dlc",
       "download_text": "AKR",
       "key_description": "DLC ⇛"
+    },
+    "https://akirabox.com/gXeGOglyKGAa/file": {
+      "region": "EUR",
+      "size": "370MB",
+      "version": "1.00",
+      "release": "August 29, 2024",
+      "min_fw": null,
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/07/Vampire-Survivors-PS4-PKG.webp",
+      "name": "Vampire Survivors",
+      "type": "game",
+      "download_text": "AKR",
+      "key_description": "Game (11.50) ⇛"
+    },
+    "https://akirabox.com/M2BGw6laDzj4/file": {
+      "region": "EUR",
+      "size": "370MB",
+      "version": "1.00",
+      "release": "August 29, 2024",
+      "min_fw": "Fix 6.72/7.xx/9.00/11.00",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/07/Vampire-Survivors-PS4-PKG.webp",
+      "name": "Vampire Survivors",
+      "type": "update",
+      "download_text": "AKR",
+      "key_description": "Update v1.08 (Fix 6.72/7.xx/9.00/11.00) ⇛"
+    },
+    "https://akirabox.com/2WVGrq4a0zkx/file": {
+      "region": "EUR",
+      "size": "370MB",
+      "version": "1.00",
+      "release": "August 29, 2024",
+      "min_fw": "Fix 5.05",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/07/Vampire-Survivors-PS4-PKG.webp",
+      "name": "Vampire Survivors",
+      "type": "update",
+      "download_text": "AKR",
+      "key_description": "Update v1.08 (Fix 5.05) ⇛"
     },
     "https://akirabox.com/E1x3A2v6zyk6/file": {
       "region": "EUR",

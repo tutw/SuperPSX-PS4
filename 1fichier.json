@@ -48891,18 +48891,6 @@
       "download_text": "OneFile",
       "key_description": "Update v1.03 (9.00+) ⇛"
     },
-    "https://1fichier.com/?7t4txy327ifley363vhs&af=4186346": {
-      "region": "EUR",
-      "size": "418 MB",
-      "version": "1.00",
-      "release": "July 18, 2018",
-      "min_fw": "5.55+",
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/The-Mooseman-PS4-PKG.webp",
-      "name": "The Mooseman",
-      "type": "update",
-      "download_text": "OneFile",
-      "key_description": "Game + Update 1.01 ⇛"
-    },
     "https://1fichier.com/?oad2nowad4xozc6as4hq&af=4186346": {
       "region": "EUR",
       "size": "277.61 MB",
@@ -48926,54 +48914,6 @@
       "type": "update",
       "download_text": "OneFile",
       "key_description": "Update v1.01 (7.55+) ⇛"
-    },
-    "https://1fichier.com/?moy2eoq8jhiu27v2h0z0&af=4186346": {
-      "region": "EUR",
-      "size": "21 GB",
-      "version": "1.00",
-      "release": "25 October 2019",
-      "min_fw": "6.72+",
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/The-Outer-Worlds-PS4-PKG.webp",
-      "name": "The Outer Worlds",
-      "type": "game",
-      "download_text": "OneFile",
-      "key_description": "Game ⇛"
-    },
-    "https://1fichier.com/?h52fxeesv6fxarsr9gpt&af=4186346": {
-      "region": "EUR",
-      "size": "21 GB",
-      "version": "1.00",
-      "release": "25 October 2019",
-      "min_fw": "6.72+",
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/The-Outer-Worlds-PS4-PKG.webp",
-      "name": "The Outer Worlds",
-      "type": "update",
-      "download_text": "OneFile",
-      "key_description": "Update v1.08 ⇛"
-    },
-    "https://1fichier.com/?thcupkgh4p0q8jx6mniy&af=4186346": {
-      "region": "EUR",
-      "size": "21 GB",
-      "version": "1.00",
-      "release": "25 October 2019",
-      "min_fw": "Fix 5.05",
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/The-Outer-Worlds-PS4-PKG.webp",
-      "name": "The Outer Worlds",
-      "type": "update",
-      "download_text": "OneFile",
-      "key_description": "Update v1.08 (Fix 5.05) ⇛"
-    },
-    "https://1fichier.com/?i4x8l72a0qdjppq2xq3w&af=4186346": {
-      "region": "EUR",
-      "size": "21 GB",
-      "version": "1.00",
-      "release": "25 October 2019",
-      "min_fw": "6.72+",
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/The-Outer-Worlds-PS4-PKG.webp",
-      "name": "The Outer Worlds",
-      "type": "dlc",
-      "download_text": "OneFile",
-      "key_description": "DLC ⇛"
     },
     "https://1fichier.com/?52yqg2ged4f0iwhcycqf&af=4186346": {
       "region": "EUR",

@@ -4274,6 +4274,54 @@
       "download_text": "AKR",
       "key_description": "Update v1.01 (Fix 5.05/6.72/7.xx) ⇛"
     },
+    "https://akirabox.com/k0embvLAamVb/file": {
+      "region": "EUR",
+      "size": "370MB",
+      "version": "1.00",
+      "release": "January 30, 2024",
+      "min_fw": "11.00",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/08/Brotato-PS4-PKG.webp",
+      "name": "Brotato",
+      "type": "game",
+      "download_text": "AKR",
+      "key_description": "Game (11.00) ⇛"
+    },
+    "https://akirabox.com/0KezkkLXbzD1/file": {
+      "region": "EUR",
+      "size": "370MB",
+      "version": "1.00",
+      "release": "January 30, 2024",
+      "min_fw": "11.00",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/08/Brotato-PS4-PKG.webp",
+      "name": "Brotato",
+      "type": "update",
+      "download_text": "AKR",
+      "key_description": "Update v1.02 (11.00) ⇛"
+    },
+    "https://akirabox.com/1RgzRjbwPzbp/file": {
+      "region": "EUR",
+      "size": "370MB",
+      "version": "1.00",
+      "release": "January 30, 2024",
+      "min_fw": "Fix 5.05/6.72/7.xx/9.00",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/08/Brotato-PS4-PKG.webp",
+      "name": "Brotato",
+      "type": "update",
+      "download_text": "AKR",
+      "key_description": "Update v1.02 (Fix 5.05/6.72/7.xx/9.00) ⇛"
+    },
+    "https://akirabox.com/9QWmpYLqr3EB/file": {
+      "region": "EUR",
+      "size": "370MB",
+      "version": "1.00",
+      "release": "January 30, 2024",
+      "min_fw": null,
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/08/Brotato-PS4-PKG.webp",
+      "name": "Brotato",
+      "type": "dlc",
+      "download_text": "AKR",
+      "key_description": "Abyssal Terrors DLC ⇛"
+    },
     "https://akirabox.com/QN9mEqPRm6dW/file": {
       "region": "EUR",
       "size": "4 GB",
@@ -4912,6 +4960,42 @@
       "type": "update",
       "download_text": "AKR",
       "key_description": "Update v1.04 (Fix 5.05/6.72/7.02) ⇛"
+    },
+    "https://akirabox.com/l5YzMKJ6OmyO/file": {
+      "region": "EUR",
+      "size": "275MB",
+      "version": "1.00",
+      "release": "November 20, 2019",
+      "min_fw": null,
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/08/CASE-Animatronics-PS4-PKG.webp",
+      "name": "Case Animatronics",
+      "type": "game",
+      "download_text": "AKR",
+      "key_description": "Game (7.50+) ⇛"
+    },
+    "https://akirabox.com/Pbe3PJpvQGlX/file": {
+      "region": "EUR",
+      "size": "275MB",
+      "version": "1.00",
+      "release": "November 20, 2019",
+      "min_fw": null,
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/08/CASE-Animatronics-PS4-PKG.webp",
+      "name": "Case Animatronics",
+      "type": "update",
+      "download_text": "AKR",
+      "key_description": "Update v1.01 (7.50+) ⇛"
+    },
+    "https://akirabox.com/l76mZR4pkman/file": {
+      "region": "EUR",
+      "size": "275MB",
+      "version": "1.00",
+      "release": "November 20, 2019",
+      "min_fw": "Fix 5.05/6.72/7.02",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/08/CASE-Animatronics-PS4-PKG.webp",
+      "name": "Case Animatronics",
+      "type": "update",
+      "download_text": "AKR",
+      "key_description": "Update v1.01 (Fix 5.05/6.72/7.02) ⇛"
     },
     "https://akirabox.com/vgKGxL2rG8Qn/file": {
       "region": "EUR",
@@ -9907,6 +9991,54 @@
       "type": "update",
       "download_text": "AKR",
       "key_description": "Update v1.01 (5.05+) ⇛"
+    },
+    "https://akirabox.com/0rpmvr21wmRg/file": {
+      "region": "EUR",
+      "size": "12GB",
+      "version": "1.00",
+      "release": "June 27, 2022",
+      "min_fw": "9.00+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/08/Dying-Light-Definitive-Edition-PS4.webp",
+      "name": "Dying Light Definitive Edition",
+      "type": "game",
+      "download_text": "AKR",
+      "key_description": "Game (9.00+) ⇛"
+    },
+    "https://akirabox.com/N2p3DkjdnmMa/file": {
+      "region": "EUR",
+      "size": "12GB",
+      "version": "1.00",
+      "release": "June 27, 2022",
+      "min_fw": "Fix 5.05 / 6.72 / 7.02 / 7.55 / 9.00 / 11.00",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/08/Dying-Light-Definitive-Edition-PS4.webp",
+      "name": "Dying Light Definitive Edition",
+      "type": "update",
+      "download_text": "AKR",
+      "key_description": "Update v1.47 (Fix 5.05 / 6.72 / 7.02 / 7.55 / 9.00 / 11.00) ⇛"
+    },
+    "https://akirabox.com/QN9mEbpdL36d/file": {
+      "region": "EUR",
+      "size": "12GB",
+      "version": "1.00",
+      "release": "June 27, 2022",
+      "min_fw": null,
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/08/Dying-Light-Definitive-Edition-PS4.webp",
+      "name": "Dying Light Definitive Edition",
+      "type": "update",
+      "download_text": "AKR",
+      "key_description": "Update v1.47 (PS5) ⇛"
+    },
+    "https://akirabox.com/vgKGxOvq2z8Q/file": {
+      "region": "EUR",
+      "size": "12GB",
+      "version": "1.00",
+      "release": "June 27, 2022",
+      "min_fw": null,
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/08/Dying-Light-Definitive-Edition-PS4.webp",
+      "name": "Dying Light Definitive Edition",
+      "type": "dlc",
+      "download_text": "AKR",
+      "key_description": "DLC ⇛"
     },
     "https://akirabox.com/2WVGrZ8AGkx7/file": {
       "region": "USA",

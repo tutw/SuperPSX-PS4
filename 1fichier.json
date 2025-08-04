@@ -6065,6 +6065,54 @@
       "download_text": "OneFile",
       "key_description": "Update v1.01 (Fix 5.05/6.72/7.xx) ⇛"
     },
+    "https://1fichier.com/?7pxfi5gn0ph24l2rpfay&af=4186346": {
+      "region": "EUR",
+      "size": "370MB",
+      "version": "1.00",
+      "release": "January 30, 2024",
+      "min_fw": "11.00",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/08/Brotato-PS4-PKG.webp",
+      "name": "Brotato",
+      "type": "game",
+      "download_text": "OneFile",
+      "key_description": "Game (11.00) ⇛"
+    },
+    "https://1fichier.com/?k7ajcfhr3qmu0hbjuymx&af=4186346": {
+      "region": "EUR",
+      "size": "370MB",
+      "version": "1.00",
+      "release": "January 30, 2024",
+      "min_fw": "11.00",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/08/Brotato-PS4-PKG.webp",
+      "name": "Brotato",
+      "type": "update",
+      "download_text": "OneFile",
+      "key_description": "Update v1.02 (11.00) ⇛"
+    },
+    "https://1fichier.com/?1qqjrwy7me5o6ppc4nq6&af=4186346": {
+      "region": "EUR",
+      "size": "370MB",
+      "version": "1.00",
+      "release": "January 30, 2024",
+      "min_fw": "Fix 5.05/6.72/7.xx/9.00",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/08/Brotato-PS4-PKG.webp",
+      "name": "Brotato",
+      "type": "update",
+      "download_text": "OneFile",
+      "key_description": "Update v1.02 (Fix 5.05/6.72/7.xx/9.00) ⇛"
+    },
+    "https://1fichier.com/?tb6l13ppqie203uryj79&af=4186346": {
+      "region": "EUR",
+      "size": "370MB",
+      "version": "1.00",
+      "release": "January 30, 2024",
+      "min_fw": null,
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/08/Brotato-PS4-PKG.webp",
+      "name": "Brotato",
+      "type": "dlc",
+      "download_text": "OneFile",
+      "key_description": "Abyssal Terrors DLC ⇛"
+    },
     "https://1fichier.com/?0w168wcu7zw7p0evzrhp&af=4186346": {
       "region": "EUR",
       "size": "3.08 GB",
@@ -7075,6 +7123,42 @@
       "type": "update",
       "download_text": "OneFile",
       "key_description": "Game + Update-v1.04 (7.50+) ⇛"
+    },
+    "https://1fichier.com/?bbrwpboaznjwz5x5cdhs&af=4186346": {
+      "region": "EUR",
+      "size": "275MB",
+      "version": "1.00",
+      "release": "November 20, 2019",
+      "min_fw": null,
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/08/CASE-Animatronics-PS4-PKG.webp",
+      "name": "Case Animatronics",
+      "type": "game",
+      "download_text": "OneFile",
+      "key_description": "Game (7.50+) ⇛"
+    },
+    "https://1fichier.com/?ufu2qk51v2wno7ctcey3&af=4186346": {
+      "region": "EUR",
+      "size": "275MB",
+      "version": "1.00",
+      "release": "November 20, 2019",
+      "min_fw": null,
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/08/CASE-Animatronics-PS4-PKG.webp",
+      "name": "Case Animatronics",
+      "type": "update",
+      "download_text": "OneFile",
+      "key_description": "Update v1.01 (7.50+) ⇛"
+    },
+    "https://1fichier.com/?m57mxmr2p6vdr2izp58b&af=4186346": {
+      "region": "EUR",
+      "size": "275MB",
+      "version": "1.00",
+      "release": "November 20, 2019",
+      "min_fw": "Fix 5.05/6.72/7.02",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/08/CASE-Animatronics-PS4-PKG.webp",
+      "name": "Case Animatronics",
+      "type": "update",
+      "download_text": "OneFile",
+      "key_description": "Update v1.01 (Fix 5.05/6.72/7.02) ⇛"
     },
     "https://1fichier.com/?uxa63t98rsqokz77i14h&af=4186346": {
       "region": "EUR",
@@ -13908,6 +13992,54 @@
       "type": "update",
       "download_text": "OneFile",
       "key_description": "Update v1.01 (5.05+) ⇛"
+    },
+    "https://1fichier.com/?e25e23ti7x0o0au1ri11&af=4186346": {
+      "region": "EUR",
+      "size": "12GB",
+      "version": "1.00",
+      "release": "June 27, 2022",
+      "min_fw": "9.00+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/08/Dying-Light-Definitive-Edition-PS4.webp",
+      "name": "Dying Light Definitive Edition",
+      "type": "game",
+      "download_text": "OneFile",
+      "key_description": "Game (9.00+) ⇛"
+    },
+    "https://1fichier.com/?846xqc5pnufkd6xa74nr&af=4186346": {
+      "region": "EUR",
+      "size": "12GB",
+      "version": "1.00",
+      "release": "June 27, 2022",
+      "min_fw": "Fix 5.05 / 6.72 / 7.02 / 7.55 / 9.00 / 11.00",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/08/Dying-Light-Definitive-Edition-PS4.webp",
+      "name": "Dying Light Definitive Edition",
+      "type": "update",
+      "download_text": "OneFile",
+      "key_description": "Update v1.47 (Fix 5.05 / 6.72 / 7.02 / 7.55 / 9.00 / 11.00) ⇛"
+    },
+    "https://1fichier.com/?6u03plkidg6a1hgwdhuo&af=4186346": {
+      "region": "EUR",
+      "size": "12GB",
+      "version": "1.00",
+      "release": "June 27, 2022",
+      "min_fw": null,
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/08/Dying-Light-Definitive-Edition-PS4.webp",
+      "name": "Dying Light Definitive Edition",
+      "type": "update",
+      "download_text": "OneFile",
+      "key_description": "Update v1.47 (PS5) ⇛"
+    },
+    "https://1fichier.com/?v64ntm8ecsu3gx3cx7ku&af=4186346": {
+      "region": "EUR",
+      "size": "12GB",
+      "version": "1.00",
+      "release": "June 27, 2022",
+      "min_fw": null,
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/08/Dying-Light-Definitive-Edition-PS4.webp",
+      "name": "Dying Light Definitive Edition",
+      "type": "dlc",
+      "download_text": "OneFile",
+      "key_description": "DLC ⇛"
     },
     "https://1fichier.com/?n0h518zanqqkg922tl91&af=4186346": {
       "region": "EUR",

@@ -52728,6 +52728,42 @@
       "download_text": "OneFile",
       "key_description": "Update v1.01 (Fix 5.05/6.72/7.02/7.55) ⇛"
     },
+    "https://1fichier.com/?aopiuhp5esk5amqur1va&af=4186346": {
+      "region": "EUR",
+      "size": "10GB",
+      "version": "1.00",
+      "release": "August 11, 2023",
+      "min_fw": null,
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/08/Turbo-Overkill-PS4-PKG.webp",
+      "name": "Turbo Overkill",
+      "type": "game",
+      "download_text": "OneFile",
+      "key_description": "Game (11.50+) ⇛"
+    },
+    "https://1fichier.com/?2k2g72tidy97uno25232&af=4186346": {
+      "region": "EUR",
+      "size": "10GB",
+      "version": "1.00",
+      "release": "August 11, 2023",
+      "min_fw": "Fix 6.72/7.xx/9.00/11.00",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/08/Turbo-Overkill-PS4-PKG.webp",
+      "name": "Turbo Overkill",
+      "type": "update",
+      "download_text": "OneFile",
+      "key_description": "Update v1.02 (Fix 6.72/7.xx/9.00/11.00) ⇛"
+    },
+    "https://1fichier.com/?ip149ehb0t0yk9e1pgse&af=4186346": {
+      "region": "EUR",
+      "size": "10GB",
+      "version": "1.00",
+      "release": "August 11, 2023",
+      "min_fw": "Fix 5.05",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/08/Turbo-Overkill-PS4-PKG.webp",
+      "name": "Turbo Overkill",
+      "type": "update",
+      "download_text": "OneFile",
+      "key_description": "Update v1.02 (Fix 5.05) ⇛"
+    },
     "https://1fichier.com/?hyvflcvmd75qgcjg0r5f&af=4186346": {
       "region": "EUR",
       "size": "219MB",

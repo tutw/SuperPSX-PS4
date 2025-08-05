@@ -8145,6 +8145,42 @@
       "download_text": "Viki",
       "key_description": "Update v1.01 (Fix 5.05) ⇛"
     },
+    "https://vikingfile.com/f/rHPUkHUX14": {
+      "region": "EUR",
+      "size": "10GB",
+      "version": "1.00",
+      "release": "August 11, 2023",
+      "min_fw": null,
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/08/Turbo-Overkill-PS4-PKG.webp",
+      "name": "Turbo Overkill",
+      "type": "game",
+      "download_text": "Viki",
+      "key_description": "Game (11.50+) ⇛"
+    },
+    "https://vikingfile.com/f/dESSQVVeWq": {
+      "region": "EUR",
+      "size": "10GB",
+      "version": "1.00",
+      "release": "August 11, 2023",
+      "min_fw": "Fix 6.72/7.xx/9.00/11.00",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/08/Turbo-Overkill-PS4-PKG.webp",
+      "name": "Turbo Overkill",
+      "type": "update",
+      "download_text": "Viki",
+      "key_description": "Update v1.02 (Fix 6.72/7.xx/9.00/11.00) ⇛"
+    },
+    "https://vikingfile.com/f/Dzuyk6lBXH": {
+      "region": "EUR",
+      "size": "10GB",
+      "version": "1.00",
+      "release": "August 11, 2023",
+      "min_fw": "Fix 5.05",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/08/Turbo-Overkill-PS4-PKG.webp",
+      "name": "Turbo Overkill",
+      "type": "update",
+      "download_text": "Viki",
+      "key_description": "Update v1.02 (Fix 5.05) ⇛"
+    },
     "https://vikingfile.com/f/uWrZ4AtZXT": {
       "region": "EUR",
       "size": "219MB",

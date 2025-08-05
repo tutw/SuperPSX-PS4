@@ -6975,7 +6975,7 @@
       "download_text": "AKR",
       "key_description": "Game (8.00+) ⇛"
     },
-    "https://akirabox.com/5pVzNWq2kG7w/file": {
+    "https://akirabox.com/EL73gby8am9B/file": {
       "region": "EUR",
       "size": "150 MB",
       "version": "1.00",
@@ -7653,7 +7653,7 @@
       "download_text": "AKR",
       "key_description": "Game+Upv1.02 ⇛"
     },
-    "https://akirabox.com/obj3jM5ZBmDx/file": {
+    "https://akirabox.com/obj3jby8B3Dx/file": {
       "region": "EUR",
       "size": "5GB",
       "version": "1.00",
@@ -10691,7 +10691,7 @@
       "download_text": "AKR",
       "key_description": "Update v1.06 (5.05+) ⇛"
     },
-    "https://akirabox.com/vgKGxxRM6G8Q/file": {
+    "https://akirabox.com/2bJG81jy7mOB/file": {
       "region": "EUR",
       "size": "2GB",
       "version": "1.00",
@@ -10703,7 +10703,7 @@
       "download_text": "AKR",
       "key_description": "Game (8.50+) ⇛"
     },
-    "https://akirabox.com/7d5GL1q27mxR/file": {
+    "https://akirabox.com/vgKGxOyg8z8Q/file": {
       "region": "EUR",
       "size": "2GB",
       "version": "1.00",
@@ -16119,54 +16119,6 @@
       "type": "dlc",
       "download_text": "AKR",
       "key_description": "DLC Hot Garbage ⇛"
-    },
-    "https://akirabox.com/0KezkByo3D1X/file": {
-      "region": "EUR",
-      "size": "31 GB",
-      "version": "1.00",
-      "release": "June 25, 2019",
-      "min_fw": null,
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/Judgment-PS4-PKG.webp",
-      "name": "Judgment",
-      "type": "game",
-      "download_text": "AKR",
-      "key_description": "Game ⇛"
-    },
-    "https://akirabox.com/LK0G12wYm917/file": {
-      "region": "EUR",
-      "size": "31 GB",
-      "version": "1.00",
-      "release": "June 25, 2019",
-      "min_fw": null,
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/Judgment-PS4-PKG.webp",
-      "name": "Judgment",
-      "type": "update",
-      "download_text": "AKR",
-      "key_description": "Update v1.09 ⇛"
-    },
-    "https://akirabox.com/2bJG82jg3OBE/file": {
-      "region": "EUR",
-      "size": "31 GB",
-      "version": "1.00",
-      "release": "June 25, 2019",
-      "min_fw": "Fix 5.05",
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/Judgment-PS4-PKG.webp",
-      "name": "Judgment",
-      "type": "update",
-      "download_text": "AKR",
-      "key_description": "Update v1.09 (Fix 5.05) ⇛"
-    },
-    "https://akirabox.com/E9Qz92pwGOL2/file": {
-      "region": "EUR",
-      "size": "31 GB",
-      "version": "1.00",
-      "release": "June 25, 2019",
-      "min_fw": null,
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/Judgment-PS4-PKG.webp",
-      "name": "Judgment",
-      "type": "dlc",
-      "download_text": "AKR",
-      "key_description": "DLCs ⇛"
     },
     "https://akirabox.com/b5OzdrBRmB8L/file": {
       "region": "EUR",

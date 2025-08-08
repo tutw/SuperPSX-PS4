@@ -45427,6 +45427,30 @@
       "download_text": "OneFile",
       "key_description": "Update v1.07 [Fix 5.05-6.72-7.02-7.55] ⇛"
     },
+    "https://1fichier.com/?66uhqoqfbqpu5co79k4s&af=4186346": {
+      "region": "EUR",
+      "size": "6GB",
+      "version": "1.00",
+      "release": "Nov 15, 2022",
+      "min_fw": null,
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/08/Tad-The-Lost-Explorer-PS4.webp",
+      "name": "Tad The Lost Explorer",
+      "type": "game",
+      "download_text": "OneFile",
+      "key_description": "Game (9.50+) ⇛"
+    },
+    "https://1fichier.com/?g3t9663lji9o50nrvg46&af=4186346": {
+      "region": "EUR",
+      "size": "6GB",
+      "version": "1.00",
+      "release": "Nov 15, 2022",
+      "min_fw": "11.00",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/08/Tad-The-Lost-Explorer-PS4.webp",
+      "name": "Tad The Lost Explorer",
+      "type": "update",
+      "download_text": "OneFile",
+      "key_description": "Update v1.11 (11.00) ⇛"
+    },
     "https://1fichier.com/?qr0gh1pqi18tzp2iwk21&af=4186346": {
       "region": "USA",
       "size": "1GB",
@@ -53764,6 +53788,42 @@
       "type": "dlc",
       "download_text": "OneFile",
       "key_description": "DLC Pack v2 (9) ⇛"
+    },
+    "https://1fichier.com/?etbnmqinmt79ssj9d053&af=4186346": {
+      "region": "EUR",
+      "size": "477MB",
+      "version": "1.00",
+      "release": "5 Oct 2022",
+      "min_fw": "9.00+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/08/Unpacking-PS4-PKG.webp",
+      "name": "Unpacking",
+      "type": "game",
+      "download_text": "OneFile",
+      "key_description": "Game (9.00+) ⇛"
+    },
+    "https://1fichier.com/?padx95l29e3eil0pk6mo&af=4186346": {
+      "region": "EUR",
+      "size": "477MB",
+      "version": "1.00",
+      "release": "5 Oct 2022",
+      "min_fw": "9.00+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/08/Unpacking-PS4-PKG.webp",
+      "name": "Unpacking",
+      "type": "update",
+      "download_text": "OneFile",
+      "key_description": "Update v1.02 (9.00+) ⇛"
+    },
+    "https://1fichier.com/?kc9ytrvyrdwhdi830dux&af=4186346": {
+      "region": "EUR",
+      "size": "477MB",
+      "version": "1.00",
+      "release": "5 Oct 2022",
+      "min_fw": "Fix 5.05/6.72/7.xx",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/08/Unpacking-PS4-PKG.webp",
+      "name": "Unpacking",
+      "type": "update",
+      "download_text": "OneFile",
+      "key_description": "Update v1.02 (Fix 5.05/6.72/7.xx) ⇛"
     },
     "https://1fichier.com/?jr6qc1de3jc8q6xhy8zm&af=4186346": {
       "region": "EUR",

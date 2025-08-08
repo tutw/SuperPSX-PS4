@@ -7179,6 +7179,30 @@
       "download_text": "Viki",
       "key_description": "Fix (5.05/6.72/7.02/7.55/9.00/11.00) ⇛"
     },
+    "https://vikingfile.com/f/76hsFvIuPL": {
+      "region": "EUR",
+      "size": "6GB",
+      "version": "1.00",
+      "release": "Nov 15, 2022",
+      "min_fw": null,
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/08/Tad-The-Lost-Explorer-PS4.webp",
+      "name": "Tad The Lost Explorer",
+      "type": "game",
+      "download_text": "Viki",
+      "key_description": "Game (9.50+) ⇛"
+    },
+    "https://vikingfile.com/f/Zfa1TZ6tMT": {
+      "region": "EUR",
+      "size": "6GB",
+      "version": "1.00",
+      "release": "Nov 15, 2022",
+      "min_fw": "11.00",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/08/Tad-The-Lost-Explorer-PS4.webp",
+      "name": "Tad The Lost Explorer",
+      "type": "update",
+      "download_text": "Viki",
+      "key_description": "Update v1.11 (11.00) ⇛"
+    },
     "https://vikingfile.com/f/zfjQ2GzplU": {
       "region": "EUR",
       "size": "2.8GB",
@@ -8399,6 +8423,42 @@
       "type": "dlc",
       "download_text": "Viki",
       "key_description": "DLC (5) ⇛"
+    },
+    "https://vikingfile.com/f/FnA8K9PHwo": {
+      "region": "EUR",
+      "size": "477MB",
+      "version": "1.00",
+      "release": "5 Oct 2022",
+      "min_fw": "9.00+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/08/Unpacking-PS4-PKG.webp",
+      "name": "Unpacking",
+      "type": "game",
+      "download_text": "Viki",
+      "key_description": "Game (9.00+) ⇛"
+    },
+    "https://vikingfile.com/f/JfzLYNePdJ": {
+      "region": "EUR",
+      "size": "477MB",
+      "version": "1.00",
+      "release": "5 Oct 2022",
+      "min_fw": "9.00+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/08/Unpacking-PS4-PKG.webp",
+      "name": "Unpacking",
+      "type": "update",
+      "download_text": "Viki",
+      "key_description": "Update v1.02 (9.00+) ⇛"
+    },
+    "https://vikingfile.com/f/WRHin9C52v": {
+      "region": "EUR",
+      "size": "477MB",
+      "version": "1.00",
+      "release": "5 Oct 2022",
+      "min_fw": "Fix 5.05/6.72/7.xx",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/08/Unpacking-PS4-PKG.webp",
+      "name": "Unpacking",
+      "type": "update",
+      "download_text": "Viki",
+      "key_description": "Update v1.02 (Fix 5.05/6.72/7.xx) ⇛"
     },
     "https://vikingfile.com/f/fphzbcel7q": {
       "region": "EUR",

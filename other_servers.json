@@ -108,45 +108,6 @@
       "download_text": "BuzzH",
       "key_description": "Update v1.05 (6.00+) ⇛"
     },
-    "https://www.keeplinks.org/p41/683ec7b030ecb": {
-      "region": "USA",
-      "size": "11 GB",
-      "version": "1.00",
-      "release": "September 17, 2021",
-      "min_fw": null,
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/Aragami-2-PS4-PKG.webp",
-      "cusa": "CUSA23443",
-      "name": "Aragami 2",
-      "type": "game",
-      "download_text": "MediaF",
-      "key_description": "Game (8.00+) ⇛"
-    },
-    "https://www.keeplinks.org/p41/683ec7ef73759": {
-      "region": "USA",
-      "size": "11 GB",
-      "version": "1.00",
-      "release": "September 17, 2021",
-      "min_fw": null,
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/Aragami-2-PS4-PKG.webp",
-      "cusa": "CUSA23443",
-      "name": "Aragami 2",
-      "type": "update",
-      "download_text": "MediaF",
-      "key_description": "Update v1.10 (8.00+) ⇛"
-    },
-    "https://www.keeplinks.org/p41/683ec8263e4bf": {
-      "region": "USA",
-      "size": "11 GB",
-      "version": "1.00",
-      "release": "September 17, 2021",
-      "min_fw": "Fix 5.05/6.72/7.xx",
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/Aragami-2-PS4-PKG.webp",
-      "cusa": "CUSA23443",
-      "name": "Aragami 2",
-      "type": "update",
-      "download_text": "MediaF",
-      "key_description": "Update v1.10 (Fix 5.05/6.72/7.xx) ⇛"
-    },
     "https://buzzheavier.com/dc7fh2gk8ni0": {
       "region": "EUR",
       "size": "21.74 GB",

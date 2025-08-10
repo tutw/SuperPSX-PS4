@@ -1066,6 +1066,30 @@
       "download_text": "OneFile",
       "key_description": "Update 1.02 (8.03+) ⇛"
     },
+    "https://1fichier.com/?bpp2nlexssta4pq2a2tl&af=4186346": {
+      "region": "EUR",
+      "size": "874 MB",
+      "version": "1.00",
+      "release": "June 22, 2021",
+      "min_fw": "8.52+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/Alex-Kidd-in-Miracle-World-DX-PS4-PKG.webp",
+      "name": "Alex Kidd In Miracle World DX",
+      "type": "update",
+      "download_text": "OneFile",
+      "key_description": "Game + Update 1.04 ⇛"
+    },
+    "https://1fichier.com/?r29um0xtleo1u8cujinq&af=4186346": {
+      "region": "EUR",
+      "size": "874 MB",
+      "version": "1.00",
+      "release": "June 22, 2021",
+      "min_fw": "Fix 5.05/6.72/7.xx",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/Alex-Kidd-in-Miracle-World-DX-PS4-PKG.webp",
+      "name": "Alex Kidd In Miracle World DX",
+      "type": "update",
+      "download_text": "OneFile",
+      "key_description": "Update 1.04 (Fix 5.05/6.72/7.xx) ⇛"
+    },
     "https://1fichier.com/?pd1xoe36t5j6hchztny0&af=4186346": {
       "region": "EUR",
       "size": "10GB",
@@ -1828,45 +1852,6 @@
       "download_text": "OneFile",
       "key_description": "DLC ⇛"
     },
-    "https://1fichier.com/?dniczvbvxvcfoncx8fro&af=4186346": {
-      "region": "USA",
-      "size": "11 GB",
-      "version": "1.00",
-      "release": "September 17, 2021",
-      "min_fw": null,
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/Aragami-2-PS4-PKG.webp",
-      "cusa": "CUSA23443",
-      "name": "Aragami 2",
-      "type": "game",
-      "download_text": "OneFile",
-      "key_description": "Game (8.00+) ⇛"
-    },
-    "https://1fichier.com/?uvpmagsixzm2ll5g75y8&af=4186346": {
-      "region": "USA",
-      "size": "11 GB",
-      "version": "1.00",
-      "release": "September 17, 2021",
-      "min_fw": null,
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/Aragami-2-PS4-PKG.webp",
-      "cusa": "CUSA23443",
-      "name": "Aragami 2",
-      "type": "update",
-      "download_text": "OneFile",
-      "key_description": "Update v1.10 (8.00+) ⇛"
-    },
-    "https://1fichier.com/?s138aywlrcbb8ry0g9g3&af=4186346": {
-      "region": "USA",
-      "size": "11 GB",
-      "version": "1.00",
-      "release": "September 17, 2021",
-      "min_fw": "Fix 5.05/6.72/7.xx",
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/Aragami-2-PS4-PKG.webp",
-      "cusa": "CUSA23443",
-      "name": "Aragami 2",
-      "type": "update",
-      "download_text": "OneFile",
-      "key_description": "Update v1.10 (Fix 5.05/6.72/7.xx) ⇛"
-    },
     "https://1fichier.com/?1gqve486u2tvy7dnpz9u&af=4186346": {
       "region": "EUR",
       "size": "8GB",
@@ -1927,18 +1912,6 @@
       "download_text": "OneFile",
       "key_description": "Fix (5.05/6.72/7.xx) ⇛"
     },
-    "https://1fichier.com/?xtnl2j7opwotyouxz8z1&af=4186346": {
-      "region": "EUR",
-      "size": "100MB",
-      "version": "1.00",
-      "release": "November 18, 2021",
-      "min_fw": "5.05+",
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/01/Arcade-Game-Series-Galaga-PS4-PKG.webp",
-      "name": "Arcade Game Series Galaga",
-      "type": "game",
-      "download_text": "OneFile",
-      "key_description": "Game (5.05+) ⇛"
-    },
     "https://1fichier.com/?cmil4desib2u5p9ea8my&af=4186346": {
       "region": "EUR",
       "size": "3GB",
@@ -1986,42 +1959,6 @@
       "type": "dlc",
       "download_text": "OneFile",
       "key_description": "DLC ⇛"
-    },
-    "https://1fichier.com/?bxurjwuotir8m8o8e52j&af=4186346": {
-      "region": "EUR",
-      "size": "4.22 GB",
-      "version": "1.00",
-      "release": "5 Jul 2021",
-      "min_fw": "9.00+",
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/06/Arcadegeddon-PS4-PKG.webp",
-      "name": "Arcadegeddon",
-      "type": "game",
-      "download_text": "OneFile",
-      "key_description": "Game (9.00+) ⇛"
-    },
-    "https://1fichier.com/?9ert5xo16qmyy2hlm3od&af=4186346": {
-      "region": "EUR",
-      "size": "4.22 GB",
-      "version": "1.00",
-      "release": "5 Jul 2021",
-      "min_fw": "9.00+",
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/06/Arcadegeddon-PS4-PKG.webp",
-      "name": "Arcadegeddon",
-      "type": "update",
-      "download_text": "OneFile",
-      "key_description": "Update v1.21 (9.00+) ⇛"
-    },
-    "https://1fichier.com/?zb2p73tiufmkgrvkmz69&af=4186346": {
-      "region": "EUR",
-      "size": "4.22 GB",
-      "version": "1.00",
-      "release": "5 Jul 2021",
-      "min_fw": "Fix 5.05-6.72-7.02-7.55",
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/06/Arcadegeddon-PS4-PKG.webp",
-      "name": "Arcadegeddon",
-      "type": "update",
-      "download_text": "OneFile",
-      "key_description": "Update v1.21 (Fix 5.05-6.72-7.02-7.55) ⇛"
     },
     "https://1fichier.com/?uj4bmivjyebyjyynx1fp&af=4186346": {
       "region": "EUR",

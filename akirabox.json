@@ -1146,7 +1146,7 @@
       "download_text": "AKR",
       "key_description": "Update v2.02 (6.72+) ⇛"
     },
-    "https://akirabox.com/5pVzNWA00G7w/file": {
+    "https://akirabox.com/2bJG81NEQmOB/file": {
       "region": "EUR",
       "size": "2GB",
       "version": "1.00",
@@ -1249,6 +1249,45 @@
       "download_text": "AKR",
       "key_description": "DLC ⇛"
     },
+    "https://akirabox.com/jar3XYaQz2dD/file": {
+      "region": "USA",
+      "size": "11 GB",
+      "version": "1.00",
+      "release": "September 17, 2021",
+      "min_fw": null,
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/Aragami-2-PS4-PKG.webp",
+      "cusa": "CUSA23443",
+      "name": "Aragami 2",
+      "type": "game",
+      "download_text": "AKR",
+      "key_description": "Game (8.00+) ⇛"
+    },
+    "https://akirabox.com/2bJG8OJQzOBE/file": {
+      "region": "USA",
+      "size": "11 GB",
+      "version": "1.00",
+      "release": "September 17, 2021",
+      "min_fw": null,
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/Aragami-2-PS4-PKG.webp",
+      "cusa": "CUSA23443",
+      "name": "Aragami 2",
+      "type": "update",
+      "download_text": "AKR",
+      "key_description": "Update v1.10 (8.00+) ⇛"
+    },
+    "https://akirabox.com/dkD3YLRXmLQK/file": {
+      "region": "USA",
+      "size": "11 GB",
+      "version": "1.00",
+      "release": "September 17, 2021",
+      "min_fw": "Fix 5.05/6.72/7.xx",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/Aragami-2-PS4-PKG.webp",
+      "cusa": "CUSA23443",
+      "name": "Aragami 2",
+      "type": "update",
+      "download_text": "AKR",
+      "key_description": "Update v1.10 (Fix 5.05/6.72/7.xx) ⇛"
+    },
     "https://akirabox.com/wgWGqJWYqm4o/file": {
       "region": "EUR",
       "size": "8GB",
@@ -1309,6 +1348,18 @@
       "download_text": "AKR",
       "key_description": "Fix (5.05/6.72/7.xx) ⇛"
     },
+    "https://akirabox.com/M2BGwoqRGj40/file": {
+      "region": "EUR",
+      "size": "100MB",
+      "version": "1.00",
+      "release": "November 18, 2021",
+      "min_fw": "5.05+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/01/Arcade-Game-Series-Galaga-PS4-PKG.webp",
+      "name": "Arcade Game Series Galaga",
+      "type": "game",
+      "download_text": "AKR",
+      "key_description": "Game (5.05+) ⇛"
+    },
     "https://akirabox.com/EL73gRlJam9B/file": {
       "region": "EUR",
       "size": "3GB",
@@ -1356,6 +1407,42 @@
       "type": "dlc",
       "download_text": "AKR",
       "key_description": "DLC ⇛"
+    },
+    "https://akirabox.com/l5YzMv69GyOA/file": {
+      "region": "EUR",
+      "size": "4.22 GB",
+      "version": "1.00",
+      "release": "5 Jul 2021",
+      "min_fw": "9.00+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/06/Arcadegeddon-PS4-PKG.webp",
+      "name": "Arcadegeddon",
+      "type": "game",
+      "download_text": "AKR",
+      "key_description": "Game (9.00+) ⇛"
+    },
+    "https://akirabox.com/l76mZkpx3anY/file": {
+      "region": "EUR",
+      "size": "4.22 GB",
+      "version": "1.00",
+      "release": "5 Jul 2021",
+      "min_fw": "9.00+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/06/Arcadegeddon-PS4-PKG.webp",
+      "name": "Arcadegeddon",
+      "type": "update",
+      "download_text": "AKR",
+      "key_description": "Update v1.21 (9.00+) ⇛"
+    },
+    "https://akirabox.com/rk9zKOX4z0lY/file": {
+      "region": "EUR",
+      "size": "4.22 GB",
+      "version": "1.00",
+      "release": "5 Jul 2021",
+      "min_fw": "Fix 5.05-6.72-7.02-7.55",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/06/Arcadegeddon-PS4-PKG.webp",
+      "name": "Arcadegeddon",
+      "type": "update",
+      "download_text": "AKR",
+      "key_description": "Update v1.21 (Fix 5.05-6.72-7.02-7.55) ⇛"
     },
     "https://akirabox.com/BnkmWY4azR0y/file": {
       "region": "USA",
@@ -11434,7 +11521,7 @@
       "download_text": "AKR",
       "key_description": "Update v1.03 (Fix 5.05) ⇛"
     },
-    "https://akirabox.com/9AqGQxZd8zMn/file": {
+    "https://akirabox.com/0rpmvraJ7mRg/file": {
       "region": "EUR",
       "size": "12GB",
       "version": "1.00",
@@ -11916,6 +12003,18 @@
       "type": "update",
       "download_text": "AKR",
       "key_description": "Update v1.02 (5.05+) ⇛"
+    },
+    "https://akirabox.com/qLQ36oR9Ez19/file": {
+      "region": "EUR",
+      "size": "20GB",
+      "version": "1.00",
+      "release": "March 17, 2015",
+      "min_fw": null,
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/08/Final-Fantasy-Type-0-HD-Day-One-Edition-PS4-PKG.webp",
+      "name": "Final Fantasy Type 0 HD Day One Edition",
+      "type": "game",
+      "download_text": "AKR",
+      "key_description": "Game ⇛"
     },
     "https://akirabox.com/l5YzM8AK3yOA/file": {
       "region": "USA",
@@ -16266,6 +16365,30 @@
       "type": "update",
       "download_text": "AKR",
       "key_description": "Update v1.03 (Fix 5.05) ⇛"
+    },
+    "https://akirabox.com/qPez4rNaNmOY/file": {
+      "region": "EUR",
+      "size": "5GB",
+      "version": "1.00",
+      "release": "April 22, 2019",
+      "min_fw": "9.00+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/08/Jupiter-Mars-PS4-PKG.webp",
+      "name": "Jupiter Mars",
+      "type": "game",
+      "download_text": "AKR",
+      "key_description": "Game (9.00+) ⇛"
+    },
+    "https://akirabox.com/qw1zep7YQ3Xy/file": {
+      "region": "EUR",
+      "size": "5GB",
+      "version": "1.00",
+      "release": "April 22, 2019",
+      "min_fw": "Fix 5.05/6.72/7.02/7.55/9.00/11.00",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/08/Jupiter-Mars-PS4-PKG.webp",
+      "name": "Jupiter Mars",
+      "type": "update",
+      "download_text": "Viki",
+      "key_description": "Update v1.03 (Fix 5.05/6.72/7.02/7.55/9.00/11.00) ⇛"
     },
     "https://akirabox.com/2WVGr6Zv0Gkx/file": {
       "region": "EUR",
@@ -33965,6 +34088,42 @@
       "type": "dlc",
       "download_text": "AKR",
       "key_description": "DLC (49) ⇛"
+    },
+    "https://akirabox.com/E1x3AkN8RGyk/file": {
+      "region": "EUR",
+      "size": "4GB",
+      "version": "1.00",
+      "release": "October 20, 2021",
+      "min_fw": "9.00+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/08/They-Always-Run-PS4-PKG.webp",
+      "name": "They Always Run",
+      "type": "game",
+      "download_text": "AKR",
+      "key_description": "Game (9.00+) ⇛"
+    },
+    "https://akirabox.com/l76mZRo7Zman/file": {
+      "region": "EUR",
+      "size": "4GB",
+      "version": "1.00",
+      "release": "October 20, 2021",
+      "min_fw": "9.00+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/08/They-Always-Run-PS4-PKG.webp",
+      "name": "They Always Run",
+      "type": "update",
+      "download_text": "AKR",
+      "key_description": "Update v1.02 (9.00+) ⇛"
+    },
+    "https://akirabox.com/l5YzMKdE2myO/file": {
+      "region": "EUR",
+      "size": "4GB",
+      "version": "1.00",
+      "release": "October 20, 2021",
+      "min_fw": "Fix 5.05/6.72/7.xx",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/08/They-Always-Run-PS4-PKG.webp",
+      "name": "They Always Run",
+      "type": "update",
+      "download_text": "AKR",
+      "key_description": "Update v1.02 (Fix 5.05/6.72/7.xx) ⇛"
     },
     "https://akirabox.com/N2p3Dj8dGMa5/file": {
       "region": "EUR",

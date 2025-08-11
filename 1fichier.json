@@ -16821,6 +16821,18 @@
       "download_text": "OneFile",
       "key_description": "Update v1.02 (5.05+) ⇛"
     },
+    "https://1fichier.com/?1nshp0oczwfmrks7u97r&af=4186346": {
+      "region": "EUR",
+      "size": "20GB",
+      "version": "1.00",
+      "release": "March 17, 2015",
+      "min_fw": null,
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/08/Final-Fantasy-Type-0-HD-Day-One-Edition-PS4-PKG.webp",
+      "name": "Final Fantasy Type 0 HD Day One Edition",
+      "type": "game",
+      "download_text": "OneFile",
+      "key_description": "Game ⇛"
+    },
     "https://1fichier.com/?7xaqw5yim69rzyucyi0c&af=4186346": {
       "region": "USA",
       "size": "85GB",
@@ -23624,12 +23636,12 @@
       "size": "5GB",
       "version": "1.00",
       "release": "April 22, 2019",
-      "min_fw": "9.00+",
+      "min_fw": "6.72+",
       "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/08/Jupiter-Mars-PS4-PKG.webp",
       "name": "Jupiter Mars",
       "type": "game",
       "download_text": "OneFile",
-      "key_description": "Game (9.00+) ⇛"
+      "key_description": "Game (6.72+) ⇛"
     },
     "https://1fichier.com/?nd4lxx6w6emwswyy5nda&af=4186346": {
       "region": "EUR",
@@ -38832,6 +38844,30 @@
       "download_text": "OneFile",
       "key_description": "Game + Update 1.05 ⇛"
     },
+    "https://1fichier.com/?wbzswmjciw22vfo8bjmz&af=4186346": {
+      "region": "EUR",
+      "size": "1GB",
+      "version": "1.00",
+      "release": "28 Sept 2022",
+      "min_fw": null,
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/08/Sam-Max-Save-the-World-PS4-PKG.webp",
+      "name": "Sam Max Save The World",
+      "type": "game",
+      "download_text": "OneFile",
+      "key_description": "Game (9.50+) ⇛"
+    },
+    "https://1fichier.com/?i4ke6h0g1pp1jj9yz1u2&af=4186346": {
+      "region": "EUR",
+      "size": "1GB",
+      "version": "1.00",
+      "release": "28 Sept 2022",
+      "min_fw": "Fix 5.05/6.72/7.02/7.55/9.00/11.00",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/08/Sam-Max-Save-the-World-PS4-PKG.webp",
+      "name": "Sam Max Save The World",
+      "type": "update",
+      "download_text": "OneFile",
+      "key_description": "Update v2.00 (Fix 5.05/6.72/7.02/7.55/9.00/11.00) ⇛"
+    },
     "https://1fichier.com/?r1zsvsp415o5z20b4azk&af=4186346": {
       "region": "EUR",
       "size": "1.4GB",
@@ -52620,6 +52656,54 @@
       "download_text": "OneFile",
       "key_description": "Update 1.02 (Fix 5.05/6.72/7.xx/8.xx) ⇛"
     },
+    "https://1fichier.com/?4fa1yt6mytyxbbiu0r0x&af=4186346": {
+      "region": "EUR",
+      "size": "7GB",
+      "version": "1.00",
+      "release": "September 27, 2019",
+      "min_fw": "6.72+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/08/Tropico-6-PS4-PKG.webp",
+      "name": "Tropico 6",
+      "type": "game",
+      "download_text": "OneFile",
+      "key_description": "Game (6.72+) ⇛"
+    },
+    "https://1fichier.com/?dbj8l9gmqvzhk3t6qemv&af=4186346": {
+      "region": "EUR",
+      "size": "7GB",
+      "version": "1.00",
+      "release": "September 27, 2019",
+      "min_fw": "6.72+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/08/Tropico-6-PS4-PKG.webp",
+      "name": "Tropico 6",
+      "type": "update",
+      "download_text": "OneFile",
+      "key_description": "Update v1.02 (6.72+) ⇛"
+    },
+    "https://1fichier.com/?qoom26dwswq9igg5xg6e&af=4186346": {
+      "region": "EUR",
+      "size": "7GB",
+      "version": "1.00",
+      "release": "September 27, 2019",
+      "min_fw": null,
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/08/Tropico-6-PS4-PKG.webp",
+      "name": "Tropico 6",
+      "type": "update",
+      "download_text": "OneFile",
+      "key_description": "Update v1.02 [Fix 5.05] ⇛"
+    },
+    "https://1fichier.com/?z3et480w76owvg0vs1w5&af=4186346": {
+      "region": "EUR",
+      "size": "7GB",
+      "version": "1.00",
+      "release": "September 27, 2019",
+      "min_fw": null,
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/08/Tropico-6-PS4-PKG.webp",
+      "name": "Tropico 6",
+      "type": "update",
+      "download_text": "OneFile",
+      "key_description": "Arabic Patch (@Abodora) ⇛"
+    },
     "https://1fichier.com/?awtxqof3irjf0vluo7tu&af=4186346": {
       "region": "EUR",
       "size": "2.41 GB",
@@ -53075,6 +53159,30 @@
       "type": "game",
       "download_text": "OneFile",
       "key_description": "Game ⇛"
+    },
+    "https://1fichier.com/?1sn3elzx19342tk4q6pe&af=4186346": {
+      "region": "EUR",
+      "size": "18GB",
+      "version": "1.00",
+      "release": "February 2, 2018",
+      "min_fw": null,
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/08/UFC-3-PS4-PKG.webp",
+      "name": "UFC 3",
+      "type": "game",
+      "download_text": "OneFile",
+      "key_description": "Game ⇛"
+    },
+    "https://1fichier.com/?45revkstoudw1ld7t62g&af=4186346": {
+      "region": "EUR",
+      "size": "18GB",
+      "version": "1.00",
+      "release": "February 2, 2018",
+      "min_fw": "5.05+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/08/UFC-3-PS4-PKG.webp",
+      "name": "UFC 3",
+      "type": "update",
+      "download_text": "OneFile",
+      "key_description": "Update v1.14 (5.05+) ⇛"
     },
     "https://1fichier.com/?jz99o0hqwaot9b6mzzg6&af=4186346": {
       "region": "EUR",

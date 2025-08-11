@@ -5009,6 +5009,18 @@
       "download_text": "AKR",
       "key_description": "Update v1.01 (Fix 5.05/6.72/7.02) ⇛"
     },
+    "https://akirabox.com/b5OzdBnWymB8/file": {
+      "region": "EUR",
+      "size": "671 MB",
+      "version": "1.00",
+      "release": "April 3, 2018",
+      "min_fw": "6.02+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/Castlevania-Advance-Collection-PS4-PKG.webp",
+      "name": "Castlevania Advance Collection",
+      "type": "game",
+      "download_text": "AKR",
+      "key_description": "Game ⇛"
+    },
     "https://akirabox.com/vgKGxL2rG8Qn/file": {
       "region": "EUR",
       "size": "1.24 GB",
@@ -16371,12 +16383,12 @@
       "size": "5GB",
       "version": "1.00",
       "release": "April 22, 2019",
-      "min_fw": "9.00+",
+      "min_fw": "6.72+",
       "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/08/Jupiter-Mars-PS4-PKG.webp",
       "name": "Jupiter Mars",
       "type": "game",
       "download_text": "AKR",
-      "key_description": "Game (9.00+) ⇛"
+      "key_description": "Game (6.72+) ⇛"
     },
     "https://akirabox.com/qw1zep7YQ3Xy/file": {
       "region": "EUR",
@@ -25995,6 +26007,30 @@
       "type": "update",
       "download_text": "AKR",
       "key_description": "Update v1.08 (Fix 5.05) ⇛"
+    },
+    "https://akirabox.com/RMKGJXx5P31o/file": {
+      "region": "EUR",
+      "size": "1GB",
+      "version": "1.00",
+      "release": "28 Sept 2022",
+      "min_fw": null,
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/08/Sam-Max-Save-the-World-PS4-PKG.webp",
+      "name": "Sam Max Save The World",
+      "type": "game",
+      "download_text": "AKR",
+      "key_description": "Game (9.50+) ⇛"
+    },
+    "https://akirabox.com/Z9dzBk6NOGk1/file": {
+      "region": "EUR",
+      "size": "1GB",
+      "version": "1.00",
+      "release": "28 Sept 2022",
+      "min_fw": "Fix 5.05/6.72/7.02/7.55/9.00/11.00",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/08/Sam-Max-Save-the-World-PS4-PKG.webp",
+      "name": "Sam Max Save The World",
+      "type": "update",
+      "download_text": "AKR",
+      "key_description": "Update v2.00 (Fix 5.05/6.72/7.02/7.55/9.00/11.00) ⇛"
     },
     "https://akirabox.com/b5OzdN8pmB8L/file": {
       "region": "EUR",
@@ -35700,6 +35736,54 @@
       "download_text": "AKR",
       "key_description": "Update v1.12 (Fix 5.05) ⇛"
     },
+    "https://akirabox.com/XkrzoreWd3BO/file": {
+      "region": "EUR",
+      "size": "7GB",
+      "version": "1.00",
+      "release": "September 27, 2019",
+      "min_fw": "6.72+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/08/Tropico-6-PS4-PKG.webp",
+      "name": "Tropico 6",
+      "type": "game",
+      "download_text": "AKR",
+      "key_description": "Game (6.72+) ⇛"
+    },
+    "https://akirabox.com/qw1zepjRe3Xy/file": {
+      "region": "EUR",
+      "size": "7GB",
+      "version": "1.00",
+      "release": "September 27, 2019",
+      "min_fw": "6.72+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/08/Tropico-6-PS4-PKG.webp",
+      "name": "Tropico 6",
+      "type": "update",
+      "download_text": "AKR",
+      "key_description": "Update v1.02 (6.72+) ⇛"
+    },
+    "https://akirabox.com/ZvqzlRay6maD/file": {
+      "region": "EUR",
+      "size": "7GB",
+      "version": "1.00",
+      "release": "September 27, 2019",
+      "min_fw": null,
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/08/Tropico-6-PS4-PKG.webp",
+      "name": "Tropico 6",
+      "type": "update",
+      "download_text": "AKR",
+      "key_description": "Update v1.02 [Fix 5.05] ⇛"
+    },
+    "https://akirabox.com/E1x3Ak20vGyk/file": {
+      "region": "EUR",
+      "size": "7GB",
+      "version": "1.00",
+      "release": "September 27, 2019",
+      "min_fw": null,
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/08/Tropico-6-PS4-PKG.webp",
+      "name": "Tropico 6",
+      "type": "update",
+      "download_text": "AKR",
+      "key_description": "Arabic Patch (@Abodora) ⇛"
+    },
     "https://akirabox.com/RMKGJO6Vm1oP/file": {
       "region": "EUR",
       "size": "1.72 GB",
@@ -36011,6 +36095,30 @@
       "type": "dlc",
       "download_text": "AKR",
       "key_description": "DLC ⇛"
+    },
+    "https://akirabox.com/2bJG81ZD6mOB/file": {
+      "region": "EUR",
+      "size": "18GB",
+      "version": "1.00",
+      "release": "February 2, 2018",
+      "min_fw": null,
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/08/UFC-3-PS4-PKG.webp",
+      "name": "UFC 3",
+      "type": "game",
+      "download_text": "AKR",
+      "key_description": "Game ⇛"
+    },
+    "https://akirabox.com/qPez4rbL9mOY/file": {
+      "region": "EUR",
+      "size": "18GB",
+      "version": "1.00",
+      "release": "February 2, 2018",
+      "min_fw": "5.05+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/08/UFC-3-PS4-PKG.webp",
+      "name": "UFC 3",
+      "type": "update",
+      "download_text": "AKR",
+      "key_description": "Update v1.14 (5.05+) ⇛"
     },
     "https://akirabox.com/RMKGJK72m1oP/file": {
       "region": "EUR",

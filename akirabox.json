@@ -14096,6 +14096,18 @@
       "download_text": "AKR",
       "key_description": "Update v1.02 (Fix 5.05/6.72/7.xx/8.xx) ⇛"
     },
+    "https://akirabox.com/jJD3VRoNl3a5/file": {
+      "region": "EUR",
+      "size": "30GB",
+      "version": "1.00",
+      "release": "3 Nov, 2017",
+      "min_fw": "5.05+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/hack__G_U_-Last-Recode-PS4-PKG.webp",
+      "name": "Hack Gu Last Recode",
+      "type": "game",
+      "download_text": "AKR",
+      "key_description": "Game (5.05+) ⇛"
+    },
     "https://akirabox.com/gXeGOoNXGAa7/folder": {
       "region": "EUR",
       "size": "8 GB",
@@ -16668,6 +16680,42 @@
       "type": "game",
       "download_text": "AKR",
       "key_description": "Game Info Fix ⇛"
+    },
+    "https://akirabox.com/l5YzMKBwQmyO/file": {
+      "region": "EUR",
+      "size": "606.34 MB",
+      "version": "1.00",
+      "release": "June 20, 2023",
+      "min_fw": "10.50+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/Killzone_-Liberation-PS4-PKG.webp",
+      "name": "Killzone Liberation",
+      "type": "game",
+      "download_text": "AKR",
+      "key_description": "Game ⇛"
+    },
+    "https://akirabox.com/Pbe3PJjM2GlX/file": {
+      "region": "EUR",
+      "size": "606.34 MB",
+      "version": "1.00",
+      "release": "June 20, 2023",
+      "min_fw": "10.50+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/Killzone_-Liberation-PS4-PKG.webp",
+      "name": "Killzone Liberation",
+      "type": "update",
+      "download_text": "AKR",
+      "key_description": "Update v1.01 (10.00+) ⇛"
+    },
+    "https://akirabox.com/k0embvXJymVb/file": {
+      "region": "EUR",
+      "size": "606.34 MB",
+      "version": "1.00",
+      "release": "June 20, 2023",
+      "min_fw": "Fix 5.05/6.72/7.02/7.55/9.00",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/Killzone_-Liberation-PS4-PKG.webp",
+      "name": "Killzone Liberation",
+      "type": "update",
+      "download_text": "AKR",
+      "key_description": "Update v1.01 (Fix 5.05/6.72/7.02/7.55/9.00) ⇛"
     },
     "https://akirabox.com/E1x3A8KWmyk6/file": {
       "region": "EUR",
@@ -19868,6 +19916,18 @@
       "download_text": "AKR",
       "key_description": "Update v1.02 (Fix 5.05/6.72/7.02/7.55/9.00) ⇛"
     },
+    "https://akirabox.com/RMKGJXbe231o/file": {
+      "region": "EUR",
+      "size": "275MB",
+      "version": "1.00",
+      "release": "August 25, 2015",
+      "min_fw": null,
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/08/Mega-Man-Legacy-Collection-PS4-PKG.webp",
+      "name": "Mega Man Legacy Collection",
+      "type": "game",
+      "download_text": "AKR",
+      "key_description": "Game ⇛"
+    },
     "https://akirabox.com/E1x3AkjBeGyk/file": {
       "region": "EUR",
       "size": "11GB",
@@ -21920,6 +21980,42 @@
       "type": "update",
       "download_text": "AKR",
       "key_description": "Update v1.04 (7.50+) ⇛"
+    },
+    "https://akirabox.com/0KezkkqlbzD1/file": {
+      "region": "EUR",
+      "size": "3GB",
+      "version": "1.00",
+      "release": "December 3, 2019",
+      "min_fw": "6.72+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/08/Neverwinter-Nights-Enhanced-Edition-PS4-PKG.webp",
+      "name": "Neverwinter Nights Enhanced Edition",
+      "type": "game",
+      "download_text": "AKR",
+      "key_description": "Game (6.72+) ⇛"
+    },
+    "https://akirabox.com/l5YzMKMoOmyO/file": {
+      "region": "EUR",
+      "size": "3GB",
+      "version": "1.00",
+      "release": "December 3, 2019",
+      "min_fw": "6.72+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/08/Neverwinter-Nights-Enhanced-Edition-PS4-PKG.webp",
+      "name": "Neverwinter Nights Enhanced Edition",
+      "type": "update",
+      "download_text": "AKR",
+      "key_description": "Update v1.02 (6.72+) ⇛"
+    },
+    "https://akirabox.com/l76mZR8jkman/file": {
+      "region": "EUR",
+      "size": "3GB",
+      "version": "1.00",
+      "release": "December 3, 2019",
+      "min_fw": "Fix 5.05",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/08/Neverwinter-Nights-Enhanced-Edition-PS4-PKG.webp",
+      "name": "Neverwinter Nights Enhanced Edition",
+      "type": "update",
+      "download_text": "AKR",
+      "key_description": "Update v1.02 (Fix 5.05) ⇛"
     },
     "https://akirabox.com/2WVGrd4q3kx7/file": {
       "region": "EUR",

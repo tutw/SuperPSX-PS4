@@ -3676,6 +3676,30 @@
       "download_text": "OneFile",
       "key_description": "Game + Update 1.01 ⇛"
     },
+    "https://1fichier.com/?ud6avn4zyazy3f64hvt8&af=4186346": {
+      "region": "EUR",
+      "size": "258MB",
+      "version": "1.00",
+      "release": "February 20, 2024",
+      "min_fw": "6.72+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/08/Balatro-PS4-PKG.webp",
+      "name": "Balatro",
+      "type": "game",
+      "download_text": "OneFile",
+      "key_description": "Game (6.72+) ⇛"
+    },
+    "https://1fichier.com/?pazviq455rber9cwqecj&af=4186346": {
+      "region": "EUR",
+      "size": "258MB",
+      "version": "1.00",
+      "release": "February 20, 2024",
+      "min_fw": "Fix 9.00",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/08/Balatro-PS4-PKG.webp",
+      "name": "Balatro",
+      "type": "update",
+      "download_text": "OneFile",
+      "key_description": "Update v1.14 (Fix 9.00) ⇛"
+    },
     "https://1fichier.com/?xeou6h2lvny7s17ot7nv&af=4186346": {
       "region": "EUR",
       "size": "4.24 GB",

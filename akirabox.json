@@ -2268,7 +2268,7 @@
       "download_text": "AKR",
       "key_description": "Game (11.00) ⇛"
     },
-    "https://akirabox.com/dZxG5Jer9mVj/file": {
+    "https://akirabox.com/l5YzMKBNOmyO/file": {
       "region": "EUR",
       "size": "19.5GB",
       "version": "1.00",
@@ -2280,7 +2280,7 @@
       "download_text": "AKR",
       "key_description": "Update v1.06 (11.00) ⇛"
     },
-    "https://akirabox.com/jar3XVLQgG2d/file": {
+    "https://akirabox.com/l76mZReqkman/file": {
       "region": "EUR",
       "size": "19.5GB",
       "version": "1.00",
@@ -2688,6 +2688,30 @@
       "type": "update",
       "download_text": "AKR",
       "key_description": "Update v1.01 (Fix 5.05/6.72/7.02)  ⇛"
+    },
+    "https://akirabox.com/qw1zepByx3Xy/file": {
+      "region": "EUR",
+      "size": "258MB",
+      "version": "1.00",
+      "release": "February 20, 2024",
+      "min_fw": "6.72+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/08/Balatro-PS4-PKG.webp",
+      "name": "Balatro",
+      "type": "game",
+      "download_text": "AKR",
+      "key_description": "Game (6.72+) ⇛"
+    },
+    "https://akirabox.com/direct/E1x3AkyDDGyk/%5BSuperPSX%5D-Balatro-CUSA47498-USA-Fix-v1.14-%28Fix%209.00%29-PS4.pkg?auth=294&t=1755077450&h=c09e53e46c": {
+      "region": "EUR",
+      "size": "258MB",
+      "version": "1.00",
+      "release": "February 20, 2024",
+      "min_fw": "Fix 9.00",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/08/Balatro-PS4-PKG.webp",
+      "name": "Balatro",
+      "type": "update",
+      "download_text": "AKR",
+      "key_description": "Update v1.14 (Fix 9.00) ⇛"
     },
     "https://akirabox.com/b5OzdpKRzB8L/file": {
       "region": "EUR",

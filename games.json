@@ -663,6 +663,30 @@
       "download_text": "Viki",
       "key_description": "Update v1.10 (5.05+) ⇛"
     },
+    "https://vikingfile.com/f/I8uSuNhbgq": {
+      "region": "EUR",
+      "size": "258MB",
+      "version": "1.00",
+      "release": "February 20, 2024",
+      "min_fw": "6.72+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/08/Balatro-PS4-PKG.webp",
+      "name": "Balatro",
+      "type": "game",
+      "download_text": "Viki",
+      "key_description": "Game (6.72+) ⇛"
+    },
+    "https://vikingfile.com/f/wbjWtM2rGr": {
+      "region": "EUR",
+      "size": "258MB",
+      "version": "1.00",
+      "release": "February 20, 2024",
+      "min_fw": "Fix 9.00",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/08/Balatro-PS4-PKG.webp",
+      "name": "Balatro",
+      "type": "update",
+      "download_text": "Viki",
+      "key_description": "Update v1.14 (Fix 9.00) ⇛"
+    },
     "https://vikingfile.com/f/g67Cvf7NRM": {
       "region": "EUR",
       "size": "28.5GB",

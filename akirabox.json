@@ -8808,54 +8808,6 @@
       "download_text": "AKR",
       "key_description": "Update v12.02 (Fix 5.05) ⇛"
     },
-    "https://akirabox.com/BnkmW7BQmR0y/file": {
-      "region": "EUR",
-      "size": "10GB",
-      "version": "1.00",
-      "release": "Sep 24, 2024",
-      "min_fw": "11.00+",
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/10/Disney-Epic-Mickey-Rebrushed-PS4-PKG.webp",
-      "name": "Disney Epic Mickey Rebrushed",
-      "type": "game",
-      "download_text": "AKR",
-      "key_description": "Game (11.00+) ⇛"
-    },
-    "https://akirabox.com/Z9dzBQQ53k1b/file": {
-      "region": "EUR",
-      "size": "10GB",
-      "version": "1.00",
-      "release": "Sep 24, 2024",
-      "min_fw": "11.00+",
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/10/Disney-Epic-Mickey-Rebrushed-PS4-PKG.webp",
-      "name": "Disney Epic Mickey Rebrushed",
-      "type": "update",
-      "download_text": "AKR",
-      "key_description": "Update v1.05 (11.00+) ⇛"
-    },
-    "https://akirabox.com/QN9mE88QG6dW/file": {
-      "region": "EUR",
-      "size": "10GB",
-      "version": "1.00",
-      "release": "Sep 24, 2024",
-      "min_fw": "Fix 5.05/6.72/7.xx/9.00",
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/10/Disney-Epic-Mickey-Rebrushed-PS4-PKG.webp",
-      "name": "Disney Epic Mickey Rebrushed",
-      "type": "update",
-      "download_text": "AKR",
-      "key_description": "Update v1.05 (Fix 5.05/6.72/7.xx/9.00) ⇛"
-    },
-    "https://akirabox.com/jar3XZEYG2dD/file": {
-      "region": "EUR",
-      "size": "10GB",
-      "version": "1.00",
-      "release": "Sep 24, 2024",
-      "min_fw": null,
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/10/Disney-Epic-Mickey-Rebrushed-PS4-PKG.webp",
-      "name": "Disney Epic Mickey Rebrushed",
-      "type": "dlc",
-      "download_text": "AKR",
-      "key_description": "DLC ⇛"
-    },
     "https://akirabox.com/vgKGxOWqnz8Q/folder": {
       "region": "EUR",
       "size": "2GB",

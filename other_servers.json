@@ -1482,42 +1482,6 @@
       "download_text": "Buzz",
       "key_description": "Game (5.05+) ⇛"
     },
-    "https://datanodes.to/w9dm9unmwaj3/[SuperPSX]-Disney.Epic.Mickey.Rebrushed_CUSA42649_v1.00_[11.00]_OPOISSO893.pkg": {
-      "region": "EUR",
-      "size": "10GB",
-      "version": "1.00",
-      "release": "Sep 24, 2024",
-      "min_fw": "11.00+",
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/10/Disney-Epic-Mickey-Rebrushed-PS4-PKG.webp",
-      "name": "Disney Epic Mickey Rebrushed",
-      "type": "game",
-      "download_text": "DataN",
-      "key_description": "Game (11.00+) ⇛"
-    },
-    "https://datanodes.to/eb1a9v86r6gz/[SuperPSX]-Disney.Epic.Mickey.Rebrushed_CUSA42649_v1.05_[11.00]-PS4.pkg": {
-      "region": "EUR",
-      "size": "10GB",
-      "version": "1.00",
-      "release": "Sep 24, 2024",
-      "min_fw": "11.00+",
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/10/Disney-Epic-Mickey-Rebrushed-PS4-PKG.webp",
-      "name": "Disney Epic Mickey Rebrushed",
-      "type": "update",
-      "download_text": "DataN",
-      "key_description": "Update v1.05 (11.00+) ⇛"
-    },
-    "https://datanodes.to/58w6miqrd5id/[SuperPSX]-Disney.Epic.Mickey.Rebrushed_CUSA42649_v1.05_BACKPORT_[5.05-6.72-7.xx-9.00]-PS4.pkg": {
-      "region": "EUR",
-      "size": "10GB",
-      "version": "1.00",
-      "release": "Sep 24, 2024",
-      "min_fw": "Fix 5.05/6.72/7.xx/9.00",
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/10/Disney-Epic-Mickey-Rebrushed-PS4-PKG.webp",
-      "name": "Disney Epic Mickey Rebrushed",
-      "type": "update",
-      "download_text": "DataN",
-      "key_description": "Update v1.05 (Fix 5.05/6.72/7.xx/9.00) ⇛"
-    },
     "https://ouo.io/ja2PTq": {
       "region": "EUR",
       "size": "10.59GB",

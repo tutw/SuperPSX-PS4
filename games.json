@@ -4636,6 +4636,42 @@
       "download_text": "Viki",
       "key_description": "Fix 5.05 ⇛"
     },
+    "https://vikingfile.com/f/yVIOCTY693": {
+      "region": "EUR",
+      "size": "22GB",
+      "version": "1.00",
+      "release": "October 25, 2019",
+      "min_fw": "6.72+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/08/MediEvil-PS4-PKG.webp",
+      "name": "Medievil",
+      "type": "game",
+      "download_text": "Viki",
+      "key_description": "Game (6.72+) ⇛"
+    },
+    "https://vikingfile.com/f/123HCvHl5t": {
+      "region": "EUR",
+      "size": "22GB",
+      "version": "1.00",
+      "release": "October 25, 2019",
+      "min_fw": "6.72+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/08/MediEvil-PS4-PKG.webp",
+      "name": "Medievil",
+      "type": "update",
+      "download_text": "Viki",
+      "key_description": "Update 1.02 (6.72+) ⇛"
+    },
+    "https://vikingfile.com/f/O06ZMf3dBi": {
+      "region": "EUR",
+      "size": "22GB",
+      "version": "1.00",
+      "release": "October 25, 2019",
+      "min_fw": "Fix 5.05",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/08/MediEvil-PS4-PKG.webp",
+      "name": "Medievil",
+      "type": "update",
+      "download_text": "Viki",
+      "key_description": "Update v1.02 (Fix 5.05) ⇛"
+    },
     "https://vikingfile.com/f/6fDuDx5vNp": {
       "region": "EUR",
       "size": "1.29 GB",
@@ -5438,6 +5474,30 @@
       "type": "update",
       "download_text": "Viki",
       "key_description": "Update v1.73 (9.50+) ⇛"
+    },
+    "https://vikingfile.com/f/o1bdJZuSY5": {
+      "region": "EUR",
+      "size": "500MB",
+      "version": "1.00",
+      "release": "October 14, 2014",
+      "min_fw": "5.05+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/08/Nidhogg-PS4-PKG.webp",
+      "name": "Nidhogg 2",
+      "type": "game",
+      "download_text": "Viki",
+      "key_description": "Game (5.05+) ⇛"
+    },
+    "https://vikingfile.com/f/nLKzkE4327": {
+      "region": "EUR",
+      "size": "500MB",
+      "version": "1.00",
+      "release": "October 14, 2014",
+      "min_fw": "5.05+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/08/Nidhogg-PS4-PKG.webp",
+      "name": "Nidhogg 2",
+      "type": "update",
+      "download_text": "Viki",
+      "key_description": "Update v1.02 (5.05+) ⇛"
     },
     "https://vikingfile.com/f/E0UKDl54Oj": {
       "region": "EUR",
@@ -8178,6 +8238,30 @@
       "type": "update",
       "download_text": "Viki",
       "key_description": "Update v1.03 (Fix 5.05/6.72/7.xx/9.00/11.00) ⇛"
+    },
+    "https://vikingfile.com/f/mLNN09dV85": {
+      "region": "EUR",
+      "size": "8.1GB",
+      "version": "1.00",
+      "release": "August 9, 2016",
+      "min_fw": "5.05+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/08/Transformers-Fall-of-Cybertron-PS4-PKG.webp",
+      "name": "Transformers Fall Of Cybertron",
+      "type": "game",
+      "download_text": "Viki",
+      "key_description": "Game (5.05+) ⇛"
+    },
+    "https://vikingfile.com/f/gIgrfWyDx5": {
+      "region": "EUR",
+      "size": "8.1GB",
+      "version": "1.00",
+      "release": "August 9, 2016",
+      "min_fw": "5.05+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/08/Transformers-Fall-of-Cybertron-PS4-PKG.webp",
+      "name": "Transformers Fall Of Cybertron",
+      "type": "update",
+      "download_text": "Viki",
+      "key_description": "Update v1.01 (5.05+) ⇛"
     },
     "https://vikingfile.com/f/sWIYXnuwtm": {
       "region": "EUR",

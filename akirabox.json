@@ -16032,7 +16032,7 @@
       "download_text": "AKR",
       "key_description": "Update v1.03 (9.00+) ⇛"
     },
-    "https://akirabox.com/N2p3DE1o9zMa/file": {
+    "https://akirabox.com/dkD3YqpRX3LQ/file": {
       "region": "EUR",
       "size": "1.1 GB",
       "version": "1.00",
@@ -19916,6 +19916,42 @@
       "download_text": "AKR",
       "key_description": "Update v1.04 (Fix 5.05/6.72/7.xx/8.xx) ⇛"
     },
+    "https://akirabox.com/2WVGrqlD9zkx/file": {
+      "region": "EUR",
+      "size": "22GB",
+      "version": "1.00",
+      "release": "October 25, 2019",
+      "min_fw": "6.72+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/08/MediEvil-PS4-PKG.webp",
+      "name": "Medievil",
+      "type": "game",
+      "download_text": "AKR",
+      "key_description": "Game (6.72+) ⇛"
+    },
+    "https://akirabox.com/N2p3Dk6Z8mMa/file": {
+      "region": "EUR",
+      "size": "22GB",
+      "version": "1.00",
+      "release": "October 25, 2019",
+      "min_fw": "6.72+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/08/MediEvil-PS4-PKG.webp",
+      "name": "Medievil",
+      "type": "update",
+      "download_text": "AKR",
+      "key_description": "Update 1.02 (6.72+) ⇛"
+    },
+    "https://akirabox.com/gXeGOgd1NGAa/file": {
+      "region": "EUR",
+      "size": "22GB",
+      "version": "1.00",
+      "release": "October 25, 2019",
+      "min_fw": "Fix 5.05",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/08/MediEvil-PS4-PKG.webp",
+      "name": "Medievil",
+      "type": "update",
+      "download_text": "AKR",
+      "key_description": "Update v1.02 (Fix 5.05) ⇛"
+    },
     "https://akirabox.com/N2p3DkrvxmMa/file": {
       "region": "EUR",
       "size": "1.29 GB",
@@ -22521,6 +22557,30 @@
       "type": "dlc",
       "download_text": "AKR",
       "key_description": "DLC v2 ⇛"
+    },
+    "https://akirabox.com/obj3jbwn23Dx/file": {
+      "region": "EUR",
+      "size": "500MB",
+      "version": "1.00",
+      "release": "October 14, 2014",
+      "min_fw": "5.05+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/08/Nidhogg-PS4-PKG.webp",
+      "name": "Nidhogg 2",
+      "type": "game",
+      "download_text": "AKR",
+      "key_description": "Game (5.05+) ⇛"
+    },
+    "https://akirabox.com/RMKGJXrkl31o/file": {
+      "region": "EUR",
+      "size": "500MB",
+      "version": "1.00",
+      "release": "October 14, 2014",
+      "min_fw": "5.05+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/08/Nidhogg-PS4-PKG.webp",
+      "name": "Nidhogg 2",
+      "type": "update",
+      "download_text": "AKR",
+      "key_description": "Update v1.02 (5.05+) ⇛"
     },
     "https://akirabox.com/0Kezk9162mD1/file": {
       "region": "EUR",
@@ -34068,7 +34128,7 @@
       "download_text": "AKR",
       "key_description": "Game v1.01 (5.05+) ⇛"
     },
-    "https://akirabox.com/M2BGw6KZ5zj4/file": {
+    "https://akirabox.com/qLQ36oj5lz19/file": {
       "region": "EUR",
       "size": "1.5GB",
       "version": "1.00",
@@ -34080,7 +34140,7 @@
       "download_text": "AKR",
       "key_description": "Game ⇛"
     },
-    "https://akirabox.com/Y2xm0L0d6mRO/file": {
+    "https://akirabox.com/EL73gb1K8m9B/file": {
       "region": "EUR",
       "size": "1.5GB",
       "version": "1.00",
@@ -35499,6 +35559,30 @@
       "type": "update",
       "download_text": "AKR",
       "key_description": "Update v1.01 (Fix 5.05/6.72/7.x/9.00) ⇛"
+    },
+    "https://akirabox.com/ex5z24bZ5mKq/file": {
+      "region": "EUR",
+      "size": "8.1GB",
+      "version": "1.00",
+      "release": "August 9, 2016",
+      "min_fw": "5.05+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/08/Transformers-Fall-of-Cybertron-PS4-PKG.webp",
+      "name": "Transformers Fall Of Cybertron",
+      "type": "game",
+      "download_text": "AKR",
+      "key_description": "Game (5.05+) ⇛"
+    },
+    "https://akirabox.com/b5OzdBLROmB8/file": {
+      "region": "EUR",
+      "size": "8.1GB",
+      "version": "1.00",
+      "release": "August 9, 2016",
+      "min_fw": "5.05+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/08/Transformers-Fall-of-Cybertron-PS4-PKG.webp",
+      "name": "Transformers Fall Of Cybertron",
+      "type": "update",
+      "download_text": "AKR",
+      "key_description": "Update v1.01 (5.05+) ⇛"
     },
     "https://akirabox.com/XkrzoxlQGBOR/file": {
       "region": "EUR",

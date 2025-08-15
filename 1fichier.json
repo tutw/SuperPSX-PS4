@@ -28170,6 +28170,42 @@
       "download_text": "OneFile",
       "key_description": "Update v1.04 (Fix 5.05/6.72/7.xx/8.xx) ⇛"
     },
+    "https://1fichier.com/?nehxyzskm3yvcrma1our&af=4186346": {
+      "region": "EUR",
+      "size": "22GB",
+      "version": "1.00",
+      "release": "October 25, 2019",
+      "min_fw": "6.72+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/08/MediEvil-PS4-PKG.webp",
+      "name": "Medievil",
+      "type": "game",
+      "download_text": "OneFile",
+      "key_description": "Game (6.72+) ⇛"
+    },
+    "https://1fichier.com/?11t8ylvotc53o1916og3&af=4186346": {
+      "region": "EUR",
+      "size": "22GB",
+      "version": "1.00",
+      "release": "October 25, 2019",
+      "min_fw": "6.72+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/08/MediEvil-PS4-PKG.webp",
+      "name": "Medievil",
+      "type": "update",
+      "download_text": "OneFile",
+      "key_description": "Update 1.02 (6.72+) ⇛"
+    },
+    "https://1fichier.com/?atre7wwgmwc712vc2el2&af=4186346": {
+      "region": "EUR",
+      "size": "22GB",
+      "version": "1.00",
+      "release": "October 25, 2019",
+      "min_fw": "Fix 5.05",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/08/MediEvil-PS4-PKG.webp",
+      "name": "Medievil",
+      "type": "update",
+      "download_text": "OneFile",
+      "key_description": "Update v1.02 (Fix 5.05) ⇛"
+    },
     "https://1fichier.com/?dvfu935waofgq6jcxmmr": {
       "region": "EUR",
       "size": "1.29 GB",
@@ -32475,6 +32511,30 @@
       "type": "update",
       "download_text": "OneFile",
       "key_description": "Update v1.07 ⇛"
+    },
+    "https://1fichier.com/?x0l1nv7408ke0kb720il&af=4186346": {
+      "region": "EUR",
+      "size": "500MB",
+      "version": "1.00",
+      "release": "October 14, 2014",
+      "min_fw": "5.05+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/08/Nidhogg-PS4-PKG.webp",
+      "name": "Nidhogg 2",
+      "type": "game",
+      "download_text": "OneFile",
+      "key_description": "Game (5.05+) ⇛"
+    },
+    "https://1fichier.com/?bry9hepim2a628h6iylm&af=4186346": {
+      "region": "EUR",
+      "size": "500MB",
+      "version": "1.00",
+      "release": "October 14, 2014",
+      "min_fw": "5.05+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/08/Nidhogg-PS4-PKG.webp",
+      "name": "Nidhogg 2",
+      "type": "update",
+      "download_text": "OneFile",
+      "key_description": "Update v1.02 (5.05+) ⇛"
     },
     "https://1fichier.com/?l85tz68ijgs1udp3fkom&af=4186346": {
       "region": "EUR",
@@ -52239,6 +52299,30 @@
       "type": "update",
       "download_text": "OneFile",
       "key_description": "Update v1.01 (Fix 5.05/6.72/7.x/9.00) ⇛"
+    },
+    "https://1fichier.com/?psmke690vr4t4k3fj233&af=4186346": {
+      "region": "EUR",
+      "size": "8.1GB",
+      "version": "1.00",
+      "release": "August 9, 2016",
+      "min_fw": "5.05+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/08/Transformers-Fall-of-Cybertron-PS4-PKG.webp",
+      "name": "Transformers Fall Of Cybertron",
+      "type": "game",
+      "download_text": "OneFile",
+      "key_description": "Game (5.05+) ⇛"
+    },
+    "https://1fichier.com/?44igdp5tk8kikgzq8zdc&af=4186346": {
+      "region": "EUR",
+      "size": "8.1GB",
+      "version": "1.00",
+      "release": "August 9, 2016",
+      "min_fw": "5.05+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/08/Transformers-Fall-of-Cybertron-PS4-PKG.webp",
+      "name": "Transformers Fall Of Cybertron",
+      "type": "update",
+      "download_text": "OneFile",
+      "key_description": "Update v1.01 (5.05+) ⇛"
     },
     "https://1fichier.com/?1qrbkcvyx88swuyyxchp&af=4186346": {
       "region": "EUR",

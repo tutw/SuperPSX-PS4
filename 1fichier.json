@@ -52764,54 +52764,6 @@
       "download_text": "OneFile",
       "key_description": "Update 1.02 (Fix 5.05/6.72/7.xx/8.xx) ⇛"
     },
-    "https://1fichier.com/?4fa1yt6mytyxbbiu0r0x&af=4186346": {
-      "region": "EUR",
-      "size": "7GB",
-      "version": "1.00",
-      "release": "September 27, 2019",
-      "min_fw": "6.72+",
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/08/Tropico-6-PS4-PKG.webp",
-      "name": "Tropico 6",
-      "type": "game",
-      "download_text": "OneFile",
-      "key_description": "Game (6.72+) ⇛"
-    },
-    "https://1fichier.com/?dbj8l9gmqvzhk3t6qemv&af=4186346": {
-      "region": "EUR",
-      "size": "7GB",
-      "version": "1.00",
-      "release": "September 27, 2019",
-      "min_fw": "6.72+",
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/08/Tropico-6-PS4-PKG.webp",
-      "name": "Tropico 6",
-      "type": "update",
-      "download_text": "OneFile",
-      "key_description": "Update v1.02 (6.72+) ⇛"
-    },
-    "https://1fichier.com/?qoom26dwswq9igg5xg6e&af=4186346": {
-      "region": "EUR",
-      "size": "7GB",
-      "version": "1.00",
-      "release": "September 27, 2019",
-      "min_fw": null,
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/08/Tropico-6-PS4-PKG.webp",
-      "name": "Tropico 6",
-      "type": "update",
-      "download_text": "OneFile",
-      "key_description": "Update v1.02 [Fix 5.05] ⇛"
-    },
-    "https://1fichier.com/?z3et480w76owvg0vs1w5&af=4186346": {
-      "region": "EUR",
-      "size": "7GB",
-      "version": "1.00",
-      "release": "September 27, 2019",
-      "min_fw": null,
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/08/Tropico-6-PS4-PKG.webp",
-      "name": "Tropico 6",
-      "type": "update",
-      "download_text": "OneFile",
-      "key_description": "Arabic Patch (@Abodora) ⇛"
-    },
     "https://1fichier.com/?awtxqof3irjf0vluo7tu&af=4186346": {
       "region": "EUR",
       "size": "2.41 GB",
@@ -57379,6 +57331,18 @@
       "type": "game",
       "download_text": "OneFile",
       "key_description": "Fix 5.05 ⇛"
+    },
+    "https://1fichier.com/?4s157vl0td0eecd1f95d&af=4186346": {
+      "region": "EUR",
+      "size": "4.5GB",
+      "version": "1.01",
+      "release": "June 16, 2022",
+      "min_fw": "9.00+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/08/Zorro-The-Chronicles-PS4-PKG.webp",
+      "name": "Zorro The Chronicles",
+      "type": "game",
+      "download_text": "OneFile",
+      "key_description": "Game (v1.01)(9.00+) ⇛"
     }
   }
 }

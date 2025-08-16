@@ -4769,7 +4769,7 @@
       "download_text": "AKR",
       "key_description": "Game (9.00+) ⇛"
     },
-    "https://akirabox.com/BnkmWwjkQmR0/file": {
+    "https://akirabox.com/EL73gbYAWm9B/file": {
       "region": "EUR",
       "size": "1GB",
       "version": "1.00",
@@ -4781,7 +4781,7 @@
       "download_text": "AKR",
       "key_description": "Update v1.04 (9.00+) ⇛"
     },
-    "https://akirabox.com/Zvqzlo8ya3aD/file": {
+    "https://akirabox.com/obj3jbLlr3Dx/file": {
       "region": "EUR",
       "size": "1GB",
       "version": "1.00",
@@ -31384,7 +31384,7 @@
       "download_text": "AKR",
       "key_description": "Update v1.02 (Fix 5.05) ⇛"
     },
-    "https://akirabox.com/0PdzykeN0meA/file": {
+    "https://akirabox.com/qPez4rpYpmOY/folder": {
       "region": "EUR",
       "size": "22.78 GB",
       "version": "1.00",
@@ -35916,54 +35916,6 @@
       "download_text": "AKR",
       "key_description": "Update v1.12 (Fix 5.05) ⇛"
     },
-    "https://akirabox.com/XkrzoreWd3BO/file": {
-      "region": "EUR",
-      "size": "7GB",
-      "version": "1.00",
-      "release": "September 27, 2019",
-      "min_fw": "6.72+",
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/08/Tropico-6-PS4-PKG.webp",
-      "name": "Tropico 6",
-      "type": "game",
-      "download_text": "AKR",
-      "key_description": "Game (6.72+) ⇛"
-    },
-    "https://akirabox.com/qw1zepjRe3Xy/file": {
-      "region": "EUR",
-      "size": "7GB",
-      "version": "1.00",
-      "release": "September 27, 2019",
-      "min_fw": "6.72+",
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/08/Tropico-6-PS4-PKG.webp",
-      "name": "Tropico 6",
-      "type": "update",
-      "download_text": "AKR",
-      "key_description": "Update v1.02 (6.72+) ⇛"
-    },
-    "https://akirabox.com/ZvqzlRay6maD/file": {
-      "region": "EUR",
-      "size": "7GB",
-      "version": "1.00",
-      "release": "September 27, 2019",
-      "min_fw": null,
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/08/Tropico-6-PS4-PKG.webp",
-      "name": "Tropico 6",
-      "type": "update",
-      "download_text": "AKR",
-      "key_description": "Update v1.02 [Fix 5.05] ⇛"
-    },
-    "https://akirabox.com/E1x3Ak20vGyk/file": {
-      "region": "EUR",
-      "size": "7GB",
-      "version": "1.00",
-      "release": "September 27, 2019",
-      "min_fw": null,
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/08/Tropico-6-PS4-PKG.webp",
-      "name": "Tropico 6",
-      "type": "update",
-      "download_text": "AKR",
-      "key_description": "Arabic Patch (@Abodora) ⇛"
-    },
     "https://akirabox.com/RMKGJO6Vm1oP/file": {
       "region": "EUR",
       "size": "1.72 GB",
@@ -39355,6 +39307,18 @@
       "type": "update",
       "download_text": "AKR",
       "key_description": "Update v1.48 (8.00+) (Merged with ALL DLC) ⇛"
+    },
+    "https://akirabox.com/ex5z24dZemKq/file": {
+      "region": "EUR",
+      "size": "4.5GB",
+      "version": "1.01",
+      "release": "June 16, 2022",
+      "min_fw": "9.00+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/08/Zorro-The-Chronicles-PS4-PKG.webp",
+      "name": "Zorro The Chronicles",
+      "type": "game",
+      "download_text": "AKR",
+      "key_description": "Game (v1.01)(9.00+) ⇛"
     }
   }
 }

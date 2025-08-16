@@ -8989,6 +8989,18 @@
       "type": "dlc",
       "download_text": "Viki",
       "key_description": "DLC (v5) ⇛"
+    },
+    "https://vikingfile.com/f/NNqG0iic8j": {
+      "region": "EUR",
+      "size": "4.5GB",
+      "version": "1.01",
+      "release": "June 16, 2022",
+      "min_fw": "9.00+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/08/Zorro-The-Chronicles-PS4-PKG.webp",
+      "name": "Zorro The Chronicles",
+      "type": "game",
+      "download_text": "Viki",
+      "key_description": "Game (v1.01)(9.00+) ⇛"
     }
   }
 }

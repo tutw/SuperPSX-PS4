@@ -7016,6 +7016,18 @@
       "download_text": "OneFile",
       "key_description": "Update v1.01 (9.00+) ⇛"
     },
+    "https://1fichier.com/?htkp3t0occdnqnkdyd0c&af=4186346": {
+      "region": "EUR",
+      "size": "4GB",
+      "version": "1.00",
+      "release": "May 16, 2025",
+      "min_fw": "Fix 5.05/6.72/7.xx",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/05/Capcom-Fighting-Collection-2-PS4-PKG.webp",
+      "name": "Capcom Fighting Collection 2",
+      "type": "update",
+      "download_text": "OneFile",
+      "key_description": "Update v1.01 (Fix 5.05/6.72/7.xx) ⇛"
+    },
     "https://1fichier.com/?ek59v5jaykewqrfdouer&af=4186346": {
       "region": "EUR",
       "size": "4GB",
@@ -11450,7 +11462,7 @@
       "name": "Demon Slayer",
       "type": "update",
       "download_text": "OneFile",
-      "key_description": "Update 1.81 (9.00+) ⇛"
+      "key_description": "Update v1.81 (9.00+) ⇛"
     },
     "https://1fichier.com/?arj0grm7qc20b9bs7c0y&af=4186346": {
       "region": "EUR",
@@ -11462,7 +11474,7 @@
       "name": "Demon Slayer",
       "type": "update",
       "download_text": "OneFile",
-      "key_description": "Update 1.81 (Fix 5.05/6.72/7.02/7.55)"
+      "key_description": "Update v1.81 (Fix 5.05/6.72/7.02/7.55)"
     },
     "https://1fichier.com/?ih30z41indkhmd9bktc6&af=4186346": {
       "region": "EUR",

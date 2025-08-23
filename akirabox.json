@@ -21052,6 +21052,45 @@
       "download_text": "AKR",
       "key_description": "Update v1.09 (Fix 5.05/6.72/7.xx) ⇛"
     },
+    "https://akirabox.com/5pVzNZM0z7wv/file": {
+      "region": "USA",
+      "size": "3GB",
+      "version": "1.00",
+      "release": "July 17, 2018",
+      "min_fw": null,
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/06/Mothergunship-PS4-PKG.webp",
+      "cusa": "CUSA10579",
+      "name": "Mothergunship",
+      "type": "game",
+      "download_text": "AKR",
+      "key_description": "Game (5.00+) ⇛"
+    },
+    "https://akirabox.com/jar3Xo8rm2dD/file": {
+      "region": "USA",
+      "size": "3GB",
+      "version": "1.00",
+      "release": "July 17, 2018",
+      "min_fw": null,
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/06/Mothergunship-PS4-PKG.webp",
+      "cusa": "CUSA10579",
+      "name": "Mothergunship",
+      "type": "update",
+      "download_text": "AKR",
+      "key_description": "Update v1.09 (5.00+) ⇛"
+    },
+    "https://akirabox.com/1RgzRoRPGbpB/file": {
+      "region": "USA",
+      "size": "3GB",
+      "version": "1.00",
+      "release": "July 17, 2018",
+      "min_fw": null,
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/06/Mothergunship-PS4-PKG.webp",
+      "cusa": "CUSA10579",
+      "name": "Mothergunship",
+      "type": "dlc",
+      "download_text": "AKR",
+      "key_description": "DLC ⇛"
+    },
     "https://akirabox.com/dkD3YRalzLQK/file": {
       "region": "EUR",
       "size": "20.03 GB",
@@ -26952,6 +26991,32 @@
       "type": "update",
       "download_text": "AKR",
       "key_description": "Update v1.03 (Fix 5.05/6.72/7.02/7.55) ⇛"
+    },
+    "https://akirabox.com/9QWmpYlMx3EB/file": {
+      "region": "USA",
+      "size": "3.7GB",
+      "version": "1.00",
+      "release": "October 28, 2024",
+      "min_fw": null,
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/07/Shadows-of-The-Damned-Hella-Remastered-PS4-PKG.webp",
+      "cusa": "CUSA44590",
+      "name": "Shadows Of The Damned Hella Remastered",
+      "type": "game",
+      "download_text": "AKR",
+      "key_description": "Game ⇛"
+    },
+    "https://akirabox.com/obj3jbOjA3Dx/file": {
+      "region": "USA",
+      "size": "3.7GB",
+      "version": "1.00",
+      "release": "October 28, 2024",
+      "min_fw": "5.05/6.72/7.02/7.55/9.00/11.00",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/07/Shadows-of-The-Damned-Hella-Remastered-PS4-PKG.webp",
+      "cusa": "CUSA44590",
+      "name": "Shadows Of The Damned Hella Remastered",
+      "type": "game",
+      "download_text": "AKR",
+      "key_description": "Fix (5.05/6.72/7.02/7.55/9.00/11.00) ⇛"
     },
     "https://akirabox.com/jJD3VOANza5Q/file": {
       "region": "EUR",

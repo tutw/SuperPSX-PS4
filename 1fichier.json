@@ -30030,84 +30030,6 @@
       "download_text": "OneFile",
       "key_description": "Update v1.09 (Fix 5.05/6.72/7.xx) ⇛"
     },
-    "https://1fichier.com/?hpcgh08z05y7yqvjpibz&af=4186346": {
-      "region": "USA",
-      "size": "3GB",
-      "version": "1.00",
-      "release": "July 17, 2018",
-      "min_fw": null,
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/06/Mothergunship-PS4-PKG.webp",
-      "cusa": "CUSA10579",
-      "name": "Mothergunship",
-      "type": "game",
-      "download_text": "OneFile",
-      "key_description": "Game (5.00+) ⇛"
-    },
-    "https://1fichier.com/?ywej2f1iw85z3grfbv7l&af=4186346": {
-      "region": "USA",
-      "size": "3GB",
-      "version": "1.00",
-      "release": "July 17, 2018",
-      "min_fw": null,
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/06/Mothergunship-PS4-PKG.webp",
-      "cusa": "CUSA10579",
-      "name": "Mothergunship",
-      "type": "update",
-      "download_text": "OneFile",
-      "key_description": "Update v1.09 (5.00+) ⇛"
-    },
-    "https://1fichier.com/?r5nffg8hm0qnjxsn25c3&af=4186346": {
-      "region": "USA",
-      "size": "3GB",
-      "version": "1.00",
-      "release": "July 17, 2018",
-      "min_fw": null,
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/06/Mothergunship-PS4-PKG.webp",
-      "cusa": "CUSA10579",
-      "name": "Mothergunship",
-      "type": "dlc",
-      "download_text": "OneFile",
-      "key_description": "DLC ⇛"
-    },
-    "https://1fichier.com/?4lhvgyrz0h87unldt7kz&af=4186346": {
-      "region": "USA",
-      "size": "3GB",
-      "version": "1.00",
-      "release": "July 17, 2018",
-      "min_fw": "5.05+",
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/06/Mothergunship-PS4-PKG.webp",
-      "cusa": "CUSA10579",
-      "name": "Mothergunship",
-      "type": "game",
-      "download_text": "OneFile",
-      "key_description": "Game (5.05+) ⇛"
-    },
-    "https://1fichier.com/?en0hta662rpocpum1i4n&af=4186346": {
-      "region": "USA",
-      "size": "3GB",
-      "version": "1.00",
-      "release": "July 17, 2018",
-      "min_fw": "5.05+",
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/06/Mothergunship-PS4-PKG.webp",
-      "cusa": "CUSA10579",
-      "name": "Mothergunship",
-      "type": "update",
-      "download_text": "OneFile",
-      "key_description": "Update 1.09 (5.05+) ⇛"
-    },
-    "https://1fichier.com/?cm8ght1cxkyi3wzgyf30&af=4186346": {
-      "region": "USA",
-      "size": "3GB",
-      "version": "1.00",
-      "release": "July 17, 2018",
-      "min_fw": null,
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/06/Mothergunship-PS4-PKG.webp",
-      "cusa": "CUSA10579",
-      "name": "Mothergunship",
-      "type": "dlc",
-      "download_text": "OneFile",
-      "key_description": "DLC ⇛"
-    },
     "https://1fichier.com/?pnoubcni47rym9xkau3a&af=4186346": {
       "region": "EUR",
       "size": "20.03 GB",
@@ -32452,30 +32374,6 @@
       "download_text": "OneFile",
       "key_description": "DLC ⇛"
     },
-    "https://1fichier.com/?e7psyde2u42xep77z9a9&af=4186346": {
-      "region": "EUR",
-      "size": "397.15 MB",
-      "version": "1.00",
-      "release": "August 15, 2017",
-      "min_fw": "5.05+",
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/Nidhogg-2-PS4-PKG.webp",
-      "name": "Nidhogg 2",
-      "type": "game",
-      "download_text": "OneFile",
-      "key_description": "Game ⇛"
-    },
-    "https://1fichier.com/?gd1on8cxwscgvpfngm94&af=4186346": {
-      "region": "EUR",
-      "size": "397.15 MB",
-      "version": "1.00",
-      "release": "August 15, 2017",
-      "min_fw": "5.05+",
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/Nidhogg-2-PS4-PKG.webp",
-      "name": "Nidhogg 2",
-      "type": "update",
-      "download_text": "OneFile",
-      "key_description": "Update v1.07 ⇛"
-    },
     "https://1fichier.com/?x0l1nv7408ke0kb720il&af=4186346": {
       "region": "EUR",
       "size": "500MB",
@@ -32499,6 +32397,30 @@
       "type": "update",
       "download_text": "OneFile",
       "key_description": "Update v1.02 (5.05+) ⇛"
+    },
+    "https://1fichier.com/?e7psyde2u42xep77z9a9&af=4186346": {
+      "region": "EUR",
+      "size": "397.15 MB",
+      "version": "1.00",
+      "release": "August 15, 2017",
+      "min_fw": "5.05+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/Nidhogg-2-PS4-PKG.webp",
+      "name": "Nidhogg 2",
+      "type": "game",
+      "download_text": "OneFile",
+      "key_description": "Game ⇛"
+    },
+    "https://1fichier.com/?gd1on8cxwscgvpfngm94&af=4186346": {
+      "region": "EUR",
+      "size": "397.15 MB",
+      "version": "1.00",
+      "release": "August 15, 2017",
+      "min_fw": "5.05+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/Nidhogg-2-PS4-PKG.webp",
+      "name": "Nidhogg 2",
+      "type": "update",
+      "download_text": "OneFile",
+      "key_description": "Update v1.07 ⇛"
     },
     "https://1fichier.com/?l85tz68ijgs1udp3fkom&af=4186346": {
       "region": "EUR",
@@ -40259,32 +40181,6 @@
       "type": "game",
       "download_text": "OneFile",
       "key_description": "Game ⇛"
-    },
-    "https://1fichier.com/?we40diow2u6qyyszyfdj&af=4186346": {
-      "region": "USA",
-      "size": "3.7GB",
-      "version": "1.00",
-      "release": "October 28, 2024",
-      "min_fw": null,
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/07/Shadows-of-The-Damned-Hella-Remastered-PS4-PKG.webp",
-      "cusa": "CUSA44590",
-      "name": "Shadows Of The Damned Hella Remastered",
-      "type": "game",
-      "download_text": "OneFile",
-      "key_description": "Game ⇛"
-    },
-    "https://1fichier.com/?vcl69tso2jr25lqb4l8q&af=4186346": {
-      "region": "USA",
-      "size": "3.7GB",
-      "version": "1.00",
-      "release": "October 28, 2024",
-      "min_fw": "5.05/6.72/7.02/7.55/9.00/11.00",
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/07/Shadows-of-The-Damned-Hella-Remastered-PS4-PKG.webp",
-      "cusa": "CUSA44590",
-      "name": "Shadows Of The Damned Hella Remastered",
-      "type": "game",
-      "download_text": "OneFile",
-      "key_description": "Fix (5.05/6.72/7.02/7.55/9.00/11.00) ⇛"
     },
     "https://1fichier.com/?qu4fksn7vqpk3hujtqyt&af=4186346": {
       "region": "EUR",
@@ -57079,30 +56975,6 @@
       "type": "update",
       "download_text": "OneFile",
       "key_description": "Update v1.03 (Fix 5.05/6.72/7.02/7.55/9.00) ⇛"
-    },
-    "https://1fichier.com/?wpzslf2ncd4oshvrhv6n&af=4186346": {
-      "region": "EUR",
-      "size": "3.95 GB",
-      "version": "1.00",
-      "release": "October 19, 2021",
-      "min_fw": "9.00+",
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/Youtubers-Life-2-PS4-PKG.webp",
-      "name": "Youtubers Life 2",
-      "type": "update",
-      "download_text": "OneFile",
-      "key_description": "Game + Update 1.03 ⇛"
-    },
-    "https://1fichier.com/?a19e4uny3my2nfe982am&af=4186346": {
-      "region": "EUR",
-      "size": "3.95 GB",
-      "version": "1.00",
-      "release": "October 19, 2021",
-      "min_fw": "Fix 5.05/6.72/7.xx/8.0x",
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/Youtubers-Life-2-PS4-PKG.webp",
-      "name": "Youtubers Life 2",
-      "type": "update",
-      "download_text": "OneFile",
-      "key_description": "Update 1.03 (Fix 5.05/6.72/7.xx/8.0x) ⇛"
     },
     "https://1fichier.com/?1fdy6tiz1w77kko5jj28": {
       "region": "EUR",

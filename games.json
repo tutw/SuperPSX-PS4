@@ -1287,6 +1287,42 @@
       "download_text": "Viki",
       "key_description": "Update v1.01 (Fix 5.05/6.72/7.02) ⇛"
     },
+    "https://vikingfile.com/f/BYXTu6qoOR": {
+      "region": "EUR",
+      "size": "247.46 MB",
+      "version": "1.00",
+      "release": "September 17, 2019",
+      "min_fw": "6.72+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/Castle-Crashers-Remastered-PS4-PKG.webp",
+      "name": "Castle Crashers Remastered",
+      "type": "game",
+      "download_text": "Viki",
+      "key_description": "Game (6.72+) ⇛"
+    },
+    "https://vikingfile.com/f/QMqiBbpuLl": {
+      "region": "EUR",
+      "size": "247.46 MB",
+      "version": "1.00",
+      "release": "September 17, 2019",
+      "min_fw": "6.72+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/Castle-Crashers-Remastered-PS4-PKG.webp",
+      "name": "Castle Crashers Remastered",
+      "type": "update",
+      "download_text": "Viki",
+      "key_description": "Update v1.04 (6.72+) ⇛"
+    },
+    "https://vikingfile.com/f/0YBKDX9mO0": {
+      "region": "EUR",
+      "size": "247.46 MB",
+      "version": "1.00",
+      "release": "September 17, 2019",
+      "min_fw": "Fix 5.05",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/Castle-Crashers-Remastered-PS4-PKG.webp",
+      "name": "Castle Crashers Remastered",
+      "type": "update",
+      "download_text": "Viki",
+      "key_description": "Update v1.04 (Fix 5.05) ⇛"
+    },
     "https://vikingfile.com/f/dh1Io8tcQq": {
       "region": "USA",
       "size": "700MB",

@@ -7196,7 +7196,31 @@
       "download_text": "OneFile",
       "key_description": "Update v1.01 (Fix 5.05/6.72/7.02) ⇛"
     },
-    "https://1fichier.com/?uxa63t98rsqokz77i14h&af=4186346": {
+    "https://1fichier.com/?umlnbnuz33usca341kyd&af=4186346": {
+      "region": "EUR",
+      "size": "247.46 MB",
+      "version": "1.00",
+      "release": "September 17, 2019",
+      "min_fw": "6.72+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/Castle-Crashers-Remastered-PS4-PKG.webp",
+      "name": "Castle Crashers Remastered",
+      "type": "game",
+      "download_text": "OneFile",
+      "key_description": "Game (6.72+) ⇛"
+    },
+    "https://1fichier.com/?12kvbhtocayz4s8av31l&af=4186346": {
+      "region": "EUR",
+      "size": "247.46 MB",
+      "version": "1.00",
+      "release": "September 17, 2019",
+      "min_fw": "6.72+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/Castle-Crashers-Remastered-PS4-PKG.webp",
+      "name": "Castle Crashers Remastered",
+      "type": "update",
+      "download_text": "OneFile",
+      "key_description": "Update v1.04 (6.72+) ⇛"
+    },
+    "https://1fichier.com/?two2pwb6m3qu26e7v089&af=4186346": {
       "region": "EUR",
       "size": "247.46 MB",
       "version": "1.00",
@@ -7206,7 +7230,7 @@
       "name": "Castle Crashers Remastered",
       "type": "update",
       "download_text": "OneFile",
-      "key_description": "Game + Update 1.04 + Update 1.04 (Fix 5.05) ⇛"
+      "key_description": "Update v1.04 (Fix 5.05) ⇛"
     },
     "https://1fichier.com/?5ehxqva11215ncij1xck&af=4186346": {
       "region": "EUR",
@@ -32452,30 +32476,6 @@
       "download_text": "OneFile",
       "key_description": "DLC ⇛"
     },
-    "https://1fichier.com/?e7psyde2u42xep77z9a9&af=4186346": {
-      "region": "EUR",
-      "size": "397.15 MB",
-      "version": "1.00",
-      "release": "August 15, 2017",
-      "min_fw": "5.05+",
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/Nidhogg-2-PS4-PKG.webp",
-      "name": "Nidhogg 2",
-      "type": "game",
-      "download_text": "OneFile",
-      "key_description": "Game ⇛"
-    },
-    "https://1fichier.com/?gd1on8cxwscgvpfngm94&af=4186346": {
-      "region": "EUR",
-      "size": "397.15 MB",
-      "version": "1.00",
-      "release": "August 15, 2017",
-      "min_fw": "5.05+",
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/Nidhogg-2-PS4-PKG.webp",
-      "name": "Nidhogg 2",
-      "type": "update",
-      "download_text": "OneFile",
-      "key_description": "Update v1.07 ⇛"
-    },
     "https://1fichier.com/?x0l1nv7408ke0kb720il&af=4186346": {
       "region": "EUR",
       "size": "500MB",
@@ -32499,6 +32499,30 @@
       "type": "update",
       "download_text": "OneFile",
       "key_description": "Update v1.02 (5.05+) ⇛"
+    },
+    "https://1fichier.com/?e7psyde2u42xep77z9a9&af=4186346": {
+      "region": "EUR",
+      "size": "397.15 MB",
+      "version": "1.00",
+      "release": "August 15, 2017",
+      "min_fw": "5.05+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/Nidhogg-2-PS4-PKG.webp",
+      "name": "Nidhogg 2",
+      "type": "game",
+      "download_text": "OneFile",
+      "key_description": "Game (5.05+) ⇛"
+    },
+    "https://1fichier.com/?gd1on8cxwscgvpfngm94&af=4186346": {
+      "region": "EUR",
+      "size": "397.15 MB",
+      "version": "1.00",
+      "release": "August 15, 2017",
+      "min_fw": "5.05+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/Nidhogg-2-PS4-PKG.webp",
+      "name": "Nidhogg 2",
+      "type": "update",
+      "download_text": "OneFile",
+      "key_description": "Update v1.07 (5.05+) ⇛"
     },
     "https://1fichier.com/?l85tz68ijgs1udp3fkom&af=4186346": {
       "region": "EUR",

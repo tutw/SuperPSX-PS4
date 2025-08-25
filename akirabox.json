@@ -3116,7 +3116,7 @@
       "download_text": "AKR",
       "key_description": "Update v1.04 (Fix 6.72/7.xx/9.00) ⇛"
     },
-    "https://akirabox.com/qw1zer4PeGXy/file": {
+    "https://akirabox.com/l5YzMKP1QmyO/file": {
       "region": "EUR",
       "size": "973MB",
       "version": "1.00",
@@ -12040,18 +12040,6 @@
       "download_text": "AKR",
       "key_description": "Update v1.02 (5.05+) ⇛"
     },
-    "https://akirabox.com/qLQ36oR9Ez19/file": {
-      "region": "EUR",
-      "size": "20GB",
-      "version": "1.00",
-      "release": "March 17, 2015",
-      "min_fw": null,
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/08/Final-Fantasy-Type-0-HD-Day-One-Edition-PS4-PKG.webp",
-      "name": "Final Fantasy Type 0 HD Day One Edition",
-      "type": "game",
-      "download_text": "AKR",
-      "key_description": "Game ⇛"
-    },
     "https://akirabox.com/l5YzM8AK3yOA/file": {
       "region": "USA",
       "size": "85GB",
@@ -12670,6 +12658,42 @@
       "type": "dlc",
       "download_text": "AKR",
       "key_description": "DLCs ⇛"
+    },
+    "https://akirabox.com/7d5GLrpjQ3xR/file": {
+      "region": "EUR",
+      "size": "20GB",
+      "version": "1.00",
+      "release": "September 13, 2024",
+      "min_fw": null,
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/08/Funko-Fusion-PS4-PKG.webp",
+      "name": "Funko Fusion",
+      "type": "game",
+      "download_text": "AKR",
+      "key_description": "Game (11.50+) ⇛"
+    },
+    "https://akirabox.com/9AqGQBM1EmMn/file": {
+      "region": "EUR",
+      "size": "20GB",
+      "version": "1.00",
+      "release": "September 13, 2024",
+      "min_fw": "Fix 6.72/7.xx/9.00/11.00",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/08/Funko-Fusion-PS4-PKG.webp",
+      "name": "Funko Fusion",
+      "type": "update",
+      "download_text": "AKR",
+      "key_description": "Update v2.63 (Fix 6.72/7.xx/9.00/11.00) ⇛"
+    },
+    "https://akirabox.com/dkD3Yq90X3LQ/file": {
+      "region": "EUR",
+      "size": "20GB",
+      "version": "1.00",
+      "release": "September 13, 2024",
+      "min_fw": null,
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/08/Funko-Fusion-PS4-PKG.webp",
+      "name": "Funko Fusion",
+      "type": "dlc",
+      "download_text": "AKR",
+      "key_description": "DLC (19) ⇛"
     },
     "https://akirabox.com/wgWGqxPwz4oy/file": {
       "region": "EUR",

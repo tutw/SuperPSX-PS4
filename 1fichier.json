@@ -16833,18 +16833,6 @@
       "download_text": "OneFile",
       "key_description": "Update v1.02 (5.05+) ⇛"
     },
-    "https://1fichier.com/?1nshp0oczwfmrks7u97r&af=4186346": {
-      "region": "EUR",
-      "size": "20GB",
-      "version": "1.00",
-      "release": "March 17, 2015",
-      "min_fw": null,
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/08/Final-Fantasy-Type-0-HD-Day-One-Edition-PS4-PKG.webp",
-      "name": "Final Fantasy Type 0 HD Day One Edition",
-      "type": "game",
-      "download_text": "OneFile",
-      "key_description": "Game ⇛"
-    },
     "https://1fichier.com/?7xaqw5yim69rzyucyi0c&af=4186346": {
       "region": "USA",
       "size": "85GB",
@@ -17703,6 +17691,42 @@
       "type": "dlc",
       "download_text": "OneFile",
       "key_description": "DLCs ⇛"
+    },
+    "https://1fichier.com/?e1xa2oxje517av48w3zt&af=4186346": {
+      "region": "EUR",
+      "size": "20GB",
+      "version": "1.00",
+      "release": "September 13, 2024",
+      "min_fw": null,
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/08/Funko-Fusion-PS4-PKG.webp",
+      "name": "Funko Fusion",
+      "type": "game",
+      "download_text": "OneFile",
+      "key_description": "Game (11.50+) ⇛"
+    },
+    "https://1fichier.com/?vpfjws8mztegtx1dhsa9&af=4186346": {
+      "region": "EUR",
+      "size": "20GB",
+      "version": "1.00",
+      "release": "September 13, 2024",
+      "min_fw": "Fix 6.72/7.xx/9.00/11.00",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/08/Funko-Fusion-PS4-PKG.webp",
+      "name": "Funko Fusion",
+      "type": "update",
+      "download_text": "OneFile",
+      "key_description": "Update v2.63 (Fix 6.72/7.xx/9.00/11.00) ⇛"
+    },
+    "https://1fichier.com/?wpein9347xzefshs3idy&af=4186346": {
+      "region": "EUR",
+      "size": "20GB",
+      "version": "1.00",
+      "release": "September 13, 2024",
+      "min_fw": null,
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/08/Funko-Fusion-PS4-PKG.webp",
+      "name": "Funko Fusion",
+      "type": "dlc",
+      "download_text": "OneFile",
+      "key_description": "DLC (19) ⇛"
     },
     "https://1fichier.com/?e9qjy1ws7sdird1kyoae&af=4186346": {
       "region": "EUR",

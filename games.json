@@ -3317,6 +3317,42 @@
       "download_text": "Viki",
       "key_description": "Fix (5.05/6.72/7.xx/8.xx) ⇛"
     },
+    "https://vikingfile.com/f/KbgBppCrPw": {
+      "region": "EUR",
+      "size": "20GB",
+      "version": "1.00",
+      "release": "September 13, 2024",
+      "min_fw": null,
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/08/Funko-Fusion-PS4-PKG.webp",
+      "name": "Funko Fusion",
+      "type": "game",
+      "download_text": "Viki",
+      "key_description": "Game (11.50+) ⇛"
+    },
+    "https://vikingfile.com/f/GNlmzzSlmu": {
+      "region": "EUR",
+      "size": "20GB",
+      "version": "1.00",
+      "release": "September 13, 2024",
+      "min_fw": "Fix 6.72/7.xx/9.00/11.00",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/08/Funko-Fusion-PS4-PKG.webp",
+      "name": "Funko Fusion",
+      "type": "update",
+      "download_text": "Viki",
+      "key_description": "Update v2.63 (Fix 6.72/7.xx/9.00/11.00) ⇛"
+    },
+    "https://vikingfile.com/f/Fp7v43Yn3c": {
+      "region": "EUR",
+      "size": "20GB",
+      "version": "1.00",
+      "release": "September 13, 2024",
+      "min_fw": null,
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/08/Funko-Fusion-PS4-PKG.webp",
+      "name": "Funko Fusion",
+      "type": "dlc",
+      "download_text": "Viki",
+      "key_description": "DLC (19) ⇛"
+    },
     "https://vikingfile.com/f/Dhz4gO1oZZ": {
       "region": "EUR",
       "size": "681MB",

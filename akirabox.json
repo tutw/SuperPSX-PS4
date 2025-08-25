@@ -12040,6 +12040,18 @@
       "download_text": "AKR",
       "key_description": "Update v1.02 (5.05+) ⇛"
     },
+    "https://akirabox.com/qLQ36oR9Ez19/file": {
+      "region": "EUR",
+      "size": "20GB",
+      "version": "1.00",
+      "release": "March 17, 2015",
+      "min_fw": null,
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/08/Final-Fantasy-Type-0-HD-Day-One-Edition-PS4-PKG.webp",
+      "name": "Final Fantasy Type 0 HD Day One Edition",
+      "type": "game",
+      "download_text": "AKR",
+      "key_description": "Game ⇛"
+    },
     "https://akirabox.com/l5YzM8AK3yOA/file": {
       "region": "USA",
       "size": "85GB",
@@ -23240,6 +23252,18 @@
       "type": "game",
       "download_text": "AKR",
       "key_description": "Game (5.50+) ⇛"
+    },
+    "https://akirabox.com/rk9zKrj6X30l/file": {
+      "region": "EUR",
+      "size": "2GB",
+      "version": "1.00",
+      "release": "June 17, 2022",
+      "min_fw": "9.51+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/08/OMORI-PS4-PKG.webp",
+      "name": "Omori",
+      "type": "game",
+      "download_text": "AKR",
+      "key_description": "Game (9.51+) ⇛"
     },
     "https://akirabox.com/BnkmW7X0mR0y/file": {
       "region": "EUR",

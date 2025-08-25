@@ -5739,6 +5739,18 @@
       "download_text": "Viki",
       "key_description": "Update v1.02 (Fix 5.05) ⇛"
     },
+    "https://vikingfile.com/f/NbUh50CntN": {
+      "region": "EUR",
+      "size": "2GB",
+      "version": "1.00",
+      "release": "June 17, 2022",
+      "min_fw": "9.51+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/08/OMORI-PS4-PKG.webp",
+      "name": "Omori",
+      "type": "game",
+      "download_text": "Viki",
+      "key_description": "Game (9.51+) ⇛"
+    },
     "https://vikingfile.com/f/SCq21CEIvQ": {
       "region": "EUR",
       "size": "10.58 GB",

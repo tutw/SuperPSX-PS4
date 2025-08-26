@@ -6659,6 +6659,45 @@
       "download_text": "Viki",
       "key_description": "Game (5.05+) ⇛"
     },
+    "https://vikingfile.com/f/htogS77hYr": {
+      "region": "USA",
+      "size": "7GB",
+      "version": "1.00",
+      "release": "Feb 06, 2025",
+      "min_fw": "12.00+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/02/Sid-Meiers-Civilization-VII-Founders-Edition-PS4-PKG.webp",
+      "cusa": "CUSA28732",
+      "name": "Sid Meiers Civilization VII",
+      "type": "game",
+      "download_text": "Viki",
+      "key_description": "Game (12.00+) ⇛"
+    },
+    "https://vikingfile.com/f/nqy9OzTogk": {
+      "region": "USA",
+      "size": "7GB",
+      "version": "1.00",
+      "release": "Feb 06, 2025",
+      "min_fw": "Fix 5.05/6.72/7.02/7.55/9.00/11.00",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/02/Sid-Meiers-Civilization-VII-Founders-Edition-PS4-PKG.webp",
+      "cusa": "CUSA28732",
+      "name": "Sid Meiers Civilization VII",
+      "type": "update",
+      "download_text": "Viki",
+      "key_description": "Update v1.11 (Fix 5.05/6.72/7.02/7.55/9.00/11.00) ⇛"
+    },
+    "https://vikingfile.com/f/JeSGzpskKV": {
+      "region": "USA",
+      "size": "7GB",
+      "version": "1.00",
+      "release": "Feb 06, 2025",
+      "min_fw": null,
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/02/Sid-Meiers-Civilization-VII-Founders-Edition-PS4-PKG.webp",
+      "cusa": "CUSA28732",
+      "name": "Sid Meiers Civilization VII",
+      "type": "dlc",
+      "download_text": "Viki",
+      "key_description": "DLC (26) ⇛"
+    },
     "https://vikingfile.com/f/Q6z1wol8ug": {
       "region": "USA",
       "size": "28.6GB",

@@ -14264,7 +14264,7 @@
       "download_text": "AKR",
       "key_description": "Game (9.00+) ⇛"
     },
-    "https://akirabox.com/9AqGQx6P0zMn/file": {
+    "https://akirabox.com/N2p3DkRP2mMa/file": {
       "region": "EUR",
       "size": "7GB",
       "version": "1.00",
@@ -14276,7 +14276,7 @@
       "download_text": "AKR",
       "key_description": "Update v1.03 (9.00+) ⇛"
     },
-    "https://akirabox.com/jJD3VWwZLza5/file": {
+    "https://akirabox.com/gXeGOg8AjGAa/file": {
       "region": "EUR",
       "size": "7GB",
       "version": "1.00",
@@ -22594,30 +22594,6 @@
       "download_text": "AKR",
       "key_description": "DLC v2 ⇛"
     },
-    "https://akirabox.com/obj3jbwn23Dx/file": {
-      "region": "EUR",
-      "size": "500MB",
-      "version": "1.00",
-      "release": "October 14, 2014",
-      "min_fw": "5.05+",
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/08/Nidhogg-PS4-PKG.webp",
-      "name": "Nidhogg 2",
-      "type": "game",
-      "download_text": "AKR",
-      "key_description": "Game (5.05+) ⇛"
-    },
-    "https://akirabox.com/RMKGJXrkl31o/file": {
-      "region": "EUR",
-      "size": "500MB",
-      "version": "1.00",
-      "release": "October 14, 2014",
-      "min_fw": "5.05+",
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/08/Nidhogg-PS4-PKG.webp",
-      "name": "Nidhogg 2",
-      "type": "update",
-      "download_text": "AKR",
-      "key_description": "Update v1.02 (5.05+) ⇛"
-    },
     "https://akirabox.com/7d5GLr56V3xR/file": {
       "region": "EUR",
       "size": "397.15 MB",
@@ -22641,6 +22617,30 @@
       "type": "update",
       "download_text": "AKR",
       "key_description": "Update v1.07 (5.05+) ⇛"
+    },
+    "https://akirabox.com/obj3jbwn23Dx/file": {
+      "region": "EUR",
+      "size": "500MB",
+      "version": "1.00",
+      "release": "October 14, 2014",
+      "min_fw": "5.05+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/08/Nidhogg-PS4-PKG.webp",
+      "name": "Nidhogg 2",
+      "type": "game",
+      "download_text": "AKR",
+      "key_description": "Game (5.05+) ⇛"
+    },
+    "https://akirabox.com/RMKGJXrkl31o/file": {
+      "region": "EUR",
+      "size": "500MB",
+      "version": "1.00",
+      "release": "October 14, 2014",
+      "min_fw": "5.05+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/08/Nidhogg-PS4-PKG.webp",
+      "name": "Nidhogg 2",
+      "type": "update",
+      "download_text": "AKR",
+      "key_description": "Update v1.02 (5.05+) ⇛"
     },
     "https://akirabox.com/0Kezk9162mD1/file": {
       "region": "EUR",
@@ -23969,54 +23969,6 @@
       "type": "update",
       "download_text": "AKR",
       "key_description": "Update v1.02 (Fix 5.05/6.72) ⇛"
-    },
-    "https://akirabox.com/9QWmpVQLzEB6/file": {
-      "region": "EUR",
-      "size": "2.18 GB",
-      "version": "1.00",
-      "release": "Sep 30, 2022",
-      "min_fw": "9.00+",
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/10/PAW-Patrol-Grand-Prix-PS4-PKG.webp",
-      "name": "Paw Patrol Grand Prix",
-      "type": "game",
-      "download_text": "AKR",
-      "key_description": "Game (9.00+) ⇛"
-    },
-    "https://akirabox.com/b5Ozd2JOmB8L/file": {
-      "region": "EUR",
-      "size": "2.18 GB",
-      "version": "1.00",
-      "release": "Sep 30, 2022",
-      "min_fw": "9.00+",
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/10/PAW-Patrol-Grand-Prix-PS4-PKG.webp",
-      "name": "Paw Patrol Grand Prix",
-      "type": "update",
-      "download_text": "AKR",
-      "key_description": "Update v1.04 (9.00+) ⇛"
-    },
-    "https://akirabox.com/obj3jdM2GDxJ/file": {
-      "region": "EUR",
-      "size": "2.18 GB",
-      "version": "1.00",
-      "release": "Sep 30, 2022",
-      "min_fw": "Fix 5.05/6.72/7.xx",
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/10/PAW-Patrol-Grand-Prix-PS4-PKG.webp",
-      "name": "Paw Patrol Grand Prix",
-      "type": "update",
-      "download_text": "AKR",
-      "key_description": "Update v1.04 (Fix 5.05/6.72/7.xx) ⇛"
-    },
-    "https://akirabox.com/N2p3DeE8zMa5/file": {
-      "region": "EUR",
-      "size": "2.18 GB",
-      "version": "1.00",
-      "release": "Sep 30, 2022",
-      "min_fw": null,
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/10/PAW-Patrol-Grand-Prix-PS4-PKG.webp",
-      "name": "Paw Patrol Grand Prix",
-      "type": "dlc",
-      "download_text": "AKR",
-      "key_description": "DLC (2) ⇛"
     },
     "https://akirabox.com/qw1zeP2V3Xyn/file": {
       "region": "EUR",
@@ -27499,6 +27451,45 @@
       "type": "dlc",
       "download_text": "AKR",
       "key_description": "DLC v2 (12) ⇛"
+    },
+    "https://akirabox.com/BnkmWqav6zR0/file": {
+      "region": "USA",
+      "size": "7GB",
+      "version": "1.00",
+      "release": "Feb 06, 2025",
+      "min_fw": "12.00+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/02/Sid-Meiers-Civilization-VII-Founders-Edition-PS4-PKG.webp",
+      "cusa": "CUSA28732",
+      "name": "Sid Meiers Civilization VII",
+      "type": "game",
+      "download_text": "AKR",
+      "key_description": "Game (12.00+) ⇛"
+    },
+    "https://akirabox.com/9AqGQBXZ0mMn/file": {
+      "region": "USA",
+      "size": "7GB",
+      "version": "1.00",
+      "release": "Feb 06, 2025",
+      "min_fw": "Fix 5.05/6.72/7.02/7.55/9.00/11.00",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/02/Sid-Meiers-Civilization-VII-Founders-Edition-PS4-PKG.webp",
+      "cusa": "CUSA28732",
+      "name": "Sid Meiers Civilization VII",
+      "type": "update",
+      "download_text": "AKR",
+      "key_description": "Update v1.11 (Fix 5.05/6.72/7.02/7.55/9.00/11.00) ⇛"
+    },
+    "https://akirabox.com/0Pdzyk8XqmeA/file": {
+      "region": "USA",
+      "size": "7GB",
+      "version": "1.00",
+      "release": "Feb 06, 2025",
+      "min_fw": null,
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/02/Sid-Meiers-Civilization-VII-Founders-Edition-PS4-PKG.webp",
+      "cusa": "CUSA28732",
+      "name": "Sid Meiers Civilization VII",
+      "type": "dlc",
+      "download_text": "AKR",
+      "key_description": "DLC (26) ⇛"
     },
     "https://akirabox.com/QN9mEJZo36dW/file": {
       "region": "USA",
@@ -35764,7 +35755,7 @@
       "download_text": "AKR",
       "key_description": "Game (4.50+) ⇛"
     },
-    "https://akirabox.com/jar3XVBeNG2d/file": {
+    "https://akirabox.com/0rpmvr01ymRg/file": {
       "region": "EUR",
       "size": "868MB",
       "version": "1.00",
@@ -37618,7 +37609,7 @@
       "download_text": "AKR",
       "key_description": "Game (8.00+)⇛"
     },
-    "https://akirabox.com/9QWmpQkyr3EB/file": {
+    "https://akirabox.com/rk9zKrod430l/file": {
       "region": "EUR",
       "size": "10GB",
       "version": "1.00",

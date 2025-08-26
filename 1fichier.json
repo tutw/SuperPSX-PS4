@@ -32512,30 +32512,6 @@
       "download_text": "OneFile",
       "key_description": "DLC ⇛"
     },
-    "https://1fichier.com/?x0l1nv7408ke0kb720il&af=4186346": {
-      "region": "EUR",
-      "size": "500MB",
-      "version": "1.00",
-      "release": "October 14, 2014",
-      "min_fw": "5.05+",
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/08/Nidhogg-PS4-PKG.webp",
-      "name": "Nidhogg 2",
-      "type": "game",
-      "download_text": "OneFile",
-      "key_description": "Game (5.05+) ⇛"
-    },
-    "https://1fichier.com/?bry9hepim2a628h6iylm&af=4186346": {
-      "region": "EUR",
-      "size": "500MB",
-      "version": "1.00",
-      "release": "October 14, 2014",
-      "min_fw": "5.05+",
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/08/Nidhogg-PS4-PKG.webp",
-      "name": "Nidhogg 2",
-      "type": "update",
-      "download_text": "OneFile",
-      "key_description": "Update v1.02 (5.05+) ⇛"
-    },
     "https://1fichier.com/?e7psyde2u42xep77z9a9&af=4186346": {
       "region": "EUR",
       "size": "397.15 MB",
@@ -32559,6 +32535,30 @@
       "type": "update",
       "download_text": "OneFile",
       "key_description": "Update v1.07 (5.05+) ⇛"
+    },
+    "https://1fichier.com/?x0l1nv7408ke0kb720il&af=4186346": {
+      "region": "EUR",
+      "size": "500MB",
+      "version": "1.00",
+      "release": "October 14, 2014",
+      "min_fw": "5.05+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/08/Nidhogg-PS4-PKG.webp",
+      "name": "Nidhogg 2",
+      "type": "game",
+      "download_text": "OneFile",
+      "key_description": "Game (5.05+) ⇛"
+    },
+    "https://1fichier.com/?bry9hepim2a628h6iylm&af=4186346": {
+      "region": "EUR",
+      "size": "500MB",
+      "version": "1.00",
+      "release": "October 14, 2014",
+      "min_fw": "5.05+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/08/Nidhogg-PS4-PKG.webp",
+      "name": "Nidhogg 2",
+      "type": "update",
+      "download_text": "OneFile",
+      "key_description": "Update v1.02 (5.05+) ⇛"
     },
     "https://1fichier.com/?l85tz68ijgs1udp3fkom&af=4186346": {
       "region": "EUR",
@@ -34631,54 +34631,6 @@
       "type": "update",
       "download_text": "OneFile",
       "key_description": "Update v1.02 (Fix 5.05/6.72) ⇛"
-    },
-    "https://1fichier.com/?vrue468jz0gt7lhfv527&af=4186346": {
-      "region": "EUR",
-      "size": "2.18 GB",
-      "version": "1.00",
-      "release": "Sep 30, 2022",
-      "min_fw": "9.00+",
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/10/PAW-Patrol-Grand-Prix-PS4-PKG.webp",
-      "name": "Paw Patrol Grand Prix",
-      "type": "game",
-      "download_text": "OneFile",
-      "key_description": "Game (9.00+) ⇛"
-    },
-    "https://1fichier.com/?7iusmqat022ub6h0wvjx&af=4186346": {
-      "region": "EUR",
-      "size": "2.18 GB",
-      "version": "1.00",
-      "release": "Sep 30, 2022",
-      "min_fw": "9.00+",
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/10/PAW-Patrol-Grand-Prix-PS4-PKG.webp",
-      "name": "Paw Patrol Grand Prix",
-      "type": "update",
-      "download_text": "OneFile",
-      "key_description": "Update v1.04 (9.00+) ⇛"
-    },
-    "https://1fichier.com/?2fi5c4bpd2t4zgaq8839&af=4186346": {
-      "region": "EUR",
-      "size": "2.18 GB",
-      "version": "1.00",
-      "release": "Sep 30, 2022",
-      "min_fw": "Fix 5.05/6.72/7.xx",
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/10/PAW-Patrol-Grand-Prix-PS4-PKG.webp",
-      "name": "Paw Patrol Grand Prix",
-      "type": "update",
-      "download_text": "OneFile",
-      "key_description": "Update v1.04 (Fix 5.05/6.72/7.xx) ⇛"
-    },
-    "https://1fichier.com/?uw3rxqgea223elwsfnzg&af=4186346": {
-      "region": "EUR",
-      "size": "2.18 GB",
-      "version": "1.00",
-      "release": "Sep 30, 2022",
-      "min_fw": null,
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/10/PAW-Patrol-Grand-Prix-PS4-PKG.webp",
-      "name": "Paw Patrol Grand Prix",
-      "type": "dlc",
-      "download_text": "OneFile",
-      "key_description": "DLC (2) ⇛"
     },
     "https://1fichier.com/?6dllbwl0ztbcqxz30x8y&af=4186346": {
       "region": "EUR",
@@ -40851,6 +40803,45 @@
       "type": "dlc",
       "download_text": "OneFile",
       "key_description": "DLC v2 (12) ⇛"
+    },
+    "https://1fichier.com/?9amqjrnk5j4ltfc7o731&af=4186346": {
+      "region": "USA",
+      "size": "7GB",
+      "version": "1.00",
+      "release": "Feb 06, 2025",
+      "min_fw": "12.00+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/02/Sid-Meiers-Civilization-VII-Founders-Edition-PS4-PKG.webp",
+      "cusa": "CUSA28732",
+      "name": "Sid Meiers Civilization VII",
+      "type": "game",
+      "download_text": "OneFile",
+      "key_description": "Game (12.00+) ⇛"
+    },
+    "https://1fichier.com/?02xxxgj0h89rsluop830&af=4186346": {
+      "region": "USA",
+      "size": "7GB",
+      "version": "1.00",
+      "release": "Feb 06, 2025",
+      "min_fw": "Fix 5.05/6.72/7.02/7.55/9.00/11.00",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/02/Sid-Meiers-Civilization-VII-Founders-Edition-PS4-PKG.webp",
+      "cusa": "CUSA28732",
+      "name": "Sid Meiers Civilization VII",
+      "type": "update",
+      "download_text": "OneFile",
+      "key_description": "Update v1.11 (Fix 5.05/6.72/7.02/7.55/9.00/11.00) ⇛"
+    },
+    "https://1fichier.com/?gazx0atg6ubdoc39cl95&af=4186346": {
+      "region": "USA",
+      "size": "7GB",
+      "version": "1.00",
+      "release": "Feb 06, 2025",
+      "min_fw": null,
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/02/Sid-Meiers-Civilization-VII-Founders-Edition-PS4-PKG.webp",
+      "cusa": "CUSA28732",
+      "name": "Sid Meiers Civilization VII",
+      "type": "dlc",
+      "download_text": "OneFile",
+      "key_description": "DLC (26) ⇛"
     },
     "https://1fichier.com/?spuw0fitgbjog74ozs3i&af=4186346": {
       "region": "USA",
@@ -55073,6 +55064,30 @@
       "type": "update",
       "download_text": "OneFile",
       "key_description": "Update v1.03 (Fix 5.05) ⇛"
+    },
+    "https://1fichier.com/?1tf3jhkmwzvxsiwixuy0&af=4186346": {
+      "region": "EUR",
+      "size": "732.10 MB",
+      "version": "1.00",
+      "release": "30 Jul 2022",
+      "min_fw": "9.00+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/Wally-and-the-FANTASTIC-PREDATORS-PS4-PKG.webp",
+      "name": "Wally And The Fantastic Predators",
+      "type": "game",
+      "download_text": "OneFile",
+      "key_description": "Game ⇛"
+    },
+    "https://1fichier.com/?7ar10nq5ldg1pstisrqg&af=4186346": {
+      "region": "EUR",
+      "size": "732.10 MB",
+      "version": "1.00",
+      "release": "30 Jul 2022",
+      "min_fw": "9.00+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/Wally-and-the-FANTASTIC-PREDATORS-PS4-PKG.webp",
+      "name": "Wally And The Fantastic Predators",
+      "type": "update",
+      "download_text": "OneFile",
+      "key_description": "Update v1.03 ⇛"
     },
     "https://1fichier.com/?9190s80xnvjeb68qmhtm&af=4186346": {
       "region": "EUR",

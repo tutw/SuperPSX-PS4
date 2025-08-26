@@ -6345,7 +6345,7 @@
       "download_text": "AKR",
       "key_description": "Update v1.10 (9.00+) ⇛"
     },
-    "https://akirabox.com/0rpmvq4XAGRg/file": {
+    "https://akirabox.com/BnkmWqaBqzR0/file": {
       "region": "EUR",
       "size": "6 GB",
       "version": "1.00",
@@ -23970,6 +23970,54 @@
       "download_text": "AKR",
       "key_description": "Update v1.02 (Fix 5.05/6.72) ⇛"
     },
+    "https://akirabox.com/9QWmpVQLzEB6/file": {
+      "region": "EUR",
+      "size": "2.18 GB",
+      "version": "1.00",
+      "release": "Sep 30, 2022",
+      "min_fw": "9.00+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/10/PAW-Patrol-Grand-Prix-PS4-PKG.webp",
+      "name": "Paw Patrol Grand Prix",
+      "type": "game",
+      "download_text": "AKR",
+      "key_description": "Game (9.00+) ⇛"
+    },
+    "https://akirabox.com/b5Ozd2JOmB8L/file": {
+      "region": "EUR",
+      "size": "2.18 GB",
+      "version": "1.00",
+      "release": "Sep 30, 2022",
+      "min_fw": "9.00+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/10/PAW-Patrol-Grand-Prix-PS4-PKG.webp",
+      "name": "Paw Patrol Grand Prix",
+      "type": "update",
+      "download_text": "AKR",
+      "key_description": "Update v1.04 (9.00+) ⇛"
+    },
+    "https://akirabox.com/obj3jdM2GDxJ/file": {
+      "region": "EUR",
+      "size": "2.18 GB",
+      "version": "1.00",
+      "release": "Sep 30, 2022",
+      "min_fw": "Fix 5.05/6.72/7.xx",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/10/PAW-Patrol-Grand-Prix-PS4-PKG.webp",
+      "name": "Paw Patrol Grand Prix",
+      "type": "update",
+      "download_text": "AKR",
+      "key_description": "Update v1.04 (Fix 5.05/6.72/7.xx) ⇛"
+    },
+    "https://akirabox.com/N2p3DeE8zMa5/file": {
+      "region": "EUR",
+      "size": "2.18 GB",
+      "version": "1.00",
+      "release": "Sep 30, 2022",
+      "min_fw": null,
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/10/PAW-Patrol-Grand-Prix-PS4-PKG.webp",
+      "name": "Paw Patrol Grand Prix",
+      "type": "dlc",
+      "download_text": "AKR",
+      "key_description": "DLC (2) ⇛"
+    },
     "https://akirabox.com/qw1zeP2V3Xyn/file": {
       "region": "EUR",
       "size": "4GB",
@@ -30853,7 +30901,7 @@
       "download_text": "AKR",
       "key_description": "Game + Upv1.05 ⇛"
     },
-    "https://akirabox.com/vgKGxxW8VG8Q/folder": {
+    "https://akirabox.com/0Pdzyk8M0meA/folder": {
       "region": "EUR",
       "size": "693MB",
       "version": "1.00",

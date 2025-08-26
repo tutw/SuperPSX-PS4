@@ -30845,42 +30845,6 @@
       "download_text": "OneFile",
       "key_description": "Game + Update 1.01 ⇛"
     },
-    "https://1fichier.com/?sfsl32wq22u4nr7ej5rc&af=4186346": {
-      "region": "EUR",
-      "size": "665MB",
-      "version": "1.00",
-      "release": "Nov 3, 2020",
-      "min_fw": "7.50+",
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/My-Universe-School-Teacher-PS4-PKG.webp",
-      "name": "My Universe School Teacher",
-      "type": "game",
-      "download_text": "OneFile",
-      "key_description": "Game ⇛"
-    },
-    "https://1fichier.com/?7hlefr1trstn0mvn1ht7&af=4186346": {
-      "region": "EUR",
-      "size": "665MB",
-      "version": "1.00",
-      "release": "Nov 3, 2020",
-      "min_fw": "7.50+",
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/My-Universe-School-Teacher-PS4-PKG.webp",
-      "name": "My Universe School Teacher",
-      "type": "update",
-      "download_text": "OneFile",
-      "key_description": "Update 1.01 ⇛"
-    },
-    "https://1fichier.com/?3ga4w4j1fx3f2171kiej&af=4186346": {
-      "region": "EUR",
-      "size": "665MB",
-      "version": "1.00",
-      "release": "Nov 3, 2020",
-      "min_fw": "Fix 5.05/6.72/7.02",
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/My-Universe-School-Teacher-PS4-PKG.webp",
-      "name": "My Universe School Teacher",
-      "type": "update",
-      "download_text": "OneFile",
-      "key_description": "Update 1.01 (Fix 5.05/6.72/7.02)⇛"
-    },
     "https://1fichier.com/?et4imkvaz5hzl4bp7bm9&af=4186346": {
       "region": "EUR",
       "size": "1.24 GB",
@@ -34631,6 +34595,54 @@
       "type": "update",
       "download_text": "OneFile",
       "key_description": "Update v1.02 (Fix 5.05/6.72) ⇛"
+    },
+    "https://1fichier.com/?vrue468jz0gt7lhfv527&af=4186346": {
+      "region": "EUR",
+      "size": "2.18 GB",
+      "version": "1.00",
+      "release": "Sep 30, 2022",
+      "min_fw": "9.00+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/10/PAW-Patrol-Grand-Prix-PS4-PKG.webp",
+      "name": "Paw Patrol Grand Prix",
+      "type": "game",
+      "download_text": "OneFile",
+      "key_description": "Game (9.00+) ⇛"
+    },
+    "https://1fichier.com/?7iusmqat022ub6h0wvjx&af=4186346": {
+      "region": "EUR",
+      "size": "2.18 GB",
+      "version": "1.00",
+      "release": "Sep 30, 2022",
+      "min_fw": "9.00+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/10/PAW-Patrol-Grand-Prix-PS4-PKG.webp",
+      "name": "Paw Patrol Grand Prix",
+      "type": "update",
+      "download_text": "OneFile",
+      "key_description": "Update v1.04 (9.00+) ⇛"
+    },
+    "https://1fichier.com/?2fi5c4bpd2t4zgaq8839&af=4186346": {
+      "region": "EUR",
+      "size": "2.18 GB",
+      "version": "1.00",
+      "release": "Sep 30, 2022",
+      "min_fw": "Fix 5.05/6.72/7.xx",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/10/PAW-Patrol-Grand-Prix-PS4-PKG.webp",
+      "name": "Paw Patrol Grand Prix",
+      "type": "update",
+      "download_text": "OneFile",
+      "key_description": "Update v1.04 (Fix 5.05/6.72/7.xx) ⇛"
+    },
+    "https://1fichier.com/?uw3rxqgea223elwsfnzg&af=4186346": {
+      "region": "EUR",
+      "size": "2.18 GB",
+      "version": "1.00",
+      "release": "Sep 30, 2022",
+      "min_fw": null,
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/10/PAW-Patrol-Grand-Prix-PS4-PKG.webp",
+      "name": "Paw Patrol Grand Prix",
+      "type": "dlc",
+      "download_text": "OneFile",
+      "key_description": "DLC (2) ⇛"
     },
     "https://1fichier.com/?6dllbwl0ztbcqxz30x8y&af=4186346": {
       "region": "EUR",

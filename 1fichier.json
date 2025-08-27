@@ -12401,42 +12401,6 @@
       "download_text": "OneFile",
       "key_description": "DLC Complete Edition ⇛"
     },
-    "https://1fichier.com/?kl01vyvigrpw7s1qe1fx&af=4186346": {
-      "region": "EUR",
-      "size": "50GB",
-      "version": "1.00",
-      "release": "November 11, 2016",
-      "min_fw": "5.05+",
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2018/03/Dishonored-2-PS4-PKG.webp",
-      "name": "Dishonored 2",
-      "type": "game",
-      "download_text": "OneFile",
-      "key_description": "Game (5.05+) ⇛"
-    },
-    "https://1fichier.com/?bfvkvkqjn1iewonviozv&af=4186346": {
-      "region": "EUR",
-      "size": "50GB",
-      "version": "1.00",
-      "release": "November 11, 2016",
-      "min_fw": "5.05+",
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2018/03/Dishonored-2-PS4-PKG.webp",
-      "name": "Dishonored 2",
-      "type": "update",
-      "download_text": "OneFile",
-      "key_description": "Update v1.07 (5.05+) ⇛"
-    },
-    "https://1fichier.com/?d1kxb8sk4bbimzgcaosq&af=4186346": {
-      "region": "EUR",
-      "size": "50GB",
-      "version": "1.00",
-      "release": "November 11, 2016",
-      "min_fw": null,
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2018/03/Dishonored-2-PS4-PKG.webp",
-      "name": "Dishonored 2",
-      "type": "dlc",
-      "download_text": "OneFile",
-      "key_description": "Imperial Assassin’s Pack DLC ⇛"
-    },
     "https://1fichier.com/?oyqr8l079uandrgz6dzd&af=4186346": {
       "region": "EUR",
       "size": "26GB",
@@ -30336,42 +30300,6 @@
       "download_text": "OneFile",
       "key_description": "Update v1.02 (9.00+) ⇛"
     },
-    "https://1fichier.com/?a0q8gqvmkspoorpnb4mg&af=4186346": {
-      "region": "EUR",
-      "size": "6.64 GB",
-      "version": "1.14",
-      "release": "December 4, 2018",
-      "min_fw": "6.02+",
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/Mutant-Year-Zero_-Road-to-Eden-PS4-PKG.webp",
-      "name": "Mutant Year Zero Road To Eden",
-      "type": "game",
-      "download_text": "OneFile",
-      "key_description": "Game (v1.14)  ⇛"
-    },
-    "https://1fichier.com/?psbk7psh5akf8c22v8ps&af=4186346": {
-      "region": "EUR",
-      "size": "6.64 GB",
-      "version": "1.00",
-      "release": "December 4, 2018",
-      "min_fw": "Fix 5.05+",
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/Mutant-Year-Zero_-Road-to-Eden-PS4-PKG.webp",
-      "name": "Mutant Year Zero Road To Eden",
-      "type": "update",
-      "download_text": "OneFile",
-      "key_description": "Update 1.14 (Fix 5.05+) ⇛"
-    },
-    "https://1fichier.com/?6vsrjv06dtmy3ry5ao3x&af=4186346": {
-      "region": "EUR",
-      "size": "6.64 GB",
-      "version": "1.00",
-      "release": "December 4, 2018",
-      "min_fw": "6.02+",
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/Mutant-Year-Zero_-Road-to-Eden-PS4-PKG.webp",
-      "name": "Mutant Year Zero Road To Eden",
-      "type": "dlc",
-      "download_text": "OneFile",
-      "key_description": "Seed of Evil DLC ⇛"
-    },
     "https://1fichier.com/?hyg51v4u40feua4arlh5&af=4186346": {
       "region": "EUR",
       "size": "2.5GB",
@@ -30844,6 +30772,42 @@
       "type": "update",
       "download_text": "OneFile",
       "key_description": "Game + Update 1.01 ⇛"
+    },
+    "https://1fichier.com/?sfsl32wq22u4nr7ej5rc&af=4186346": {
+      "region": "EUR",
+      "size": "665MB",
+      "version": "1.00",
+      "release": "Nov 3, 2020",
+      "min_fw": "7.50+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/My-Universe-School-Teacher-PS4-PKG.webp",
+      "name": "My Universe School Teacher",
+      "type": "game",
+      "download_text": "OneFile",
+      "key_description": "Game ⇛"
+    },
+    "https://1fichier.com/?7hlefr1trstn0mvn1ht7&af=4186346": {
+      "region": "EUR",
+      "size": "665MB",
+      "version": "1.00",
+      "release": "Nov 3, 2020",
+      "min_fw": "7.50+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/My-Universe-School-Teacher-PS4-PKG.webp",
+      "name": "My Universe School Teacher",
+      "type": "update",
+      "download_text": "OneFile",
+      "key_description": "Update 1.01 ⇛"
+    },
+    "https://1fichier.com/?3ga4w4j1fx3f2171kiej&af=4186346": {
+      "region": "EUR",
+      "size": "665MB",
+      "version": "1.00",
+      "release": "Nov 3, 2020",
+      "min_fw": "Fix 5.05/6.72/7.02",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/My-Universe-School-Teacher-PS4-PKG.webp",
+      "name": "My Universe School Teacher",
+      "type": "update",
+      "download_text": "OneFile",
+      "key_description": "Update 1.01 (Fix 5.05/6.72/7.02)⇛"
     },
     "https://1fichier.com/?et4imkvaz5hzl4bp7bm9&af=4186346": {
       "region": "EUR",
@@ -32476,30 +32440,6 @@
       "download_text": "OneFile",
       "key_description": "DLC ⇛"
     },
-    "https://1fichier.com/?e7psyde2u42xep77z9a9&af=4186346": {
-      "region": "EUR",
-      "size": "397.15 MB",
-      "version": "1.00",
-      "release": "August 15, 2017",
-      "min_fw": "5.05+",
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/Nidhogg-2-PS4-PKG.webp",
-      "name": "Nidhogg 2",
-      "type": "game",
-      "download_text": "OneFile",
-      "key_description": "Game (5.05+) ⇛"
-    },
-    "https://1fichier.com/?gd1on8cxwscgvpfngm94&af=4186346": {
-      "region": "EUR",
-      "size": "397.15 MB",
-      "version": "1.00",
-      "release": "August 15, 2017",
-      "min_fw": "5.05+",
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/Nidhogg-2-PS4-PKG.webp",
-      "name": "Nidhogg 2",
-      "type": "update",
-      "download_text": "OneFile",
-      "key_description": "Update v1.07 (5.05+) ⇛"
-    },
     "https://1fichier.com/?x0l1nv7408ke0kb720il&af=4186346": {
       "region": "EUR",
       "size": "500MB",
@@ -32523,6 +32463,30 @@
       "type": "update",
       "download_text": "OneFile",
       "key_description": "Update v1.02 (5.05+) ⇛"
+    },
+    "https://1fichier.com/?e7psyde2u42xep77z9a9&af=4186346": {
+      "region": "EUR",
+      "size": "397.15 MB",
+      "version": "1.00",
+      "release": "August 15, 2017",
+      "min_fw": "5.05+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/Nidhogg-2-PS4-PKG.webp",
+      "name": "Nidhogg 2",
+      "type": "game",
+      "download_text": "OneFile",
+      "key_description": "Game (5.05+) ⇛"
+    },
+    "https://1fichier.com/?gd1on8cxwscgvpfngm94&af=4186346": {
+      "region": "EUR",
+      "size": "397.15 MB",
+      "version": "1.00",
+      "release": "August 15, 2017",
+      "min_fw": "5.05+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/Nidhogg-2-PS4-PKG.webp",
+      "name": "Nidhogg 2",
+      "type": "update",
+      "download_text": "OneFile",
+      "key_description": "Update v1.07 (5.05+) ⇛"
     },
     "https://1fichier.com/?l85tz68ijgs1udp3fkom&af=4186346": {
       "region": "EUR",

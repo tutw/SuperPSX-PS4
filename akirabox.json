@@ -8700,42 +8700,6 @@
       "download_text": "AKR",
       "key_description": "DLC Complete Edition ⇛"
     },
-    "https://akirabox.com/gXeGOJap6zAa/file": {
-      "region": "EUR",
-      "size": "50GB",
-      "version": "1.00",
-      "release": "November 11, 2016",
-      "min_fw": "5.05+",
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2018/03/Dishonored-2-PS4-PKG.webp",
-      "name": "Dishonored 2",
-      "type": "game",
-      "download_text": "AKR",
-      "key_description": "Game (5.05+) ⇛"
-    },
-    "https://akirabox.com/N2p3DNxVGMa5/file": {
-      "region": "EUR",
-      "size": "50GB",
-      "version": "1.00",
-      "release": "November 11, 2016",
-      "min_fw": "5.05+",
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2018/03/Dishonored-2-PS4-PKG.webp",
-      "name": "Dishonored 2",
-      "type": "update",
-      "download_text": "AKR",
-      "key_description": "Update v1.07 (5.05+) ⇛"
-    },
-    "https://akirabox.com/9AqGQ7kN3Mn6/file": {
-      "region": "EUR",
-      "size": "50GB",
-      "version": "1.00",
-      "release": "November 11, 2016",
-      "min_fw": null,
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2018/03/Dishonored-2-PS4-PKG.webp",
-      "name": "Dishonored 2",
-      "type": "dlc",
-      "download_text": "AKR",
-      "key_description": "Imperial Assassin’s Pack DLC ⇛"
-    },
     "https://akirabox.com/9AqGQ72J3Mn6/file": {
       "region": "EUR",
       "size": "26GB",
@@ -18271,18 +18235,6 @@
       "download_text": "AKR",
       "key_description": "DLC v2 ⇛"
     },
-    "https://akirabox.com/qLQ366dYP319/file": {
-      "region": "EUR",
-      "size": "26GB",
-      "version": "1.00",
-      "release": "February 17, 2023",
-      "min_fw": null,
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/Like-a-Dragon_-Ishin_-Digital-Deluxe-Edition-PS4-PKG.webp",
-      "name": "Like A Dragon Ishin Deluxe Edition",
-      "type": "game",
-      "download_text": "AKR",
-      "key_description": "Game+Upv1.05 (9.50+) ⇛"
-    },
     "https://akirabox.com/ZvqzlOLO3aD2/file": {
       "region": "EUR",
       "size": "26GB",
@@ -22594,30 +22546,6 @@
       "download_text": "AKR",
       "key_description": "DLC v2 ⇛"
     },
-    "https://akirabox.com/7d5GLr56V3xR/file": {
-      "region": "EUR",
-      "size": "397.15 MB",
-      "version": "1.00",
-      "release": "August 15, 2017",
-      "min_fw": "5.05+",
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/Nidhogg-2-PS4-PKG.webp",
-      "name": "Nidhogg 2",
-      "type": "game",
-      "download_text": "AKR",
-      "key_description": "Game (5.05+) ⇛"
-    },
-    "https://akirabox.com/5pVzNaNDX37w/file": {
-      "region": "EUR",
-      "size": "397.15 MB",
-      "version": "1.00",
-      "release": "August 15, 2017",
-      "min_fw": "5.05+",
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/Nidhogg-2-PS4-PKG.webp",
-      "name": "Nidhogg 2",
-      "type": "update",
-      "download_text": "AKR",
-      "key_description": "Update v1.07 (5.05+) ⇛"
-    },
     "https://akirabox.com/obj3jbwn23Dx/file": {
       "region": "EUR",
       "size": "500MB",
@@ -22641,6 +22569,30 @@
       "type": "update",
       "download_text": "AKR",
       "key_description": "Update v1.02 (5.05+) ⇛"
+    },
+    "https://akirabox.com/7d5GLr56V3xR/file": {
+      "region": "EUR",
+      "size": "397.15 MB",
+      "version": "1.00",
+      "release": "August 15, 2017",
+      "min_fw": "5.05+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/Nidhogg-2-PS4-PKG.webp",
+      "name": "Nidhogg 2",
+      "type": "game",
+      "download_text": "AKR",
+      "key_description": "Game (5.05+) ⇛"
+    },
+    "https://akirabox.com/5pVzNaNDX37w/file": {
+      "region": "EUR",
+      "size": "397.15 MB",
+      "version": "1.00",
+      "release": "August 15, 2017",
+      "min_fw": "5.05+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/Nidhogg-2-PS4-PKG.webp",
+      "name": "Nidhogg 2",
+      "type": "update",
+      "download_text": "AKR",
+      "key_description": "Update v1.07 (5.05+) ⇛"
     },
     "https://akirabox.com/0Kezk9162mD1/file": {
       "region": "EUR",

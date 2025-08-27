@@ -907,12 +907,48 @@
       "download_text": "OneFile",
       "key_description": "Update v1.02 (8.00+) ⇛"
     },
+    "https://1fichier.com/?4p6geylullnmqzb4qpia&af=4186346": {
+      "region": "EUR",
+      "size": "3.81 GB",
+      "version": "1.00",
+      "release": "April 25, 2023",
+      "min_fw": "11.00+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/Afterimage-PS4-_-PS5-PS4-PKG.webp",
+      "name": "Afterimage",
+      "type": "game",
+      "download_text": "OneFile",
+      "key_description": "Game (11.00+) ⇛"
+    },
+    "https://1fichier.com/?r4b77an2guqhlb6j4w1d&af=4186346": {
+      "region": "EUR",
+      "size": "3.81 GB",
+      "version": "1.00",
+      "release": "April 25, 2023",
+      "min_fw": null,
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/Afterimage-PS4-_-PS5-PS4-PKG.webp",
+      "name": "Afterimage",
+      "type": "update",
+      "download_text": "OneFile",
+      "key_description": "Update v1.21 OptionalFix ⇛"
+    },
+    "https://1fichier.com/?p7mq6edosruktclqzo42&af=4186346": {
+      "region": "EUR",
+      "size": "3.81 GB",
+      "version": "1.00",
+      "release": "April 25, 2023",
+      "min_fw": "Fix 5.05/6.72/7.xx/9.00",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/Afterimage-PS4-_-PS5-PS4-PKG.webp",
+      "name": "Afterimage",
+      "type": "update",
+      "download_text": "OneFile",
+      "key_description": "Update v1.21 (Fix 5.05/6.72/7.xx/9.00) ⇛"
+    },
     "https://1fichier.com/?wkgy0cntb4pdg7a1zgzk&af=4186346": {
       "region": "EUR",
       "size": "3.81 GB",
       "version": "1.05",
       "release": "April 25, 2023",
-      "min_fw": "10.50+",
+      "min_fw": null,
       "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/Afterimage-PS4-_-PS5-PS4-PKG.webp",
       "name": "Afterimage",
       "type": "game",
@@ -12400,6 +12436,42 @@
       "type": "dlc",
       "download_text": "OneFile",
       "key_description": "DLC Complete Edition ⇛"
+    },
+    "https://1fichier.com/?kl01vyvigrpw7s1qe1fx&af=4186346": {
+      "region": "EUR",
+      "size": "50GB",
+      "version": "1.00",
+      "release": "November 11, 2016",
+      "min_fw": "5.05+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2018/03/Dishonored-2-PS4-PKG.webp",
+      "name": "Dishonored 2",
+      "type": "game",
+      "download_text": "OneFile",
+      "key_description": "Game (5.05+) ⇛"
+    },
+    "https://1fichier.com/?bfvkvkqjn1iewonviozv&af=4186346": {
+      "region": "EUR",
+      "size": "50GB",
+      "version": "1.00",
+      "release": "November 11, 2016",
+      "min_fw": "5.05+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2018/03/Dishonored-2-PS4-PKG.webp",
+      "name": "Dishonored 2",
+      "type": "update",
+      "download_text": "OneFile",
+      "key_description": "Update v1.07 (5.05+) ⇛"
+    },
+    "https://1fichier.com/?d1kxb8sk4bbimzgcaosq&af=4186346": {
+      "region": "EUR",
+      "size": "50GB",
+      "version": "1.00",
+      "release": "November 11, 2016",
+      "min_fw": null,
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2018/03/Dishonored-2-PS4-PKG.webp",
+      "name": "Dishonored 2",
+      "type": "dlc",
+      "download_text": "OneFile",
+      "key_description": "Imperial Assassin’s Pack DLC ⇛"
     },
     "https://1fichier.com/?oyqr8l079uandrgz6dzd&af=4186346": {
       "region": "EUR",
@@ -30300,6 +30372,42 @@
       "download_text": "OneFile",
       "key_description": "Update v1.02 (9.00+) ⇛"
     },
+    "https://1fichier.com/?a0q8gqvmkspoorpnb4mg&af=4186346": {
+      "region": "EUR",
+      "size": "6.64 GB",
+      "version": "1.14",
+      "release": "December 4, 2018",
+      "min_fw": "6.02+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/Mutant-Year-Zero_-Road-to-Eden-PS4-PKG.webp",
+      "name": "Mutant Year Zero Road To Eden",
+      "type": "game",
+      "download_text": "OneFile",
+      "key_description": "Game (v1.14)  ⇛"
+    },
+    "https://1fichier.com/?psbk7psh5akf8c22v8ps&af=4186346": {
+      "region": "EUR",
+      "size": "6.64 GB",
+      "version": "1.00",
+      "release": "December 4, 2018",
+      "min_fw": "Fix 5.05+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/Mutant-Year-Zero_-Road-to-Eden-PS4-PKG.webp",
+      "name": "Mutant Year Zero Road To Eden",
+      "type": "update",
+      "download_text": "OneFile",
+      "key_description": "Update 1.14 (Fix 5.05+) ⇛"
+    },
+    "https://1fichier.com/?6vsrjv06dtmy3ry5ao3x&af=4186346": {
+      "region": "EUR",
+      "size": "6.64 GB",
+      "version": "1.00",
+      "release": "December 4, 2018",
+      "min_fw": "6.02+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/Mutant-Year-Zero_-Road-to-Eden-PS4-PKG.webp",
+      "name": "Mutant Year Zero Road To Eden",
+      "type": "dlc",
+      "download_text": "OneFile",
+      "key_description": "Seed of Evil DLC ⇛"
+    },
     "https://1fichier.com/?hyg51v4u40feua4arlh5&af=4186346": {
       "region": "EUR",
       "size": "2.5GB",
@@ -40670,6 +40778,54 @@
       "download_text": "OneFile",
       "key_description": "DLC ⇛"
     },
+    "https://1fichier.com/?prxa1bftdjrsynzkh7gn&af=4186346": {
+      "region": "EUR",
+      "size": "9GB",
+      "version": "1.00",
+      "release": "Aug 29, 2025",
+      "min_fw": null,
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/08/Shinobi-Art-of-Vengeance-PS4-PKG.webp",
+      "name": "Shinobi Art Of Vengeance Digital Deluxe Edition",
+      "type": "game",
+      "download_text": "OneFile",
+      "key_description": "Game ⇛"
+    },
+    "https://1fichier.com/?o7kmrhk1q9cmkllhrpno&af=4186346": {
+      "region": "EUR",
+      "size": "9GB",
+      "version": "1.00",
+      "release": "Aug 29, 2025",
+      "min_fw": null,
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/08/Shinobi-Art-of-Vengeance-PS4-PKG.webp",
+      "name": "Shinobi Art Of Vengeance Digital Deluxe Edition",
+      "type": "game",
+      "download_text": "OneFile",
+      "key_description": "Fix 6.72+ ⇛"
+    },
+    "https://1fichier.com/?y8kt4ys15a67yswxg9yk&af=4186346": {
+      "region": "EUR",
+      "size": "9GB",
+      "version": "1.00",
+      "release": "Aug 29, 2025",
+      "min_fw": null,
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/08/Shinobi-Art-of-Vengeance-PS4-PKG.webp",
+      "name": "Shinobi Art Of Vengeance Digital Deluxe Edition",
+      "type": "game",
+      "download_text": "OneFile",
+      "key_description": "Fix 5.05 ⇛"
+    },
+    "https://1fichier.com/?y01p4tdus16wmdsw7z94&af=4186346": {
+      "region": "EUR",
+      "size": "9GB",
+      "version": "1.00",
+      "release": "Aug 29, 2025",
+      "min_fw": null,
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/08/Shinobi-Art-of-Vengeance-PS4-PKG.webp",
+      "name": "Shinobi Art Of Vengeance Digital Deluxe Edition",
+      "type": "dlc",
+      "download_text": "OneFile",
+      "key_description": "DLC ⇛"
+    },
     "https://1fichier.com/?8qngx30x4x15oie2uca1&af=4186346": {
       "region": "EUR",
       "size": "3.28 GB",
@@ -41103,12 +41259,48 @@
       "download_text": "OneFile",
       "key_description": "Update v2.01 (Fix 5.05/6.72/7.xx) ⇛"
     },
-    "https://1fichier.com/?w71gymvy9crgre30pd1c&af=4186346": {
+    "https://1fichier.com/?84sycvx9bx4dytlbsjzf&af=4186346": {
       "region": "EUR",
-      "size": "1.8 GB",
+      "size": "2GB",
       "version": "1.00",
       "release": "Oct 21, 2021",
-      "min_fw": "9.00+",
+      "min_fw": null,
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/Skul_-The-Hero-Slayer-PS4-PKG.webp",
+      "name": "Skul The Hero Slayer",
+      "type": "game",
+      "download_text": "OneFile",
+      "key_description": "Game (8.00+) ⇛"
+    },
+    "https://1fichier.com/?aq3m0v3rkp2tk7s7r3oc&af=4186346": {
+      "region": "EUR",
+      "size": "2GB",
+      "version": "1.00",
+      "release": "Oct 21, 2021",
+      "min_fw": null,
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/Skul_-The-Hero-Slayer-PS4-PKG.webp",
+      "name": "Skul The Hero Slayer",
+      "type": "update",
+      "download_text": "OneFile",
+      "key_description": "Update v1.20 ⇛"
+    },
+    "https://1fichier.com/?szqv1u5mvzjk5i23ii8a&af=4186346": {
+      "region": "EUR",
+      "size": "2GB",
+      "version": "1.00",
+      "release": "Oct 21, 2021",
+      "min_fw": "Fix 5.05/6.72/7.xx/8.xx",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/Skul_-The-Hero-Slayer-PS4-PKG.webp",
+      "name": "Skul The Hero Slayer",
+      "type": "update",
+      "download_text": "OneFile",
+      "key_description": "Update v1.20 (Fix 5.05/6.72/7.xx/8.xx) ⇛"
+    },
+    "https://1fichier.com/?w71gymvy9crgre30pd1c&af=4186346": {
+      "region": "EUR",
+      "size": "2GB",
+      "version": "1.00",
+      "release": "Oct 21, 2021",
+      "min_fw": null,
       "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/Skul_-The-Hero-Slayer-PS4-PKG.webp",
       "name": "Skul The Hero Slayer",
       "type": "game",
@@ -41117,10 +41309,10 @@
     },
     "https://1fichier.com/?5kpnu5fgkguo8q28651s&af=4186346": {
       "region": "EUR",
-      "size": "1.8 GB",
+      "size": "2GB",
       "version": "1.00",
       "release": "Oct 21, 2021",
-      "min_fw": "9.00+",
+      "min_fw": null,
       "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/Skul_-The-Hero-Slayer-PS4-PKG.webp",
       "name": "Skul The Hero Slayer",
       "type": "update",
@@ -41129,7 +41321,7 @@
     },
     "https://1fichier.com/?xqimmen9yqgkmfpu8s1c&af=4186346": {
       "region": "EUR",
-      "size": "1.8 GB",
+      "size": "2GB",
       "version": "1.00",
       "release": "Oct 21, 2021",
       "min_fw": "Fix 5.05/6.72/7.02/7.55",
@@ -50699,30 +50891,6 @@
       "type": "update",
       "download_text": "OneFile",
       "key_description": "Update 1.03 (Fix 5.05 / 6.72 / 7.02 / 7.55 / 9.00) ⇛"
-    },
-    "https://1fichier.com/?o02lolywhglcrehaav8n&af=4186346": {
-      "region": "EUR",
-      "size": "399.54 MB",
-      "version": "1.00",
-      "release": "September 25, 2018",
-      "min_fw": "6.72+",
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/Timespinner-PS4-PKG.webp",
-      "name": "Timespinner",
-      "type": "game",
-      "download_text": "OneFile",
-      "key_description": "Game (6.72+) ⇛"
-    },
-    "https://1fichier.com/?o6sct9d908jjmbkkn5e4&af=4186346": {
-      "region": "EUR",
-      "size": "399.54 MB",
-      "version": "1.00",
-      "release": "September 25, 2018",
-      "min_fw": "6.72+",
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/Timespinner-PS4-PKG.webp",
-      "name": "Timespinner",
-      "type": "update",
-      "download_text": "OneFile",
-      "key_description": "Update v1.04 (6.72+) ⇛"
     },
     "https://1fichier.com/?64hz27306i3k76zjbbp2&af=4186346": {
       "region": "EUR",

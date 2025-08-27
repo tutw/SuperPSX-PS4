@@ -631,6 +631,42 @@
       "download_text": "AKR",
       "key_description": "Update v1.02 (8.00+) ⇛"
     },
+    "https://akirabox.com/0rpmvr0DLmRg/file": {
+      "region": "EUR",
+      "size": "3.81 GB",
+      "version": "1.00",
+      "release": "April 25, 2023",
+      "min_fw": "11.00+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/Afterimage-PS4-_-PS5-PS4-PKG.webp",
+      "name": "Afterimage",
+      "type": "game",
+      "download_text": "AKR",
+      "key_description": "Game (11.00+) ⇛"
+    },
+    "https://akirabox.com/qLQ36ovk1z19/file": {
+      "region": "EUR",
+      "size": "3.81 GB",
+      "version": "1.00",
+      "release": "April 25, 2023",
+      "min_fw": null,
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/Afterimage-PS4-_-PS5-PS4-PKG.webp",
+      "name": "Afterimage",
+      "type": "update",
+      "download_text": "AKR",
+      "key_description": "Update v1.21 OptionalFix ⇛"
+    },
+    "https://akirabox.com/gXeGOg8DaGAa/file": {
+      "region": "EUR",
+      "size": "3.81 GB",
+      "version": "1.00",
+      "release": "April 25, 2023",
+      "min_fw": "Fix 5.05/6.72/7.xx/9.00",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/Afterimage-PS4-_-PS5-PS4-PKG.webp",
+      "name": "Afterimage",
+      "type": "update",
+      "download_text": "Viki",
+      "key_description": "Update v1.21 (Fix 5.05/6.72/7.xx/9.00) ⇛"
+    },
     "https://akirabox.com/1RgzRv1XzbpB/file": {
       "region": "USA",
       "size": "1.12 GB",
@@ -8699,6 +8735,42 @@
       "type": "dlc",
       "download_text": "AKR",
       "key_description": "DLC Complete Edition ⇛"
+    },
+    "https://akirabox.com/gXeGOJap6zAa/file": {
+      "region": "EUR",
+      "size": "50GB",
+      "version": "1.00",
+      "release": "November 11, 2016",
+      "min_fw": "5.05+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2018/03/Dishonored-2-PS4-PKG.webp",
+      "name": "Dishonored 2",
+      "type": "game",
+      "download_text": "AKR",
+      "key_description": "Game (5.05+) ⇛"
+    },
+    "https://akirabox.com/N2p3DNxVGMa5/file": {
+      "region": "EUR",
+      "size": "50GB",
+      "version": "1.00",
+      "release": "November 11, 2016",
+      "min_fw": "5.05+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2018/03/Dishonored-2-PS4-PKG.webp",
+      "name": "Dishonored 2",
+      "type": "update",
+      "download_text": "AKR",
+      "key_description": "Update v1.07 (5.05+) ⇛"
+    },
+    "https://akirabox.com/9AqGQ7kN3Mn6/file": {
+      "region": "EUR",
+      "size": "50GB",
+      "version": "1.00",
+      "release": "November 11, 2016",
+      "min_fw": null,
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2018/03/Dishonored-2-PS4-PKG.webp",
+      "name": "Dishonored 2",
+      "type": "dlc",
+      "download_text": "AKR",
+      "key_description": "Imperial Assassin’s Pack DLC ⇛"
     },
     "https://akirabox.com/9AqGQ72J3Mn6/file": {
       "region": "EUR",
@@ -24126,7 +24198,7 @@
       "download_text": "AKR",
       "key_description": "DLC (13) ⇛"
     },
-    "https://akirabox.com/2WVGr8JM3kx7/file": {
+    "https://akirabox.com/N2p3DkRXVmMa/file": {
       "region": "EUR",
       "size": "24GB",
       "version": "1.00",
@@ -24138,7 +24210,7 @@
       "download_text": "AKR",
       "key_description": "Game ⇛"
     },
-    "https://akirabox.com/Zvqzl9b0GaD2/file": {
+    "https://akirabox.com/QN9mEbM5Z36d/file": {
       "region": "EUR",
       "size": "24GB",
       "version": "1.00",
@@ -24150,7 +24222,7 @@
       "download_text": "AKR",
       "key_description": "Update v1.07 (9.50+) ⇛"
     },
-    "https://akirabox.com/qLQ36KvKz19j/file": {
+    "https://akirabox.com/M2BGw69vPzj4/file": {
       "region": "EUR",
       "size": "24GB",
       "version": "1.00",
@@ -24162,7 +24234,7 @@
       "download_text": "AKR",
       "key_description": "Update v1.07 (Fix 5.05/6.72/7.02/7.55/9.00) ⇛"
     },
-    "https://akirabox.com/k0emb0qnzVb4/file": {
+    "https://akirabox.com/0rpmvr0KDmRg/file": {
       "region": "EUR",
       "size": "24GB",
       "version": "1.00",
@@ -27354,6 +27426,54 @@
       "download_text": "AKR",
       "key_description": "DLC ⇛"
     },
+    "https://akirabox.com/2WVGrqAjAzkx/file": {
+      "region": "EUR",
+      "size": "9GB",
+      "version": "1.00",
+      "release": "Aug 29, 2025",
+      "min_fw": null,
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/08/Shinobi-Art-of-Vengeance-PS4-PKG.webp",
+      "name": "Shinobi Art Of Vengeance Digital Deluxe Edition",
+      "type": "game",
+      "download_text": "AKR",
+      "key_description": "Game ⇛"
+    },
+    "https://akirabox.com/M2BGw69Rbzj4/file": {
+      "region": "EUR",
+      "size": "9GB",
+      "version": "1.00",
+      "release": "Aug 29, 2025",
+      "min_fw": null,
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/08/Shinobi-Art-of-Vengeance-PS4-PKG.webp",
+      "name": "Shinobi Art Of Vengeance Digital Deluxe Edition",
+      "type": "game",
+      "download_text": "AKR",
+      "key_description": "Fix 6.72+ ⇛"
+    },
+    "https://akirabox.com/0rpmvr0kDmRg/file": {
+      "region": "EUR",
+      "size": "9GB",
+      "version": "1.00",
+      "release": "Aug 29, 2025",
+      "min_fw": null,
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/08/Shinobi-Art-of-Vengeance-PS4-PKG.webp",
+      "name": "Shinobi Art Of Vengeance Digital Deluxe Edition",
+      "type": "game",
+      "download_text": "AKR",
+      "key_description": "Fix 5.05 ⇛"
+    },
+    "https://akirabox.com/jar3Xr78YG2d/folder": {
+      "region": "EUR",
+      "size": "9GB",
+      "version": "1.00",
+      "release": "Aug 29, 2025",
+      "min_fw": null,
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/08/Shinobi-Art-of-Vengeance-PS4-PKG.webp",
+      "name": "Shinobi Art Of Vengeance Digital Deluxe Edition",
+      "type": "dlc",
+      "download_text": "AKR",
+      "key_description": "DLC ⇛"
+    },
     "https://akirabox.com/gXeGOJqbJzAa/file": {
       "region": "EUR",
       "size": "401MB",
@@ -27726,6 +27846,42 @@
       "type": "update",
       "download_text": "AKR",
       "key_description": "Update v2.01 (Fix 5.05/6.72/7.xx) ⇛"
+    },
+    "https://akirabox.com/Z9dzBkvDEGk1/file": {
+      "region": "EUR",
+      "size": "2GB",
+      "version": "1.00",
+      "release": "Oct 21, 2021",
+      "min_fw": null,
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/Skul_-The-Hero-Slayer-PS4-PKG.webp",
+      "name": "Skul The Hero Slayer",
+      "type": "game",
+      "download_text": "AKR",
+      "key_description": "Game (8.00+) ⇛"
+    },
+    "https://akirabox.com/EL73gbnxWm9B/file": {
+      "region": "EUR",
+      "size": "2GB",
+      "version": "1.00",
+      "release": "Oct 21, 2021",
+      "min_fw": null,
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/Skul_-The-Hero-Slayer-PS4-PKG.webp",
+      "name": "Skul The Hero Slayer",
+      "type": "update",
+      "download_text": "AKR",
+      "key_description": "Update v1.20 ⇛"
+    },
+    "https://akirabox.com/vgKGxO0VRz8Q/file": {
+      "region": "EUR",
+      "size": "2GB",
+      "version": "1.00",
+      "release": "Oct 21, 2021",
+      "min_fw": "Fix 5.05/6.72/7.xx/8.xx",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/Skul_-The-Hero-Slayer-PS4-PKG.webp",
+      "name": "Skul The Hero Slayer",
+      "type": "update",
+      "download_text": "AKR",
+      "key_description": "Update v1.20 (Fix 5.05/6.72/7.xx/8.xx) ⇛"
     },
     "https://akirabox.com/dZxG5LgNzVjK/file": {
       "region": "EUR",

@@ -204,6 +204,30 @@
       "download_text": "Viki",
       "key_description": "Update v2.20 (9.00+) ⇛"
     },
+    "https://vikingfile.com/f/W8sM6rWMme": {
+      "region": "EUR",
+      "size": "3.81 GB",
+      "version": "1.00",
+      "release": "April 25, 2023",
+      "min_fw": "11.00+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/Afterimage-PS4-_-PS5-PS4-PKG.webp",
+      "name": "Afterimage",
+      "type": "game",
+      "download_text": "Viki",
+      "key_description": "Game (11.00+) ⇛"
+    },
+    "https://vikingfile.com/f/wCl7iSPFpx": {
+      "region": "EUR",
+      "size": "3.81 GB",
+      "version": "1.00",
+      "release": "April 25, 2023",
+      "min_fw": null,
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/Afterimage-PS4-_-PS5-PS4-PKG.webp",
+      "name": "Afterimage",
+      "type": "update",
+      "download_text": "Viki",
+      "key_description": "Update v1.21 OptionalFix ⇛"
+    },
     "https://vikingfile.com/f/kagyn7p6Qf": {
       "region": "EUR",
       "size": "30 GB",
@@ -6659,6 +6683,54 @@
       "download_text": "Viki",
       "key_description": "Game (5.05+) ⇛"
     },
+    "https://vikingfile.com/f/HhVQDRvMzE": {
+      "region": "EUR",
+      "size": "9GB",
+      "version": "1.00",
+      "release": "Aug 29, 2025",
+      "min_fw": null,
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/08/Shinobi-Art-of-Vengeance-PS4-PKG.webp",
+      "name": "Shinobi Art Of Vengeance Digital Deluxe Edition",
+      "type": "game",
+      "download_text": "Viki",
+      "key_description": "Game ⇛"
+    },
+    "https://vikingfile.com/f/zA5jOcIUfL": {
+      "region": "EUR",
+      "size": "9GB",
+      "version": "1.00",
+      "release": "Aug 29, 2025",
+      "min_fw": null,
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/08/Shinobi-Art-of-Vengeance-PS4-PKG.webp",
+      "name": "Shinobi Art Of Vengeance Digital Deluxe Edition",
+      "type": "game",
+      "download_text": "Viki",
+      "key_description": "Fix 6.72+ ⇛"
+    },
+    "https://vikingfile.com/f/47wg3UzIC9": {
+      "region": "EUR",
+      "size": "9GB",
+      "version": "1.00",
+      "release": "Aug 29, 2025",
+      "min_fw": null,
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/08/Shinobi-Art-of-Vengeance-PS4-PKG.webp",
+      "name": "Shinobi Art Of Vengeance Digital Deluxe Edition",
+      "type": "game",
+      "download_text": "Viki",
+      "key_description": "Fix 5.05 ⇛"
+    },
+    "https://vikingfile.com/f/KTIfailG8y": {
+      "region": "EUR",
+      "size": "9GB",
+      "version": "1.00",
+      "release": "Aug 29, 2025",
+      "min_fw": null,
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/08/Shinobi-Art-of-Vengeance-PS4-PKG.webp",
+      "name": "Shinobi Art Of Vengeance Digital Deluxe Edition",
+      "type": "dlc",
+      "download_text": "Viki",
+      "key_description": "DLC ⇛"
+    },
     "https://vikingfile.com/f/htogS77hYr": {
       "region": "USA",
       "size": "7GB",
@@ -6747,6 +6819,42 @@
       "type": "update",
       "download_text": "Viki",
       "key_description": "Update v1.04 (11.00+) ⇛"
+    },
+    "https://vikingfile.com/f/hNmOacYPUv": {
+      "region": "EUR",
+      "size": "2GB",
+      "version": "1.00",
+      "release": "Oct 21, 2021",
+      "min_fw": null,
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/Skul_-The-Hero-Slayer-PS4-PKG.webp",
+      "name": "Skul The Hero Slayer",
+      "type": "game",
+      "download_text": "Viki",
+      "key_description": "Game (8.00+) ⇛"
+    },
+    "https://vikingfile.com/f/76PP6bBZ9g": {
+      "region": "EUR",
+      "size": "2GB",
+      "version": "1.00",
+      "release": "Oct 21, 2021",
+      "min_fw": null,
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/Skul_-The-Hero-Slayer-PS4-PKG.webp",
+      "name": "Skul The Hero Slayer",
+      "type": "update",
+      "download_text": "Viki",
+      "key_description": "Update v1.20 ⇛"
+    },
+    "https://vikingfile.com/f/LYRt2rD7iu": {
+      "region": "EUR",
+      "size": "2GB",
+      "version": "1.00",
+      "release": "Oct 21, 2021",
+      "min_fw": "Fix 5.05/6.72/7.xx/8.xx",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/Skul_-The-Hero-Slayer-PS4-PKG.webp",
+      "name": "Skul The Hero Slayer",
+      "type": "update",
+      "download_text": "Viki",
+      "key_description": "Update v1.20 (Fix 5.05/6.72/7.xx/8.xx) ⇛"
     },
     "https://vikingfile.com/f/ro0y5mENEm": {
       "region": "EUR",

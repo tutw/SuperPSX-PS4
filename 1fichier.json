@@ -11500,6 +11500,30 @@
       "download_text": "OneFile",
       "key_description": "Update v1.04 (Fix 5.05/6.72/7.02/7.55/9.00) ⇛"
     },
+    "https://1fichier.com/?ls26cky63a4kiwsedqqe&af=4186346": {
+      "region": "EUR",
+      "size": "1.2GB",
+      "version": "1.00",
+      "release": "February 28, 2019",
+      "min_fw": "5.05+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/08/Deltarune-PS4-PKG.webp",
+      "name": "Deltarune",
+      "type": "game",
+      "download_text": "OneFile",
+      "key_description": "Game (5.05+) ⇛"
+    },
+    "https://1fichier.com/?6z1c33gkt2g5l0o45obm&af=4186346": {
+      "region": "EUR",
+      "size": "1.2GB",
+      "version": "1.00",
+      "release": "February 28, 2019",
+      "min_fw": null,
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/08/Deltarune-PS4-PKG.webp",
+      "name": "Deltarune",
+      "type": "update",
+      "download_text": "OneFile",
+      "key_description": "Update v1.03 ⇛"
+    },
     "https://1fichier.com/?2tkn8rvt0anqp063b3xo&af=4186346": {
       "region": "EUR",
       "size": "45 GB",
@@ -25259,18 +25283,6 @@
       "download_text": "OneFile",
       "key_description": "Update v1.24 (5.05+) ⇛"
     },
-    "https://1fichier.com/?vg1z7wudey7n3idwqqkd&af=4186346": {
-      "region": "EUR",
-      "size": "15GB",
-      "version": "1.00",
-      "release": "October 18, 2016",
-      "min_fw": "5.05+",
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/06/LEGO-Harry-Potter-Collection-PS4-PKG.webp",
-      "name": "Lego Harry Potter Collection",
-      "type": "game",
-      "download_text": "OneFile",
-      "key_description": "Game (5.05+) ⇛"
-    },
     "https://1fichier.com/?d4dobwic53jgmk6dtxo1&af=4186346": {
       "region": "USA",
       "size": "6GB",
@@ -33315,6 +33327,30 @@
       "download_text": "OneFile",
       "key_description": "Update 1.20 (Fix 5.05 / 6.72 / 7.02 / 7.55) ⇛"
     },
+    "https://1fichier.com/?xeajc3t0gvm8a0rhdkji&af=4186346": {
+      "region": "EUR",
+      "size": "3.9GB",
+      "version": "1.00",
+      "release": "June 7, 2016",
+      "min_fw": "5.05+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/08/Odin-Sphere-Leifthrasir-PS4-PKG.webp",
+      "name": "Odin Sphere Leifthrasir",
+      "type": "game",
+      "download_text": "OneFile",
+      "key_description": "Game (5.05+) ⇛"
+    },
+    "https://1fichier.com/?7f6v873c1zt8pbtjtav7&af=4186346": {
+      "region": "EUR",
+      "size": "3.9GB",
+      "version": "1.00",
+      "release": "June 7, 2016",
+      "min_fw": "5.05+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/08/Odin-Sphere-Leifthrasir-PS4-PKG.webp",
+      "name": "Odin Sphere Leifthrasir",
+      "type": "update",
+      "download_text": "OneFile",
+      "key_description": "Update v1.02 (5.05+) ⇛"
+    },
     "https://1fichier.com/?5lt09iffb9bh6lkrezvj&af=4186346": {
       "region": "EUR",
       "size": "5GB",
@@ -33488,7 +33524,7 @@
       "size": "2GB",
       "version": "1.00",
       "release": "June 17, 2022",
-      "min_fw": "9.51+",
+      "min_fw": "9.00+",
       "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/08/OMORI-PS4-PKG.webp",
       "name": "Omori",
       "type": "game",
@@ -40795,12 +40831,12 @@
       "size": "9GB",
       "version": "1.00",
       "release": "Aug 29, 2025",
-      "min_fw": null,
+      "min_fw": "6.72 / 7.02 / 7.55 / 9.00 / 11.00",
       "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/08/Shinobi-Art-of-Vengeance-PS4-PKG.webp",
       "name": "Shinobi Art Of Vengeance Digital Deluxe Edition",
       "type": "game",
       "download_text": "OneFile",
-      "key_description": "Fix 6.72+ ⇛"
+      "key_description": "Fix (6.72 / 7.02 / 7.55 / 9.00 / 11.00) ⇛"
     },
     "https://1fichier.com/?y8kt4ys15a67yswxg9yk&af=4186346": {
       "region": "EUR",
@@ -50892,6 +50928,30 @@
       "download_text": "OneFile",
       "key_description": "Update 1.03 (Fix 5.05 / 6.72 / 7.02 / 7.55 / 9.00) ⇛"
     },
+    "https://1fichier.com/?o02lolywhglcrehaav8n&af=4186346": {
+      "region": "EUR",
+      "size": "399.54 MB",
+      "version": "1.00",
+      "release": "September 25, 2018",
+      "min_fw": "6.72+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/Timespinner-PS4-PKG.webp",
+      "name": "Timespinner",
+      "type": "game",
+      "download_text": "OneFile",
+      "key_description": "Game (6.72+) ⇛"
+    },
+    "https://1fichier.com/?o6sct9d908jjmbkkn5e4&af=4186346": {
+      "region": "EUR",
+      "size": "399.54 MB",
+      "version": "1.00",
+      "release": "September 25, 2018",
+      "min_fw": "6.72+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/Timespinner-PS4-PKG.webp",
+      "name": "Timespinner",
+      "type": "update",
+      "download_text": "OneFile",
+      "key_description": "Update v1.04 (6.72+) ⇛"
+    },
     "https://1fichier.com/?64hz27306i3k76zjbbp2&af=4186346": {
       "region": "EUR",
       "size": "5GB",
@@ -57442,30 +57502,6 @@
       "type": "game",
       "download_text": "OneFile",
       "key_description": "Fix (5.05/6.72/7.02/7.55) ⇛"
-    },
-    "https://1fichier.com/?jp8jvw8umotomc4dpgv6&af=4157468": {
-      "region": "EUR",
-      "size": "1.51 GB",
-      "version": "1.00",
-      "release": "December 24, 2013",
-      "min_fw": "1.00+",
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/Zen-Pinball-2-PS4-PKG.webp",
-      "name": "Zen Pinball 2",
-      "type": "update",
-      "download_text": "OneFile",
-      "key_description": "Game + Update 1.22 + DLC ⇛"
-    },
-    "https://1fichier.com/?bpak23h8rcs0nfi68jsv&af=4157468": {
-      "region": "EUR",
-      "size": "1.51 GB",
-      "version": "1.00",
-      "release": "December 24, 2013",
-      "min_fw": "1.00+",
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/Zen-Pinball-2-PS4-PKG.webp",
-      "name": "Zen Pinball 2",
-      "type": "update",
-      "download_text": "OneFile",
-      "key_description": "Game + Update 1.21 + DLC ⇛"
     },
     "https://1fichier.com/?wh35v05va2or6d8d5kbx&af=4186346": {
       "region": "EUR",

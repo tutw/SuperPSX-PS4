@@ -1922,6 +1922,30 @@
       "download_text": "Viki",
       "key_description": "DLC Ultimate Edition V2 ⇛"
     },
+    "https://vikingfile.com/f/KXDGtwEBVJ": {
+      "region": "EUR",
+      "size": "1.2GB",
+      "version": "1.00",
+      "release": "February 28, 2019",
+      "min_fw": "5.05+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/08/Deltarune-PS4-PKG.webp",
+      "name": "Deltarune",
+      "type": "game",
+      "download_text": "Viki",
+      "key_description": "Game (5.05+) ⇛"
+    },
+    "https://vikingfile.com/f/ePhB2tWpJ9": {
+      "region": "EUR",
+      "size": "1.2GB",
+      "version": "1.00",
+      "release": "February 28, 2019",
+      "min_fw": null,
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/08/Deltarune-PS4-PKG.webp",
+      "name": "Deltarune",
+      "type": "update",
+      "download_text": "Viki",
+      "key_description": "Update v1.03 ⇛"
+    },
     "https://vikingfile.com/f/ukIELEdiEV": {
       "region": "EUR",
       "size": "1GB",
@@ -4264,18 +4288,6 @@
       "download_text": "Viki",
       "key_description": "Update v1.08 (Fix 5.05/6.72/7.xx) ⇛"
     },
-    "https://vikingfile.com/f/Fgc9Mz7kUX": {
-      "region": "EUR",
-      "size": "15GB",
-      "version": "1.00",
-      "release": "October 18, 2016",
-      "min_fw": "5.05+",
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/06/LEGO-Harry-Potter-Collection-PS4-PKG.webp",
-      "name": "Lego Harry Potter Collection",
-      "type": "game",
-      "download_text": "Viki",
-      "key_description": "Game (5.05+) ⇛"
-    },
     "https://vikingfile.com/f/njZGxrOb4m": {
       "region": "EUR",
       "size": "17GB",
@@ -5727,6 +5739,30 @@
       "download_text": "Viki",
       "key_description": "Update v1.21 (6.50+) ⇛"
     },
+    "https://vikingfile.com/f/XA193azbGO": {
+      "region": "EUR",
+      "size": "3.9GB",
+      "version": "1.00",
+      "release": "June 7, 2016",
+      "min_fw": "5.05+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/08/Odin-Sphere-Leifthrasir-PS4-PKG.webp",
+      "name": "Odin Sphere Leifthrasir",
+      "type": "game",
+      "download_text": "Viki",
+      "key_description": "Game (5.05+) ⇛"
+    },
+    "https://vikingfile.com/f/SkbWJ2pEsU": {
+      "region": "EUR",
+      "size": "3.9GB",
+      "version": "1.00",
+      "release": "June 7, 2016",
+      "min_fw": "5.05+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/08/Odin-Sphere-Leifthrasir-PS4-PKG.webp",
+      "name": "Odin Sphere Leifthrasir",
+      "type": "update",
+      "download_text": "Viki",
+      "key_description": "Update v1.02 (5.05+) ⇛"
+    },
     "https://vikingfile.com/f/7WcT3tfWvo": {
       "region": "EUR",
       "size": "5GB",
@@ -5763,12 +5799,24 @@
       "download_text": "Viki",
       "key_description": "Update v1.02 (Fix 5.05) ⇛"
     },
+    "https://vikingfile.com/f/CJszl5UxH7": {
+      "region": "EUR",
+      "size": "2GB",
+      "version": "1.00",
+      "release": "June 17, 2022",
+      "min_fw": "9.00+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/08/OMORI-PS4-PKG.webp",
+      "name": "Omori",
+      "type": "game",
+      "download_text": "Viki",
+      "key_description": "Game (9.00+) ⇛"
+    },
     "https://vikingfile.com/f/NbUh50CntN": {
       "region": "EUR",
       "size": "2GB",
       "version": "1.00",
       "release": "June 17, 2022",
-      "min_fw": "9.51+",
+      "min_fw": "9.00+",
       "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/08/OMORI-PS4-PKG.webp",
       "name": "Omori",
       "type": "game",
@@ -6700,12 +6748,12 @@
       "size": "9GB",
       "version": "1.00",
       "release": "Aug 29, 2025",
-      "min_fw": null,
+      "min_fw": "6.72 / 7.02 / 7.55 / 9.00 / 11.00",
       "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/08/Shinobi-Art-of-Vengeance-PS4-PKG.webp",
       "name": "Shinobi Art Of Vengeance Digital Deluxe Edition",
       "type": "game",
       "download_text": "Viki",
-      "key_description": "Fix 6.72+ ⇛"
+      "key_description": "Fix (6.72 / 7.02 / 7.55 / 9.00 / 11.00) ⇛"
     },
     "https://vikingfile.com/f/47wg3UzIC9": {
       "region": "EUR",

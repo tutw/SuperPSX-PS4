@@ -7981,6 +7981,30 @@
       "download_text": "AKR",
       "key_description": "DLC Ultimate Edition V2 ⇛"
     },
+    "https://akirabox.com/b5OzdBggymB8/file": {
+      "region": "EUR",
+      "size": "1.2GB",
+      "version": "1.00",
+      "release": "February 28, 2019",
+      "min_fw": "5.05+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/08/Deltarune-PS4-PKG.webp",
+      "name": "Deltarune",
+      "type": "game",
+      "download_text": "AKR",
+      "key_description": "Game (5.05+) ⇛"
+    },
+    "https://akirabox.com/obj3jbppj3Dx/file": {
+      "region": "EUR",
+      "size": "1.2GB",
+      "version": "1.00",
+      "release": "February 28, 2019",
+      "min_fw": null,
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/08/Deltarune-PS4-PKG.webp",
+      "name": "Deltarune",
+      "type": "update",
+      "download_text": "AKR",
+      "key_description": "Update v1.03 ⇛"
+    },
     "https://akirabox.com/qPez4rgO5mOY/file": {
       "region": "EUR",
       "size": "45 GB",
@@ -17631,18 +17655,6 @@
       "download_text": "AKR",
       "key_description": "Update v1.24 (5.05+) ⇛"
     },
-    "https://akirabox.com/N2p3DkbonmMa/file": {
-      "region": "EUR",
-      "size": "15GB",
-      "version": "1.00",
-      "release": "October 18, 2016",
-      "min_fw": "5.05+",
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/06/LEGO-Harry-Potter-Collection-PS4-PKG.webp",
-      "name": "Lego Harry Potter Collection",
-      "type": "game",
-      "download_text": "AKR",
-      "key_description": "Game (5.05+) ⇛"
-    },
     "https://akirabox.com/qw1zep9MV3Xy/file": {
       "region": "USA",
       "size": "6GB",
@@ -23229,6 +23241,30 @@
       "download_text": "AKR",
       "key_description": "Update v1.11 (Fix 5.05/6.72/7.xx) ⇛"
     },
+    "https://akirabox.com/QN9mEbMlo36d/file": {
+      "region": "EUR",
+      "size": "3.9GB",
+      "version": "1.00",
+      "release": "June 7, 2016",
+      "min_fw": "5.05+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/08/Odin-Sphere-Leifthrasir-PS4-PKG.webp",
+      "name": "Odin Sphere Leifthrasir",
+      "type": "game",
+      "download_text": "AKR",
+      "key_description": "Game (5.05+) ⇛"
+    },
+    "https://akirabox.com/N2p3DkRxxmMa/file": {
+      "region": "EUR",
+      "size": "3.9GB",
+      "version": "1.00",
+      "release": "June 7, 2016",
+      "min_fw": "5.05+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/08/Odin-Sphere-Leifthrasir-PS4-PKG.webp",
+      "name": "Odin Sphere Leifthrasir",
+      "type": "update",
+      "download_text": "AKR",
+      "key_description": "Update v1.02 (5.05+) ⇛"
+    },
     "https://akirabox.com/b5OzdByl9mB8/file": {
       "region": "EUR",
       "size": "5GB",
@@ -23277,12 +23313,24 @@
       "download_text": "AKR",
       "key_description": "Game (5.50+) ⇛"
     },
+    "https://akirabox.com/LJlGnVweAG15/file": {
+      "region": "EUR",
+      "size": "2GB",
+      "version": "1.00",
+      "release": "June 17, 2022",
+      "min_fw": "9.00+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/08/OMORI-PS4-PKG.webp",
+      "name": "Omori",
+      "type": "game",
+      "download_text": "AKR",
+      "key_description": "Game (9.00+) ⇛"
+    },
     "https://akirabox.com/rk9zKrj6X30l/file": {
       "region": "EUR",
       "size": "2GB",
       "version": "1.00",
       "release": "June 17, 2022",
-      "min_fw": "9.51+",
+      "min_fw": "9.00+",
       "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/08/OMORI-PS4-PKG.webp",
       "name": "Omori",
       "type": "game",
@@ -27443,12 +27491,12 @@
       "size": "9GB",
       "version": "1.00",
       "release": "Aug 29, 2025",
-      "min_fw": null,
+      "min_fw": "6.72 / 7.02 / 7.55 / 9.00 / 11.00",
       "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/08/Shinobi-Art-of-Vengeance-PS4-PKG.webp",
       "name": "Shinobi Art Of Vengeance Digital Deluxe Edition",
       "type": "game",
       "download_text": "AKR",
-      "key_description": "Fix 6.72+ ⇛"
+      "key_description": "Fix (6.72 / 7.02 / 7.55 / 9.00 / 11.00) ⇛"
     },
     "https://akirabox.com/0rpmvr0kDmRg/file": {
       "region": "EUR",
@@ -37789,7 +37837,7 @@
       "download_text": "AKR",
       "key_description": "DLCs ⇛"
     },
-    "https://akirabox.com/E1x3AdvA6myk/file": {
+    "https://akirabox.com/vgKGxO178z8Q/file": {
       "region": "EUR",
       "size": "430MB",
       "version": "1.00",
@@ -37801,7 +37849,7 @@
       "download_text": "AKR",
       "key_description": "Game (9.00+) ⇛"
     },
-    "https://akirabox.com/l76mZ6dZkman/file": {
+    "https://akirabox.com/EL73gbJkam9B/file": {
       "region": "EUR",
       "size": "430MB",
       "version": "1.00",
@@ -38901,7 +38949,7 @@
       "download_text": "AKR",
       "key_description": "DLC ⇛"
     },
-    "https://akirabox.com/2bJG8LX7GOBE/file": {
+    "https://akirabox.com/1RgzRjqbVzbp/file": {
       "region": "USA",
       "size": "45GB",
       "version": "1.00",
@@ -38914,7 +38962,7 @@
       "download_text": "AKR",
       "key_description": "Game (9.00+) ⇛"
     },
-    "https://akirabox.com/qw1zeNVjGXyn/file": {
+    "https://akirabox.com/Pbe3PJ56YGlX/file": {
       "region": "USA",
       "size": "45GB",
       "version": "1.00",
@@ -38927,7 +38975,7 @@
       "download_text": "AKR",
       "key_description": "Update v1.22 (Fix 5.05/6.72/7.02/7.55/9.00) ⇛"
     },
-    "https://akirabox.com/jJD3VoDyza5Q/file": {
+    "https://akirabox.com/l76mZRx42man/file": {
       "region": "USA",
       "size": "45GB",
       "version": "7",

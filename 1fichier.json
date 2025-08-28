@@ -25283,6 +25283,18 @@
       "download_text": "OneFile",
       "key_description": "Update v1.24 (5.05+) ⇛"
     },
+    "https://1fichier.com/?vg1z7wudey7n3idwqqkd&af=4186346": {
+      "region": "EUR",
+      "size": "15GB",
+      "version": "1.00",
+      "release": "October 18, 2016",
+      "min_fw": "5.05+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/06/LEGO-Harry-Potter-Collection-PS4-PKG.webp",
+      "name": "Lego Harry Potter Collection",
+      "type": "game",
+      "download_text": "OneFile",
+      "key_description": "Game (5.05+) ⇛"
+    },
     "https://1fichier.com/?d4dobwic53jgmk6dtxo1&af=4186346": {
       "region": "USA",
       "size": "6GB",
@@ -31697,7 +31709,7 @@
       "name": "Neon White",
       "type": "update",
       "download_text": "OneFile",
-      "key_description": "Update 1.03 (9.50+) ⇛"
+      "key_description": "Update v1.03 (9.50+) ⇛"
     },
     "https://1fichier.com/?pmu6d40z3verzhep9pxc&af=4186346": {
       "region": "EUR",
@@ -31709,7 +31721,7 @@
       "name": "Neon White",
       "type": "update",
       "download_text": "OneFile",
-      "key_description": "Update 1.03 (Fix 5.05/6.72/7.02/7.55/9.00) ⇛"
+      "key_description": "Update v1.03 (Fix 5.05/6.72/7.02/7.55/9.00) ⇛"
     },
     "https://1fichier.com/?owpv2w1cbmyuhor62a6a&af=4186346": {
       "region": "EUR",
@@ -32560,30 +32572,6 @@
       "download_text": "OneFile",
       "key_description": "DLC ⇛"
     },
-    "https://1fichier.com/?x0l1nv7408ke0kb720il&af=4186346": {
-      "region": "EUR",
-      "size": "500MB",
-      "version": "1.00",
-      "release": "October 14, 2014",
-      "min_fw": "5.05+",
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/08/Nidhogg-PS4-PKG.webp",
-      "name": "Nidhogg 2",
-      "type": "game",
-      "download_text": "OneFile",
-      "key_description": "Game (5.05+) ⇛"
-    },
-    "https://1fichier.com/?bry9hepim2a628h6iylm&af=4186346": {
-      "region": "EUR",
-      "size": "500MB",
-      "version": "1.00",
-      "release": "October 14, 2014",
-      "min_fw": "5.05+",
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/08/Nidhogg-PS4-PKG.webp",
-      "name": "Nidhogg 2",
-      "type": "update",
-      "download_text": "OneFile",
-      "key_description": "Update v1.02 (5.05+) ⇛"
-    },
     "https://1fichier.com/?e7psyde2u42xep77z9a9&af=4186346": {
       "region": "EUR",
       "size": "397.15 MB",
@@ -32607,6 +32595,30 @@
       "type": "update",
       "download_text": "OneFile",
       "key_description": "Update v1.07 (5.05+) ⇛"
+    },
+    "https://1fichier.com/?x0l1nv7408ke0kb720il&af=4186346": {
+      "region": "EUR",
+      "size": "500MB",
+      "version": "1.00",
+      "release": "October 14, 2014",
+      "min_fw": "5.05+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/08/Nidhogg-PS4-PKG.webp",
+      "name": "Nidhogg 2",
+      "type": "game",
+      "download_text": "OneFile",
+      "key_description": "Game (5.05+) ⇛"
+    },
+    "https://1fichier.com/?bry9hepim2a628h6iylm&af=4186346": {
+      "region": "EUR",
+      "size": "500MB",
+      "version": "1.00",
+      "release": "October 14, 2014",
+      "min_fw": "5.05+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/08/Nidhogg-PS4-PKG.webp",
+      "name": "Nidhogg 2",
+      "type": "update",
+      "download_text": "OneFile",
+      "key_description": "Update v1.02 (5.05+) ⇛"
     },
     "https://1fichier.com/?l85tz68ijgs1udp3fkom&af=4186346": {
       "region": "EUR",
@@ -38988,18 +39000,6 @@
       "download_text": "OneFile",
       "key_description": "Update v1.08 (Fix 5.05) ⇛"
     },
-    "https://1fichier.com/?6mhni7hafzamqa0ntsc2&af=4186346": {
-      "region": "EUR",
-      "size": "585.50 MB",
-      "version": "1.00",
-      "release": "April 14, 2022",
-      "min_fw": "9.00/11.00+",
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/Sally-Face-PS4-PKG.webp",
-      "name": "Sally Face",
-      "type": "game",
-      "download_text": "OneFile",
-      "key_description": "Game ⇛"
-    },
     "https://1fichier.com/?f1btla7p2kkf0mz7yg6o&af=4186346": {
       "region": "EUR",
       "size": "800 MB",
@@ -39612,19 +39612,19 @@
       "download_text": "OneFile",
       "key_description": "Fix (5.05 / 6.72 / 7.02 / 7.55) ⇛"
     },
-    "https://1fichier.com/?lwqeu118ahxovmhh6ldg&af=4186346": {
+    "https://1fichier.com/?1juociytxrkuqvgnqmlt&af=4186346": {
       "region": "EUR",
       "size": "700MB",
       "version": "1.00",
       "release": "July 5, 2019",
-      "min_fw": "5.05+",
+      "min_fw": "6.72+",
       "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/Sea-of-Solitude-PS4-PKG.webp",
       "name": "Sea Of Solitude",
       "type": "game",
       "download_text": "OneFile",
-      "key_description": "Game ⇛"
+      "key_description": "Game (6.72+) ⇛"
     },
-    "https://1fichier.com/?2wmudkoqt8tivl7ezlbk&af=4186346": {
+    "https://1fichier.com/?nbey50nb8do4ysg2bmqq&af=4186346": {
       "region": "EUR",
       "size": "700MB",
       "version": "1.00",
@@ -57502,6 +57502,30 @@
       "type": "game",
       "download_text": "OneFile",
       "key_description": "Fix (5.05/6.72/7.02/7.55) ⇛"
+    },
+    "https://1fichier.com/?jp8jvw8umotomc4dpgv6&af=4157468": {
+      "region": "EUR",
+      "size": "1.51 GB",
+      "version": "1.00",
+      "release": "December 24, 2013",
+      "min_fw": "1.00+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/Zen-Pinball-2-PS4-PKG.webp",
+      "name": "Zen Pinball 2",
+      "type": "update",
+      "download_text": "OneFile",
+      "key_description": "Game + Update 1.22 + DLC ⇛"
+    },
+    "https://1fichier.com/?bpak23h8rcs0nfi68jsv&af=4157468": {
+      "region": "EUR",
+      "size": "1.51 GB",
+      "version": "1.00",
+      "release": "December 24, 2013",
+      "min_fw": "1.00+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/Zen-Pinball-2-PS4-PKG.webp",
+      "name": "Zen Pinball 2",
+      "type": "update",
+      "download_text": "OneFile",
+      "key_description": "Game + Update 1.21 + DLC ⇛"
     },
     "https://1fichier.com/?wh35v05va2or6d8d5kbx&af=4186346": {
       "region": "EUR",

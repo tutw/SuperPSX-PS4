@@ -7095,7 +7095,7 @@
       "download_text": "AKR",
       "key_description": "Update v1.03 (6.72) ⇛"
     },
-    "https://akirabox.com/1RgzRVMRXzbp/file": {
+    "https://akirabox.com/l5YzMK02KmyO/file": {
       "region": "EUR",
       "size": "150 MB",
       "version": "1.00",
@@ -17655,6 +17655,18 @@
       "download_text": "AKR",
       "key_description": "Update v1.24 (5.05+) ⇛"
     },
+    "https://akirabox.com/N2p3DkbonmMa/file": {
+      "region": "EUR",
+      "size": "15GB",
+      "version": "1.00",
+      "release": "October 18, 2016",
+      "min_fw": "5.05+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/06/LEGO-Harry-Potter-Collection-PS4-PKG.webp",
+      "name": "Lego Harry Potter Collection",
+      "type": "game",
+      "download_text": "AKR",
+      "key_description": "Game (5.05+) ⇛"
+    },
     "https://akirabox.com/qw1zep9MV3Xy/file": {
       "region": "USA",
       "size": "6GB",
@@ -22009,6 +22021,42 @@
       "download_text": "AKR",
       "key_description": "Update v1.03 (Fix 5.05/6.72/7.xx) ⇛"
     },
+    "https://akirabox.com/wgWGqYdADG4o/file": {
+      "region": "EUR",
+      "size": "3.15 GB",
+      "version": "1.00",
+      "release": "December 13, 2022",
+      "min_fw": "10.00+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/Neon-White-PS4-PKG.webp",
+      "name": "Neon White",
+      "type": "game",
+      "download_text": "AKR",
+      "key_description": "Game ⇛"
+    },
+    "https://akirabox.com/5pVzNa1yA37w/file": {
+      "region": "EUR",
+      "size": "3.15 GB",
+      "version": "1.00",
+      "release": "December 13, 2022",
+      "min_fw": "10.00+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/Neon-White-PS4-PKG.webp",
+      "name": "Neon White",
+      "type": "update",
+      "download_text": "AKR",
+      "key_description": "Update v1.03 (9.50+) ⇛"
+    },
+    "https://akirabox.com/LJlGnVwMZG15/file": {
+      "region": "EUR",
+      "size": "3.15 GB",
+      "version": "1.00",
+      "release": "December 13, 2022",
+      "min_fw": "Fix 5.05/6.72/7.02/7.55/9.00",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/Neon-White-PS4-PKG.webp",
+      "name": "Neon White",
+      "type": "update",
+      "download_text": "AKR",
+      "key_description": "Update v1.03 (Fix 5.05/6.72/7.02/7.55/9.00) ⇛"
+    },
     "https://akirabox.com/Pbe3PeXWzlX6/file": {
       "region": "USA",
       "size": "2.87 GB",
@@ -22630,30 +22678,6 @@
       "download_text": "AKR",
       "key_description": "DLC v2 ⇛"
     },
-    "https://akirabox.com/obj3jbwn23Dx/file": {
-      "region": "EUR",
-      "size": "500MB",
-      "version": "1.00",
-      "release": "October 14, 2014",
-      "min_fw": "5.05+",
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/08/Nidhogg-PS4-PKG.webp",
-      "name": "Nidhogg 2",
-      "type": "game",
-      "download_text": "AKR",
-      "key_description": "Game (5.05+) ⇛"
-    },
-    "https://akirabox.com/RMKGJXrkl31o/file": {
-      "region": "EUR",
-      "size": "500MB",
-      "version": "1.00",
-      "release": "October 14, 2014",
-      "min_fw": "5.05+",
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/08/Nidhogg-PS4-PKG.webp",
-      "name": "Nidhogg 2",
-      "type": "update",
-      "download_text": "AKR",
-      "key_description": "Update v1.02 (5.05+) ⇛"
-    },
     "https://akirabox.com/7d5GLr56V3xR/file": {
       "region": "EUR",
       "size": "397.15 MB",
@@ -22677,6 +22701,30 @@
       "type": "update",
       "download_text": "AKR",
       "key_description": "Update v1.07 (5.05+) ⇛"
+    },
+    "https://akirabox.com/obj3jbwn23Dx/file": {
+      "region": "EUR",
+      "size": "500MB",
+      "version": "1.00",
+      "release": "October 14, 2014",
+      "min_fw": "5.05+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/08/Nidhogg-PS4-PKG.webp",
+      "name": "Nidhogg 2",
+      "type": "game",
+      "download_text": "AKR",
+      "key_description": "Game (5.05+) ⇛"
+    },
+    "https://akirabox.com/RMKGJXrkl31o/file": {
+      "region": "EUR",
+      "size": "500MB",
+      "version": "1.00",
+      "release": "October 14, 2014",
+      "min_fw": "5.05+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/08/Nidhogg-PS4-PKG.webp",
+      "name": "Nidhogg 2",
+      "type": "update",
+      "download_text": "AKR",
+      "key_description": "Update v1.02 (5.05+) ⇛"
     },
     "https://akirabox.com/0Kezk9162mD1/file": {
       "region": "EUR",
@@ -26763,6 +26811,30 @@
       "type": "dlc",
       "download_text": "AKR",
       "key_description": "DLC (19) ⇛"
+    },
+    "https://akirabox.com/jar3XrEKZG2d/file": {
+      "region": "EUR",
+      "size": "700MB",
+      "version": "1.00",
+      "release": "July 5, 2019",
+      "min_fw": "6.72+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/Sea-of-Solitude-PS4-PKG.webp",
+      "name": "Sea Of Solitude",
+      "type": "game",
+      "download_text": "AKR",
+      "key_description": "Game (6.72+) ⇛"
+    },
+    "https://akirabox.com/2bJG819AqmOB/file": {
+      "region": "EUR",
+      "size": "700MB",
+      "version": "1.00",
+      "release": "July 5, 2019",
+      "min_fw": "5.05+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/Sea-of-Solitude-PS4-PKG.webp",
+      "name": "Sea Of Solitude",
+      "type": "game",
+      "download_text": "AKR",
+      "key_description": "Fix 5.05 ⇛"
     },
     "https://akirabox.com/EL73gbr0Ym9B/file": {
       "region": "EUR",

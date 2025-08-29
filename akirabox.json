@@ -22023,39 +22023,39 @@
     },
     "https://akirabox.com/wgWGqYdADG4o/file": {
       "region": "EUR",
-      "size": "3.15 GB",
+      "size": "3GB",
       "version": "1.00",
-      "release": "December 13, 2022",
-      "min_fw": "10.00+",
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/Neon-White-PS4-PKG.webp",
-      "name": "Neon White",
+      "release": "June 4, 2019",
+      "min_fw": null,
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/08/Warhammer-Chaosbane-PS4-PKG.webp",
+      "name": "Warhammer Chaosbane",
       "type": "game",
       "download_text": "AKR",
-      "key_description": "Game ⇛"
+      "key_description": "Game (6.00+) ⇛"
     },
     "https://akirabox.com/5pVzNa1yA37w/file": {
       "region": "EUR",
-      "size": "3.15 GB",
+      "size": "3GB",
       "version": "1.00",
-      "release": "December 13, 2022",
-      "min_fw": "10.00+",
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/Neon-White-PS4-PKG.webp",
-      "name": "Neon White",
+      "release": "June 4, 2019",
+      "min_fw": null,
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/08/Warhammer-Chaosbane-PS4-PKG.webp",
+      "name": "Warhammer Chaosbane",
       "type": "update",
       "download_text": "AKR",
-      "key_description": "Update v1.03 (9.50+) ⇛"
+      "key_description": "Update v1.14 (6.00+) ⇛"
     },
     "https://akirabox.com/LJlGnVwMZG15/file": {
       "region": "EUR",
-      "size": "3.15 GB",
+      "size": "3GB",
       "version": "1.00",
-      "release": "December 13, 2022",
-      "min_fw": "Fix 5.05/6.72/7.02/7.55/9.00",
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/Neon-White-PS4-PKG.webp",
-      "name": "Neon White",
-      "type": "update",
+      "release": "June 4, 2019",
+      "min_fw": null,
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/08/Warhammer-Chaosbane-PS4-PKG.webp",
+      "name": "Warhammer Chaosbane",
+      "type": "dlc",
       "download_text": "AKR",
-      "key_description": "Update v1.03 (Fix 5.05/6.72/7.02/7.55/9.00) ⇛"
+      "key_description": "DLC ⇛"
     },
     "https://akirabox.com/Pbe3PeXWzlX6/file": {
       "region": "USA",
@@ -34751,6 +34751,42 @@
       "type": "update",
       "download_text": "AKR",
       "key_description": "Update v1.04 ⇛"
+    },
+    "https://akirabox.com/l5YzMK0X2myO/file": {
+      "region": "EUR",
+      "size": "5.2GB",
+      "version": "1.00",
+      "release": "September 25, 2018",
+      "min_fw": "6.72+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/08/This-Is-The-Police-2-PS4-PKG.webp",
+      "name": "This Is The Police 2",
+      "type": "game",
+      "download_text": "AKR",
+      "key_description": "Game (6.72+) ⇛"
+    },
+    "https://akirabox.com/EL73gbnXWm9B/file": {
+      "region": "EUR",
+      "size": "5.2GB",
+      "version": "1.00",
+      "release": "September 25, 2018",
+      "min_fw": "6.72+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/08/This-Is-The-Police-2-PS4-PKG.webp",
+      "name": "This Is The Police 2",
+      "type": "update",
+      "download_text": "AKR",
+      "key_description": "Update v1.01 (6.72+) ⇛"
+    },
+    "https://akirabox.com/2WVGrqpxMzkx/file": {
+      "region": "EUR",
+      "size": "5.2GB",
+      "version": "1.00",
+      "release": "September 25, 2018",
+      "min_fw": "Fix 5.05",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/08/This-Is-The-Police-2-PS4-PKG.webp",
+      "name": "This Is The Police 2",
+      "type": "update",
+      "download_text": "AKR",
+      "key_description": "Update v1.01 (Fix 5.05) ⇛"
     },
     "https://akirabox.com/EL73gAjKG9Ba/file": {
       "region": "EUR",

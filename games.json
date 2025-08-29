@@ -9125,6 +9125,42 @@
       "download_text": "Viki",
       "key_description": "Update v1.06 (Fix 5.05/6.72/7.xx) ⇛"
     },
+    "https://vikingfile.com/f/T0xJ2KMPwm": {
+      "region": "EUR",
+      "size": "3GB",
+      "version": "1.00",
+      "release": "June 4, 2019",
+      "min_fw": null,
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/08/Warhammer-Chaosbane-PS4-PKG.webp",
+      "name": "Warhammer Chaosbane",
+      "type": "game",
+      "download_text": "Viki",
+      "key_description": "Game (6.00+) ⇛"
+    },
+    "https://vikingfile.com/f/RyO76jftSY": {
+      "region": "EUR",
+      "size": "3GB",
+      "version": "1.00",
+      "release": "June 4, 2019",
+      "min_fw": null,
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/08/Warhammer-Chaosbane-PS4-PKG.webp",
+      "name": "Warhammer Chaosbane",
+      "type": "update",
+      "download_text": "Viki",
+      "key_description": "Update v1.14 (6.00+) ⇛"
+    },
+    "https://vikingfile.com/f/0AbkDMyabz": {
+      "region": "EUR",
+      "size": "3GB",
+      "version": "1.00",
+      "release": "June 4, 2019",
+      "min_fw": null,
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/08/Warhammer-Chaosbane-PS4-PKG.webp",
+      "name": "Warhammer Chaosbane",
+      "type": "dlc",
+      "download_text": "Viki",
+      "key_description": "DLC ⇛"
+    },
     "https://vikingfile.com/f/jye1ftd3mJ": {
       "region": "EUR",
       "size": "2 GB",

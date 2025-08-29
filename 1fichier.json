@@ -39000,6 +39000,18 @@
       "download_text": "OneFile",
       "key_description": "Update v1.08 (Fix 5.05) ⇛"
     },
+    "https://1fichier.com/?6mhni7hafzamqa0ntsc2&af=4186346": {
+      "region": "EUR",
+      "size": "585.50 MB",
+      "version": "1.00",
+      "release": "April 14, 2022",
+      "min_fw": "9.00/11.00+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/Sally-Face-PS4-PKG.webp",
+      "name": "Sally Face",
+      "type": "game",
+      "download_text": "OneFile",
+      "key_description": "Game ⇛"
+    },
     "https://1fichier.com/?f1btla7p2kkf0mz7yg6o&af=4186346": {
       "region": "EUR",
       "size": "800 MB",
@@ -50724,6 +50736,42 @@
       "download_text": "OneFile",
       "key_description": "Game ⇛"
     },
+    "https://1fichier.com/?hn7syfrlcklnufcib0w6&af=4186346": {
+      "region": "EUR",
+      "size": "5.2GB",
+      "version": "1.00",
+      "release": "September 25, 2018",
+      "min_fw": "6.72+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/08/This-Is-The-Police-2-PS4-PKG.webp",
+      "name": "This Is The Police 2",
+      "type": "game",
+      "download_text": "OneFile",
+      "key_description": "Game (6.72+) ⇛"
+    },
+    "https://1fichier.com/?82iugbf3ma9lw2d0ac70&af=4186346": {
+      "region": "EUR",
+      "size": "5.2GB",
+      "version": "1.00",
+      "release": "September 25, 2018",
+      "min_fw": "6.72+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/08/This-Is-The-Police-2-PS4-PKG.webp",
+      "name": "This Is The Police 2",
+      "type": "update",
+      "download_text": "OneFile",
+      "key_description": "Update v1.01 (6.72+) ⇛"
+    },
+    "https://1fichier.com/?rj4trls2lqfhotqoiop0&af=4186346": {
+      "region": "EUR",
+      "size": "5.2GB",
+      "version": "1.00",
+      "release": "September 25, 2018",
+      "min_fw": "Fix 5.05",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/08/This-Is-The-Police-2-PS4-PKG.webp",
+      "name": "This Is The Police 2",
+      "type": "update",
+      "download_text": "OneFile",
+      "key_description": "Update v1.01 (Fix 5.05) ⇛"
+    },
     "https://1fichier.com/?5fgxzhg9la7t5hzm22q5&af=4186346": {
       "region": "EUR",
       "size": "2.52 GB",
@@ -55448,6 +55496,42 @@
       "type": "game",
       "download_text": "OneFile",
       "key_description": "OST ⇛"
+    },
+    "https://1fichier.com/?t0pvggx7r8pq794fs52o&af=4186346": {
+      "region": "EUR",
+      "size": "3GB",
+      "version": "1.00",
+      "release": "June 4, 2019",
+      "min_fw": null,
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/08/Warhammer-Chaosbane-PS4-PKG.webp",
+      "name": "Warhammer Chaosbane",
+      "type": "game",
+      "download_text": "OneFile",
+      "key_description": "Game (6.00+) ⇛"
+    },
+    "https://1fichier.com/?o82y2lh4da9ij5whc8ux&af=4186346": {
+      "region": "EUR",
+      "size": "3GB",
+      "version": "1.00",
+      "release": "June 4, 2019",
+      "min_fw": null,
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/08/Warhammer-Chaosbane-PS4-PKG.webp",
+      "name": "Warhammer Chaosbane",
+      "type": "update",
+      "download_text": "OneFile",
+      "key_description": "Update v1.14 (6.00+) ⇛"
+    },
+    "https://1fichier.com/?xkxdp93rb0by6eh09zn9&af=4186346": {
+      "region": "EUR",
+      "size": "3GB",
+      "version": "1.00",
+      "release": "June 4, 2019",
+      "min_fw": null,
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/08/Warhammer-Chaosbane-PS4-PKG.webp",
+      "name": "Warhammer Chaosbane",
+      "type": "dlc",
+      "download_text": "OneFile",
+      "key_description": "DLC ⇛"
     },
     "https://1fichier.com/?0sj8at8gu232bqahevvt&af=4186346": {
       "region": "EUR",

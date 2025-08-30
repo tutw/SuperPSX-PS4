@@ -1786,18 +1786,6 @@
       "download_text": "Viki",
       "key_description": "Game-v1.02-(5.05+) ⇛"
     },
-    "https://vikingfile.com/f/F3NcpEst5l": {
-      "region": "EUR",
-      "size": "5GB",
-      "version": "1.00",
-      "release": "May 13, 2025",
-      "min_fw": "9.00+",
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/05/Death-end-re-Quest-Code-Z-PS4-PKG.webp",
-      "name": "Death End Re Quest Code Z",
-      "type": "game",
-      "download_text": "Viki",
-      "key_description": "Game (9.00+) ⇛"
-    },
     "https://vikingfile.com/f/gO22GQqOyR": {
       "region": "USA",
       "size": "48.05 GB",
@@ -2401,6 +2389,42 @@
       "type": "update",
       "download_text": "Viki",
       "key_description": "Update v1.02 (Fix 5.05) ⇛"
+    },
+    "https://vikingfile.com/f/BRXlRRKaQs": {
+      "region": "EUR",
+      "size": "2.5GB",
+      "version": "1.00",
+      "release": "October 31, 2023",
+      "min_fw": "11.00+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/08/Dusk-PS4-PKG.webp",
+      "name": "Dusk",
+      "type": "game",
+      "download_text": "Viki",
+      "key_description": "Game (11.00+) ⇛"
+    },
+    "https://vikingfile.com/f/5AeFmZIQWP": {
+      "region": "EUR",
+      "size": "2.5GB",
+      "version": "1.00",
+      "release": "October 31, 2023",
+      "min_fw": "11.00+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/08/Dusk-PS4-PKG.webp",
+      "name": "Dusk",
+      "type": "update",
+      "download_text": "Viki",
+      "key_description": "Update v1.07 (11.00+) ⇛"
+    },
+    "https://vikingfile.com/f/cYtt4zzXuT": {
+      "region": "EUR",
+      "size": "2.5GB",
+      "version": "1.00",
+      "release": "October 31, 2023",
+      "min_fw": "Fix 5.05/6.72/7.xx/9.00",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/08/Dusk-PS4-PKG.webp",
+      "name": "Dusk",
+      "type": "update",
+      "download_text": "Viki",
+      "key_description": "Update v1.07 (Fix 5.05/6.72/7.xx/9.00) ⇛"
     },
     "https://vikingfile.com/f/aH2HzN3hNf": {
       "region": "EUR",
@@ -5000,6 +5024,30 @@
       "type": "update",
       "download_text": "Viki",
       "key_description": "Update v3.12 (Fix 5.05/6.72/7.xx/9.00)"
+    },
+    "https://vikingfile.com/f/fk1ovpxs5c": {
+      "region": "EUR",
+      "size": "800MB",
+      "version": "1.03",
+      "release": "September, 17 2024",
+      "min_fw": null,
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/08/Mister-Mosquito-PS4-PKG.webp",
+      "name": "Mister Mosquito",
+      "type": "game",
+      "download_text": "Viki",
+      "key_description": "Game (v1.03) (11.50+) ⇛"
+    },
+    "https://vikingfile.com/f/7ssWbTMTn0": {
+      "region": "EUR",
+      "size": "800MB",
+      "version": "1.00",
+      "release": "September, 17 2024",
+      "min_fw": "Fix 5.05/6.72/7.xx/9.00/11.00",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/08/Mister-Mosquito-PS4-PKG.webp",
+      "name": "Mister Mosquito",
+      "type": "update",
+      "download_text": "Viki",
+      "key_description": "Update v1.03 (Fix 5.05/6.72/7.xx/9.00/11.00) ⇛"
     },
     "https://vikingfile.com/f/peQYs8zCQz": {
       "region": "EUR",
@@ -7829,6 +7877,30 @@
       "type": "update",
       "download_text": "Viki",
       "key_description": "Update v1.11 (7.55+) ⇛"
+    },
+    "https://vikingfile.com/f/xaHPfjTPGS": {
+      "region": "EUR",
+      "size": "1.5GB",
+      "version": "1.00",
+      "release": "December 16, 2014",
+      "min_fw": "5.05+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/08/Tetris-Ultimate-PS4-PKG.webp",
+      "name": "Tetris Ultimate",
+      "type": "game",
+      "download_text": "Viki",
+      "key_description": "Game (5.05+) ⇛"
+    },
+    "https://vikingfile.com/f/gq5K3O9L8L": {
+      "region": "EUR",
+      "size": "1.5GB",
+      "version": "1.00",
+      "release": "December 16, 2014",
+      "min_fw": "5.05+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/08/Tetris-Ultimate-PS4-PKG.webp",
+      "name": "Tetris Ultimate",
+      "type": "update",
+      "download_text": "Viki",
+      "key_description": "Update v1.02 (5.05+) ⇛"
     },
     "https://vikingfile.com/f/lNNdl6EmjR": {
       "region": "EUR",

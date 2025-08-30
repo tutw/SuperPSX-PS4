@@ -6872,78 +6872,6 @@
       "download_text": "OneFile",
       "key_description": "DLC ⇛"
     },
-    "https://1fichier.com/?waona4odtufzul9bl0oh&af=4186346": {
-      "region": "EUR",
-      "size": "1.19 GB",
-      "version": "1.00",
-      "release": "May 25, 2021",
-      "min_fw": null,
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/Capcom-Arcade-Stadium-PS4-PKG.webp",
-      "name": "Capcom Arcade Stadium",
-      "type": "game",
-      "download_text": "OneFile",
-      "key_description": "Game (8.00+) ⇛"
-    },
-    "https://1fichier.com/?pv0xt8m4i7f0jklbn6o4&af=4186346": {
-      "region": "EUR",
-      "size": "1.19 GB",
-      "version": "1.00",
-      "release": "May 25, 2021",
-      "min_fw": null,
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/Capcom-Arcade-Stadium-PS4-PKG.webp",
-      "name": "Capcom Arcade Stadium",
-      "type": "update",
-      "download_text": "OneFile",
-      "key_description": "Update v1.05 (8.00+) ⇛"
-    },
-    "https://1fichier.com/?nqjaxuloplc6z374i7eg&af=4186346": {
-      "region": "EUR",
-      "size": "1.19 GB",
-      "version": "1.00",
-      "release": "May 25, 2021",
-      "min_fw": null,
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/Capcom-Arcade-Stadium-PS4-PKG.webp",
-      "name": "Capcom Arcade Stadium",
-      "type": "dlc",
-      "download_text": "OneFile",
-      "key_description": "DLC ⇛"
-    },
-    "https://1fichier.com/?xxc8gq2pfon3r40v70pc&af=4186346": {
-      "region": "EUR",
-      "size": "1.19 GB",
-      "version": "1.00",
-      "release": "May 25, 2021",
-      "min_fw": null,
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/Capcom-Arcade-Stadium-PS4-PKG.webp",
-      "name": "Capcom Arcade Stadium",
-      "type": "game",
-      "download_text": "OneFile",
-      "key_description": "Game (8.00+) ⇛"
-    },
-    "https://1fichier.com/?24ay5shkpd50681e7cem&af=4186346": {
-      "region": "EUR",
-      "size": "1.19 GB",
-      "version": "1.00",
-      "release": "May 25, 2021",
-      "min_fw": null,
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/Capcom-Arcade-Stadium-PS4-PKG.webp",
-      "name": "Capcom Arcade Stadium",
-      "type": "update",
-      "download_text": "OneFile",
-      "key_description": "Update v1.04 ⇛"
-    },
-    "https://1fichier.com/?nwy0llrrd3k930r1sut6&af=4186346": {
-      "region": "EUR",
-      "size": "1.19 GB",
-      "version": "1.00",
-      "release": "May 25, 2021",
-      "min_fw": "Fix 5.05/6.72/7.xx",
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/Capcom-Arcade-Stadium-PS4-PKG.webp",
-      "name": "Capcom Arcade Stadium",
-      "type": "update",
-      "download_text": "OneFile",
-      "key_description": "Update v1.04 (Fix 5.05/6.72/7.xx) ⇛"
-    },
     "https://1fichier.com/?gua0pk4860qih3i3si3o&af=4186346": {
       "region": "EUR",
       "size": "851.24 MB",
@@ -11280,18 +11208,6 @@
       "download_text": "OneFile",
       "key_description": "Game+Upv1.02 ⇛"
     },
-    "https://1fichier.com/?qc79dfwm2znae42ur8sk&af=4186346": {
-      "region": "EUR",
-      "size": "5GB",
-      "version": "1.00",
-      "release": "May 13, 2025",
-      "min_fw": "9.00+",
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/05/Death-end-re-Quest-Code-Z-PS4-PKG.webp",
-      "name": "Death End Re Quest Code Z",
-      "type": "game",
-      "download_text": "OneFile",
-      "key_description": "Game (9.00+) ⇛"
-    },
     "https://1fichier.com/?9dzo45k03uindg9ptvgj&af=4186346": {
       "region": "USA",
       "size": "48.05 GB",
@@ -13975,6 +13891,42 @@
       "type": "update",
       "download_text": "OneFile",
       "key_description": "Update v1.02 (Fix 5.05) ⇛"
+    },
+    "https://1fichier.com/?t9avn7tlv0thfi7ejocn&af=4186346": {
+      "region": "EUR",
+      "size": "2.5GB",
+      "version": "1.00",
+      "release": "October 31, 2023",
+      "min_fw": "11.00+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/08/Dusk-PS4-PKG.webp",
+      "name": "Dusk",
+      "type": "game",
+      "download_text": "OneFile",
+      "key_description": "Game (11.00+) ⇛"
+    },
+    "https://1fichier.com/?xm1yunambnynxisq808n&af=4186346": {
+      "region": "EUR",
+      "size": "2.5GB",
+      "version": "1.00",
+      "release": "October 31, 2023",
+      "min_fw": "11.00+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/08/Dusk-PS4-PKG.webp",
+      "name": "Dusk",
+      "type": "update",
+      "download_text": "OneFile",
+      "key_description": "Update v1.07 (11.00+) ⇛"
+    },
+    "https://1fichier.com/?atf3zznj2ulb6od7mpiy&af=4186346": {
+      "region": "EUR",
+      "size": "2.5GB",
+      "version": "1.00",
+      "release": "October 31, 2023",
+      "min_fw": "Fix 5.05/6.72/7.xx/9.00",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/08/Dusk-PS4-PKG.webp",
+      "name": "Dusk",
+      "type": "update",
+      "download_text": "OneFile",
+      "key_description": "Update v1.07 (Fix 5.05/6.72/7.xx/9.00) ⇛"
     },
     "https://1fichier.com/?41aj3euprx6jmiwnuxm6&af=4186346": {
       "region": "USA",
@@ -29282,6 +29234,30 @@
       "download_text": "OneFile",
       "key_description": "Update v1.04 [Fix 5.05/6.72] ⇛"
     },
+    "https://1fichier.com/?78y7mqdanv9ry8ji5ivd&af=4186346": {
+      "region": "EUR",
+      "size": "800MB",
+      "version": "1.03",
+      "release": "September, 17 2024",
+      "min_fw": null,
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/08/Mister-Mosquito-PS4-PKG.webp",
+      "name": "Mister Mosquito",
+      "type": "game",
+      "download_text": "OneFile",
+      "key_description": "Game (v1.03) (11.50+) ⇛"
+    },
+    "https://1fichier.com/?3ctfnp2jn1zagwfq12ou&af=4186346": {
+      "region": "EUR",
+      "size": "800MB",
+      "version": "1.00",
+      "release": "September, 17 2024",
+      "min_fw": "Fix 5.05/6.72/7.xx/9.00/11.00",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/08/Mister-Mosquito-PS4-PKG.webp",
+      "name": "Mister Mosquito",
+      "type": "update",
+      "download_text": "OneFile",
+      "key_description": "Update v1.03 (Fix 5.05/6.72/7.xx/9.00/11.00) ⇛"
+    },
     "https://1fichier.com/?9gdx5ecplngkomkik0ly&af=4186346": {
       "region": "USA",
       "size": "35GB",
@@ -32572,30 +32548,6 @@
       "download_text": "OneFile",
       "key_description": "DLC ⇛"
     },
-    "https://1fichier.com/?x0l1nv7408ke0kb720il&af=4186346": {
-      "region": "EUR",
-      "size": "500MB",
-      "version": "1.00",
-      "release": "October 14, 2014",
-      "min_fw": "5.05+",
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/08/Nidhogg-PS4-PKG.webp",
-      "name": "Nidhogg 2",
-      "type": "game",
-      "download_text": "OneFile",
-      "key_description": "Game (5.05+) ⇛"
-    },
-    "https://1fichier.com/?bry9hepim2a628h6iylm&af=4186346": {
-      "region": "EUR",
-      "size": "500MB",
-      "version": "1.00",
-      "release": "October 14, 2014",
-      "min_fw": "5.05+",
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/08/Nidhogg-PS4-PKG.webp",
-      "name": "Nidhogg 2",
-      "type": "update",
-      "download_text": "OneFile",
-      "key_description": "Update v1.02 (5.05+) ⇛"
-    },
     "https://1fichier.com/?e7psyde2u42xep77z9a9&af=4186346": {
       "region": "EUR",
       "size": "397.15 MB",
@@ -32619,6 +32571,30 @@
       "type": "update",
       "download_text": "OneFile",
       "key_description": "Update v1.07 (5.05+) ⇛"
+    },
+    "https://1fichier.com/?x0l1nv7408ke0kb720il&af=4186346": {
+      "region": "EUR",
+      "size": "500MB",
+      "version": "1.00",
+      "release": "October 14, 2014",
+      "min_fw": "5.05+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/08/Nidhogg-PS4-PKG.webp",
+      "name": "Nidhogg 2",
+      "type": "game",
+      "download_text": "OneFile",
+      "key_description": "Game (5.05+) ⇛"
+    },
+    "https://1fichier.com/?bry9hepim2a628h6iylm&af=4186346": {
+      "region": "EUR",
+      "size": "500MB",
+      "version": "1.00",
+      "release": "October 14, 2014",
+      "min_fw": "5.05+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/08/Nidhogg-PS4-PKG.webp",
+      "name": "Nidhogg 2",
+      "type": "update",
+      "download_text": "OneFile",
+      "key_description": "Update v1.02 (5.05+) ⇛"
     },
     "https://1fichier.com/?l85tz68ijgs1udp3fkom&af=4186346": {
       "region": "EUR",
@@ -46706,6 +46682,30 @@
       "type": "update",
       "download_text": "OneFile",
       "key_description": "Update v1.26 (Fix 5.05/6.72/7.xx) ⇛"
+    },
+    "https://1fichier.com/?o6n7fjwlzfrtqxhbrrsv&af=4186346": {
+      "region": "EUR",
+      "size": "1.5GB",
+      "version": "1.00",
+      "release": "December 16, 2014",
+      "min_fw": "5.05+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/08/Tetris-Ultimate-PS4-PKG.webp",
+      "name": "Tetris Ultimate",
+      "type": "game",
+      "download_text": "OneFile",
+      "key_description": "Game (5.05+) ⇛"
+    },
+    "https://1fichier.com/?ntrdkz972g6q7fxsz4s1&af=4186346": {
+      "region": "EUR",
+      "size": "1.5GB",
+      "version": "1.00",
+      "release": "December 16, 2014",
+      "min_fw": "5.05+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/08/Tetris-Ultimate-PS4-PKG.webp",
+      "name": "Tetris Ultimate",
+      "type": "update",
+      "download_text": "OneFile",
+      "key_description": "Update v1.02 (5.05+) ⇛"
     },
     "https://1fichier.com/?yekazk1rx9rqtifmx7xm&af=4186346": {
       "region": "EUR",

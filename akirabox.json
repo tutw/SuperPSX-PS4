@@ -4841,6 +4841,78 @@
       "download_text": "AKR",
       "key_description": "DLC ⇛"
     },
+    "https://akirabox.com/Z9dzBV0elzk1/file": {
+      "region": "EUR",
+      "size": "1.19 GB",
+      "version": "1.00",
+      "release": "May 25, 2021",
+      "min_fw": null,
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/Capcom-Arcade-Stadium-PS4-PKG.webp",
+      "name": "Capcom Arcade Stadium",
+      "type": "game",
+      "download_text": "AKR",
+      "key_description": "Game (8.00+) ⇛"
+    },
+    "https://akirabox.com/9AqGQxrJJzMn/file": {
+      "region": "EUR",
+      "size": "1.19 GB",
+      "version": "1.00",
+      "release": "May 25, 2021",
+      "min_fw": null,
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/Capcom-Arcade-Stadium-PS4-PKG.webp",
+      "name": "Capcom Arcade Stadium",
+      "type": "update",
+      "download_text": "AKR",
+      "key_description": "Update v1.05 (8.00+) ⇛"
+    },
+    "https://akirabox.com/0JgG7j9dnzoY/file": {
+      "region": "EUR",
+      "size": "1.19 GB",
+      "version": "1.00",
+      "release": "May 25, 2021",
+      "min_fw": null,
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/Capcom-Arcade-Stadium-PS4-PKG.webp",
+      "name": "Capcom Arcade Stadium",
+      "type": "dlc",
+      "download_text": "AKR",
+      "key_description": "DLC ⇛"
+    },
+    "https://akirabox.com/2WVGrdKk3kx7/file": {
+      "region": "EUR",
+      "size": "1.19 GB",
+      "version": "1.00",
+      "release": "May 25, 2021",
+      "min_fw": null,
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/Capcom-Arcade-Stadium-PS4-PKG.webp",
+      "name": "Capcom Arcade Stadium",
+      "type": "game",
+      "download_text": "AKR",
+      "key_description": "Game (8.00+) ⇛"
+    },
+    "https://akirabox.com/N2p3DP593Ma5/file": {
+      "region": "EUR",
+      "size": "1.19 GB",
+      "version": "1.00",
+      "release": "May 25, 2021",
+      "min_fw": null,
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/Capcom-Arcade-Stadium-PS4-PKG.webp",
+      "name": "Capcom Arcade Stadium",
+      "type": "update",
+      "download_text": "AKR",
+      "key_description": "Update v1.04 ⇛"
+    },
+    "https://akirabox.com/0rpmvpoBzRgZ/file": {
+      "region": "EUR",
+      "size": "1.19 GB",
+      "version": "1.00",
+      "release": "May 25, 2021",
+      "min_fw": "Fix 5.05/6.72/7.xx",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/Capcom-Arcade-Stadium-PS4-PKG.webp",
+      "name": "Capcom Arcade Stadium",
+      "type": "update",
+      "download_text": "AKR",
+      "key_description": "Update v1.04 (Fix 5.05/6.72/7.xx) ⇛"
+    },
     "https://akirabox.com/gXeGOAVA3Aa7/file": {
       "region": "EUR",
       "size": "3.63 GB",
@@ -7712,6 +7784,18 @@
       "type": "game",
       "download_text": "AKR",
       "key_description": "Game+Upv1.02 ⇛"
+    },
+    "https://akirabox.com/obj3jby8B3Dx/file": {
+      "region": "EUR",
+      "size": "5GB",
+      "version": "1.00",
+      "release": "May 13, 2025",
+      "min_fw": "9.00+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/05/Death-end-re-Quest-Code-Z-PS4-PKG.webp",
+      "name": "Death End Re Quest Code Z",
+      "type": "game",
+      "download_text": "AKR",
+      "key_description": "Game (9.00+) ⇛"
     },
     "https://akirabox.com/0PdzyX063eAR/file": {
       "region": "USA",
@@ -22654,30 +22738,6 @@
       "download_text": "AKR",
       "key_description": "DLC v2 ⇛"
     },
-    "https://akirabox.com/7d5GLr56V3xR/file": {
-      "region": "EUR",
-      "size": "397.15 MB",
-      "version": "1.00",
-      "release": "August 15, 2017",
-      "min_fw": "5.05+",
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/Nidhogg-2-PS4-PKG.webp",
-      "name": "Nidhogg 2",
-      "type": "game",
-      "download_text": "AKR",
-      "key_description": "Game (5.05+) ⇛"
-    },
-    "https://akirabox.com/5pVzNaNDX37w/file": {
-      "region": "EUR",
-      "size": "397.15 MB",
-      "version": "1.00",
-      "release": "August 15, 2017",
-      "min_fw": "5.05+",
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/Nidhogg-2-PS4-PKG.webp",
-      "name": "Nidhogg 2",
-      "type": "update",
-      "download_text": "AKR",
-      "key_description": "Update v1.07 (5.05+) ⇛"
-    },
     "https://akirabox.com/obj3jbwn23Dx/file": {
       "region": "EUR",
       "size": "500MB",
@@ -22701,6 +22761,30 @@
       "type": "update",
       "download_text": "AKR",
       "key_description": "Update v1.02 (5.05+) ⇛"
+    },
+    "https://akirabox.com/7d5GLr56V3xR/file": {
+      "region": "EUR",
+      "size": "397.15 MB",
+      "version": "1.00",
+      "release": "August 15, 2017",
+      "min_fw": "5.05+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/Nidhogg-2-PS4-PKG.webp",
+      "name": "Nidhogg 2",
+      "type": "game",
+      "download_text": "AKR",
+      "key_description": "Game (5.05+) ⇛"
+    },
+    "https://akirabox.com/5pVzNaNDX37w/file": {
+      "region": "EUR",
+      "size": "397.15 MB",
+      "version": "1.00",
+      "release": "August 15, 2017",
+      "min_fw": "5.05+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/Nidhogg-2-PS4-PKG.webp",
+      "name": "Nidhogg 2",
+      "type": "update",
+      "download_text": "AKR",
+      "key_description": "Update v1.07 (5.05+) ⇛"
     },
     "https://akirabox.com/0Kezk9162mD1/file": {
       "region": "EUR",

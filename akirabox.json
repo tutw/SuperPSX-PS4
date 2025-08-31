@@ -15835,6 +15835,78 @@
       "download_text": "AKR",
       "key_description": "Update v1.11 (Fix 5.05) ⇛"
     },
+    "https://akirabox.com/9AqGQRxLvmMn/file": {
+      "region": "EUR",
+      "size": "12GB",
+      "version": "1.00",
+      "release": "Sep 28, 2023",
+      "min_fw": null,
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/08/Infinity-Strash-Dragon-Quest-The-Adventure-of-Dai-PS4-PKG.webp",
+      "name": "Infinity Strash Dragon Quest The Adventure Of Dai",
+      "type": "game",
+      "download_text": "AKR",
+      "key_description": "Game ⇛"
+    },
+    "https://akirabox.com/jJD3VVW7N3a5/file": {
+      "region": "EUR",
+      "size": "12GB",
+      "version": "1.00",
+      "release": "Sep 28, 2023",
+      "min_fw": "Fix 5.05 / 6.72 / 7.02 / 7.50 / 9.00",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/08/Infinity-Strash-Dragon-Quest-The-Adventure-of-Dai-PS4-PKG.webp",
+      "name": "Infinity Strash Dragon Quest The Adventure Of Dai",
+      "type": "update",
+      "download_text": "AKR",
+      "key_description": "Update v1.02 (Fix 5.05 / 6.72 / 7.02 / 7.50 / 9.00) ⇛"
+    },
+    "https://akirabox.com/wgWGqqJpDG4o/file": {
+      "region": "EUR",
+      "size": "12GB",
+      "version": "1.00",
+      "release": "Sep 28, 2023",
+      "min_fw": null,
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/08/Infinity-Strash-Dragon-Quest-The-Adventure-of-Dai-PS4-PKG.webp",
+      "name": "Infinity Strash Dragon Quest The Adventure Of Dai",
+      "type": "dlc",
+      "download_text": "AKR",
+      "key_description": "DLC ⇛"
+    },
+    "https://akirabox.com/0PdzyWDOLmeA/file": {
+      "region": "EUR",
+      "size": "12GB",
+      "version": "1.00",
+      "release": "Sep 28, 2023",
+      "min_fw": null,
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/08/Infinity-Strash-Dragon-Quest-The-Adventure-of-Dai-PS4-PKG.webp",
+      "name": "Infinity Strash Dragon Quest The Adventure Of Dai",
+      "type": "game",
+      "download_text": "AKR",
+      "key_description": "Game ⇛"
+    },
+    "https://akirabox.com/ex5z2klJoGKq/file": {
+      "region": "EUR",
+      "size": "12GB",
+      "version": "1.00",
+      "release": "Sep 28, 2023",
+      "min_fw": "Fix 5.05 / 6.72 / 7.02 / 7.50 / 9.00",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/08/Infinity-Strash-Dragon-Quest-The-Adventure-of-Dai-PS4-PKG.webp",
+      "name": "Infinity Strash Dragon Quest The Adventure Of Dai",
+      "type": "update",
+      "download_text": "AKR",
+      "key_description": "Update v1.02 (Fix 5.05 / 6.72 / 7.02 / 7.50 / 9.00) ⇛"
+    },
+    "https://akirabox.com/APVmaJDqd3Xo/file": {
+      "region": "EUR",
+      "size": "12GB",
+      "version": "1.00",
+      "release": "Sep 28, 2023",
+      "min_fw": null,
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/08/Infinity-Strash-Dragon-Quest-The-Adventure-of-Dai-PS4-PKG.webp",
+      "name": "Infinity Strash Dragon Quest The Adventure Of Dai",
+      "type": "dlc",
+      "download_text": "AKR",
+      "key_description": "DLC ⇛"
+    },
     "https://akirabox.com/gXeGOJR1KzAa/file": {
       "region": "EUR",
       "size": "30GB",

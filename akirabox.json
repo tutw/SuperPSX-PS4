@@ -16344,6 +16344,30 @@
       "download_text": "AKR",
       "key_description": "DLC v2 ⇛"
     },
+    "https://akirabox.com/jar3XrKvNG2d/file": {
+      "region": "EUR",
+      "size": "774.63MB",
+      "version": "1.00",
+      "release": "July 21, 2015",
+      "min_fw": "5.05+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/04/Journey-PS4-PKG.webp",
+      "name": "Journey",
+      "type": "game",
+      "download_text": "AKR",
+      "key_description": "Game (5.05+) ⇛"
+    },
+    "https://akirabox.com/dkD3YlqJemLQ/file": {
+      "region": "EUR",
+      "size": "774.63MB",
+      "version": "1.00",
+      "release": "July 21, 2015",
+      "min_fw": "5.05+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/04/Journey-PS4-PKG.webp",
+      "name": "Journey",
+      "type": "update",
+      "download_text": "AKR",
+      "key_description": "Update v1.01 (5.05+) ⇛"
+    },
     "https://akirabox.com/Z9dzB9PP3k1b/file": {
       "region": "USA",
       "size": "4 GB",
@@ -22786,30 +22810,6 @@
       "download_text": "AKR",
       "key_description": "DLC v2 ⇛"
     },
-    "https://akirabox.com/obj3jbwn23Dx/file": {
-      "region": "EUR",
-      "size": "500MB",
-      "version": "1.00",
-      "release": "October 14, 2014",
-      "min_fw": "5.05+",
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/08/Nidhogg-PS4-PKG.webp",
-      "name": "Nidhogg 2",
-      "type": "game",
-      "download_text": "AKR",
-      "key_description": "Game (5.05+) ⇛"
-    },
-    "https://akirabox.com/RMKGJXrkl31o/file": {
-      "region": "EUR",
-      "size": "500MB",
-      "version": "1.00",
-      "release": "October 14, 2014",
-      "min_fw": "5.05+",
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/08/Nidhogg-PS4-PKG.webp",
-      "name": "Nidhogg 2",
-      "type": "update",
-      "download_text": "AKR",
-      "key_description": "Update v1.02 (5.05+) ⇛"
-    },
     "https://akirabox.com/7d5GLr56V3xR/file": {
       "region": "EUR",
       "size": "397.15 MB",
@@ -22833,6 +22833,30 @@
       "type": "update",
       "download_text": "AKR",
       "key_description": "Update v1.07 (5.05+) ⇛"
+    },
+    "https://akirabox.com/obj3jbwn23Dx/file": {
+      "region": "EUR",
+      "size": "500MB",
+      "version": "1.00",
+      "release": "October 14, 2014",
+      "min_fw": "5.05+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/08/Nidhogg-PS4-PKG.webp",
+      "name": "Nidhogg 2",
+      "type": "game",
+      "download_text": "AKR",
+      "key_description": "Game (5.05+) ⇛"
+    },
+    "https://akirabox.com/RMKGJXrkl31o/file": {
+      "region": "EUR",
+      "size": "500MB",
+      "version": "1.00",
+      "release": "October 14, 2014",
+      "min_fw": "5.05+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/08/Nidhogg-PS4-PKG.webp",
+      "name": "Nidhogg 2",
+      "type": "update",
+      "download_text": "AKR",
+      "key_description": "Update v1.02 (5.05+) ⇛"
     },
     "https://akirabox.com/0Kezk9162mD1/file": {
       "region": "EUR",
@@ -33885,30 +33909,6 @@
       "type": "update",
       "download_text": "AKR",
       "key_description": "Update v1.04 ⇛"
-    },
-    "https://akirabox.com/l5YzM1gZKzyO/file": {
-      "region": "EUR",
-      "size": "1.20 GB",
-      "version": "1.00",
-      "release": "March 2, 2023",
-      "min_fw": "9.00+",
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/The-Legend-of-Tianding-PS4-PKG.webp",
-      "name": "The Legend Of Tianding",
-      "type": "game",
-      "download_text": "AKR",
-      "key_description": "Game (9.00+) ⇛"
-    },
-    "https://akirabox.com/l76mZ6Dr2man/file": {
-      "region": "EUR",
-      "size": "1.20 GB",
-      "version": "1.00",
-      "release": "March 2, 2023",
-      "min_fw": "9.00+",
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/The-Legend-of-Tianding-PS4-PKG.webp",
-      "name": "The Legend Of Tianding",
-      "type": "update",
-      "download_text": "AKR",
-      "key_description": "Update v1.02 (9.00+) ⇛"
     },
     "https://akirabox.com/jar3XkENm2dD/file": {
       "region": "USA",

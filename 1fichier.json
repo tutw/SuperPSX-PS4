@@ -13255,30 +13255,6 @@
       "download_text": "OneFile",
       "key_description": "Update v1.09 (Fix 5.05/6.72/7.xx) ⇛"
     },
-    "https://1fichier.com/?h2lzqdipv7nk6mzy6k5c&af=4186346": {
-      "region": "EUR",
-      "size": "1.23 GB",
-      "version": "1.00",
-      "release": "March 26, 2020",
-      "min_fw": null,
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/Down-The-Rabbit-Hole-PS4-PKG.webp",
-      "name": "Down The Rabbit Hole",
-      "type": "game",
-      "download_text": "OneFile",
-      "key_description": "Game (7.51+) ⇛"
-    },
-    "https://1fichier.com/?e8ep6z7rw6b2lpvlyvac&af=4186346": {
-      "region": "EUR",
-      "size": "1.23 GB",
-      "version": "1.00",
-      "release": "March 26, 2020",
-      "min_fw": null,
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/Down-The-Rabbit-Hole-PS4-PKG.webp",
-      "name": "Down The Rabbit Hole",
-      "type": "update",
-      "download_text": "OneFile",
-      "key_description": "Update v1.01 (7.51+) ⇛"
-    },
     "https://1fichier.com/?xslqfj5dcw0m8aeoruil&af=4186346": {
       "region": "EUR",
       "size": "4 GB",
@@ -23549,6 +23525,30 @@
       "download_text": "OneFile",
       "key_description": "DLC v2 ⇛"
     },
+    "https://1fichier.com/?oanzddj1p2bz2vthnhyd&af=4186346": {
+      "region": "EUR",
+      "size": "774.63MB",
+      "version": "1.00",
+      "release": "July 21, 2015",
+      "min_fw": "5.05+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/04/Journey-PS4-PKG.webp",
+      "name": "Journey",
+      "type": "game",
+      "download_text": "OneFile",
+      "key_description": "Game (5.05+) ⇛"
+    },
+    "https://1fichier.com/?1354aljse11sqv20hfwc&af=4186346": {
+      "region": "EUR",
+      "size": "774.63MB",
+      "version": "1.00",
+      "release": "July 21, 2015",
+      "min_fw": "5.05+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/04/Journey-PS4-PKG.webp",
+      "name": "Journey",
+      "type": "update",
+      "download_text": "OneFile",
+      "key_description": "Update v1.01 (5.05+) ⇛"
+    },
     "https://1fichier.com/?2zx38phmguonvwl7kta0&af=4186346": {
       "region": "USA",
       "size": "4 GB",
@@ -27621,6 +27621,18 @@
       "type": "dlc",
       "download_text": "OneFile",
       "key_description": "DLC (2) ⇛"
+    },
+    "https://1fichier.com/?mljtxvy6jb3c5fhqc27t&af=4186346": {
+      "region": "EUR",
+      "size": "199.37 MB",
+      "version": "1.00",
+      "release": "March 25, 2021",
+      "min_fw": "8.03+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/Mahluk_-Dark-Demon-PS4-PKG.webp",
+      "name": "Mahluk Dark Demon",
+      "type": "game",
+      "download_text": "OneFile",
+      "key_description": "Game ⇛"
     },
     "https://1fichier.com/?o14lhm8jvmyotxvfiuij&af=4186346": {
       "region": "EUR",
@@ -32668,30 +32680,6 @@
       "download_text": "OneFile",
       "key_description": "DLC ⇛"
     },
-    "https://1fichier.com/?x0l1nv7408ke0kb720il&af=4186346": {
-      "region": "EUR",
-      "size": "500MB",
-      "version": "1.00",
-      "release": "October 14, 2014",
-      "min_fw": "5.05+",
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/08/Nidhogg-PS4-PKG.webp",
-      "name": "Nidhogg 2",
-      "type": "game",
-      "download_text": "OneFile",
-      "key_description": "Game (5.05+) ⇛"
-    },
-    "https://1fichier.com/?bry9hepim2a628h6iylm&af=4186346": {
-      "region": "EUR",
-      "size": "500MB",
-      "version": "1.00",
-      "release": "October 14, 2014",
-      "min_fw": "5.05+",
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/08/Nidhogg-PS4-PKG.webp",
-      "name": "Nidhogg 2",
-      "type": "update",
-      "download_text": "OneFile",
-      "key_description": "Update v1.02 (5.05+) ⇛"
-    },
     "https://1fichier.com/?e7psyde2u42xep77z9a9&af=4186346": {
       "region": "EUR",
       "size": "397.15 MB",
@@ -32715,6 +32703,30 @@
       "type": "update",
       "download_text": "OneFile",
       "key_description": "Update v1.07 (5.05+) ⇛"
+    },
+    "https://1fichier.com/?x0l1nv7408ke0kb720il&af=4186346": {
+      "region": "EUR",
+      "size": "500MB",
+      "version": "1.00",
+      "release": "October 14, 2014",
+      "min_fw": "5.05+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/08/Nidhogg-PS4-PKG.webp",
+      "name": "Nidhogg 2",
+      "type": "game",
+      "download_text": "OneFile",
+      "key_description": "Game (5.05+) ⇛"
+    },
+    "https://1fichier.com/?bry9hepim2a628h6iylm&af=4186346": {
+      "region": "EUR",
+      "size": "500MB",
+      "version": "1.00",
+      "release": "October 14, 2014",
+      "min_fw": "5.05+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/08/Nidhogg-PS4-PKG.webp",
+      "name": "Nidhogg 2",
+      "type": "update",
+      "download_text": "OneFile",
+      "key_description": "Update v1.02 (5.05+) ⇛"
     },
     "https://1fichier.com/?l85tz68ijgs1udp3fkom&af=4186346": {
       "region": "EUR",
@@ -38363,6 +38375,42 @@
       "type": "game",
       "download_text": "OneFile",
       "key_description": "Fix (5.05/6.72/7.xx) ⇛"
+    },
+    "https://1fichier.com/?ohl7cf9te1k92yz8xxti&af=4186346": {
+      "region": "EUR",
+      "size": "1.90 GB",
+      "version": "1.00",
+      "release": "December 5, 2022",
+      "min_fw": "9.00+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/Rogue-Lords-PS4-PKG.webp",
+      "name": "Rogue Lords",
+      "type": "game",
+      "download_text": "OneFile",
+      "key_description": "Game (9.00+) ⇛"
+    },
+    "https://1fichier.com/?h4g0azhprwahyytd22yk&af=4186346": {
+      "region": "EUR",
+      "size": "1.90 GB",
+      "version": "1.00",
+      "release": "December 5, 2022",
+      "min_fw": "9.00+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/Rogue-Lords-PS4-PKG.webp",
+      "name": "Rogue Lords",
+      "type": "update",
+      "download_text": "OneFile",
+      "key_description": "Update v1.01 (9.00+) ⇛"
+    },
+    "https://1fichier.com/?llxw6zdpm5e4vlgnoe92&af=4186346": {
+      "region": "EUR",
+      "size": "1.90 GB",
+      "version": "1.00",
+      "release": "December 5, 2022",
+      "min_fw": "9.00+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/Rogue-Lords-PS4-PKG.webp",
+      "name": "Rogue Lords",
+      "type": "update",
+      "download_text": "OneFile",
+      "key_description": "Update v1.01 [Fix 5.05-6.72-7.02-7.55] ⇛"
     },
     "https://1fichier.com/?d2lb3ewsotxdcci70kii&af=4186346": {
       "region": "EUR",
@@ -49378,30 +49426,6 @@
       "download_text": "OneFile",
       "key_description": "Fix 5.05 ⇛"
     },
-    "https://1fichier.com/?fwkiq3ew0vfzf4j8a3au&af=4186346": {
-      "region": "EUR",
-      "size": "1.20 GB",
-      "version": "1.00",
-      "release": "March 2, 2023",
-      "min_fw": "9.00+",
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/The-Legend-of-Tianding-PS4-PKG.webp",
-      "name": "The Legend Of Tianding",
-      "type": "game",
-      "download_text": "OneFile",
-      "key_description": "Game (9.00+) ⇛"
-    },
-    "https://1fichier.com/?p79n8ju7q3dydkbegvph&af=4186346": {
-      "region": "EUR",
-      "size": "1.20 GB",
-      "version": "1.00",
-      "release": "March 2, 2023",
-      "min_fw": "9.00+",
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/The-Legend-of-Tianding-PS4-PKG.webp",
-      "name": "The Legend Of Tianding",
-      "type": "update",
-      "download_text": "OneFile",
-      "key_description": "Update v1.02 (9.00+) ⇛"
-    },
     "https://1fichier.com/?gdjff7hah2tggdgazcf0&af=4186346": {
       "region": "USA",
       "size": "7GB",
@@ -49868,6 +49892,42 @@
       "type": "game",
       "download_text": "OneFile",
       "key_description": "Fix (5.05/6.72/7.02) ⇛"
+    },
+    "https://1fichier.com/?fqgq9014ubue82fcorg6&af=4186346": {
+      "region": "EUR",
+      "size": "11.56 GB",
+      "version": "1.00",
+      "release": "June 27, 2019",
+      "min_fw": "6.72+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/The-Sinking-City-PS4-PKG.webp",
+      "name": "The Sinking City",
+      "type": "game",
+      "download_text": "OneFile",
+      "key_description": "Game (6.72+) ⇛"
+    },
+    "https://1fichier.com/?arqmwmo816072wo6rhs6&af=4186346": {
+      "region": "EUR",
+      "size": "11.56 GB",
+      "version": "1.00",
+      "release": "June 27, 2019",
+      "min_fw": "6.72+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/The-Sinking-City-PS4-PKG.webp",
+      "name": "The Sinking City",
+      "type": "update",
+      "download_text": "OneFile",
+      "key_description": "Update v1.04 (6.72+) ⇛"
+    },
+    "https://1fichier.com/?n1fsivxasjtx6ainbbbs&af=4186346": {
+      "region": "EUR",
+      "size": "11.56 GB",
+      "version": "1.00",
+      "release": "June 27, 2019",
+      "min_fw": "Fix 5.05",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/The-Sinking-City-PS4-PKG.webp",
+      "name": "The Sinking City",
+      "type": "update",
+      "download_text": "OneFile",
+      "key_description": "Update v1.04 (Fix 5.05) ⇛"
     },
     "https://1fichier.com/?xqnii802wuk4la8ogp5k&af=4186346": {
       "region": "EUR",

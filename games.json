@@ -4129,6 +4129,30 @@
       "download_text": "Viki",
       "key_description": "Update v1.02 (Fix 5.05/6.72/7.xx/9.00/11.00) ⇛"
     },
+    "https://vikingfile.com/f/K4f8fnKhEz": {
+      "region": "EUR",
+      "size": "774.63MB",
+      "version": "1.00",
+      "release": "July 21, 2015",
+      "min_fw": "5.05+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/04/Journey-PS4-PKG.webp",
+      "name": "Journey",
+      "type": "game",
+      "download_text": "Viki",
+      "key_description": "Game (5.05+) ⇛"
+    },
+    "https://vikingfile.com/f/kvX4Ithrbh": {
+      "region": "EUR",
+      "size": "774.63MB",
+      "version": "1.00",
+      "release": "July 21, 2015",
+      "min_fw": "5.05+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/04/Journey-PS4-PKG.webp",
+      "name": "Journey",
+      "type": "update",
+      "download_text": "Viki",
+      "key_description": "Update v1.01 (5.05+) ⇛"
+    },
     "https://vikingfile.com/f/7erZT3am8F": {
       "region": "EUR",
       "size": "42GB",

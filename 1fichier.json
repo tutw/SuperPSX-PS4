@@ -8652,42 +8652,6 @@
       "download_text": "OneFile",
       "key_description": "Update v1.05 (Fix 5.05) ⇛"
     },
-    "https://1fichier.com/?yfpsmb44jewf1m2g1rud&af=4186346": {
-      "region": "EUR",
-      "size": "8.34 GB",
-      "version": "1.00",
-      "release": "March 12, 2024",
-      "min_fw": "10.50+",
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/Contra_-Operation-Galuga-PS4-PKG.webp",
-      "name": "Contra Operation Galuga",
-      "type": "game",
-      "download_text": "OneFile",
-      "key_description": "Game ⇛"
-    },
-    "https://1fichier.com/?2ysaznfzarlgpswgb6iy&af=4186346": {
-      "region": "EUR",
-      "size": "8.34 GB",
-      "version": "1.00",
-      "release": "March 12, 2024",
-      "min_fw": "Fix 5.05/6.72/7.02/7.55/9.00/11.00",
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/Contra_-Operation-Galuga-PS4-PKG.webp",
-      "name": "Contra Operation Galuga",
-      "type": "update",
-      "download_text": "OneFile",
-      "key_description": "Update v1.04 (Fix 5.05/6.72/7.02/7.55/9.00/11.00) ⇛"
-    },
-    "https://1fichier.com/?e67kiquawjumaesmkgtf&af=4186346": {
-      "region": "EUR",
-      "size": "8.34 GB",
-      "version": "1.00",
-      "release": "March 12, 2024",
-      "min_fw": "10.50+",
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/Contra_-Operation-Galuga-PS4-PKG.webp",
-      "name": "Contra Operation Galuga",
-      "type": "dlc",
-      "download_text": "OneFile",
-      "key_description": "DLC ⇛"
-    },
     "https://1fichier.com/?rg7pr6ek6ljg5m5mf363&af=4186346": {
       "region": "EUR",
       "size": "2.32 GB",
@@ -13254,6 +13218,30 @@
       "type": "update",
       "download_text": "OneFile",
       "key_description": "Update v1.09 (Fix 5.05/6.72/7.xx) ⇛"
+    },
+    "https://1fichier.com/?h2lzqdipv7nk6mzy6k5c&af=4186346": {
+      "region": "EUR",
+      "size": "1.23 GB",
+      "version": "1.00",
+      "release": "March 26, 2020",
+      "min_fw": null,
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/Down-The-Rabbit-Hole-PS4-PKG.webp",
+      "name": "Down The Rabbit Hole",
+      "type": "game",
+      "download_text": "OneFile",
+      "key_description": "Game (7.51+) ⇛"
+    },
+    "https://1fichier.com/?e8ep6z7rw6b2lpvlyvac&af=4186346": {
+      "region": "EUR",
+      "size": "1.23 GB",
+      "version": "1.00",
+      "release": "March 26, 2020",
+      "min_fw": null,
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/Down-The-Rabbit-Hole-PS4-PKG.webp",
+      "name": "Down The Rabbit Hole",
+      "type": "update",
+      "download_text": "OneFile",
+      "key_description": "Update v1.01 (7.51+) ⇛"
     },
     "https://1fichier.com/?xslqfj5dcw0m8aeoruil&af=4186346": {
       "region": "EUR",
@@ -32680,30 +32668,6 @@
       "download_text": "OneFile",
       "key_description": "DLC ⇛"
     },
-    "https://1fichier.com/?e7psyde2u42xep77z9a9&af=4186346": {
-      "region": "EUR",
-      "size": "397.15 MB",
-      "version": "1.00",
-      "release": "August 15, 2017",
-      "min_fw": "5.05+",
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/Nidhogg-2-PS4-PKG.webp",
-      "name": "Nidhogg 2",
-      "type": "game",
-      "download_text": "OneFile",
-      "key_description": "Game (5.05+) ⇛"
-    },
-    "https://1fichier.com/?gd1on8cxwscgvpfngm94&af=4186346": {
-      "region": "EUR",
-      "size": "397.15 MB",
-      "version": "1.00",
-      "release": "August 15, 2017",
-      "min_fw": "5.05+",
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/Nidhogg-2-PS4-PKG.webp",
-      "name": "Nidhogg 2",
-      "type": "update",
-      "download_text": "OneFile",
-      "key_description": "Update v1.07 (5.05+) ⇛"
-    },
     "https://1fichier.com/?x0l1nv7408ke0kb720il&af=4186346": {
       "region": "EUR",
       "size": "500MB",
@@ -32727,6 +32691,30 @@
       "type": "update",
       "download_text": "OneFile",
       "key_description": "Update v1.02 (5.05+) ⇛"
+    },
+    "https://1fichier.com/?e7psyde2u42xep77z9a9&af=4186346": {
+      "region": "EUR",
+      "size": "397.15 MB",
+      "version": "1.00",
+      "release": "August 15, 2017",
+      "min_fw": "5.05+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/Nidhogg-2-PS4-PKG.webp",
+      "name": "Nidhogg 2",
+      "type": "game",
+      "download_text": "OneFile",
+      "key_description": "Game (5.05+) ⇛"
+    },
+    "https://1fichier.com/?gd1on8cxwscgvpfngm94&af=4186346": {
+      "region": "EUR",
+      "size": "397.15 MB",
+      "version": "1.00",
+      "release": "August 15, 2017",
+      "min_fw": "5.05+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/Nidhogg-2-PS4-PKG.webp",
+      "name": "Nidhogg 2",
+      "type": "update",
+      "download_text": "OneFile",
+      "key_description": "Update v1.07 (5.05+) ⇛"
     },
     "https://1fichier.com/?l85tz68ijgs1udp3fkom&af=4186346": {
       "region": "EUR",
@@ -49425,6 +49413,30 @@
       "type": "game",
       "download_text": "OneFile",
       "key_description": "Fix 5.05 ⇛"
+    },
+    "https://1fichier.com/?fwkiq3ew0vfzf4j8a3au&af=4186346": {
+      "region": "EUR",
+      "size": "1.20 GB",
+      "version": "1.00",
+      "release": "March 2, 2023",
+      "min_fw": "9.00+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/The-Legend-of-Tianding-PS4-PKG.webp",
+      "name": "The Legend Of Tianding",
+      "type": "game",
+      "download_text": "OneFile",
+      "key_description": "Game (9.00+) ⇛"
+    },
+    "https://1fichier.com/?p79n8ju7q3dydkbegvph&af=4186346": {
+      "region": "EUR",
+      "size": "1.20 GB",
+      "version": "1.00",
+      "release": "March 2, 2023",
+      "min_fw": "9.00+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/The-Legend-of-Tianding-PS4-PKG.webp",
+      "name": "The Legend Of Tianding",
+      "type": "update",
+      "download_text": "OneFile",
+      "key_description": "Update v1.02 (9.00+) ⇛"
     },
     "https://1fichier.com/?gdjff7hah2tggdgazcf0&af=4186346": {
       "region": "USA",

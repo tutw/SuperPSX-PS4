@@ -5901,6 +5901,42 @@
       "download_text": "AKR",
       "key_description": "Update v1.05 (Fix 5.05) ⇛"
     },
+    "https://akirabox.com/LK0G14yZz917/file": {
+      "region": "EUR",
+      "size": "8.34 GB",
+      "version": "1.00",
+      "release": "March 12, 2024",
+      "min_fw": "10.50+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/Contra_-Operation-Galuga-PS4-PKG.webp",
+      "name": "Contra Operation Galuga",
+      "type": "game",
+      "download_text": "AKR",
+      "key_description": "Game ⇛"
+    },
+    "https://akirabox.com/XkrzoxkdGBOR/file": {
+      "region": "EUR",
+      "size": "8.34 GB",
+      "version": "1.00",
+      "release": "March 12, 2024",
+      "min_fw": "Fix 5.05/6.72/7.02/7.55/9.00/11.00",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/Contra_-Operation-Galuga-PS4-PKG.webp",
+      "name": "Contra Operation Galuga",
+      "type": "update",
+      "download_text": "AKR",
+      "key_description": "Update v1.04 (Fix 5.05/6.72/7.02/7.55/9.00/11.00) ⇛"
+    },
+    "https://akirabox.com/E1x3A8Vvmyk6/file": {
+      "region": "EUR",
+      "size": "8.34 GB",
+      "version": "1.00",
+      "release": "March 12, 2024",
+      "min_fw": "10.50+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/Contra_-Operation-Galuga-PS4-PKG.webp",
+      "name": "Contra Operation Galuga",
+      "type": "dlc",
+      "download_text": "AKR",
+      "key_description": "DLC ⇛"
+    },
     "https://akirabox.com/jar3XaKjz2dD/file": {
       "region": "EUR",
       "size": "24.4 GB",
@@ -22774,30 +22810,6 @@
       "download_text": "AKR",
       "key_description": "DLC v2 ⇛"
     },
-    "https://akirabox.com/obj3jbwn23Dx/file": {
-      "region": "EUR",
-      "size": "500MB",
-      "version": "1.00",
-      "release": "October 14, 2014",
-      "min_fw": "5.05+",
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/08/Nidhogg-PS4-PKG.webp",
-      "name": "Nidhogg 2",
-      "type": "game",
-      "download_text": "AKR",
-      "key_description": "Game (5.05+) ⇛"
-    },
-    "https://akirabox.com/RMKGJXrkl31o/file": {
-      "region": "EUR",
-      "size": "500MB",
-      "version": "1.00",
-      "release": "October 14, 2014",
-      "min_fw": "5.05+",
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/08/Nidhogg-PS4-PKG.webp",
-      "name": "Nidhogg 2",
-      "type": "update",
-      "download_text": "AKR",
-      "key_description": "Update v1.02 (5.05+) ⇛"
-    },
     "https://akirabox.com/7d5GLr56V3xR/file": {
       "region": "EUR",
       "size": "397.15 MB",
@@ -22821,6 +22833,30 @@
       "type": "update",
       "download_text": "AKR",
       "key_description": "Update v1.07 (5.05+) ⇛"
+    },
+    "https://akirabox.com/obj3jbwn23Dx/file": {
+      "region": "EUR",
+      "size": "500MB",
+      "version": "1.00",
+      "release": "October 14, 2014",
+      "min_fw": "5.05+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/08/Nidhogg-PS4-PKG.webp",
+      "name": "Nidhogg 2",
+      "type": "game",
+      "download_text": "AKR",
+      "key_description": "Game (5.05+) ⇛"
+    },
+    "https://akirabox.com/RMKGJXrkl31o/file": {
+      "region": "EUR",
+      "size": "500MB",
+      "version": "1.00",
+      "release": "October 14, 2014",
+      "min_fw": "5.05+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/08/Nidhogg-PS4-PKG.webp",
+      "name": "Nidhogg 2",
+      "type": "update",
+      "download_text": "AKR",
+      "key_description": "Update v1.02 (5.05+) ⇛"
     },
     "https://akirabox.com/0Kezk9162mD1/file": {
       "region": "EUR",

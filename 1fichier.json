@@ -8652,6 +8652,42 @@
       "download_text": "OneFile",
       "key_description": "Update v1.05 (Fix 5.05) ⇛"
     },
+    "https://1fichier.com/?yfpsmb44jewf1m2g1rud&af=4186346": {
+      "region": "EUR",
+      "size": "8.34 GB",
+      "version": "1.00",
+      "release": "March 12, 2024",
+      "min_fw": "10.50+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/Contra_-Operation-Galuga-PS4-PKG.webp",
+      "name": "Contra Operation Galuga",
+      "type": "game",
+      "download_text": "OneFile",
+      "key_description": "Game ⇛"
+    },
+    "https://1fichier.com/?2ysaznfzarlgpswgb6iy&af=4186346": {
+      "region": "EUR",
+      "size": "8.34 GB",
+      "version": "1.00",
+      "release": "March 12, 2024",
+      "min_fw": "Fix 5.05/6.72/7.02/7.55/9.00/11.00",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/Contra_-Operation-Galuga-PS4-PKG.webp",
+      "name": "Contra Operation Galuga",
+      "type": "update",
+      "download_text": "OneFile",
+      "key_description": "Update v1.04 (Fix 5.05/6.72/7.02/7.55/9.00/11.00) ⇛"
+    },
+    "https://1fichier.com/?e67kiquawjumaesmkgtf&af=4186346": {
+      "region": "EUR",
+      "size": "8.34 GB",
+      "version": "1.00",
+      "release": "March 12, 2024",
+      "min_fw": "10.50+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/Contra_-Operation-Galuga-PS4-PKG.webp",
+      "name": "Contra Operation Galuga",
+      "type": "dlc",
+      "download_text": "OneFile",
+      "key_description": "DLC ⇛"
+    },
     "https://1fichier.com/?rg7pr6ek6ljg5m5mf363&af=4186346": {
       "region": "EUR",
       "size": "2.32 GB",
@@ -32668,30 +32704,6 @@
       "download_text": "OneFile",
       "key_description": "DLC ⇛"
     },
-    "https://1fichier.com/?x0l1nv7408ke0kb720il&af=4186346": {
-      "region": "EUR",
-      "size": "500MB",
-      "version": "1.00",
-      "release": "October 14, 2014",
-      "min_fw": "5.05+",
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/08/Nidhogg-PS4-PKG.webp",
-      "name": "Nidhogg 2",
-      "type": "game",
-      "download_text": "OneFile",
-      "key_description": "Game (5.05+) ⇛"
-    },
-    "https://1fichier.com/?bry9hepim2a628h6iylm&af=4186346": {
-      "region": "EUR",
-      "size": "500MB",
-      "version": "1.00",
-      "release": "October 14, 2014",
-      "min_fw": "5.05+",
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/08/Nidhogg-PS4-PKG.webp",
-      "name": "Nidhogg 2",
-      "type": "update",
-      "download_text": "OneFile",
-      "key_description": "Update v1.02 (5.05+) ⇛"
-    },
     "https://1fichier.com/?e7psyde2u42xep77z9a9&af=4186346": {
       "region": "EUR",
       "size": "397.15 MB",
@@ -32715,6 +32727,30 @@
       "type": "update",
       "download_text": "OneFile",
       "key_description": "Update v1.07 (5.05+) ⇛"
+    },
+    "https://1fichier.com/?x0l1nv7408ke0kb720il&af=4186346": {
+      "region": "EUR",
+      "size": "500MB",
+      "version": "1.00",
+      "release": "October 14, 2014",
+      "min_fw": "5.05+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/08/Nidhogg-PS4-PKG.webp",
+      "name": "Nidhogg 2",
+      "type": "game",
+      "download_text": "OneFile",
+      "key_description": "Game (5.05+) ⇛"
+    },
+    "https://1fichier.com/?bry9hepim2a628h6iylm&af=4186346": {
+      "region": "EUR",
+      "size": "500MB",
+      "version": "1.00",
+      "release": "October 14, 2014",
+      "min_fw": "5.05+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/08/Nidhogg-PS4-PKG.webp",
+      "name": "Nidhogg 2",
+      "type": "update",
+      "download_text": "OneFile",
+      "key_description": "Update v1.02 (5.05+) ⇛"
     },
     "https://1fichier.com/?l85tz68ijgs1udp3fkom&af=4186346": {
       "region": "EUR",

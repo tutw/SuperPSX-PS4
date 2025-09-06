@@ -32740,30 +32740,6 @@
       "download_text": "OneFile",
       "key_description": "DLC ⇛"
     },
-    "https://1fichier.com/?e7psyde2u42xep77z9a9&af=4186346": {
-      "region": "EUR",
-      "size": "397.15 MB",
-      "version": "1.00",
-      "release": "August 15, 2017",
-      "min_fw": "5.05+",
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/Nidhogg-2-PS4-PKG.webp",
-      "name": "Nidhogg 2",
-      "type": "game",
-      "download_text": "OneFile",
-      "key_description": "Game (5.05+) ⇛"
-    },
-    "https://1fichier.com/?gd1on8cxwscgvpfngm94&af=4186346": {
-      "region": "EUR",
-      "size": "397.15 MB",
-      "version": "1.00",
-      "release": "August 15, 2017",
-      "min_fw": "5.05+",
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/Nidhogg-2-PS4-PKG.webp",
-      "name": "Nidhogg 2",
-      "type": "update",
-      "download_text": "OneFile",
-      "key_description": "Update v1.07 (5.05+) ⇛"
-    },
     "https://1fichier.com/?x0l1nv7408ke0kb720il&af=4186346": {
       "region": "EUR",
       "size": "500MB",
@@ -32787,6 +32763,30 @@
       "type": "update",
       "download_text": "OneFile",
       "key_description": "Update v1.02 (5.05+) ⇛"
+    },
+    "https://1fichier.com/?e7psyde2u42xep77z9a9&af=4186346": {
+      "region": "EUR",
+      "size": "397.15 MB",
+      "version": "1.00",
+      "release": "August 15, 2017",
+      "min_fw": "5.05+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/Nidhogg-2-PS4-PKG.webp",
+      "name": "Nidhogg 2",
+      "type": "game",
+      "download_text": "OneFile",
+      "key_description": "Game (5.05+) ⇛"
+    },
+    "https://1fichier.com/?gd1on8cxwscgvpfngm94&af=4186346": {
+      "region": "EUR",
+      "size": "397.15 MB",
+      "version": "1.00",
+      "release": "August 15, 2017",
+      "min_fw": "5.05+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/Nidhogg-2-PS4-PKG.webp",
+      "name": "Nidhogg 2",
+      "type": "update",
+      "download_text": "OneFile",
+      "key_description": "Update v1.07 (5.05+) ⇛"
     },
     "https://1fichier.com/?l85tz68ijgs1udp3fkom&af=4186346": {
       "region": "EUR",
@@ -36271,6 +36271,54 @@
       "download_text": "OneFile",
       "key_description": "Update 1.22 (Fix 5.05/6.72/7.02) ⇛"
     },
+    "https://1fichier.com/?ih41r6idob62ceybx60h&af=4186346": {
+      "region": "EUR",
+      "size": "3.07 GB",
+      "version": "1.00",
+      "release": "January 31, 2023",
+      "min_fw": "11.00+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/06/PowerWash-Simulator-PS4-cover.webp",
+      "name": "Powerwash Simulator",
+      "type": "game",
+      "download_text": "OneFile",
+      "key_description": "Game ⇛"
+    },
+    "https://1fichier.com/?552123kv72t9kq53xff7&af=4186346": {
+      "region": "EUR",
+      "size": "3.07 GB",
+      "version": "1.00",
+      "release": "January 31, 2023",
+      "min_fw": "11.00+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/06/PowerWash-Simulator-PS4-cover.webp",
+      "name": "Powerwash Simulator",
+      "type": "update",
+      "download_text": "OneFile",
+      "key_description": "Update v1.14 ⇛"
+    },
+    "https://1fichier.com/?jhf84w6nk5gh0q09rg5y&af=4186346": {
+      "region": "EUR",
+      "size": "3.07 GB",
+      "version": "1.00",
+      "release": "January 31, 2023",
+      "min_fw": "11.00+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/06/PowerWash-Simulator-PS4-cover.webp",
+      "name": "Powerwash Simulator",
+      "type": "update",
+      "download_text": "OneFile",
+      "key_description": "Update v1.14 [5.05-6.72-7.xx-8.xx-9.00] ⇛"
+    },
+    "https://1fichier.com/?4jk6symksys70elrv4dl&af=4186346": {
+      "region": "EUR",
+      "size": "3.07 GB",
+      "version": "1.00",
+      "release": "January 31, 2023",
+      "min_fw": "11.00+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/06/PowerWash-Simulator-PS4-cover.webp",
+      "name": "Powerwash Simulator",
+      "type": "dlc",
+      "download_text": "OneFile",
+      "key_description": "DLC ⇛"
+    },
     "https://1fichier.com/?4uvhp3dph5q9hs8mzsv6&af=4186346": {
       "region": "EUR",
       "size": "3 GB",
@@ -37084,6 +37132,32 @@
       "type": "game",
       "download_text": "OneFile",
       "key_description": "Game (v1.02) (5.05+) ⇛"
+    },
+    "https://1fichier.com/?u68elq5yioj0q4jx1q0y&af=4186346": {
+      "region": "USA",
+      "size": "15GB",
+      "version": "1.00",
+      "release": "June 19, 2025",
+      "min_fw": null,
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/06/Raidou-Remastered-The-Mystery-of-The-Soulless-Army-PS4-PKG.webp",
+      "cusa": "CUSA42359",
+      "name": "Raidou Remastered The Mystery Of The Soulless Army",
+      "type": "game",
+      "download_text": "OneFile",
+      "key_description": "Game ⇛"
+    },
+    "https://1fichier.com/?ld3veb143zpasv9zureu&af=4186346": {
+      "region": "USA",
+      "size": "15GB",
+      "version": "1.00",
+      "release": "June 19, 2025",
+      "min_fw": "Fix 5.05/6.72/7.02/7.55/9.00/11.00",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/06/Raidou-Remastered-The-Mystery-of-The-Soulless-Army-PS4-PKG.webp",
+      "cusa": "CUSA42359",
+      "name": "Raidou Remastered The Mystery Of The Soulless Army",
+      "type": "update",
+      "download_text": "OneFile",
+      "key_description": "Update v1.02 (Fix 5.05/6.72/7.02/7.55/9.00/11.00) ⇛"
     },
     "https://1fichier.com/?6c6ebsa9lvuavn8246ov&af=4186346": {
       "region": "EUR",
@@ -46771,7 +46845,7 @@
       "version": "1.00",
       "release": "November 9, 2018",
       "min_fw": "6.72+",
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/Tetris-Effect_-Connected-PS4-PKG.webp",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2022/10/Tetris-Effect-PS4.webp",
       "name": "Tetris Effect",
       "type": "game",
       "download_text": "OneFile",
@@ -46783,7 +46857,7 @@
       "version": "1.00",
       "release": "November 9, 2018",
       "min_fw": null,
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/Tetris-Effect_-Connected-PS4-PKG.webp",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2022/10/Tetris-Effect-PS4.webp",
       "name": "Tetris Effect",
       "type": "update",
       "download_text": "OneFile",
@@ -46795,7 +46869,7 @@
       "version": "1.00",
       "release": "November 9, 2018",
       "min_fw": "Fix 5.05/6.72/7.xx",
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/Tetris-Effect_-Connected-PS4-PKG.webp",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2022/10/Tetris-Effect-PS4.webp",
       "name": "Tetris Effect",
       "type": "update",
       "download_text": "OneFile",

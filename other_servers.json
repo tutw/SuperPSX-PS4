@@ -4143,6 +4143,32 @@
       "download_text": "ZippyS",
       "key_description": "Game + Update 1.09 + DLC ⇛"
     },
+    "https://akirabox.to/2WVGr6J5gGkx/file": {
+      "region": "USA",
+      "size": "15GB",
+      "version": "1.00",
+      "release": "June 19, 2025",
+      "min_fw": null,
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/06/Raidou-Remastered-The-Mystery-of-The-Soulless-Army-PS4-PKG.webp",
+      "cusa": "CUSA42359",
+      "name": "Raidou Remastered The Mystery Of The Soulless Army",
+      "type": "game",
+      "download_text": "AKR",
+      "key_description": "Game ⇛"
+    },
+    "https://akirabox.to/Pbe3PxRLK3lX/file": {
+      "region": "USA",
+      "size": "15GB",
+      "version": "1.00",
+      "release": "June 19, 2025",
+      "min_fw": "Fix 5.05/6.72/7.02/7.55/9.00/11.00",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/06/Raidou-Remastered-The-Mystery-of-The-Soulless-Army-PS4-PKG.webp",
+      "cusa": "CUSA42359",
+      "name": "Raidou Remastered The Mystery Of The Soulless Army",
+      "type": "update",
+      "download_text": "AKR",
+      "key_description": "Update v1.02 (Fix 5.05/6.72/7.02/7.55/9.00/11.00) ⇛"
+    },
     "https://filecrypt.co/Container/DB9FE8AAF7.html": {
       "region": "EUR",
       "size": "9 GB",

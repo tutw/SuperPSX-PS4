@@ -13757,7 +13757,7 @@
       "download_text": "AKR",
       "key_description": "Update v1.07 (Fix 5.05/6.72/7.xx) ⇛"
     },
-    "https://akirabox.com/M2BGwWVXGj40/file": {
+    "https://akirabox.com/7d5GLEe2LmxR/file": {
       "region": "EUR",
       "size": "28 GB",
       "version": "1.00",
@@ -13769,7 +13769,7 @@
       "download_text": "AKR",
       "key_description": "Game (9.00+) ⇛"
     },
-    "https://akirabox.com/qLQ36xEKG19j/file": {
+    "https://akirabox.com/2bJG8pWZgGOB/file": {
       "region": "EUR",
       "size": "28 GB",
       "version": "1.00",
@@ -13781,7 +13781,7 @@
       "download_text": "AKR",
       "key_description": "Update v6.01 ⇛"
     },
-    "https://akirabox.com/Zvqzl010zaD2/file": {
+    "https://akirabox.com/dkD3YVg6JzLQ/file": {
       "region": "EUR",
       "size": "28 GB",
       "version": "1.00",
@@ -13793,7 +13793,7 @@
       "download_text": "AKR",
       "key_description": "Update v6.01 (Fix 5.05/6.72/7.xx/8.xx) ⇛"
     },
-    "https://akirabox.com/0Pdzy9nkzeAR/file": {
+    "https://akirabox.com/9AqGQRlJJmMn/file": {
       "region": "EUR",
       "size": "28 GB",
       "version": "1.00",
@@ -22846,30 +22846,6 @@
       "download_text": "AKR",
       "key_description": "DLC v2 ⇛"
     },
-    "https://akirabox.com/7d5GLr56V3xR/file": {
-      "region": "EUR",
-      "size": "397.15 MB",
-      "version": "1.00",
-      "release": "August 15, 2017",
-      "min_fw": "5.05+",
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/Nidhogg-2-PS4-PKG.webp",
-      "name": "Nidhogg 2",
-      "type": "game",
-      "download_text": "AKR",
-      "key_description": "Game (5.05+) ⇛"
-    },
-    "https://akirabox.com/5pVzNaNDX37w/file": {
-      "region": "EUR",
-      "size": "397.15 MB",
-      "version": "1.00",
-      "release": "August 15, 2017",
-      "min_fw": "5.05+",
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/Nidhogg-2-PS4-PKG.webp",
-      "name": "Nidhogg 2",
-      "type": "update",
-      "download_text": "AKR",
-      "key_description": "Update v1.07 (5.05+) ⇛"
-    },
     "https://akirabox.com/obj3jbwn23Dx/file": {
       "region": "EUR",
       "size": "500MB",
@@ -22893,6 +22869,30 @@
       "type": "update",
       "download_text": "AKR",
       "key_description": "Update v1.02 (5.05+) ⇛"
+    },
+    "https://akirabox.com/7d5GLr56V3xR/file": {
+      "region": "EUR",
+      "size": "397.15 MB",
+      "version": "1.00",
+      "release": "August 15, 2017",
+      "min_fw": "5.05+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/Nidhogg-2-PS4-PKG.webp",
+      "name": "Nidhogg 2",
+      "type": "game",
+      "download_text": "AKR",
+      "key_description": "Game (5.05+) ⇛"
+    },
+    "https://akirabox.com/5pVzNaNDX37w/file": {
+      "region": "EUR",
+      "size": "397.15 MB",
+      "version": "1.00",
+      "release": "August 15, 2017",
+      "min_fw": "5.05+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/Nidhogg-2-PS4-PKG.webp",
+      "name": "Nidhogg 2",
+      "type": "update",
+      "download_text": "AKR",
+      "key_description": "Update v1.07 (5.05+) ⇛"
     },
     "https://akirabox.com/0Kezk9162mD1/file": {
       "region": "EUR",
@@ -32161,7 +32161,7 @@
       "version": "1.00",
       "release": "November 9, 2018",
       "min_fw": "6.72+",
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/Tetris-Effect_-Connected-PS4-PKG.webp",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2022/10/Tetris-Effect-PS4.webp",
       "name": "Tetris Effect",
       "type": "game",
       "download_text": "AKR",
@@ -32173,7 +32173,7 @@
       "version": "1.00",
       "release": "November 9, 2018",
       "min_fw": null,
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/Tetris-Effect_-Connected-PS4-PKG.webp",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2022/10/Tetris-Effect-PS4.webp",
       "name": "Tetris Effect",
       "type": "update",
       "download_text": "AKR",
@@ -32185,7 +32185,7 @@
       "version": "1.00",
       "release": "November 9, 2018",
       "min_fw": "Fix 5.05/6.72/7.xx",
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/Tetris-Effect_-Connected-PS4-PKG.webp",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2022/10/Tetris-Effect-PS4.webp",
       "name": "Tetris Effect",
       "type": "update",
       "download_text": "AKR",

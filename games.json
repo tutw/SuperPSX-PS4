@@ -3761,6 +3761,42 @@
       "download_text": "Viki",
       "key_description": "DLCs ⇛"
     },
+    "https://vikingfile.com/f/E9tSSF0rh3": {
+      "region": "EUR",
+      "size": "3GB",
+      "version": "1.00",
+      "release": "September 4, 2025",
+      "min_fw": null,
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/09/Hollow-Knight-Silksong-PS4-PKG.webp",
+      "name": "Hollow Knight Silksong",
+      "type": "game",
+      "download_text": "Viki",
+      "key_description": "Game ⇛"
+    },
+    "https://vikingfile.com/f/qTcbL45myU": {
+      "region": "EUR",
+      "size": "3GB",
+      "version": "1.00",
+      "release": "September 4, 2025",
+      "min_fw": "Fix 6.72/7.02/7.55/9.00/11.00",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/09/Hollow-Knight-Silksong-PS4-PKG.webp",
+      "name": "Hollow Knight Silksong",
+      "type": "update",
+      "download_text": "Viki",
+      "key_description": "Update v1.02 (Fix 6.72/7.02/7.55/9.00/11.00) ⇛"
+    },
+    "https://vikingfile.com/f/c4quS37gXO": {
+      "region": "EUR",
+      "size": "3GB",
+      "version": "1.00",
+      "release": "September 4, 2025",
+      "min_fw": "Fix 5.05",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/09/Hollow-Knight-Silksong-PS4-PKG.webp",
+      "name": "Hollow Knight Silksong",
+      "type": "update",
+      "download_text": "Viki",
+      "key_description": "Update v1.02 (Fix 5.05) ⇛"
+    },
     "https://vikingfile.com/f/GPKHJTkLZY": {
       "region": "USA",
       "size": "6GB",
@@ -6462,32 +6498,6 @@
       "type": "game",
       "download_text": "Viki",
       "key_description": "Game (v1.02) (5.05+) ⇛"
-    },
-    "https://vikingfile.com/f/MXcZ0Vk1Gd": {
-      "region": "USA",
-      "size": "15GB",
-      "version": "1.00",
-      "release": "June 19, 2025",
-      "min_fw": null,
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/06/Raidou-Remastered-The-Mystery-of-The-Soulless-Army-PS4-PKG.webp",
-      "cusa": "CUSA42359",
-      "name": "Raidou Remastered The Mystery Of The Soulless Army",
-      "type": "game",
-      "download_text": "Viki",
-      "key_description": "Game ⇛"
-    },
-    "https://vikingfile.com/f/rdmYKaErcA": {
-      "region": "USA",
-      "size": "15GB",
-      "version": "1.00",
-      "release": "June 19, 2025",
-      "min_fw": "Fix 5.05/6.72/7.02/7.55/9.00/11.00",
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/06/Raidou-Remastered-The-Mystery-of-The-Soulless-Army-PS4-PKG.webp",
-      "cusa": "CUSA42359",
-      "name": "Raidou Remastered The Mystery Of The Soulless Army",
-      "type": "update",
-      "download_text": "Viki",
-      "key_description": "Update v1.02 (Fix 5.05/6.72/7.02/7.55/9.00/11.00) ⇛"
     },
     "https://vikingfile.com/f/hBoPPwDg4y": {
       "region": "EUR",

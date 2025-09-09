@@ -987,6 +987,42 @@
       "download_text": "Viki",
       "key_description": "Game (5.05+) ⇛"
     },
+    "https://vikingfile.com/f/15f82hhxPq": {
+      "region": "EUR",
+      "size": "734.07 MB",
+      "version": "1.00",
+      "release": "November 17, 2023",
+      "min_fw": "9.00+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/06/Bluey-The-Videogame-PS4-PKG.webp",
+      "name": "Bluey The Videogame",
+      "type": "game",
+      "download_text": "Viki",
+      "key_description": "Game (9.00+) ⇛"
+    },
+    "https://vikingfile.com/f/49DZh5eKWm": {
+      "region": "EUR",
+      "size": "734.07 MB",
+      "version": "1.00",
+      "release": "November 17, 2023",
+      "min_fw": "9.00+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/06/Bluey-The-Videogame-PS4-PKG.webp",
+      "name": "Bluey The Videogame",
+      "type": "update",
+      "download_text": "Viki",
+      "key_description": "Update v1.01 (9.00+) ⇛"
+    },
+    "https://vikingfile.com/f/aKEXcGOuLe": {
+      "region": "EUR",
+      "size": "734.07 MB",
+      "version": "1.00",
+      "release": "November 17, 2023",
+      "min_fw": "Fix 5.05/6.72/7.xx/8.xx",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/06/Bluey-The-Videogame-PS4-PKG.webp",
+      "name": "Bluey The Videogame",
+      "type": "update",
+      "download_text": "Viki",
+      "key_description": "Update v1.01 (Fix 5.05/6.72/7.xx/8.xx) ⇛"
+    },
     "https://vikingfile.com/f/fHY6jjFb3S": {
       "region": "EUR",
       "size": "239.80 MB",
@@ -9616,6 +9652,30 @@
       "type": "dlc",
       "download_text": "Viki",
       "key_description": "DLC (v5) ⇛"
+    },
+    "https://vikingfile.com/f/371Es3kpz2": {
+      "region": "EUR",
+      "size": "159MB",
+      "version": "1.00",
+      "release": "25 Aug 2022",
+      "min_fw": "9.00+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/09/Zengeon-PS4-PKG.webp",
+      "name": "Zengeon",
+      "type": "game",
+      "download_text": "Viki",
+      "key_description": "Game + Upv1.08 (9.00+) ⇛"
+    },
+    "https://vikingfile.com/f/JuWH45I3Qd": {
+      "region": "EUR",
+      "size": "159MB",
+      "version": "1.00",
+      "release": "25 Aug 2022",
+      "min_fw": "Fix 5.05/6.72/7.xx",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/09/Zengeon-PS4-PKG.webp",
+      "name": "Zengeon",
+      "type": "update",
+      "download_text": "Viki",
+      "key_description": "Update v1.08 (Fix 5.05/6.72/7.xx) ⇛"
     },
     "https://vikingfile.com/f/NNqG0iic8j": {
       "region": "EUR",

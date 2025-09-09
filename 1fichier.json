@@ -5414,41 +5414,41 @@
       "download_text": "OneFile",
       "key_description": "DLC ⇛"
     },
-    "https://1fichier.com/?envl6fkf4fpkq1720jrw&af=4186346": {
+    "https://1fichier.com/?y8388yok3n6afdwofofh": {
       "region": "EUR",
       "size": "734.07 MB",
       "version": "1.00",
       "release": "November 17, 2023",
       "min_fw": "9.00+",
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/06/Bluey-The-Videogame-PS4-cover.webp",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/06/Bluey-The-Videogame-PS4-PKG.webp",
       "name": "Bluey The Videogame",
       "type": "game",
       "download_text": "OneFile",
-      "key_description": "Game ⇛"
+      "key_description": "Game (9.00+) ⇛"
     },
-    "https://1fichier.com/?pzhb44d5ijuy2qgbwoxh&af=4186346": {
+    "https://1fichier.com/?sc7u0l6jif666hyl9pen": {
       "region": "EUR",
       "size": "734.07 MB",
       "version": "1.00",
       "release": "November 17, 2023",
       "min_fw": "9.00+",
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/06/Bluey-The-Videogame-PS4-cover.webp",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/06/Bluey-The-Videogame-PS4-PKG.webp",
       "name": "Bluey The Videogame",
       "type": "update",
       "download_text": "OneFile",
-      "key_description": "Update 1.01 ⇛"
+      "key_description": "Update v1.01 (9.00+) ⇛"
     },
-    "https://1fichier.com/?8frhdlckdliiz3toqgog&af=4186346": {
+    "https://1fichier.com/?awoakl5cp322szk8tnjm": {
       "region": "EUR",
       "size": "734.07 MB",
       "version": "1.00",
       "release": "November 17, 2023",
       "min_fw": "Fix 5.05/6.72/7.xx/8.xx",
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/06/Bluey-The-Videogame-PS4-cover.webp",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/06/Bluey-The-Videogame-PS4-PKG.webp",
       "name": "Bluey The Videogame",
       "type": "update",
       "download_text": "OneFile",
-      "key_description": "Update 1.01 (Fix 5.05/6.72/7.xx/8.xx) ⇛"
+      "key_description": "Update v1.01 (Fix 5.05/6.72/7.xx/8.xx) ⇛"
     },
     "https://1fichier.com/?ts42ee7iy6d7aliiub7p&af=4186346": {
       "region": "EUR",
@@ -19114,6 +19114,30 @@
       "download_text": "OneFile",
       "key_description": "Game (v1.02) ⇛"
     },
+    "https://1fichier.com/?lw7ax74sw001241948cw&af=4186346": {
+      "region": "EUR",
+      "size": "2.54 GB",
+      "version": "1.00",
+      "release": "June 29, 2020",
+      "min_fw": "7.51+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/Goosebumps-Dead-of-Night-PS4-PKG.webp",
+      "name": "Goosebumps Dead Of Night",
+      "type": "update",
+      "download_text": "OneFile",
+      "key_description": "Game + Update 1.02 ⇛"
+    },
+    "https://1fichier.com/?xmvk6v0073h3f2ddii55&af=4186346": {
+      "region": "EUR",
+      "size": "2.54 GB",
+      "version": "1.00",
+      "release": "June 29, 2020",
+      "min_fw": "Fix 5.05/6.72",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/Goosebumps-Dead-of-Night-PS4-PKG.webp",
+      "name": "Goosebumps Dead Of Night",
+      "type": "update",
+      "download_text": "OneFile",
+      "key_description": "Update 1.02 (Fix 5.05/6.72) ⇛"
+    },
     "https://1fichier.com/?9wkktspazfsbx7c0ufrn&af=4186346": {
       "region": "EUR",
       "size": "9GB",
@@ -26631,30 +26655,6 @@
       "download_text": "OneFile",
       "key_description": "DLC ⇛"
     },
-    "https://1fichier.com/?yzo5sin2eovivp21ag63&af=4186346": {
-      "region": "EUR",
-      "size": "2GB",
-      "version": "1.00",
-      "release": "April 2020",
-      "min_fw": "7.02+",
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/Little-Town-Hero-PS4-PKG.webp",
-      "name": "Little Town Hero",
-      "type": "game",
-      "download_text": "OneFile",
-      "key_description": "Game (7.02+) ⇛"
-    },
-    "https://1fichier.com/?fp6ix67g6k9r07zbh7r8&af=4186346": {
-      "region": "EUR",
-      "size": "2GB",
-      "version": "1.00",
-      "release": "April 2020",
-      "min_fw": "5.05/6.72",
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/Little-Town-Hero-PS4-PKG.webp",
-      "name": "Little Town Hero",
-      "type": "game",
-      "download_text": "OneFile",
-      "key_description": "Fix (5.05/6.72) ⇛"
-    },
     "https://1fichier.com/?yw6bzr0mzl0y59iz5uiq&af=4186346": {
       "region": "EUR",
       "size": "10.5GB",
@@ -32764,30 +32764,6 @@
       "download_text": "OneFile",
       "key_description": "DLC ⇛"
     },
-    "https://1fichier.com/?e7psyde2u42xep77z9a9&af=4186346": {
-      "region": "EUR",
-      "size": "397.15 MB",
-      "version": "1.00",
-      "release": "August 15, 2017",
-      "min_fw": "5.05+",
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/Nidhogg-2-PS4-PKG.webp",
-      "name": "Nidhogg 2",
-      "type": "game",
-      "download_text": "OneFile",
-      "key_description": "Game (5.05+) ⇛"
-    },
-    "https://1fichier.com/?gd1on8cxwscgvpfngm94&af=4186346": {
-      "region": "EUR",
-      "size": "397.15 MB",
-      "version": "1.00",
-      "release": "August 15, 2017",
-      "min_fw": "5.05+",
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/Nidhogg-2-PS4-PKG.webp",
-      "name": "Nidhogg 2",
-      "type": "update",
-      "download_text": "OneFile",
-      "key_description": "Update v1.07 (5.05+) ⇛"
-    },
     "https://1fichier.com/?x0l1nv7408ke0kb720il&af=4186346": {
       "region": "EUR",
       "size": "500MB",
@@ -32811,6 +32787,30 @@
       "type": "update",
       "download_text": "OneFile",
       "key_description": "Update v1.02 (5.05+) ⇛"
+    },
+    "https://1fichier.com/?e7psyde2u42xep77z9a9&af=4186346": {
+      "region": "EUR",
+      "size": "397.15 MB",
+      "version": "1.00",
+      "release": "August 15, 2017",
+      "min_fw": "5.05+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/Nidhogg-2-PS4-PKG.webp",
+      "name": "Nidhogg 2",
+      "type": "game",
+      "download_text": "OneFile",
+      "key_description": "Game (5.05+) ⇛"
+    },
+    "https://1fichier.com/?gd1on8cxwscgvpfngm94&af=4186346": {
+      "region": "EUR",
+      "size": "397.15 MB",
+      "version": "1.00",
+      "release": "August 15, 2017",
+      "min_fw": "5.05+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/Nidhogg-2-PS4-PKG.webp",
+      "name": "Nidhogg 2",
+      "type": "update",
+      "download_text": "OneFile",
+      "key_description": "Update v1.07 (5.05+) ⇛"
     },
     "https://1fichier.com/?l85tz68ijgs1udp3fkom&af=4186346": {
       "region": "EUR",
@@ -57850,6 +57850,30 @@
       "type": "update",
       "download_text": "OneFile",
       "key_description": "Game + Update 1.21 + DLC ⇛"
+    },
+    "https://1fichier.com/?o1fcoo1um3i5k2f88i6u&af=4186346": {
+      "region": "EUR",
+      "size": "159MB",
+      "version": "1.00",
+      "release": "25 Aug 2022",
+      "min_fw": "9.00+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/09/Zengeon-PS4-PKG.webp",
+      "name": "Zengeon",
+      "type": "game",
+      "download_text": "OneFile",
+      "key_description": "Game + Upv1.08 (9.00+) ⇛"
+    },
+    "https://1fichier.com/?stdrm702f7wd8878qd49&af=4186346": {
+      "region": "EUR",
+      "size": "159MB",
+      "version": "1.00",
+      "release": "25 Aug 2022",
+      "min_fw": "Fix 5.05/6.72/7.xx",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/09/Zengeon-PS4-PKG.webp",
+      "name": "Zengeon",
+      "type": "update",
+      "download_text": "OneFile",
+      "key_description": "Update v1.08 (Fix 5.05/6.72/7.xx) ⇛"
     },
     "https://1fichier.com/?wh35v05va2or6d8d5kbx&af=4186346": {
       "region": "EUR",

@@ -19114,30 +19114,6 @@
       "download_text": "OneFile",
       "key_description": "Game (v1.02) ⇛"
     },
-    "https://1fichier.com/?lw7ax74sw001241948cw&af=4186346": {
-      "region": "EUR",
-      "size": "2.54 GB",
-      "version": "1.00",
-      "release": "June 29, 2020",
-      "min_fw": "7.51+",
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/Goosebumps-Dead-of-Night-PS4-PKG.webp",
-      "name": "Goosebumps Dead Of Night",
-      "type": "update",
-      "download_text": "OneFile",
-      "key_description": "Game + Update 1.02 ⇛"
-    },
-    "https://1fichier.com/?xmvk6v0073h3f2ddii55&af=4186346": {
-      "region": "EUR",
-      "size": "2.54 GB",
-      "version": "1.00",
-      "release": "June 29, 2020",
-      "min_fw": "Fix 5.05/6.72",
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/Goosebumps-Dead-of-Night-PS4-PKG.webp",
-      "name": "Goosebumps Dead Of Night",
-      "type": "update",
-      "download_text": "OneFile",
-      "key_description": "Update 1.02 (Fix 5.05/6.72) ⇛"
-    },
     "https://1fichier.com/?9wkktspazfsbx7c0ufrn&af=4186346": {
       "region": "EUR",
       "size": "9GB",
@@ -19296,10 +19272,10 @@
     },
     "https://1fichier.com/?gxh1tqbtu6325uhcayju&af=4186346": {
       "region": "EUR",
-      "size": "22.91 GB",
+      "size": "23GB",
       "version": "1.00",
       "release": "February 1, 2024",
-      "min_fw": "10.50+",
+      "min_fw": null,
       "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/Granblue-Fantasy_-Relink-Digital-Deluxe-Edition-PS4-PKG.webp",
       "name": "Granblue Fantasy Relink",
       "type": "game",
@@ -19308,10 +19284,10 @@
     },
     "https://1fichier.com/?ay8xazsaam81k6bom9o4&af=4186346": {
       "region": "EUR",
-      "size": "22.91 GB",
+      "size": "23GB",
       "version": "1.00",
       "release": "February 1, 2024",
-      "min_fw": "10.50+",
+      "min_fw": null,
       "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/Granblue-Fantasy_-Relink-Digital-Deluxe-Edition-PS4-PKG.webp",
       "name": "Granblue Fantasy Relink",
       "type": "update",
@@ -19320,7 +19296,7 @@
     },
     "https://1fichier.com/?ck2igv2jjcdq0dqfhd0q&af=4186346": {
       "region": "EUR",
-      "size": "22.91 GB",
+      "size": "23GB",
       "version": "1.00",
       "release": "February 1, 2024",
       "min_fw": "Fix 5.05/6.72/7.02/7.55/9.00",
@@ -19332,10 +19308,10 @@
     },
     "https://1fichier.com/?1mg3oh0rklk45az87f2f&af=4186346": {
       "region": "EUR",
-      "size": "22.91 GB",
+      "size": "23GB",
       "version": "1.00",
       "release": "February 1, 2024",
-      "min_fw": "10.50+",
+      "min_fw": null,
       "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/Granblue-Fantasy_-Relink-Digital-Deluxe-Edition-PS4-PKG.webp",
       "name": "Granblue Fantasy Relink",
       "type": "dlc",
@@ -32788,30 +32764,6 @@
       "download_text": "OneFile",
       "key_description": "DLC ⇛"
     },
-    "https://1fichier.com/?x0l1nv7408ke0kb720il&af=4186346": {
-      "region": "EUR",
-      "size": "500MB",
-      "version": "1.00",
-      "release": "October 14, 2014",
-      "min_fw": "5.05+",
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/08/Nidhogg-PS4-PKG.webp",
-      "name": "Nidhogg 2",
-      "type": "game",
-      "download_text": "OneFile",
-      "key_description": "Game (5.05+) ⇛"
-    },
-    "https://1fichier.com/?bry9hepim2a628h6iylm&af=4186346": {
-      "region": "EUR",
-      "size": "500MB",
-      "version": "1.00",
-      "release": "October 14, 2014",
-      "min_fw": "5.05+",
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/08/Nidhogg-PS4-PKG.webp",
-      "name": "Nidhogg 2",
-      "type": "update",
-      "download_text": "OneFile",
-      "key_description": "Update v1.02 (5.05+) ⇛"
-    },
     "https://1fichier.com/?e7psyde2u42xep77z9a9&af=4186346": {
       "region": "EUR",
       "size": "397.15 MB",
@@ -32835,6 +32787,30 @@
       "type": "update",
       "download_text": "OneFile",
       "key_description": "Update v1.07 (5.05+) ⇛"
+    },
+    "https://1fichier.com/?x0l1nv7408ke0kb720il&af=4186346": {
+      "region": "EUR",
+      "size": "500MB",
+      "version": "1.00",
+      "release": "October 14, 2014",
+      "min_fw": "5.05+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/08/Nidhogg-PS4-PKG.webp",
+      "name": "Nidhogg 2",
+      "type": "game",
+      "download_text": "OneFile",
+      "key_description": "Game (5.05+) ⇛"
+    },
+    "https://1fichier.com/?bry9hepim2a628h6iylm&af=4186346": {
+      "region": "EUR",
+      "size": "500MB",
+      "version": "1.00",
+      "release": "October 14, 2014",
+      "min_fw": "5.05+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/08/Nidhogg-PS4-PKG.webp",
+      "name": "Nidhogg 2",
+      "type": "update",
+      "download_text": "OneFile",
+      "key_description": "Update v1.02 (5.05+) ⇛"
     },
     "https://1fichier.com/?l85tz68ijgs1udp3fkom&af=4186346": {
       "region": "EUR",
@@ -55224,6 +55200,30 @@
       "type": "update",
       "download_text": "OneFile",
       "key_description": "Update v1.02 (5.05) ⇛"
+    },
+    "https://1fichier.com/?uu832ire3o7369bpedw4&af=4186346": {
+      "region": "EUR",
+      "size": "2GB",
+      "version": "1.00",
+      "release": "September 13, 2022",
+      "min_fw": null,
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/09/Various-Daylife-PS4-PKG.webp",
+      "name": "Various Daylife",
+      "type": "game",
+      "download_text": "OneFile",
+      "key_description": "Game (9.50+) ⇛"
+    },
+    "https://1fichier.com/?4icydeec8r623wen71b8&af=4186346": {
+      "region": "EUR",
+      "size": "2GB",
+      "version": "1.00",
+      "release": "September 13, 2022",
+      "min_fw": "5.05 / 6.72 / 7.02 / 7.55 / 9.00 / 11.00",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/09/Various-Daylife-PS4-PKG.webp",
+      "name": "Various Daylife",
+      "type": "game",
+      "download_text": "OneFile",
+      "key_description": "Fix (5.05 / 6.72 / 7.02 / 7.55 / 9.00 / 11.00) ⇛"
     },
     "https://1fichier.com/?rnifetlbyes3hlfl5wcw&af=4186346": {
       "region": "EUR",

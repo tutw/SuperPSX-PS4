@@ -3605,6 +3605,54 @@
       "download_text": "Viki",
       "key_description": "Artbook & Soundtracks (5) ⇛"
     },
+    "https://vikingfile.com/f/vgw7HUN2J7": {
+      "region": "EUR",
+      "size": "23GB",
+      "version": "1.00",
+      "release": "February 1, 2024",
+      "min_fw": null,
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/Granblue-Fantasy_-Relink-Digital-Deluxe-Edition-PS4-PKG.webp",
+      "name": "Granblue Fantasy Relink",
+      "type": "game",
+      "download_text": "Viki",
+      "key_description": "Game ⇛"
+    },
+    "https://vikingfile.com/f/FK9waXio0l": {
+      "region": "EUR",
+      "size": "23GB",
+      "version": "1.00",
+      "release": "February 1, 2024",
+      "min_fw": null,
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/Granblue-Fantasy_-Relink-Digital-Deluxe-Edition-PS4-PKG.webp",
+      "name": "Granblue Fantasy Relink",
+      "type": "update",
+      "download_text": "Viki",
+      "key_description": "Update v1.31 (10.50+) ⇛"
+    },
+    "https://vikingfile.com/f/FyFlbsIAXd": {
+      "region": "EUR",
+      "size": "23GB",
+      "version": "1.00",
+      "release": "February 1, 2024",
+      "min_fw": "Fix 5.05/6.72/7.02/7.55/9.00",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/Granblue-Fantasy_-Relink-Digital-Deluxe-Edition-PS4-PKG.webp",
+      "name": "Granblue Fantasy Relink",
+      "type": "update",
+      "download_text": "Viki",
+      "key_description": "Update v1.31 (Fix 5.05/6.72/7.02/7.55/9.00) ⇛"
+    },
+    "https://vikingfile.com/f/B9Jg8ADm2K": {
+      "region": "EUR",
+      "size": "23GB",
+      "version": "1.00",
+      "release": "February 1, 2024",
+      "min_fw": null,
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/Granblue-Fantasy_-Relink-Digital-Deluxe-Edition-PS4-PKG.webp",
+      "name": "Granblue Fantasy Relink",
+      "type": "dlc",
+      "download_text": "Viki",
+      "key_description": "DLC v4 ⇛"
+    },
     "https://vikingfile.com/f/5afojmfJqP": {
       "region": "EUR",
       "size": "17GB",
@@ -9292,6 +9340,30 @@
       "type": "update",
       "download_text": "Viki",
       "key_description": "Update v1.08 (Fix 5.05) ⇛"
+    },
+    "https://vikingfile.com/f/68gwe1fK4u": {
+      "region": "EUR",
+      "size": "2GB",
+      "version": "1.00",
+      "release": "September 13, 2022",
+      "min_fw": null,
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/09/Various-Daylife-PS4-PKG.webp",
+      "name": "Various Daylife",
+      "type": "game",
+      "download_text": "Viki",
+      "key_description": "Game (9.50+) ⇛"
+    },
+    "https://vikingfile.com/f/ROowj1BRMX": {
+      "region": "EUR",
+      "size": "2GB",
+      "version": "1.00",
+      "release": "September 13, 2022",
+      "min_fw": "5.05 / 6.72 / 7.02 / 7.55 / 9.00 / 11.00",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/09/Various-Daylife-PS4-PKG.webp",
+      "name": "Various Daylife",
+      "type": "game",
+      "download_text": "Viki",
+      "key_description": "Fix (5.05 / 6.72 / 7.02 / 7.55 / 9.00 / 11.00) ⇛"
     },
     "https://vikingfile.com/f/j5o0mBliF0": {
       "region": "EUR",

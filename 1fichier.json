@@ -26655,6 +26655,30 @@
       "download_text": "OneFile",
       "key_description": "DLC ⇛"
     },
+    "https://1fichier.com/?yzo5sin2eovivp21ag63&af=4186346": {
+      "region": "EUR",
+      "size": "2GB",
+      "version": "1.00",
+      "release": "April 2020",
+      "min_fw": "7.02+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/Little-Town-Hero-PS4-PKG.webp",
+      "name": "Little Town Hero",
+      "type": "game",
+      "download_text": "OneFile",
+      "key_description": "Game (7.02+) ⇛"
+    },
+    "https://1fichier.com/?fp6ix67g6k9r07zbh7r8&af=4186346": {
+      "region": "EUR",
+      "size": "2GB",
+      "version": "1.00",
+      "release": "April 2020",
+      "min_fw": "5.05/6.72",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/Little-Town-Hero-PS4-PKG.webp",
+      "name": "Little Town Hero",
+      "type": "game",
+      "download_text": "OneFile",
+      "key_description": "Fix (5.05/6.72) ⇛"
+    },
     "https://1fichier.com/?yw6bzr0mzl0y59iz5uiq&af=4186346": {
       "region": "EUR",
       "size": "10.5GB",

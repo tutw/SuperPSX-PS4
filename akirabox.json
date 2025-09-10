@@ -18847,6 +18847,30 @@
       "download_text": "AKR",
       "key_description": "DLC ⇛"
     },
+    "https://akirabox.com/2bJG8eqQmOBE/file": {
+      "region": "EUR",
+      "size": "2GB",
+      "version": "1.00",
+      "release": "April 2020",
+      "min_fw": "7.02+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/Little-Town-Hero-PS4-PKG.webp",
+      "name": "Little Town Hero",
+      "type": "game",
+      "download_text": "AKR",
+      "key_description": "Game (7.02+) ⇛"
+    },
+    "https://akirabox.com/XkrzoXY2GBOR/file": {
+      "region": "EUR",
+      "size": "2GB",
+      "version": "1.00",
+      "release": "April 2020",
+      "min_fw": "5.05/6.72",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/Little-Town-Hero-PS4-PKG.webp",
+      "name": "Little Town Hero",
+      "type": "game",
+      "download_text": "AKR",
+      "key_description": "Fix (5.05/6.72) ⇛"
+    },
     "https://akirabox.com/E9Qz9WyL0mOL/file": {
       "region": "EUR",
       "size": "10.5GB",

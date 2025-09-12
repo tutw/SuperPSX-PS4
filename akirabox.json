@@ -4151,7 +4151,7 @@
       "download_text": "AKR",
       "key_description": "Update v1.07 (Fix 5.05) ⇛"
     },
-    "https://akirabox.com/b5Ozd1MWGB8L/file": {
+    "https://akirabox.com/qLQ36o2KEz19/file": {
       "region": "EUR",
       "size": "50GB",
       "version": "1.00",
@@ -4163,7 +4163,7 @@
       "download_text": "AKR",
       "key_description": "Game (5.05+) ⇛"
     },
-    "https://akirabox.com/vgKGxnYn38Qn/file": {
+    "https://akirabox.com/Z9dzBkrKPGk1/file": {
       "region": "EUR",
       "size": "50GB",
       "version": "1.00",
@@ -5153,7 +5153,7 @@
       "download_text": "AKR",
       "key_description": "Update v1.04 (Fix 5.05) ⇛"
     },
-    "https://akirabox.com/b5OzdBnWymB8/file": {
+    "https://akirabox.com/E1x3AkwVXGyk/file": {
       "region": "EUR",
       "size": "671 MB",
       "version": "1.00",
@@ -6875,42 +6875,6 @@
       "type": "update",
       "download_text": "AKR",
       "key_description": "Update v1.04 (Fix 6.72+) ⇛"
-    },
-    "https://akirabox.com/E9Qz9v4l2GOL/file": {
-      "region": "EUR",
-      "size": "2GB",
-      "version": "1.00",
-      "release": "Sep 28, 2023",
-      "min_fw": "11.00",
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/02/CyberTD-PS4-PKG.webp",
-      "name": "Cybertd",
-      "type": "game",
-      "download_text": "AKR",
-      "key_description": "Game (11.00) ⇛"
-    },
-    "https://akirabox.com/LK0G1qK8dG91/file": {
-      "region": "EUR",
-      "size": "2GB",
-      "version": "1.00",
-      "release": "Sep 28, 2023",
-      "min_fw": "11.00",
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/02/CyberTD-PS4-PKG.webp",
-      "name": "Cybertd",
-      "type": "update",
-      "download_text": "AKR",
-      "key_description": "Update v1.10 (11.00) ⇛"
-    },
-    "https://akirabox.com/2bJG8K4LdzOB/file": {
-      "region": "EUR",
-      "size": "2GB",
-      "version": "1.00",
-      "release": "Sep 28, 2023",
-      "min_fw": "Fix 5.05/6.72/7.xx/9.00",
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/02/CyberTD-PS4-PKG.webp",
-      "name": "Cybertd",
-      "type": "update",
-      "download_text": "AKR",
-      "key_description": "Update v1.10 (Fix 5.05/6.72/7.xx/9.00) ⇛"
     },
     "https://akirabox.com/7d5GLv9Q3xRJ/file": {
       "region": "EUR",
@@ -12590,7 +12554,7 @@
       "download_text": "AKR",
       "key_description": "All DLCs ⇛"
     },
-    "https://akirabox.com/l76mZXoozanY/file": {
+    "https://akirabox.com/0JgG705oemoY/file": {
       "region": "EUR",
       "size": "35GB",
       "version": "1.00",
@@ -12602,7 +12566,7 @@
       "download_text": "AKR",
       "key_description": "Game (5.05+) ⇛"
     },
-    "https://akirabox.com/obj3jxa2GDxJ/file": {
+    "https://akirabox.com/5pVzNPA1Am7w/file": {
       "region": "EUR",
       "size": "35GB",
       "version": "1.00",
@@ -23254,30 +23218,6 @@
       "download_text": "AKR",
       "key_description": "DLC v2 ⇛"
     },
-    "https://akirabox.com/7d5GLr56V3xR/file": {
-      "region": "EUR",
-      "size": "397.15 MB",
-      "version": "1.00",
-      "release": "August 15, 2017",
-      "min_fw": "5.05+",
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/Nidhogg-2-PS4-PKG.webp",
-      "name": "Nidhogg 2",
-      "type": "game",
-      "download_text": "AKR",
-      "key_description": "Game (5.05+) ⇛"
-    },
-    "https://akirabox.com/5pVzNaNDX37w/file": {
-      "region": "EUR",
-      "size": "397.15 MB",
-      "version": "1.00",
-      "release": "August 15, 2017",
-      "min_fw": "5.05+",
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/Nidhogg-2-PS4-PKG.webp",
-      "name": "Nidhogg 2",
-      "type": "update",
-      "download_text": "AKR",
-      "key_description": "Update v1.07 (5.05+) ⇛"
-    },
     "https://akirabox.com/obj3jbwn23Dx/file": {
       "region": "EUR",
       "size": "500MB",
@@ -23301,6 +23241,30 @@
       "type": "update",
       "download_text": "AKR",
       "key_description": "Update v1.02 (5.05+) ⇛"
+    },
+    "https://akirabox.com/7d5GLr56V3xR/file": {
+      "region": "EUR",
+      "size": "397.15 MB",
+      "version": "1.00",
+      "release": "August 15, 2017",
+      "min_fw": "5.05+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/Nidhogg-2-PS4-PKG.webp",
+      "name": "Nidhogg 2",
+      "type": "game",
+      "download_text": "AKR",
+      "key_description": "Game (5.05+) ⇛"
+    },
+    "https://akirabox.com/5pVzNaNDX37w/file": {
+      "region": "EUR",
+      "size": "397.15 MB",
+      "version": "1.00",
+      "release": "August 15, 2017",
+      "min_fw": "5.05+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/Nidhogg-2-PS4-PKG.webp",
+      "name": "Nidhogg 2",
+      "type": "update",
+      "download_text": "AKR",
+      "key_description": "Update v1.07 (5.05+) ⇛"
     },
     "https://akirabox.com/0Kezk9162mD1/file": {
       "region": "EUR",

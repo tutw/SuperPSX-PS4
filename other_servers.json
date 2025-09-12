@@ -1239,42 +1239,6 @@
       "download_text": "PixelB",
       "key_description": "Update 1.28 (Fix 5.05/6.72/7.xx/8.xx/9.00) ⇛"
     },
-    "https://buzzheavier.com/cd95tjx85850": {
-      "region": "EUR",
-      "size": "2GB",
-      "version": "1.00",
-      "release": "Sep 28, 2023",
-      "min_fw": "11.00",
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/02/CyberTD-PS4-PKG.webp",
-      "name": "Cybertd",
-      "type": "game",
-      "download_text": "BuzzH",
-      "key_description": "Game (11.00) ⇛"
-    },
-    "https://buzzheavier.com/swr80nku1hpr": {
-      "region": "EUR",
-      "size": "2GB",
-      "version": "1.00",
-      "release": "Sep 28, 2023",
-      "min_fw": "11.00",
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/02/CyberTD-PS4-PKG.webp",
-      "name": "Cybertd",
-      "type": "update",
-      "download_text": "BuzzH",
-      "key_description": "Update v1.10 (11.00) ⇛"
-    },
-    "https://buzzheavier.com/pbesgskkeym7": {
-      "region": "EUR",
-      "size": "2GB",
-      "version": "1.00",
-      "release": "Sep 28, 2023",
-      "min_fw": "Fix 5.05/6.72/7.xx/9.00",
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/02/CyberTD-PS4-PKG.webp",
-      "name": "Cybertd",
-      "type": "update",
-      "download_text": "BuzzH",
-      "key_description": "Update v1.10 (Fix 5.05/6.72/7.xx/9.00) ⇛"
-    },
     "https://filecrypt.co/Container/4119E1C8A1.html": {
       "region": "EUR",
       "size": "3.79 GB",

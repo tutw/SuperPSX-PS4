@@ -6876,6 +6876,42 @@
       "download_text": "AKR",
       "key_description": "Update v1.04 (Fix 6.72+) ⇛"
     },
+    "https://akirabox.com/E9Qz9v4l2GOL/file": {
+      "region": "EUR",
+      "size": "2GB",
+      "version": "1.00",
+      "release": "Sep 28, 2023",
+      "min_fw": "11.00",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/02/CyberTD-PS4-PKG.webp",
+      "name": "Cybertd",
+      "type": "game",
+      "download_text": "AKR",
+      "key_description": "Game (11.00) ⇛"
+    },
+    "https://akirabox.com/LK0G1qK8dG91/file": {
+      "region": "EUR",
+      "size": "2GB",
+      "version": "1.00",
+      "release": "Sep 28, 2023",
+      "min_fw": "11.00",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/02/CyberTD-PS4-PKG.webp",
+      "name": "Cybertd",
+      "type": "update",
+      "download_text": "AKR",
+      "key_description": "Update v1.10 (11.00) ⇛"
+    },
+    "https://akirabox.com/2bJG8K4LdzOB/file": {
+      "region": "EUR",
+      "size": "2GB",
+      "version": "1.00",
+      "release": "Sep 28, 2023",
+      "min_fw": "Fix 5.05/6.72/7.xx/9.00",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/02/CyberTD-PS4-PKG.webp",
+      "name": "Cybertd",
+      "type": "update",
+      "download_text": "AKR",
+      "key_description": "Update v1.10 (Fix 5.05/6.72/7.xx/9.00) ⇛"
+    },
     "https://akirabox.com/7d5GLv9Q3xRJ/file": {
       "region": "EUR",
       "size": "44.98 GB",
@@ -8889,7 +8925,7 @@
       "download_text": "AKR",
       "key_description": "ALL DLCs ⇛"
     },
-    "https://akirabox.com/gXeGOJjjazAa/file": {
+    "https://akirabox.com/5pVzNPAEkm7w/file": {
       "region": "EUR",
       "size": "7GB",
       "version": "1.00",
@@ -8901,7 +8937,7 @@
       "download_text": "AKR",
       "key_description": "Game (9.00+) ⇛"
     },
-    "https://akirabox.com/0rpmvqOOLGRg/file": {
+    "https://akirabox.com/0JgG705k8moY/file": {
       "region": "EUR",
       "size": "7GB",
       "version": "1.00",
@@ -8913,7 +8949,7 @@
       "download_text": "AKR",
       "key_description": "Update v1.06 (9.00+) ⇛"
     },
-    "https://akirabox.com/N2p3DEOOVzMa/file": {
+    "https://akirabox.com/APVmaJb4q3Xo/file": {
       "region": "EUR",
       "size": "7GB",
       "version": "1.00",
@@ -10779,7 +10815,7 @@
       "download_text": "AKR",
       "key_description": "Update v1.03 (Fix 5.05/6.72/7.02/7.55/9.00) ⇛"
     },
-    "https://akirabox.com/XkrzoAyZYmBO/file": {
+    "https://akirabox.com/QN9mEYq1ym6d/file": {
       "region": "EUR",
       "size": "5GB",
       "version": "1.00",
@@ -10791,7 +10827,7 @@
       "download_text": "AKR",
       "key_description": "Game (11.00) ⇛"
     },
-    "https://akirabox.com/qw1zer2BpGXy/file": {
+    "https://akirabox.com/N2p3DJP9AGMa/file": {
       "region": "EUR",
       "size": "5GB",
       "version": "1.00",
@@ -10803,7 +10839,7 @@
       "download_text": "AKR",
       "key_description": "Update v1.04 (11.00) ⇛"
     },
-    "https://akirabox.com/qPez4kx7q3OY/file": {
+    "https://akirabox.com/0rpmv7pxa3Rg/file": {
       "region": "EUR",
       "size": "5GB",
       "version": "1.00",
@@ -10815,7 +10851,7 @@
       "download_text": "AKR",
       "key_description": "Update v1.04 (Fix 5.05/6.72/7.xx/9.00) ⇛"
     },
-    "https://akirabox.com/rk9zKYEy4m0l/file": {
+    "https://akirabox.com/vgKGxoXJ2z8Q/file": {
       "region": "EUR",
       "size": "5GB",
       "version": "1.00",
@@ -23218,30 +23254,6 @@
       "download_text": "AKR",
       "key_description": "DLC v2 ⇛"
     },
-    "https://akirabox.com/obj3jbwn23Dx/file": {
-      "region": "EUR",
-      "size": "500MB",
-      "version": "1.00",
-      "release": "October 14, 2014",
-      "min_fw": "5.05+",
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/08/Nidhogg-PS4-PKG.webp",
-      "name": "Nidhogg 2",
-      "type": "game",
-      "download_text": "AKR",
-      "key_description": "Game (5.05+) ⇛"
-    },
-    "https://akirabox.com/RMKGJXrkl31o/file": {
-      "region": "EUR",
-      "size": "500MB",
-      "version": "1.00",
-      "release": "October 14, 2014",
-      "min_fw": "5.05+",
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/08/Nidhogg-PS4-PKG.webp",
-      "name": "Nidhogg 2",
-      "type": "update",
-      "download_text": "AKR",
-      "key_description": "Update v1.02 (5.05+) ⇛"
-    },
     "https://akirabox.com/7d5GLr56V3xR/file": {
       "region": "EUR",
       "size": "397.15 MB",
@@ -23265,6 +23277,30 @@
       "type": "update",
       "download_text": "AKR",
       "key_description": "Update v1.07 (5.05+) ⇛"
+    },
+    "https://akirabox.com/obj3jbwn23Dx/file": {
+      "region": "EUR",
+      "size": "500MB",
+      "version": "1.00",
+      "release": "October 14, 2014",
+      "min_fw": "5.05+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/08/Nidhogg-PS4-PKG.webp",
+      "name": "Nidhogg 2",
+      "type": "game",
+      "download_text": "AKR",
+      "key_description": "Game (5.05+) ⇛"
+    },
+    "https://akirabox.com/RMKGJXrkl31o/file": {
+      "region": "EUR",
+      "size": "500MB",
+      "version": "1.00",
+      "release": "October 14, 2014",
+      "min_fw": "5.05+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/08/Nidhogg-PS4-PKG.webp",
+      "name": "Nidhogg 2",
+      "type": "update",
+      "download_text": "AKR",
+      "key_description": "Update v1.02 (5.05+) ⇛"
     },
     "https://akirabox.com/0Kezk9162mD1/file": {
       "region": "EUR",
@@ -23290,7 +23326,7 @@
       "download_text": "AKR",
       "key_description": "Update v1.07 (5.05+) ⇛"
     },
-    "https://akirabox.com/l5YzM12J9zyO/file": {
+    "https://akirabox.com/RMKGJkK6Pm1o/file": {
       "region": "EUR",
       "size": "1.5GB",
       "version": "1.00",
@@ -23302,7 +23338,7 @@
       "download_text": "AKR",
       "key_description": "Game (11.00) ⇛"
     },
-    "https://akirabox.com/1RgzRV2bZzbp/file": {
+    "https://akirabox.com/obj3jn7LA3Dx/file": {
       "region": "EUR",
       "size": "1.5GB",
       "version": "1.00",
@@ -23314,7 +23350,7 @@
       "download_text": "AKR",
       "key_description": "Update v1.05 (11.00) ⇛"
     },
-    "https://akirabox.com/l76mZ6O4xman/file": {
+    "https://akirabox.com/Pbe3PMarYzlX/file": {
       "region": "EUR",
       "size": "1.5GB",
       "version": "1.00",
@@ -23326,7 +23362,7 @@
       "download_text": "AKR",
       "key_description": "Update v1.05 (Fix 6.72/7.xx/9.00) ⇛"
     },
-    "https://akirabox.com/rk9zKY224m0l/file": {
+    "https://akirabox.com/b5OzdRV94mB8/file": {
       "region": "EUR",
       "size": "1.5GB",
       "version": "1.00",
@@ -32131,7 +32167,7 @@
       "download_text": "AKR",
       "key_description": "DLCs ⇛"
     },
-    "https://akirabox.com/9AqGQxpJnzMn/file": {
+    "https://akirabox.com/vgKGxoXJ4z8Q/file": {
       "region": "EUR",
       "size": "37GB",
       "version": "1.00",
@@ -32143,7 +32179,7 @@
       "download_text": "AKR",
       "key_description": "Game (7.00+) ⇛"
     },
-    "https://akirabox.com/0JgG7jKd8zoY/file": {
+    "https://akirabox.com/M2BGwwPBMGj4/file": {
       "region": "EUR",
       "size": "37GB",
       "version": "1.00",
@@ -32215,7 +32251,7 @@
       "download_text": "AKR",
       "key_description": "DLC ⇛"
     },
-    "https://akirabox.com/0JgG7j47nzoY/file": {
+    "https://akirabox.com/0PdzyWXj6meA/file": {
       "region": "EUR",
       "size": "11GB",
       "version": "1.00",
@@ -32227,7 +32263,7 @@
       "download_text": "AKR",
       "key_description": "Game (11.00) ⇛"
     },
-    "https://akirabox.com/qw1zerABVGXy/file": {
+    "https://akirabox.com/dZxG5ZoPYmVj/file": {
       "region": "EUR",
       "size": "11GB",
       "version": "1.00",
@@ -32239,7 +32275,7 @@
       "download_text": "AKR",
       "key_description": "Update v1.03 (11.00) ⇛"
     },
-    "https://akirabox.com/E1x3AdByWmyk/file": {
+    "https://akirabox.com/7d5GLEZD7mxR/file": {
       "region": "EUR",
       "size": "11GB",
       "version": "1.00",
@@ -32251,7 +32287,7 @@
       "download_text": "AKR",
       "key_description": "Update v1.03 (Fix 6.72/7.xx/9.00) ⇛"
     },
-    "https://akirabox.com/qPez4kK753OY/file": {
+    "https://akirabox.com/RMKGJkWnVm1o/file": {
       "region": "EUR",
       "size": "11GB",
       "version": "1.00",
@@ -32263,7 +32299,7 @@
       "download_text": "AKR",
       "key_description": "Update v1.03 (Fix 5.05) ⇛"
     },
-    "https://akirabox.com/M2BGwk2aRGj4/file": {
+    "https://akirabox.com/dkD3YVwbkzLQ/file": {
       "region": "EUR",
       "size": "11GB",
       "version": "1.00",
@@ -37323,7 +37359,7 @@
       "download_text": "AKR",
       "key_description": "Deluxe Edition Upgrade ⇛"
     },
-    "https://akirabox.com/2WVGrqbNgzkx/file": {
+    "https://akirabox.com/2WVGrQdwEzkx/file": {
       "region": "EUR",
       "size": "3.5GB",
       "version": "1.00",
@@ -37335,7 +37371,7 @@
       "download_text": "AKR",
       "key_description": "Game (6.72+) ⇛"
     },
-    "https://akirabox.com/M2BGw6KNpzj4/file": {
+    "https://akirabox.com/M2BGwwPJMGj4/file": {
       "region": "EUR",
       "size": "3.5GB",
       "version": "1.00",

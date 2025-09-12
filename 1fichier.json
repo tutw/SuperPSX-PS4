@@ -9987,6 +9987,42 @@
       "download_text": "OneFile",
       "key_description": "Update v1.04 (Fix 6.72+) ⇛"
     },
+    "https://1fichier.com/?sbbpd9n0zefrzsc30yvf&af=4186346": {
+      "region": "EUR",
+      "size": "2GB",
+      "version": "1.00",
+      "release": "Sep 28, 2023",
+      "min_fw": "11.00",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/02/CyberTD-PS4-PKG.webp",
+      "name": "Cybertd",
+      "type": "game",
+      "download_text": "OneFile",
+      "key_description": "Game (11.00) ⇛"
+    },
+    "https://1fichier.com/?7vzlh3o6ghac86oknzel&af=4186346": {
+      "region": "EUR",
+      "size": "2GB",
+      "version": "1.00",
+      "release": "Sep 28, 2023",
+      "min_fw": "11.00",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/02/CyberTD-PS4-PKG.webp",
+      "name": "Cybertd",
+      "type": "update",
+      "download_text": "OneFile",
+      "key_description": "Update v1.10 (11.00) ⇛"
+    },
+    "https://1fichier.com/?11z5wdu3i9s4ekox3y4q&af=4186346": {
+      "region": "EUR",
+      "size": "2GB",
+      "version": "1.00",
+      "release": "Sep 28, 2023",
+      "min_fw": "Fix 5.05/6.72/7.xx/9.00",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/02/CyberTD-PS4-PKG.webp",
+      "name": "Cybertd",
+      "type": "update",
+      "download_text": "OneFile",
+      "key_description": "Update v1.10 (Fix 5.05/6.72/7.xx/9.00) ⇛"
+    },
     "https://1fichier.com/?sfwt85iqqpa834eqcizv&af=4186346": {
       "region": "EUR",
       "size": "44.98 GB",
@@ -33064,30 +33100,6 @@
       "download_text": "OneFile",
       "key_description": "DLC ⇛"
     },
-    "https://1fichier.com/?x0l1nv7408ke0kb720il&af=4186346": {
-      "region": "EUR",
-      "size": "500MB",
-      "version": "1.00",
-      "release": "October 14, 2014",
-      "min_fw": "5.05+",
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/08/Nidhogg-PS4-PKG.webp",
-      "name": "Nidhogg 2",
-      "type": "game",
-      "download_text": "OneFile",
-      "key_description": "Game (5.05+) ⇛"
-    },
-    "https://1fichier.com/?bry9hepim2a628h6iylm&af=4186346": {
-      "region": "EUR",
-      "size": "500MB",
-      "version": "1.00",
-      "release": "October 14, 2014",
-      "min_fw": "5.05+",
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/08/Nidhogg-PS4-PKG.webp",
-      "name": "Nidhogg 2",
-      "type": "update",
-      "download_text": "OneFile",
-      "key_description": "Update v1.02 (5.05+) ⇛"
-    },
     "https://1fichier.com/?e7psyde2u42xep77z9a9&af=4186346": {
       "region": "EUR",
       "size": "397.15 MB",
@@ -33111,6 +33123,30 @@
       "type": "update",
       "download_text": "OneFile",
       "key_description": "Update v1.07 (5.05+) ⇛"
+    },
+    "https://1fichier.com/?x0l1nv7408ke0kb720il&af=4186346": {
+      "region": "EUR",
+      "size": "500MB",
+      "version": "1.00",
+      "release": "October 14, 2014",
+      "min_fw": "5.05+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/08/Nidhogg-PS4-PKG.webp",
+      "name": "Nidhogg 2",
+      "type": "game",
+      "download_text": "OneFile",
+      "key_description": "Game (5.05+) ⇛"
+    },
+    "https://1fichier.com/?bry9hepim2a628h6iylm&af=4186346": {
+      "region": "EUR",
+      "size": "500MB",
+      "version": "1.00",
+      "release": "October 14, 2014",
+      "min_fw": "5.05+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/08/Nidhogg-PS4-PKG.webp",
+      "name": "Nidhogg 2",
+      "type": "update",
+      "download_text": "OneFile",
+      "key_description": "Update v1.02 (5.05+) ⇛"
     },
     "https://1fichier.com/?l85tz68ijgs1udp3fkom&af=4186346": {
       "region": "EUR",

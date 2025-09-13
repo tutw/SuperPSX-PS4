@@ -4577,6 +4577,42 @@
       "download_text": "AKR",
       "key_description": "Update v1.33 ⇛"
     },
+    "https://akirabox.com/RMKGJkWbVm1o/file": {
+      "region": "EUR",
+      "size": "42GB",
+      "version": "1.00",
+      "release": "November 6, 2015",
+      "min_fw": null,
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2018/03/Call-of-Duty-Black-Ops-3-PS4-PKG.webp",
+      "name": "Call Of Duty Black Ops 3",
+      "type": "game",
+      "download_text": "AKR",
+      "key_description": "Game ⇛"
+    },
+    "https://akirabox.com/QN9mEYdJRm6d/file": {
+      "region": "EUR",
+      "size": "42GB",
+      "version": "1.00",
+      "release": "November 6, 2015",
+      "min_fw": null,
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2018/03/Call-of-Duty-Black-Ops-3-PS4-PKG.webp",
+      "name": "Call Of Duty Black Ops 3",
+      "type": "update",
+      "download_text": "AKR",
+      "key_description": "Update v1.33 ⇛"
+    },
+    "https://akirabox.com/gXeGORelAzAa/folder": {
+      "region": "EUR",
+      "size": "42GB",
+      "version": "1.00",
+      "release": "November 6, 2015",
+      "min_fw": null,
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2018/03/Call-of-Duty-Black-Ops-3-PS4-PKG.webp",
+      "name": "Call Of Duty Black Ops 3",
+      "type": "dlc",
+      "download_text": "AKR",
+      "key_description": "All 6 DLC ⇛"
+    },
     "https://akirabox.com/0PdzyDv5L3eA/file": {
       "region": "EUR",
       "size": "98 GB",
@@ -23254,30 +23290,6 @@
       "download_text": "AKR",
       "key_description": "DLC v2 ⇛"
     },
-    "https://akirabox.com/7d5GLr56V3xR/file": {
-      "region": "EUR",
-      "size": "397.15 MB",
-      "version": "1.00",
-      "release": "August 15, 2017",
-      "min_fw": "5.05+",
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/Nidhogg-2-PS4-PKG.webp",
-      "name": "Nidhogg 2",
-      "type": "game",
-      "download_text": "AKR",
-      "key_description": "Game (5.05+) ⇛"
-    },
-    "https://akirabox.com/5pVzNaNDX37w/file": {
-      "region": "EUR",
-      "size": "397.15 MB",
-      "version": "1.00",
-      "release": "August 15, 2017",
-      "min_fw": "5.05+",
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/Nidhogg-2-PS4-PKG.webp",
-      "name": "Nidhogg 2",
-      "type": "update",
-      "download_text": "AKR",
-      "key_description": "Update v1.07 (5.05+) ⇛"
-    },
     "https://akirabox.com/obj3jbwn23Dx/file": {
       "region": "EUR",
       "size": "500MB",
@@ -23301,6 +23313,30 @@
       "type": "update",
       "download_text": "AKR",
       "key_description": "Update v1.02 (5.05+) ⇛"
+    },
+    "https://akirabox.com/7d5GLr56V3xR/file": {
+      "region": "EUR",
+      "size": "397.15 MB",
+      "version": "1.00",
+      "release": "August 15, 2017",
+      "min_fw": "5.05+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/Nidhogg-2-PS4-PKG.webp",
+      "name": "Nidhogg 2",
+      "type": "game",
+      "download_text": "AKR",
+      "key_description": "Game (5.05+) ⇛"
+    },
+    "https://akirabox.com/5pVzNaNDX37w/file": {
+      "region": "EUR",
+      "size": "397.15 MB",
+      "version": "1.00",
+      "release": "August 15, 2017",
+      "min_fw": "5.05+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/Nidhogg-2-PS4-PKG.webp",
+      "name": "Nidhogg 2",
+      "type": "update",
+      "download_text": "AKR",
+      "key_description": "Update v1.07 (5.05+) ⇛"
     },
     "https://akirabox.com/0Kezk9162mD1/file": {
       "region": "EUR",

@@ -7005,6 +7005,42 @@
       "download_text": "Viki",
       "key_description": "Fix Game Info 1.02 ⇛"
     },
+    "https://vikingfile.com/f/eCURrhMmwU": {
+      "region": "EUR",
+      "size": "2.27 GB",
+      "version": "1.00",
+      "release": "August 30, 2019",
+      "min_fw": "6.72+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/Risk-of-Rain-2-PS4-PKG.webp",
+      "name": "Risk Of Rain 2",
+      "type": "game",
+      "download_text": "Viki",
+      "key_description": "Game (6.72+) ⇛"
+    },
+    "https://vikingfile.com/f/8vECv0ccLW": {
+      "region": "EUR",
+      "size": "2.27 GB",
+      "version": "1.00",
+      "release": "August 30, 2019",
+      "min_fw": "Fix 6.72/7.xx/9.00/11.00",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/Risk-of-Rain-2-PS4-PKG.webp",
+      "name": "Risk Of Rain 2",
+      "type": "update",
+      "download_text": "Viki",
+      "key_description": "Update v1.18 (Fix 6.72/7.xx/9.00/11.00) ⇛"
+    },
+    "https://vikingfile.com/f/UFxPFNqqAO": {
+      "region": "EUR",
+      "size": "2.27 GB",
+      "version": "1.00",
+      "release": "August 30, 2019",
+      "min_fw": null,
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/Risk-of-Rain-2-PS4-PKG.webp",
+      "name": "Risk Of Rain 2",
+      "type": "dlc",
+      "download_text": "Viki",
+      "key_description": "DLC (2) ⇛"
+    },
     "https://vikingfile.com/f/e3qomAFwS3": {
       "region": "EUR",
       "size": "8.18 GB",

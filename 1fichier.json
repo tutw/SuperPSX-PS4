@@ -38424,6 +38424,66 @@
       "download_text": "OneFile",
       "key_description": "Update v1.02 (Fix 5.05/6.72/7.xx/8.xx) ⇛"
     },
+    "https://1fichier.com/?5jtmov0dzlfwpb5us19q&af=4186346": {
+      "region": "EUR",
+      "size": "2.27 GB",
+      "version": "1.00",
+      "release": "August 30, 2019",
+      "min_fw": "6.72+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/Risk-of-Rain-2-PS4-PKG.webp",
+      "name": "Risk Of Rain 2",
+      "type": "game",
+      "download_text": "OneFile",
+      "key_description": "Game (6.72+) ⇛"
+    },
+    "https://1fichier.com/?od36c9pt0x1uvf9ppcf2": {
+      "region": "EUR",
+      "size": "2.27 GB",
+      "version": "1.00",
+      "release": "August 30, 2019",
+      "min_fw": "Fix 6.72/7.xx/9.00/11.00",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/Risk-of-Rain-2-PS4-PKG.webp",
+      "name": "Risk Of Rain 2",
+      "type": "update",
+      "download_text": "ile",
+      "key_description": "Update v1.18 (Fix 6.72/7.xx/9.00/11.00) ⇛"
+    },
+    "https://1fichier.com/?od36c9pt0x1uvf9ppcf2&af=4186346": {
+      "region": "EUR",
+      "size": "2.27 GB",
+      "version": "1.00",
+      "release": "August 30, 2019",
+      "min_fw": "Fix 6.72/7.xx/9.00/11.00",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/Risk-of-Rain-2-PS4-PKG.webp",
+      "name": "Risk Of Rain 2",
+      "type": "update",
+      "download_text": "F",
+      "key_description": "Update v1.18 (Fix 6.72/7.xx/9.00/11.00) ⇛"
+    },
+    "https://1fichier.com/?6xyqu1r7e7l8j6rlutlq&af=4186346": {
+      "region": "EUR",
+      "size": "2.27 GB",
+      "version": "1.00",
+      "release": "August 30, 2019",
+      "min_fw": "Fix 5.05",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/Risk-of-Rain-2-PS4-PKG.webp",
+      "name": "Risk Of Rain 2",
+      "type": "update",
+      "download_text": "OneFile",
+      "key_description": "Update v1.18 (Fix 5.05) ⇛"
+    },
+    "https://1fichier.com/?t1v0g525dbqez5gz7d1t&af=4186346": {
+      "region": "EUR",
+      "size": "2.27 GB",
+      "version": "1.00",
+      "release": "August 30, 2019",
+      "min_fw": null,
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/Risk-of-Rain-2-PS4-PKG.webp",
+      "name": "Risk Of Rain 2",
+      "type": "dlc",
+      "download_text": "OneFile",
+      "key_description": "DLC (2) ⇛"
+    },
     "https://1fichier.com/?gw6iapthmacpm8s9lwq2&af=4186346": {
       "region": "EUR",
       "size": "2.27 GB",

@@ -7005,6 +7005,30 @@
       "download_text": "Viki",
       "key_description": "Fix Game Info 1.02 ⇛"
     },
+    "https://vikingfile.com/f/h8eKCX08PP": {
+      "region": "EUR",
+      "size": "2GB",
+      "version": "1.00",
+      "release": "10 May 2017",
+      "min_fw": "5.05+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/09/Resident-Evil-Code-Veronica-X-PS4-PKG.webp",
+      "name": "Resident Evil Code Veronica X",
+      "type": "game",
+      "download_text": "Viki",
+      "key_description": "Game (5.05+) ⇛"
+    },
+    "https://vikingfile.com/f/hOeCQCik7J": {
+      "region": "EUR",
+      "size": "2GB",
+      "version": "1.00",
+      "release": "10 May 2017",
+      "min_fw": "5.05+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/09/Resident-Evil-Code-Veronica-X-PS4-PKG.webp",
+      "name": "Resident Evil Code Veronica X",
+      "type": "update",
+      "download_text": "Viki",
+      "key_description": "Update v1.01 (5.05+) ⇛"
+    },
     "https://vikingfile.com/f/eCURrhMmwU": {
       "region": "EUR",
       "size": "2.27 GB",

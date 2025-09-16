@@ -37515,7 +37515,7 @@
       "name": "Rage 2",
       "type": "update",
       "download_text": "OneFile",
-      "key_description": "Update-v1.10 (5.05+) ⇛"
+      "key_description": "Update v1.10 (5.05+) ⇛"
     },
     "https://1fichier.com/?9ahcnqdx5kon53g3jqcg&af=4186346": {
       "region": "EUR",
@@ -38046,6 +38046,30 @@
       "type": "game",
       "download_text": "OneFile",
       "key_description": "Fix Game Info 1.02 ⇛"
+    },
+    "https://1fichier.com/?u5r9lapuovql8p1x3cr8&af=4186346": {
+      "region": "EUR",
+      "size": "2GB",
+      "version": "1.00",
+      "release": "10 May 2017",
+      "min_fw": "5.05+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/09/Resident-Evil-Code-Veronica-X-PS4-PKG.webp",
+      "name": "Resident Evil Code Veronica X",
+      "type": "game",
+      "download_text": "OneFile",
+      "key_description": "Game (5.05+) ⇛"
+    },
+    "https://1fichier.com/?tqnyssag7o2tf9r5m462&af=4186346": {
+      "region": "EUR",
+      "size": "2GB",
+      "version": "1.00",
+      "release": "10 May 2017",
+      "min_fw": "5.05+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/09/Resident-Evil-Code-Veronica-X-PS4-PKG.webp",
+      "name": "Resident Evil Code Veronica X",
+      "type": "update",
+      "download_text": "OneFile",
+      "key_description": "Update v1.01 (5.05+) ⇛"
     },
     "https://1fichier.com/?41pasop9drd0bfp9sm1g&af=4186346": {
       "region": "USA",

@@ -23302,30 +23302,6 @@
       "download_text": "AKR",
       "key_description": "DLC v2 ⇛"
     },
-    "https://akirabox.com/obj3jbwn23Dx/file": {
-      "region": "EUR",
-      "size": "500MB",
-      "version": "1.00",
-      "release": "October 14, 2014",
-      "min_fw": "5.05+",
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/08/Nidhogg-PS4-PKG.webp",
-      "name": "Nidhogg 2",
-      "type": "game",
-      "download_text": "AKR",
-      "key_description": "Game (5.05+) ⇛"
-    },
-    "https://akirabox.com/RMKGJXrkl31o/file": {
-      "region": "EUR",
-      "size": "500MB",
-      "version": "1.00",
-      "release": "October 14, 2014",
-      "min_fw": "5.05+",
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/08/Nidhogg-PS4-PKG.webp",
-      "name": "Nidhogg 2",
-      "type": "update",
-      "download_text": "AKR",
-      "key_description": "Update v1.02 (5.05+) ⇛"
-    },
     "https://akirabox.com/7d5GLr56V3xR/file": {
       "region": "EUR",
       "size": "397.15 MB",
@@ -23349,6 +23325,30 @@
       "type": "update",
       "download_text": "AKR",
       "key_description": "Update v1.07 (5.05+) ⇛"
+    },
+    "https://akirabox.com/obj3jbwn23Dx/file": {
+      "region": "EUR",
+      "size": "500MB",
+      "version": "1.00",
+      "release": "October 14, 2014",
+      "min_fw": "5.05+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/08/Nidhogg-PS4-PKG.webp",
+      "name": "Nidhogg 2",
+      "type": "game",
+      "download_text": "AKR",
+      "key_description": "Game (5.05+) ⇛"
+    },
+    "https://akirabox.com/RMKGJXrkl31o/file": {
+      "region": "EUR",
+      "size": "500MB",
+      "version": "1.00",
+      "release": "October 14, 2014",
+      "min_fw": "5.05+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/08/Nidhogg-PS4-PKG.webp",
+      "name": "Nidhogg 2",
+      "type": "update",
+      "download_text": "AKR",
+      "key_description": "Update v1.02 (5.05+) ⇛"
     },
     "https://akirabox.com/0Kezk9162mD1/file": {
       "region": "EUR",
@@ -27424,6 +27424,54 @@
       "download_text": "AKR",
       "key_description": "Fix 5.05 ⇛"
     },
+    "https://akirabox.com/E9Qz915xWzOL/file": {
+      "region": "EUR",
+      "size": "1.19GB",
+      "version": "1.00",
+      "release": "May 29, 2025",
+      "min_fw": "12.00",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/06/Scar-Lead-Salvation-PS4-PKG.webp",
+      "name": "Scar Lead Salvation",
+      "type": "game",
+      "download_text": "AKR",
+      "key_description": "Game (12.00) ⇛"
+    },
+    "https://akirabox.com/Y2xm0D0eLmRO/file": {
+      "region": "EUR",
+      "size": "1.19GB",
+      "version": "1.00",
+      "release": "May 29, 2025",
+      "min_fw": "Fix 6.72/7.xx/9.00/11.00",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/06/Scar-Lead-Salvation-PS4-PKG.webp",
+      "name": "Scar Lead Salvation",
+      "type": "update",
+      "download_text": "AKR",
+      "key_description": "Update v1.04 (Fix 6.72/7.xx/9.00/11.00) ⇛"
+    },
+    "https://akirabox.com/XkrzoqX5WmBO/file": {
+      "region": "EUR",
+      "size": "1.19GB",
+      "version": "1.00",
+      "release": "May 29, 2025",
+      "min_fw": "Fix 5.05",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/06/Scar-Lead-Salvation-PS4-PKG.webp",
+      "name": "Scar Lead Salvation",
+      "type": "update",
+      "download_text": "AKR",
+      "key_description": "Update v1.04 (Fix 5.05) ⇛"
+    },
+    "https://akirabox.com/LK0G1e06eG91/folder": {
+      "region": "EUR",
+      "size": "1.19GB",
+      "version": "1.00",
+      "release": "May 29, 2025",
+      "min_fw": null,
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/06/Scar-Lead-Salvation-PS4-PKG.webp",
+      "name": "Scar Lead Salvation",
+      "type": "dlc",
+      "download_text": "AKR",
+      "key_description": "DLC (2) ⇛"
+    },
     "https://akirabox.com/QN9mEYqOLm6d/file": {
       "region": "EUR",
       "size": "1.19GB",
@@ -27453,7 +27501,7 @@
       "size": "1.19GB",
       "version": "1.00",
       "release": "May 29, 2025",
-      "min_fw": "12.00",
+      "min_fw": null,
       "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/06/Scar-Lead-Salvation-PS4-PKG.webp",
       "name": "Scar Lead Salvation",
       "type": "game",
@@ -27465,7 +27513,7 @@
       "size": "1.19GB",
       "version": "1.00",
       "release": "May 29, 2025",
-      "min_fw": "12.00",
+      "min_fw": null,
       "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/06/Scar-Lead-Salvation-PS4-PKG.webp",
       "name": "Scar Lead Salvation",
       "type": "dlc",

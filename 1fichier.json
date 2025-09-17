@@ -33136,30 +33136,6 @@
       "download_text": "OneFile",
       "key_description": "DLC ⇛"
     },
-    "https://1fichier.com/?x0l1nv7408ke0kb720il&af=4186346": {
-      "region": "EUR",
-      "size": "500MB",
-      "version": "1.00",
-      "release": "October 14, 2014",
-      "min_fw": "5.05+",
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/08/Nidhogg-PS4-PKG.webp",
-      "name": "Nidhogg 2",
-      "type": "game",
-      "download_text": "OneFile",
-      "key_description": "Game (5.05+) ⇛"
-    },
-    "https://1fichier.com/?bry9hepim2a628h6iylm&af=4186346": {
-      "region": "EUR",
-      "size": "500MB",
-      "version": "1.00",
-      "release": "October 14, 2014",
-      "min_fw": "5.05+",
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/08/Nidhogg-PS4-PKG.webp",
-      "name": "Nidhogg 2",
-      "type": "update",
-      "download_text": "OneFile",
-      "key_description": "Update v1.02 (5.05+) ⇛"
-    },
     "https://1fichier.com/?e7psyde2u42xep77z9a9&af=4186346": {
       "region": "EUR",
       "size": "397.15 MB",
@@ -33183,6 +33159,30 @@
       "type": "update",
       "download_text": "OneFile",
       "key_description": "Update v1.07 (5.05+) ⇛"
+    },
+    "https://1fichier.com/?x0l1nv7408ke0kb720il&af=4186346": {
+      "region": "EUR",
+      "size": "500MB",
+      "version": "1.00",
+      "release": "October 14, 2014",
+      "min_fw": "5.05+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/08/Nidhogg-PS4-PKG.webp",
+      "name": "Nidhogg 2",
+      "type": "game",
+      "download_text": "OneFile",
+      "key_description": "Game (5.05+) ⇛"
+    },
+    "https://1fichier.com/?bry9hepim2a628h6iylm&af=4186346": {
+      "region": "EUR",
+      "size": "500MB",
+      "version": "1.00",
+      "release": "October 14, 2014",
+      "min_fw": "5.05+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/08/Nidhogg-PS4-PKG.webp",
+      "name": "Nidhogg 2",
+      "type": "update",
+      "download_text": "OneFile",
+      "key_description": "Update v1.02 (5.05+) ⇛"
     },
     "https://1fichier.com/?l85tz68ijgs1udp3fkom&af=4186346": {
       "region": "EUR",
@@ -40140,6 +40140,54 @@
       "download_text": "OneFile",
       "key_description": "Fix 5.05 ⇛"
     },
+    "https://1fichier.com/?j9rh8hke9646zv7kly7y&af=4186346": {
+      "region": "EUR",
+      "size": "1.19GB",
+      "version": "1.00",
+      "release": "May 29, 2025",
+      "min_fw": "12.00",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/06/Scar-Lead-Salvation-PS4-PKG.webp",
+      "name": "Scar Lead Salvation",
+      "type": "game",
+      "download_text": "OneFile",
+      "key_description": "Game (12.00) ⇛"
+    },
+    "https://1fichier.com/?9prl2uo8ke8j23mlf4xt&af=4186346": {
+      "region": "EUR",
+      "size": "1.19GB",
+      "version": "1.00",
+      "release": "May 29, 2025",
+      "min_fw": "Fix 6.72/7.xx/9.00/11.00",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/06/Scar-Lead-Salvation-PS4-PKG.webp",
+      "name": "Scar Lead Salvation",
+      "type": "update",
+      "download_text": "OneFile",
+      "key_description": "Update v1.04 (Fix 6.72/7.xx/9.00/11.00) ⇛"
+    },
+    "https://1fichier.com/?jrjcec4vwxjw2344xwg0&af=4186346": {
+      "region": "EUR",
+      "size": "1.19GB",
+      "version": "1.00",
+      "release": "May 29, 2025",
+      "min_fw": "Fix 5.05",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/06/Scar-Lead-Salvation-PS4-PKG.webp",
+      "name": "Scar Lead Salvation",
+      "type": "update",
+      "download_text": "OneFile",
+      "key_description": "Update v1.04 (Fix 5.05) ⇛"
+    },
+    "https://1fichier.com/?zky9x3v13h2nmxeo6no1&af=4186346": {
+      "region": "EUR",
+      "size": "1.19GB",
+      "version": "1.00",
+      "release": "May 29, 2025",
+      "min_fw": null,
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/06/Scar-Lead-Salvation-PS4-PKG.webp",
+      "name": "Scar Lead Salvation",
+      "type": "dlc",
+      "download_text": "OneFile",
+      "key_description": "DLC (2) ⇛"
+    },
     "https://1fichier.com/?kpmpoy6is5qw028nfq5t&af=4186346": {
       "region": "EUR",
       "size": "1.19GB",
@@ -40169,7 +40217,7 @@
       "size": "1.19GB",
       "version": "1.00",
       "release": "May 29, 2025",
-      "min_fw": "12.00",
+      "min_fw": null,
       "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/06/Scar-Lead-Salvation-PS4-PKG.webp",
       "name": "Scar Lead Salvation",
       "type": "game",
@@ -40181,7 +40229,7 @@
       "size": "1.19GB",
       "version": "1.00",
       "release": "May 29, 2025",
-      "min_fw": "12.00",
+      "min_fw": null,
       "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/06/Scar-Lead-Salvation-PS4-PKG.webp",
       "name": "Scar Lead Salvation",
       "type": "dlc",
@@ -45413,18 +45461,6 @@
       "type": "game",
       "download_text": "OneFile",
       "key_description": "Game (5.05+) ⇛"
-    },
-    "https://1fichier.com/?teqk32cayefgljbjav5b&af=4186346": {
-      "region": "EUR",
-      "size": "1.21 GB",
-      "version": "1.00",
-      "release": "May 28, 2015",
-      "min_fw": "5.05+",
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/Subject-13-PS4-PKG.webp",
-      "name": "Subject 13",
-      "type": "game",
-      "download_text": "OneFile",
-      "key_description": "Game ⇛"
     },
     "https://1fichier.com/?64z4tq1ug48xrsec7gt0&af=4186346": {
       "region": "EUR",

@@ -3935,7 +3935,7 @@
       "download_text": "AKR",
       "key_description": "DLC ⇛"
     },
-    "https://akirabox.com/gXeGOJaKNzAa/file": {
+    "https://akirabox.com/2bJG8pejkGOB/file": {
       "region": "EUR",
       "size": "1.33 GB",
       "version": "1.00",
@@ -3947,7 +3947,7 @@
       "download_text": "AKR",
       "key_description": "Game (9.00+) ⇛"
     },
-    "https://akirabox.com/0KezkLMnGD1X/file": {
+    "https://akirabox.com/QN9mEYN0om6d/file": {
       "region": "EUR",
       "size": "1.33 GB",
       "version": "1.00",
@@ -3959,7 +3959,7 @@
       "download_text": "AKR",
       "key_description": "Update v1.23 (9.00+) ⇛"
     },
-    "https://akirabox.com/APVmaD2alGXo/file": {
+    "https://akirabox.com/Y2xm0D0EamRO/file": {
       "region": "EUR",
       "size": "1.33 GB",
       "version": "1.00",
@@ -3971,7 +3971,7 @@
       "download_text": "AKR",
       "key_description": "Update v1.23 (Fix 5.05/6.72/7.xx) ⇛"
     },
-    "https://akirabox.com/0rpmvqZaJGRg/file": {
+    "https://akirabox.com/Pbe3PMNB1zlX/file": {
       "region": "EUR",
       "size": "1.33 GB",
       "version": "1.00",
@@ -4247,7 +4247,7 @@
       "download_text": "AKR",
       "key_description": "Update v1.02 (Fix 5.05/6.72/7.xx/8.xx) ⇛"
     },
-    "https://akirabox.com/b5OzdNBAmB8L/file": {
+    "https://akirabox.com/wgWGqqX2qG4o/file": {
       "region": "EUR",
       "size": "10GB",
       "version": "1.00",
@@ -5312,7 +5312,7 @@
       "download_text": "AKR",
       "key_description": "Game (9.00+) ⇛"
     },
-    "https://akirabox.com/vgKGx2MR38Qn/file": {
+    "https://akirabox.com/1RgzR68d9zbp/file": {
       "region": "EUR",
       "size": "763.30 MB",
       "version": "1.00",
@@ -5324,7 +5324,7 @@
       "download_text": "AKR",
       "key_description": "Update v1.13 (9.00+) ⇛"
     },
-    "https://akirabox.com/Z9dzBJOEzk1b/file": {
+    "https://akirabox.com/l5YzMwNremyO/file": {
       "region": "EUR",
       "size": "763.30 MB",
       "version": "1.00",
@@ -13067,7 +13067,7 @@
       "download_text": "AKR",
       "key_description": "Update v1.10 (11.00) ⇛"
     },
-    "https://akirabox.com/wgWGqJPEym4o/file": {
+    "https://akirabox.com/qw1zeJP2ZGXy/file": {
       "region": "EUR",
       "size": "310MB",
       "version": "1.00",
@@ -13079,7 +13079,7 @@
       "download_text": "AKR",
       "key_description": "Update v1.10 (Fix 6.72/7.xx/9.00) ⇛"
     },
-    "https://akirabox.com/LJlGn1dOAz15/file": {
+    "https://akirabox.com/l76mZ2qZ9man/file": {
       "region": "EUR",
       "size": "310MB",
       "version": "1.00",
@@ -14906,6 +14906,54 @@
       "download_text": "AKR",
       "key_description": "Update v1.01 (Fix 5.05) ⇛"
     },
+    "https://akirabox.com/dkD3YV2lozLQ/file": {
+      "region": "EUR",
+      "size": "6 GB",
+      "version": "1.06",
+      "release": "December 6, 2022",
+      "min_fw": null,
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/Hello-Neighbor-2-Deluxe-Edition-PS4-PKG.webp",
+      "name": "Hello Neighbor 2",
+      "type": "game",
+      "download_text": "AKR",
+      "key_description": "Game (v1.06) (9.50+) ⇛"
+    },
+    "https://akirabox.com/Y2xm0DRLpmRO/file": {
+      "region": "EUR",
+      "size": "6 GB",
+      "version": "1.00",
+      "release": "December 6, 2022",
+      "min_fw": null,
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/Hello-Neighbor-2-Deluxe-Edition-PS4-PKG.webp",
+      "name": "Hello Neighbor 2",
+      "type": "game",
+      "download_text": "AKR",
+      "key_description": "Game Info Fix ⇛"
+    },
+    "https://akirabox.com/5pVzNPVkAm7w/file": {
+      "region": "EUR",
+      "size": "6 GB",
+      "version": "1.00",
+      "release": "December 6, 2022",
+      "min_fw": "Fix 5.05/6.72/7.xx/9.00",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/Hello-Neighbor-2-Deluxe-Edition-PS4-PKG.webp",
+      "name": "Hello Neighbor 2",
+      "type": "update",
+      "download_text": "AKR",
+      "key_description": "Update v1.06 (Fix 5.05/6.72/7.xx/9.00) ⇛"
+    },
+    "https://akirabox.com/Xkrzoq6AZmBO/file": {
+      "region": "EUR",
+      "size": "6 GB",
+      "version": "1.00",
+      "release": "December 6, 2022",
+      "min_fw": null,
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/Hello-Neighbor-2-Deluxe-Edition-PS4-PKG.webp",
+      "name": "Hello Neighbor 2",
+      "type": "dlc",
+      "download_text": "AKR",
+      "key_description": "DLCs ⇛"
+    },
     "https://akirabox.com/jJD3VPXlGa5Q/file": {
       "region": "EUR",
       "size": "6 GB",
@@ -15090,7 +15138,7 @@
       "download_text": "AKR",
       "key_description": "Game (9.00+) ⇛"
     },
-    "https://akirabox.com/qLQ36lDPG19j/file": {
+    "https://akirabox.com/2WVGrQXyAzkx/file": {
       "region": "EUR",
       "size": "22.28 GB",
       "version": "1.00",
@@ -15114,7 +15162,7 @@
       "download_text": "AKR",
       "key_description": "Update v1.11 (Fix 5.05/6.72/7.02/7.55/9.00) ⇛"
     },
-    "https://akirabox.com/0JgG74vjmoYW/file": {
+    "https://akirabox.com/k0embJPyVmVb/file": {
       "region": "EUR",
       "size": "22.28 GB",
       "version": "1.00",
@@ -17341,7 +17389,7 @@
       "download_text": "AKR",
       "key_description": "Game (9.00+) ⇛"
     },
-    "https://akirabox.com/l76mZrMkmanY/file": {
+    "https://akirabox.com/N2p3DJNoxGMa/file": {
       "region": "EUR",
       "size": "15GB",
       "version": "1.00",
@@ -19444,7 +19492,7 @@
       "download_text": "AKR",
       "key_description": "Update v1.09 (Fix 5.05/6.72/7.02/7.55/9.00/11.00) ⇛"
     },
-    "https://akirabox.com/k0embMO9GVb4/file": {
+    "https://akirabox.com/XkrzoqXy5mBO/file": {
       "region": "EUR",
       "size": "527.17 MB",
       "version": "1.00",
@@ -24556,7 +24604,7 @@
       "download_text": "AKR",
       "key_description": "Update v1.02 (10.50+) ⇛"
     },
-    "https://akirabox.com/dkD3YeYl3LQK/file": {
+    "https://akirabox.com/0rpmv7XyD3Rg/file": {
       "region": "EUR",
       "size": "2.31 GB",
       "version": "1.00",
@@ -24568,7 +24616,7 @@
       "download_text": "AKR",
       "key_description": "Game (8.50+) ⇛"
     },
-    "https://akirabox.com/vgKGxxDNQG8Q/file": {
+    "https://akirabox.com/RMKGJkNvXm1o/file": {
       "region": "EUR",
       "size": "2.31 GB",
       "version": "1.00",
@@ -26243,7 +26291,7 @@
       "download_text": "AKR",
       "key_description": "Update 1.04 (Fix 5.05/6.72/7.xx/8.x) ⇛"
     },
-    "https://akirabox.com/M2BGwVxMzj40/file": {
+    "https://akirabox.com/vgKGxoK9rz8Q/file": {
       "region": "EUR",
       "size": "26GB",
       "version": "1.00",
@@ -26787,6 +26835,42 @@
       "type": "update",
       "download_text": "AKR",
       "key_description": "Update v1.02 (5.05+) ⇛"
+    },
+    "https://akirabox.com/0rpmv7X5Z3Rg/file": {
+      "region": "EUR",
+      "size": "1.19GB",
+      "version": "1.00",
+      "release": "August 16, 2022",
+      "min_fw": "9.00+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2023/01/Rollerdrome-PS4-PKG.webp",
+      "name": "Rollerdrome",
+      "type": "game",
+      "download_text": "AKR",
+      "key_description": "Game (9.00+) ⇛"
+    },
+    "https://akirabox.com/qLQ36p0wPG19/file": {
+      "region": "EUR",
+      "size": "1.19GB",
+      "version": "1.00",
+      "release": "August 16, 2022",
+      "min_fw": "9.00+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2023/01/Rollerdrome-PS4-PKG.webp",
+      "name": "Rollerdrome",
+      "type": "update",
+      "download_text": "AKR",
+      "key_description": "Update v1.05 (9.00+) ⇛"
+    },
+    "https://akirabox.com/gXeGORN7KzAa/file": {
+      "region": "EUR",
+      "size": "1.19GB",
+      "version": "1.00",
+      "release": "August 16, 2022",
+      "min_fw": "Fix 5.05/6.72/7.xx",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2023/01/Rollerdrome-PS4-PKG.webp",
+      "name": "Rollerdrome",
+      "type": "update",
+      "download_text": "AKR",
+      "key_description": "Update v1.05 (Fix 5.05/6.72/7.xx) ⇛"
     },
     "https://akirabox.com/2WVGrnBWGkx7/file": {
       "region": "EUR",
@@ -29124,7 +29208,7 @@
       "download_text": "AKR",
       "key_description": "Update v1.04 (Fix 6.72/7.xx/9.00) ⇛"
     },
-    "https://akirabox.com/Y2xm0LMBamRO/file": {
+    "https://akirabox.com/qPez4q0xYGOY/file": {
       "region": "EUR",
       "size": "3.5GB",
       "version": "1.00",
@@ -29910,7 +29994,7 @@
       "download_text": "AKR",
       "key_description": "Game (5.50+) ⇛"
     },
-    "https://akirabox.com/vgKGxv4238Qn/file": {
+    "https://akirabox.com/BnkmWVLkdGR0/file": {
       "region": "EUR",
       "size": "10GB",
       "version": "1.00",
@@ -29970,7 +30054,7 @@
       "download_text": "AKR",
       "key_description": "Update v2.01 (9.00+) ⇛"
     },
-    "https://akirabox.com/1RgzRVnkZzbp/file": {
+    "https://akirabox.com/b5OzdRPyRmB8/file": {
       "region": "EUR",
       "size": "820MB",
       "version": "1.00",
@@ -38362,7 +38446,7 @@
       "download_text": "AKR",
       "key_description": "Update v1.01 (7.50+) ⇛"
     },
-    "https://akirabox.com/1RgzRVnQXzbp/file": {
+    "https://akirabox.com/vgKGxoK56z8Q/file": {
       "region": "EUR",
       "size": "2GB",
       "version": "1.00",

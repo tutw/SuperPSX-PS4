@@ -4145,6 +4145,18 @@
       "download_text": "Viki",
       "key_description": "Game Info Fix ⇛"
     },
+    "https://vikingfile.com/f/TzazjHHjJL": {
+      "region": "EUR",
+      "size": "6 GB",
+      "version": "1.00",
+      "release": "December 6, 2022",
+      "min_fw": "Fix 5.05/6.72/7.xx/9.00",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/Hello-Neighbor-2-Deluxe-Edition-PS4-PKG.webp",
+      "name": "Hello Neighbor 2",
+      "type": "update",
+      "download_text": "Viki",
+      "key_description": "Update v1.06 (Fix 5.05/6.72/7.xx/9.00) ⇛"
+    },
     "https://vikingfile.com/f/0QJ2OVRGyT": {
       "region": "EUR",
       "size": "6 GB",
@@ -7064,6 +7076,42 @@
       "type": "dlc",
       "download_text": "Viki",
       "key_description": "DLC (2) ⇛"
+    },
+    "https://vikingfile.com/f/sXPrBsXck0": {
+      "region": "EUR",
+      "size": "1.19GB",
+      "version": "1.00",
+      "release": "August 16, 2022",
+      "min_fw": "9.00+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2023/01/Rollerdrome-PS4-PKG.webp",
+      "name": "Rollerdrome",
+      "type": "game",
+      "download_text": "Viki",
+      "key_description": "Game (9.00+) ⇛"
+    },
+    "https://vikingfile.com/f/whmANttu9s": {
+      "region": "EUR",
+      "size": "1.19GB",
+      "version": "1.00",
+      "release": "August 16, 2022",
+      "min_fw": "9.00+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2023/01/Rollerdrome-PS4-PKG.webp",
+      "name": "Rollerdrome",
+      "type": "update",
+      "download_text": "Viki",
+      "key_description": "Update v1.05 (9.00+) ⇛"
+    },
+    "https://vikingfile.com/f/GhRPRupLnO": {
+      "region": "EUR",
+      "size": "1.19GB",
+      "version": "1.00",
+      "release": "August 16, 2022",
+      "min_fw": "Fix 5.05/6.72/7.xx",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2023/01/Rollerdrome-PS4-PKG.webp",
+      "name": "Rollerdrome",
+      "type": "update",
+      "download_text": "Viki",
+      "key_description": "Update v1.05 (Fix 5.05/6.72/7.xx) ⇛"
     },
     "https://vikingfile.com/f/e3qomAFwS3": {
       "region": "EUR",

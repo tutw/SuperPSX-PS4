@@ -21307,6 +21307,18 @@
       "download_text": "OneFile",
       "key_description": "Game Info Fix ⇛"
     },
+    "https://1fichier.com/?l9b6pwzjstd9sgzvq1i2&af=4186346": {
+      "region": "EUR",
+      "size": "6 GB",
+      "version": "1.00",
+      "release": "December 6, 2022",
+      "min_fw": "Fix 5.05/6.72/7.xx/9.00",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/Hello-Neighbor-2-Deluxe-Edition-PS4-PKG.webp",
+      "name": "Hello Neighbor 2",
+      "type": "update",
+      "download_text": "OneFile",
+      "key_description": "Update v1.06 (Fix 5.05/6.72/7.xx/9.00) ⇛"
+    },
     "https://1fichier.com/?j9kvig5waxohv2cbpyzo": {
       "region": "EUR",
       "size": "6 GB",
@@ -39048,13 +39060,49 @@
       "download_text": "OneFile",
       "key_description": "Update v1.02 (5.05+) ⇛"
     },
-    "https://1fichier.com/?wee9v7krw4s4grgg3l85&af=4186346": {
+    "https://1fichier.com/?wycb93pzpj4ddvl2t520&af=4186346": {
       "region": "EUR",
-      "size": "1.19 GB",
+      "size": "1.19GB",
       "version": "1.00",
       "release": "August 16, 2022",
-      "min_fw": "9.60+",
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2023/01/Rollerdrome-ps4-cover.webp",
+      "min_fw": "9.00+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2023/01/Rollerdrome-PS4-PKG.webp",
+      "name": "Rollerdrome",
+      "type": "game",
+      "download_text": "OneFile",
+      "key_description": "Game (9.00+) ⇛"
+    },
+    "https://1fichier.com/?ky4eya9id8xutzduzov9&af=4186346": {
+      "region": "EUR",
+      "size": "1.19GB",
+      "version": "1.00",
+      "release": "August 16, 2022",
+      "min_fw": "9.00+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2023/01/Rollerdrome-PS4-PKG.webp",
+      "name": "Rollerdrome",
+      "type": "update",
+      "download_text": "OneFile",
+      "key_description": "Update v1.05 (9.00+) ⇛"
+    },
+    "https://1fichier.com/?5y40egrva8ehhrga5owr&af=4186346": {
+      "region": "EUR",
+      "size": "1.19GB",
+      "version": "1.00",
+      "release": "August 16, 2022",
+      "min_fw": "Fix 5.05/6.72/7.xx",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2023/01/Rollerdrome-PS4-PKG.webp",
+      "name": "Rollerdrome",
+      "type": "update",
+      "download_text": "OneFile",
+      "key_description": "Update v1.05 (Fix 5.05/6.72/7.xx) ⇛"
+    },
+    "https://1fichier.com/?wee9v7krw4s4grgg3l85&af=4186346": {
+      "region": "EUR",
+      "size": "1.19GB",
+      "version": "1.00",
+      "release": "August 16, 2022",
+      "min_fw": null,
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2023/01/Rollerdrome-PS4-PKG.webp",
       "name": "Rollerdrome",
       "type": "game",
       "download_text": "OneFile",
@@ -39062,11 +39110,11 @@
     },
     "https://1fichier.com/?edjm02ad0ope29inlpxp&af=4186346": {
       "region": "EUR",
-      "size": "1.19 GB",
+      "size": "1.19GB",
       "version": "1.00",
       "release": "August 16, 2022",
-      "min_fw": "9.60+",
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2023/01/Rollerdrome-ps4-cover.webp",
+      "min_fw": null,
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2023/01/Rollerdrome-PS4-PKG.webp",
       "name": "Rollerdrome",
       "type": "update",
       "download_text": "OneFile",
@@ -39074,11 +39122,11 @@
     },
     "https://1fichier.com/?4dib84coy971l15fj3ao&af=4186346": {
       "region": "EUR",
-      "size": "1.19 GB",
+      "size": "1.19GB",
       "version": "1.00",
       "release": "August 16, 2022",
       "min_fw": "Fix 5.05 / 6.72 / 7.02 / 7.55",
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2023/01/Rollerdrome-ps4-cover.webp",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2023/01/Rollerdrome-PS4-PKG.webp",
       "name": "Rollerdrome",
       "type": "update",
       "download_text": "OneFile",
@@ -45461,6 +45509,18 @@
       "type": "game",
       "download_text": "OneFile",
       "key_description": "Game (5.05+) ⇛"
+    },
+    "https://1fichier.com/?teqk32cayefgljbjav5b&af=4186346": {
+      "region": "EUR",
+      "size": "1.21 GB",
+      "version": "1.00",
+      "release": "May 28, 2015",
+      "min_fw": "5.05+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/Subject-13-PS4-PKG.webp",
+      "name": "Subject 13",
+      "type": "game",
+      "download_text": "OneFile",
+      "key_description": "Game ⇛"
     },
     "https://1fichier.com/?64z4tq1ug48xrsec7gt0&af=4186346": {
       "region": "EUR",

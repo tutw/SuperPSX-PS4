@@ -21827,6 +21827,30 @@
       "download_text": "OneFile",
       "key_description": "Update 1.02 (Fix 5.05/6.72/7.xx/8.xx) ⇛"
     },
+    "https://1fichier.com/?dv3ad7gjns0np02issul&af=4186346": {
+      "region": "EUR",
+      "size": "3GB",
+      "version": "1.00",
+      "release": "September 4, 2025",
+      "min_fw": null,
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/09/Hollow-Knight-Silksong-PS4-PKG.webp",
+      "name": "Hollow Knight Silksong",
+      "type": "game",
+      "download_text": "OneFile",
+      "key_description": "Game ⇛"
+    },
+    "https://1fichier.com/?6be1x2tzgkciu6hbms0j&af=4186346": {
+      "region": "EUR",
+      "size": "3GB",
+      "version": "1.00",
+      "release": "September 4, 2025",
+      "min_fw": "Fix 11.00",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/09/Hollow-Knight-Silksong-PS4-PKG.webp",
+      "name": "Hollow Knight Silksong",
+      "type": "update",
+      "download_text": "OneFile",
+      "key_description": "Update v1.04 (Fix 11.00) ⇛"
+    },
     "https://1fichier.com/?lijkcapdj2me47wvx7ej&af=4186346": {
       "region": "EUR",
       "size": "3GB",
@@ -27126,45 +27150,6 @@
       "type": "dlc",
       "download_text": "OneFile",
       "key_description": "DLC ⇛"
-    },
-    "https://1fichier.com/?fbz0600qziity1p3528g&af=4186346": {
-      "region": "USA",
-      "size": "11GB",
-      "version": "1.00",
-      "release": "November 18, 2014",
-      "min_fw": "5.05+",
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/02/LittleBigPlanet-3-PS4-PKG.webp",
-      "cusa": "CUSA00473",
-      "name": "Littlebigplanet 3",
-      "type": "game",
-      "download_text": "OneFile",
-      "key_description": "Game (5.05+) ⇛"
-    },
-    "https://1fichier.com/?2canhx54n29ofxyfiaak&af=4186346": {
-      "region": "USA",
-      "size": "11GB",
-      "version": "1.00",
-      "release": "November 18, 2014",
-      "min_fw": "5.05+",
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/02/LittleBigPlanet-3-PS4-PKG.webp",
-      "cusa": "CUSA00473",
-      "name": "Littlebigplanet 3",
-      "type": "update",
-      "download_text": "OneFile",
-      "key_description": "Update v1.28 (5.05+) ⇛"
-    },
-    "https://1fichier.com/?sjf8fmqidsmrcz38tuex&af=4186346": {
-      "region": "USA",
-      "size": "11GB",
-      "version": "1.00",
-      "release": "November 18, 2014",
-      "min_fw": null,
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/02/LittleBigPlanet-3-PS4-PKG.webp",
-      "cusa": "CUSA00473",
-      "name": "Littlebigplanet 3",
-      "type": "dlc",
-      "download_text": "OneFile",
-      "key_description": "ALL DLCs ⇛"
     },
     "https://1fichier.com/?zzxk9l7pnpmmb4xco902&af=4186346": {
       "region": "EUR",
@@ -33148,30 +33133,6 @@
       "download_text": "OneFile",
       "key_description": "DLC ⇛"
     },
-    "https://1fichier.com/?e7psyde2u42xep77z9a9&af=4186346": {
-      "region": "EUR",
-      "size": "397.15 MB",
-      "version": "1.00",
-      "release": "August 15, 2017",
-      "min_fw": "5.05+",
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/Nidhogg-2-PS4-PKG.webp",
-      "name": "Nidhogg 2",
-      "type": "game",
-      "download_text": "OneFile",
-      "key_description": "Game (5.05+) ⇛"
-    },
-    "https://1fichier.com/?gd1on8cxwscgvpfngm94&af=4186346": {
-      "region": "EUR",
-      "size": "397.15 MB",
-      "version": "1.00",
-      "release": "August 15, 2017",
-      "min_fw": "5.05+",
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/Nidhogg-2-PS4-PKG.webp",
-      "name": "Nidhogg 2",
-      "type": "update",
-      "download_text": "OneFile",
-      "key_description": "Update v1.07 (5.05+) ⇛"
-    },
     "https://1fichier.com/?x0l1nv7408ke0kb720il&af=4186346": {
       "region": "EUR",
       "size": "500MB",
@@ -33195,6 +33156,30 @@
       "type": "update",
       "download_text": "OneFile",
       "key_description": "Update v1.02 (5.05+) ⇛"
+    },
+    "https://1fichier.com/?e7psyde2u42xep77z9a9&af=4186346": {
+      "region": "EUR",
+      "size": "397.15 MB",
+      "version": "1.00",
+      "release": "August 15, 2017",
+      "min_fw": "5.05+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/Nidhogg-2-PS4-PKG.webp",
+      "name": "Nidhogg 2",
+      "type": "game",
+      "download_text": "OneFile",
+      "key_description": "Game (5.05+) ⇛"
+    },
+    "https://1fichier.com/?gd1on8cxwscgvpfngm94&af=4186346": {
+      "region": "EUR",
+      "size": "397.15 MB",
+      "version": "1.00",
+      "release": "August 15, 2017",
+      "min_fw": "5.05+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/Nidhogg-2-PS4-PKG.webp",
+      "name": "Nidhogg 2",
+      "type": "update",
+      "download_text": "OneFile",
+      "key_description": "Update v1.07 (5.05+) ⇛"
     },
     "https://1fichier.com/?l85tz68ijgs1udp3fkom&af=4186346": {
       "region": "EUR",
@@ -33508,13 +33493,37 @@
       "download_text": "OneFile",
       "key_description": "All DLC Complete ⇛"
     },
+    "https://1fichier.com/?x2hvqqw5wg0jd4hgw7pa&af=4186346": {
+      "region": "EUR",
+      "size": "21GB",
+      "version": "6.04",
+      "release": "August 14, 2019",
+      "min_fw": "11.00",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2022/10/No-Mans-Sky-Beyond-PS4-PKG.webp",
+      "name": "No Mans Sky Beyond",
+      "type": "game",
+      "download_text": "OneFile",
+      "key_description": "Game (v6.04) (11.00) ⇛"
+    },
+    "https://1fichier.com/?eek9rw29aj7sxtetp68k&af=4186346": {
+      "region": "EUR",
+      "size": "21GB",
+      "version": "1.00",
+      "release": "August 14, 2019",
+      "min_fw": "5.05/6.72/7.xx/9.00",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2022/10/No-Mans-Sky-Beyond-PS4-PKG.webp",
+      "name": "No Mans Sky Beyond",
+      "type": "update",
+      "download_text": "OneFile",
+      "key_description": "Update v6.04 (5.05/6.72/7.xx/9.00) ⇛"
+    },
     "https://1fichier.com/dir/LA420tHy": {
       "region": "EUR",
       "size": "21GB",
       "version": "5.56",
       "release": "August 14, 2019",
       "min_fw": "11.00",
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/No-Mans-Sky-PS4-PKG.webp",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2022/10/No-Mans-Sky-Beyond-PS4-PKG.webp",
       "name": "No Mans Sky Beyond",
       "type": "game",
       "download_text": "OneFile",
@@ -33526,7 +33535,7 @@
       "version": "1.00",
       "release": "August 14, 2019",
       "min_fw": "5.05/6.72/7.xx/9.00",
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/No-Mans-Sky-PS4-PKG.webp",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2022/10/No-Mans-Sky-Beyond-PS4-PKG.webp",
       "name": "No Mans Sky Beyond",
       "type": "update",
       "download_text": "OneFile",
@@ -49553,6 +49562,30 @@
       "type": "update",
       "download_text": "OneFile",
       "key_description": "Update 1.07 (9.00+) ⇛"
+    },
+    "https://1fichier.com/?5a4kers31am9c3u3mgft&af=4186346": {
+      "region": "EUR",
+      "size": "4.44 GB",
+      "version": "1.00",
+      "release": "June 4, 2021",
+      "min_fw": "8.00",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/The-Last-Kids-on-Earth-and-the-Staff-of-Doom-PS4-PKG.webp",
+      "name": "The Last Kids On Earth",
+      "type": "game",
+      "download_text": "OneFile",
+      "key_description": "Game ⇛"
+    },
+    "https://1fichier.com/?573pjzupy3xg66ewp7qr&af=4186346": {
+      "region": "EUR",
+      "size": "4.44 GB",
+      "version": "1.00",
+      "release": "June 4, 2021",
+      "min_fw": "8.00",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/The-Last-Kids-on-Earth-and-the-Staff-of-Doom-PS4-PKG.webp",
+      "name": "The Last Kids On Earth",
+      "type": "update",
+      "download_text": "OneFile",
+      "key_description": "Update v1.03 ⇛"
     },
     "https://1fichier.com/?cx43v33g6osgg1th8lrx&af=4186346": {
       "region": "EUR",

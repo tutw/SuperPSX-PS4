@@ -8528,6 +8528,18 @@
       "download_text": "AKR",
       "key_description": "Challenges DLC ⇛"
     },
+    "https://akirabox.com/Pbe3P2neGlX6/file": {
+      "region": "EUR",
+      "size": "2GB",
+      "version": "1.00",
+      "release": "November 29, 2016",
+      "min_fw": "5.05+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/Destroy-All-Humans_-2-Reprobed-PS4-PKG.webp",
+      "name": "Destroy All Humans 2",
+      "type": "game",
+      "download_text": "AKR",
+      "key_description": "Game (5.05+) ⇛"
+    },
     "https://akirabox.com/M2BGwDANmj40/file": {
       "region": "EUR",
       "size": "16.88 GB",
@@ -8923,7 +8935,7 @@
       "download_text": "AKR",
       "key_description": "Game (6.72+) ⇛"
     },
-    "https://akirabox.com/jJD3VdBOGa5Q/file": {
+    "https://akirabox.com/RMKGJk8oVm1o/file": {
       "region": "USA",
       "size": "27GB",
       "version": "1.00",
@@ -9954,7 +9966,7 @@
       "download_text": "AKR",
       "key_description": "DLC ⇛"
     },
-    "https://akirabox.com/0rpmvM0BGRgZ/file": {
+    "https://akirabox.com/vgKGxobgRz8Q/file": {
       "region": "USA",
       "size": "30GB",
       "version": "1.00",
@@ -14624,7 +14636,7 @@
       "download_text": "AKR",
       "key_description": "Update v1.02 (9.00+) ⇛"
     },
-    "https://akirabox.com/APVma81dGXo8/file": {
+    "https://akirabox.com/l76mZ2jD7man/file": {
       "region": "EUR",
       "size": "5.63 GB",
       "version": "1.00",
@@ -21607,7 +21619,7 @@
       "download_text": "AKR",
       "key_description": "DLC (Includes 303 DLCs) ⇛"
     },
-    "https://akirabox.com/wgWGqpyyz4oy/file": {
+    "https://akirabox.com/gXeGORWEAzAa/file": {
       "region": "EUR",
       "size": "8GB",
       "version": "1.00",
@@ -34225,7 +34237,7 @@
       "download_text": "AKR",
       "key_description": "DLC Pack v5 (13) ⇛"
     },
-    "https://akirabox.com/obj3jrjo3DxJ/file": {
+    "https://akirabox.com/Z9dzBjQ0xzk1/file": {
       "region": "USA",
       "size": "1.97GB",
       "version": "1.00",
@@ -35913,7 +35925,7 @@
       "download_text": "AKR",
       "key_description": "Game (9.00+) ⇛"
     },
-    "https://akirabox.com/gXeGOEqd3Aa7/file": {
+    "https://akirabox.com/wgWGqqw5PG4o/file": {
       "region": "EUR",
       "size": "24GB",
       "version": "1.00",
@@ -35925,7 +35937,7 @@
       "download_text": "AKR",
       "key_description": "Update v1.10 (9.00+) ⇛"
     },
-    "https://akirabox.com/qLQ36yE7m19j/file": {
+    "https://akirabox.com/APVmaJWrR3Xo/file": {
       "region": "EUR",
       "size": "24GB",
       "version": "1.00",
@@ -37488,31 +37500,31 @@
       "download_text": "AKR",
       "key_description": "Update v1.01 (Fix 5.05/6.72/7.xx/8.0x) ⇛"
     },
-    "https://akirabox.com/2WVGrL0B3kx7/file": {
+    "https://akirabox.com/EL73gjWpjm9B/file": {
       "region": "EUR",
       "size": "2.79 GB",
       "version": "1.00",
       "release": "February 25, 2020",
-      "min_fw": null,
+      "min_fw": "6.72+",
       "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/Two-Point-Hospital_-PS4-PKG.webp",
       "name": "Two Point Hospital",
       "type": "game",
       "download_text": "AKR",
-      "key_description": "Game (6.50+) ⇛"
+      "key_description": "Game (6.72+) ⇛"
     },
-    "https://akirabox.com/EL73gLPAz9Ba/file": {
+    "https://akirabox.com/vgKGxojrVz8Q/file": {
       "region": "EUR",
       "size": "2.79 GB",
       "version": "1.00",
       "release": "February 25, 2020",
-      "min_fw": null,
+      "min_fw": "Fix 5.05/6.72",
       "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/Two-Point-Hospital_-PS4-PKG.webp",
       "name": "Two Point Hospital",
       "type": "update",
       "download_text": "AKR",
-      "key_description": "Update v1.13 (7.50+) ⇛"
+      "key_description": "Update v1.15 (Fix 5.05/6.72) ⇛"
     },
-    "https://akirabox.com/ex5z2nn8zKqk/file": {
+    "https://akirabox.com/b5OzdRWwpmB8/folder": {
       "region": "EUR",
       "size": "2.79 GB",
       "version": "1.00",
@@ -37522,7 +37534,43 @@
       "name": "Two Point Hospital",
       "type": "dlc",
       "download_text": "AKR",
-      "key_description": "DLC ⇛"
+      "key_description": "DLC (4) ⇛"
+    },
+    "https://akirabox.com/ex5z2kAPeGKq/file": {
+      "region": "EUR",
+      "size": "2.79 GB",
+      "version": "1.00",
+      "release": "February 25, 2020",
+      "min_fw": "6.72+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/Two-Point-Hospital_-PS4-PKG.webp",
+      "name": "Two Point Hospital",
+      "type": "game",
+      "download_text": "AKR",
+      "key_description": "Game (6.72+) ⇛"
+    },
+    "https://akirabox.com/BnkmWV0D1GR0/file": {
+      "region": "EUR",
+      "size": "2.79 GB",
+      "version": "1.00",
+      "release": "February 25, 2020",
+      "min_fw": "Fix 5.05/6.72",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/Two-Point-Hospital_-PS4-PKG.webp",
+      "name": "Two Point Hospital",
+      "type": "update",
+      "download_text": "AKR",
+      "key_description": "Update v1.15 (Fix 5.05/6.72) ⇛"
+    },
+    "https://akirabox.com/Z9dzBjYaEzk1/folder": {
+      "region": "EUR",
+      "size": "2.79 GB",
+      "version": "1.00",
+      "release": "February 25, 2020",
+      "min_fw": null,
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/Two-Point-Hospital_-PS4-PKG.webp",
+      "name": "Two Point Hospital",
+      "type": "dlc",
+      "download_text": "AKR",
+      "key_description": "DLC (4) ⇛"
     },
     "https://akirabox.com/2bJG81ZD6mOB/file": {
       "region": "EUR",
@@ -38623,7 +38671,7 @@
       "download_text": "AKR",
       "key_description": "Hunters Heirlooms DLC ⇛"
     },
-    "https://akirabox.com/BnkmW8O13R0y/file": {
+    "https://akirabox.com/2WVGrQMOMzkx/file": {
       "region": "USA",
       "size": "18GB",
       "version": "1.00",

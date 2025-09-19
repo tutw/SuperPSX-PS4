@@ -12095,6 +12095,18 @@
       "download_text": "OneFile",
       "key_description": "Challenges DLC ⇛"
     },
+    "https://1fichier.com/?wogk7xtu3srzrmfdq6ai&af=4186346": {
+      "region": "EUR",
+      "size": "2GB",
+      "version": "1.00",
+      "release": "November 29, 2016",
+      "min_fw": "5.05+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/Destroy-All-Humans_-2-Reprobed-PS4-PKG.webp",
+      "name": "Destroy All Humans 2",
+      "type": "game",
+      "download_text": "OneFile",
+      "key_description": "Game (5.05+) ⇛"
+    },
     "https://1fichier.com/?y484pdk5tfn2t28txlse&af=4186346": {
       "region": "EUR",
       "size": "16.88 GB",
@@ -30980,30 +30992,6 @@
       "type": "update",
       "download_text": "OneFile",
       "key_description": "Update v1.83 (Fix 5.05) ⇛"
-    },
-    "https://1fichier.com/?ca6twevk5c2lfpc5rsgc&af=4186346": {
-      "region": "EUR",
-      "size": "32 GB",
-      "version": "1.00",
-      "release": "26 February 2019",
-      "min_fw": "8.50+",
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/MX-vs-ATV-All-Out-PS4-PKG.webp",
-      "name": "Mx Vs Atv All Out",
-      "type": "game",
-      "download_text": "OneFile",
-      "key_description": "Game Only ⇛"
-    },
-    "https://1fichier.com/?g6knxd5750hr96bu7rmq&af=4186346": {
-      "region": "EUR",
-      "size": "32 GB",
-      "version": "1.00",
-      "release": "26 February 2019",
-      "min_fw": "8.50+",
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/MX-vs-ATV-All-Out-PS4-PKG.webp",
-      "name": "Mx Vs Atv All Out",
-      "type": "update",
-      "download_text": "OneFile",
-      "key_description": "Update V3.04 Only ⇛"
     },
     "https://1fichier.com/?1ep9f6jhyoarqzz0wwn0&af=4186346": {
       "region": "EUR",
@@ -54264,31 +54252,7 @@
       "download_text": "OneFile",
       "key_description": "DLC ⇛"
     },
-    "https://1fichier.com/?cy12tjmn2b7xif37cpdk&af=4186346": {
-      "region": "EUR",
-      "size": "2.79 GB",
-      "version": "1.00",
-      "release": "February 25, 2020",
-      "min_fw": null,
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/Two-Point-Hospital_-PS4-PKG.webp",
-      "name": "Two Point Hospital",
-      "type": "game",
-      "download_text": "OneFile",
-      "key_description": "Game (6.50+) ⇛"
-    },
-    "https://1fichier.com/?tdw27nwygg9qh02ktou3&af=4186346": {
-      "region": "EUR",
-      "size": "2.79 GB",
-      "version": "1.00",
-      "release": "February 25, 2020",
-      "min_fw": null,
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/Two-Point-Hospital_-PS4-PKG.webp",
-      "name": "Two Point Hospital",
-      "type": "update",
-      "download_text": "OneFile",
-      "key_description": "Update v1.13 (7.50+) ⇛"
-    },
-    "https://1fichier.com/?soso0gnx9n9q0cvn9mic&af=4186346": {
+    "https://1fichier.com/?407xfj8sx1gw9lreong2&af=4186346": {
       "region": "EUR",
       "size": "2.79 GB",
       "version": "1.00",
@@ -54298,7 +54262,55 @@
       "name": "Two Point Hospital",
       "type": "dlc",
       "download_text": "OneFile",
-      "key_description": "DLC ⇛"
+      "key_description": "DLC (4) ⇛"
+    },
+    "https://1fichier.com/?wjr98mkfgrmds1fgpjcp&af=4186346": {
+      "region": "EUR",
+      "size": "2.79 GB",
+      "version": "1.00",
+      "release": "February 25, 2020",
+      "min_fw": "Fix 5.05/6.72",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/Two-Point-Hospital_-PS4-PKG.webp",
+      "name": "Two Point Hospital",
+      "type": "update",
+      "download_text": "OneFile",
+      "key_description": "Update v1.15 (Fix 5.05/6.72) ⇛"
+    },
+    "https://1fichier.com/?bmdn0u0ju12onydz6h0j&af=4186346": {
+      "region": "EUR",
+      "size": "2.79 GB",
+      "version": "1.00",
+      "release": "February 25, 2020",
+      "min_fw": "6.72+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/Two-Point-Hospital_-PS4-PKG.webp",
+      "name": "Two Point Hospital",
+      "type": "game",
+      "download_text": "OneFile",
+      "key_description": "Game (6.72+) ⇛"
+    },
+    "https://1fichier.com/?8s5ra86pk7qgfjwgxmkz&af=4186346": {
+      "region": "EUR",
+      "size": "2.79 GB",
+      "version": "1.00",
+      "release": "February 25, 2020",
+      "min_fw": "Fix 5.05/6.72",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/Two-Point-Hospital_-PS4-PKG.webp",
+      "name": "Two Point Hospital",
+      "type": "update",
+      "download_text": "OneFile",
+      "key_description": "Update v1.15 (Fix 5.05/6.72) ⇛"
+    },
+    "https://1fichier.com/?ylww8cjs1yu64gif6ije&af=4186346": {
+      "region": "EUR",
+      "size": "2.79 GB",
+      "version": "1.00",
+      "release": "February 25, 2020",
+      "min_fw": null,
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/Two-Point-Hospital_-PS4-PKG.webp",
+      "name": "Two Point Hospital",
+      "type": "dlc",
+      "download_text": "OneFile",
+      "key_description": "DLC (4) ⇛"
     },
     "https://1fichier.com/?12prsw1u9a5mdjmcnkxj&af=4186346": {
       "region": "EUR",

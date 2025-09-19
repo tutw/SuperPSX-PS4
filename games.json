@@ -9600,6 +9600,78 @@
       "download_text": "Viki",
       "key_description": "Update v1.02 (Fix 5.05/6.72/7.xx/9.00) ⇛"
     },
+    "https://vikingfile.com/f/aYKrXm5NG9": {
+      "region": "EUR",
+      "size": "2.79 GB",
+      "version": "1.00",
+      "release": "February 25, 2020",
+      "min_fw": "6.72+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/Two-Point-Hospital_-PS4-PKG.webp",
+      "name": "Two Point Hospital",
+      "type": "game",
+      "download_text": "Viki",
+      "key_description": "Game (6.72+) ⇛"
+    },
+    "https://vikingfile.com/f/5pTkNY75Mp": {
+      "region": "EUR",
+      "size": "2.79 GB",
+      "version": "1.00",
+      "release": "February 25, 2020",
+      "min_fw": "Fix 5.05/6.72",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/Two-Point-Hospital_-PS4-PKG.webp",
+      "name": "Two Point Hospital",
+      "type": "update",
+      "download_text": "Viki",
+      "key_description": "Update v1.15 (Fix 5.05/6.72) ⇛"
+    },
+    "https://vikingfile.com/f/FU9PjbVf6f": {
+      "region": "EUR",
+      "size": "2.79 GB",
+      "version": "1.00",
+      "release": "February 25, 2020",
+      "min_fw": null,
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/Two-Point-Hospital_-PS4-PKG.webp",
+      "name": "Two Point Hospital",
+      "type": "dlc",
+      "download_text": "Viki",
+      "key_description": "DLC (4) ⇛"
+    },
+    "https://vikingfile.com/f/4imf0xGrA8": {
+      "region": "EUR",
+      "size": "2.79 GB",
+      "version": "1.00",
+      "release": "February 25, 2020",
+      "min_fw": "6.72+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/Two-Point-Hospital_-PS4-PKG.webp",
+      "name": "Two Point Hospital",
+      "type": "game",
+      "download_text": "Viki",
+      "key_description": "Game (6.72+) ⇛"
+    },
+    "https://vikingfile.com/f/JgiJc7Vgwi": {
+      "region": "EUR",
+      "size": "2.79 GB",
+      "version": "1.00",
+      "release": "February 25, 2020",
+      "min_fw": "Fix 5.05/6.72",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/Two-Point-Hospital_-PS4-PKG.webp",
+      "name": "Two Point Hospital",
+      "type": "update",
+      "download_text": "Viki",
+      "key_description": "Update v1.15 (Fix 5.05/6.72) ⇛"
+    },
+    "https://vikingfile.com/f/GHlxEsHnyg": {
+      "region": "EUR",
+      "size": "2.79 GB",
+      "version": "1.00",
+      "release": "February 25, 2020",
+      "min_fw": null,
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/Two-Point-Hospital_-PS4-PKG.webp",
+      "name": "Two Point Hospital",
+      "type": "dlc",
+      "download_text": "Viki",
+      "key_description": "DLC (4) ⇛"
+    },
     "https://vikingfile.com/f/eNpl8zFNiB": {
       "region": "EUR",
       "size": "3.5GB",

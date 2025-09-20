@@ -3164,7 +3164,7 @@
       "download_text": "AKR",
       "key_description": "Update v1.04 (Fix 5.05) ⇛"
     },
-    "https://akirabox.com/2WVGr94Ezkx7/file": {
+    "https://akirabox.com/2WVGrQrDkzkx/file": {
       "region": "EUR",
       "size": "9 GB",
       "version": "1.00",
@@ -3188,7 +3188,7 @@
       "download_text": "AKR",
       "key_description": "Update v1.01 (10.00+) ⇛"
     },
-    "https://akirabox.com/0rpmvW4a3RgZ/file": {
+    "https://akirabox.com/Pbe3PMDdJzlX/file": {
       "region": "EUR",
       "size": "9 GB",
       "version": "1.00",
@@ -4514,7 +4514,7 @@
       "download_text": "AKR",
       "key_description": "DLC (14) ⇛"
     },
-    "https://akirabox.com/QN9mEVRx36dW/file": {
+    "https://akirabox.com/E1x3Aa5gW3yk/file": {
       "region": "USA",
       "size": "10GB",
       "version": "1.00",
@@ -4527,7 +4527,7 @@
       "download_text": "AKR",
       "key_description": "Game (5.50+) ⇛"
     },
-    "https://akirabox.com/Z9dzB0BMmk1b/file": {
+    "https://akirabox.com/1RgzR6E11zbp/file": {
       "region": "USA",
       "size": "10GB",
       "version": "1.00",
@@ -18253,7 +18253,7 @@
       "download_text": "AKR",
       "key_description": "DLC ⇛"
     },
-    "https://akirabox.com/qPez49pMGOYn/file": {
+    "https://akirabox.com/l5YzMwogpmyO/file": {
       "region": "USA",
       "size": "15.5GB",
       "version": "1.00",
@@ -19354,6 +19354,45 @@
       "type": "dlc",
       "download_text": "AKR",
       "key_description": "DLC ⇛"
+    },
+    "https://akirabox.com/2WVGrPQA3kx7/file": {
+      "region": "USA",
+      "size": "11GB",
+      "version": "1.00",
+      "release": "November 18, 2014",
+      "min_fw": "5.05+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/02/LittleBigPlanet-3-PS4-PKG.webp",
+      "cusa": "CUSA00473",
+      "name": "Littlebigplanet 3",
+      "type": "game",
+      "download_text": "AKR",
+      "key_description": "Game (5.05+) ⇛"
+    },
+    "https://akirabox.com/b5OzdRZlpmB8/file": {
+      "region": "USA",
+      "size": "11GB",
+      "version": "1.00",
+      "release": "November 18, 2014",
+      "min_fw": "5.05+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/02/LittleBigPlanet-3-PS4-PKG.webp",
+      "cusa": "CUSA00473",
+      "name": "Littlebigplanet 3",
+      "type": "update",
+      "download_text": "AKR",
+      "key_description": "Update v1.28 (5.05+) ⇛"
+    },
+    "https://akirabox.com/gXeGOLRPmAa7/file": {
+      "region": "USA",
+      "size": "11GB",
+      "version": "1.00",
+      "release": "November 18, 2014",
+      "min_fw": null,
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/02/LittleBigPlanet-3-PS4-PKG.webp",
+      "cusa": "CUSA00473",
+      "name": "Littlebigplanet 3",
+      "type": "dlc",
+      "download_text": "AKR",
+      "key_description": "ALL DLCs ⇛"
     },
     "https://akirabox.com/ZvqzlR2p6maD/file": {
       "region": "EUR",
@@ -23335,30 +23374,6 @@
       "download_text": "AKR",
       "key_description": "DLC v2 ⇛"
     },
-    "https://akirabox.com/obj3jbwn23Dx/file": {
-      "region": "EUR",
-      "size": "500MB",
-      "version": "1.00",
-      "release": "October 14, 2014",
-      "min_fw": "5.05+",
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/08/Nidhogg-PS4-PKG.webp",
-      "name": "Nidhogg 2",
-      "type": "game",
-      "download_text": "AKR",
-      "key_description": "Game (5.05+) ⇛"
-    },
-    "https://akirabox.com/RMKGJXrkl31o/file": {
-      "region": "EUR",
-      "size": "500MB",
-      "version": "1.00",
-      "release": "October 14, 2014",
-      "min_fw": "5.05+",
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/08/Nidhogg-PS4-PKG.webp",
-      "name": "Nidhogg 2",
-      "type": "update",
-      "download_text": "AKR",
-      "key_description": "Update v1.02 (5.05+) ⇛"
-    },
     "https://akirabox.com/7d5GLr56V3xR/file": {
       "region": "EUR",
       "size": "397.15 MB",
@@ -23382,6 +23397,30 @@
       "type": "update",
       "download_text": "AKR",
       "key_description": "Update v1.07 (5.05+) ⇛"
+    },
+    "https://akirabox.com/obj3jbwn23Dx/file": {
+      "region": "EUR",
+      "size": "500MB",
+      "version": "1.00",
+      "release": "October 14, 2014",
+      "min_fw": "5.05+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/08/Nidhogg-PS4-PKG.webp",
+      "name": "Nidhogg 2",
+      "type": "game",
+      "download_text": "AKR",
+      "key_description": "Game (5.05+) ⇛"
+    },
+    "https://akirabox.com/RMKGJXrkl31o/file": {
+      "region": "EUR",
+      "size": "500MB",
+      "version": "1.00",
+      "release": "October 14, 2014",
+      "min_fw": "5.05+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/08/Nidhogg-PS4-PKG.webp",
+      "name": "Nidhogg 2",
+      "type": "update",
+      "download_text": "AKR",
+      "key_description": "Update v1.02 (5.05+) ⇛"
     },
     "https://akirabox.com/0Kezk9162mD1/file": {
       "region": "EUR",
@@ -27493,7 +27532,7 @@
       "download_text": "AKR",
       "key_description": "DLC (4) ⇛"
     },
-    "https://akirabox.com/RMKGJoKVm1oP/file": {
+    "https://akirabox.com/Z9dzBjYDlzk1/file": {
       "region": "EUR",
       "size": "679.63 MB",
       "version": "1.02",

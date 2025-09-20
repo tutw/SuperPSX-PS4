@@ -27151,6 +27151,45 @@
       "download_text": "OneFile",
       "key_description": "DLC ⇛"
     },
+    "https://1fichier.com/?fbz0600qziity1p3528g&af=4186346": {
+      "region": "USA",
+      "size": "11GB",
+      "version": "1.00",
+      "release": "November 18, 2014",
+      "min_fw": "5.05+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/02/LittleBigPlanet-3-PS4-PKG.webp",
+      "cusa": "CUSA00473",
+      "name": "Littlebigplanet 3",
+      "type": "game",
+      "download_text": "OneFile",
+      "key_description": "Game (5.05+) ⇛"
+    },
+    "https://1fichier.com/?2canhx54n29ofxyfiaak&af=4186346": {
+      "region": "USA",
+      "size": "11GB",
+      "version": "1.00",
+      "release": "November 18, 2014",
+      "min_fw": "5.05+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/02/LittleBigPlanet-3-PS4-PKG.webp",
+      "cusa": "CUSA00473",
+      "name": "Littlebigplanet 3",
+      "type": "update",
+      "download_text": "OneFile",
+      "key_description": "Update v1.28 (5.05+) ⇛"
+    },
+    "https://1fichier.com/?sjf8fmqidsmrcz38tuex&af=4186346": {
+      "region": "USA",
+      "size": "11GB",
+      "version": "1.00",
+      "release": "November 18, 2014",
+      "min_fw": null,
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/02/LittleBigPlanet-3-PS4-PKG.webp",
+      "cusa": "CUSA00473",
+      "name": "Littlebigplanet 3",
+      "type": "dlc",
+      "download_text": "OneFile",
+      "key_description": "ALL DLCs ⇛"
+    },
     "https://1fichier.com/?zzxk9l7pnpmmb4xco902&af=4186346": {
       "region": "EUR",
       "size": "5GB",
@@ -30993,6 +31032,30 @@
       "download_text": "OneFile",
       "key_description": "Update v1.83 (Fix 5.05) ⇛"
     },
+    "https://1fichier.com/?ca6twevk5c2lfpc5rsgc&af=4186346": {
+      "region": "EUR",
+      "size": "32 GB",
+      "version": "1.00",
+      "release": "26 February 2019",
+      "min_fw": "8.50+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/MX-vs-ATV-All-Out-PS4-PKG.webp",
+      "name": "Mx Vs Atv All Out",
+      "type": "game",
+      "download_text": "OneFile",
+      "key_description": "Game Only ⇛"
+    },
+    "https://1fichier.com/?g6knxd5750hr96bu7rmq&af=4186346": {
+      "region": "EUR",
+      "size": "32 GB",
+      "version": "1.00",
+      "release": "26 February 2019",
+      "min_fw": "8.50+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/MX-vs-ATV-All-Out-PS4-PKG.webp",
+      "name": "Mx Vs Atv All Out",
+      "type": "update",
+      "download_text": "OneFile",
+      "key_description": "Update V3.04 Only ⇛"
+    },
     "https://1fichier.com/?1ep9f6jhyoarqzz0wwn0&af=4186346": {
       "region": "EUR",
       "size": "25 GB",
@@ -33109,30 +33172,6 @@
       "download_text": "OneFile",
       "key_description": "DLC ⇛"
     },
-    "https://1fichier.com/?x0l1nv7408ke0kb720il&af=4186346": {
-      "region": "EUR",
-      "size": "500MB",
-      "version": "1.00",
-      "release": "October 14, 2014",
-      "min_fw": "5.05+",
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/08/Nidhogg-PS4-PKG.webp",
-      "name": "Nidhogg 2",
-      "type": "game",
-      "download_text": "OneFile",
-      "key_description": "Game (5.05+) ⇛"
-    },
-    "https://1fichier.com/?bry9hepim2a628h6iylm&af=4186346": {
-      "region": "EUR",
-      "size": "500MB",
-      "version": "1.00",
-      "release": "October 14, 2014",
-      "min_fw": "5.05+",
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/08/Nidhogg-PS4-PKG.webp",
-      "name": "Nidhogg 2",
-      "type": "update",
-      "download_text": "OneFile",
-      "key_description": "Update v1.02 (5.05+) ⇛"
-    },
     "https://1fichier.com/?e7psyde2u42xep77z9a9&af=4186346": {
       "region": "EUR",
       "size": "397.15 MB",
@@ -33156,6 +33195,30 @@
       "type": "update",
       "download_text": "OneFile",
       "key_description": "Update v1.07 (5.05+) ⇛"
+    },
+    "https://1fichier.com/?x0l1nv7408ke0kb720il&af=4186346": {
+      "region": "EUR",
+      "size": "500MB",
+      "version": "1.00",
+      "release": "October 14, 2014",
+      "min_fw": "5.05+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/08/Nidhogg-PS4-PKG.webp",
+      "name": "Nidhogg 2",
+      "type": "game",
+      "download_text": "OneFile",
+      "key_description": "Game (5.05+) ⇛"
+    },
+    "https://1fichier.com/?bry9hepim2a628h6iylm&af=4186346": {
+      "region": "EUR",
+      "size": "500MB",
+      "version": "1.00",
+      "release": "October 14, 2014",
+      "min_fw": "5.05+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/08/Nidhogg-PS4-PKG.webp",
+      "name": "Nidhogg 2",
+      "type": "update",
+      "download_text": "OneFile",
+      "key_description": "Update v1.02 (5.05+) ⇛"
     },
     "https://1fichier.com/?l85tz68ijgs1udp3fkom&af=4186346": {
       "region": "EUR",

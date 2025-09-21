@@ -1117,7 +1117,7 @@
       "name": "Boulder Dash 40Th Anniversary",
       "type": "game",
       "download_text": "Viki",
-      "key_description": "Game ⇛"
+      "key_description": "Game (12.50+) ⇛"
     },
     "https://vikingfile.com/f/WbwGDYSJwM": {
       "region": "EUR",
@@ -4876,6 +4876,30 @@
       "download_text": "Viki",
       "key_description": "Update v1.02 (5.05+) ⇛"
     },
+    "https://vikingfile.com/f/xaY5RQbobJ": {
+      "region": "EUR",
+      "size": "3.5GB",
+      "version": "1.00",
+      "release": "November 22, 2017",
+      "min_fw": "5.05+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/09/Knowledge-is-Power​-PS4-PKG.webp",
+      "name": "Knowledge Is Power",
+      "type": "game",
+      "download_text": "Viki",
+      "key_description": "Game (5.05+) ⇛"
+    },
+    "https://vikingfile.com/f/JMGs4RPOD4": {
+      "region": "EUR",
+      "size": "3.5GB",
+      "version": "1.00",
+      "release": "November 22, 2017",
+      "min_fw": "5.05+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/09/Knowledge-is-Power​-PS4-PKG.webp",
+      "name": "Knowledge Is Power",
+      "type": "update",
+      "download_text": "Viki",
+      "key_description": "Update v1.01 (5.05+) ⇛"
+    },
     "https://vikingfile.com/f/phrEmfsR3r": {
       "region": "EUR",
       "size": "3GB",
@@ -6386,6 +6410,42 @@
       "type": "update",
       "download_text": "Viki",
       "key_description": "Update v1.05 (Fix 5.05) ⇛"
+    },
+    "https://vikingfile.com/f/n9j0L4kCyL": {
+      "region": "EUR",
+      "size": "3GB",
+      "version": "1.00",
+      "release": "Jul 31, 2025",
+      "min_fw": null,
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/08/Ninja-Gaiden-Ragebound-PS4-PKG.webp",
+      "name": "Ninja Gaiden Ragebound",
+      "type": "game",
+      "download_text": "Viki",
+      "key_description": "Game ⇛"
+    },
+    "https://vikingfile.com/f/8faBgW9nnq": {
+      "region": "EUR",
+      "size": "3GB",
+      "version": "1.00",
+      "release": "Jul 31, 2025",
+      "min_fw": "Fix 6.72 / 7.02 / 7.55 / 9.00 / 11.00",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/08/Ninja-Gaiden-Ragebound-PS4-PKG.webp",
+      "name": "Ninja Gaiden Ragebound",
+      "type": "update",
+      "download_text": "Viki",
+      "key_description": "Update v1.01 (Fix 6.72 / 7.02 / 7.55 / 9.00 / 11.00) ⇛"
+    },
+    "https://vikingfile.com/f/EOSxCPqspv": {
+      "region": "EUR",
+      "size": "3GB",
+      "version": "1.00",
+      "release": "Jul 31, 2025",
+      "min_fw": "Fix 5.05",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/08/Ninja-Gaiden-Ragebound-PS4-PKG.webp",
+      "name": "Ninja Gaiden Ragebound",
+      "type": "update",
+      "download_text": "Viki",
+      "key_description": "Update v1.01 (Fix 5.05) ⇛"
     },
     "https://vikingfile.com/f/1aEO7jC3aB": {
       "region": "EUR",

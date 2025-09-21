@@ -4197,7 +4197,7 @@
       "name": "Boulder Dash 40Th Anniversary",
       "type": "game",
       "download_text": "AKR",
-      "key_description": "Game ⇛"
+      "key_description": "Game (12.50+) ⇛"
     },
     "https://akirabox.com/M2BGwwd0DGj4/file": {
       "region": "EUR",
@@ -14842,7 +14842,7 @@
       "download_text": "AKR",
       "key_description": "Update v1.43 (9.00+)"
     },
-    "https://akirabox.com/Pbe3POKQmlX6/file": {
+    "https://akirabox.com/qPez4qYReGOY/file": {
       "region": "USA",
       "size": "2.82 GB",
       "version": "1.00",
@@ -17870,6 +17870,30 @@
       "type": "update",
       "download_text": "AKR",
       "key_description": "Update v1.02 (5.05+) ⇛"
+    },
+    "https://akirabox.com/5pVzNP6jZm7w/file": {
+      "region": "EUR",
+      "size": "3.5GB",
+      "version": "1.00",
+      "release": "November 22, 2017",
+      "min_fw": "5.05+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/09/Knowledge-is-Power​-PS4-PKG.webp",
+      "name": "Knowledge Is Power",
+      "type": "game",
+      "download_text": "AKR",
+      "key_description": "Game (5.05+) ⇛"
+    },
+    "https://akirabox.com/7d5GLEMJLmxR/file": {
+      "region": "EUR",
+      "size": "3.5GB",
+      "version": "1.00",
+      "release": "November 22, 2017",
+      "min_fw": "5.05+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/09/Knowledge-is-Power​-PS4-PKG.webp",
+      "name": "Knowledge Is Power",
+      "type": "update",
+      "download_text": "AKR",
+      "key_description": "Update v1.01 (5.05+) ⇛"
     },
     "https://akirabox.com/LJlGnqDa4z15/file": {
       "region": "EUR",
@@ -23458,30 +23482,6 @@
       "download_text": "AKR",
       "key_description": "DLC v2 ⇛"
     },
-    "https://akirabox.com/obj3jbwn23Dx/file": {
-      "region": "EUR",
-      "size": "500MB",
-      "version": "1.00",
-      "release": "October 14, 2014",
-      "min_fw": "5.05+",
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/08/Nidhogg-PS4-PKG.webp",
-      "name": "Nidhogg 2",
-      "type": "game",
-      "download_text": "AKR",
-      "key_description": "Game (5.05+) ⇛"
-    },
-    "https://akirabox.com/RMKGJXrkl31o/file": {
-      "region": "EUR",
-      "size": "500MB",
-      "version": "1.00",
-      "release": "October 14, 2014",
-      "min_fw": "5.05+",
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/08/Nidhogg-PS4-PKG.webp",
-      "name": "Nidhogg 2",
-      "type": "update",
-      "download_text": "AKR",
-      "key_description": "Update v1.02 (5.05+) ⇛"
-    },
     "https://akirabox.com/7d5GLr56V3xR/file": {
       "region": "EUR",
       "size": "397.15 MB",
@@ -23505,6 +23505,30 @@
       "type": "update",
       "download_text": "AKR",
       "key_description": "Update v1.07 (5.05+) ⇛"
+    },
+    "https://akirabox.com/obj3jbwn23Dx/file": {
+      "region": "EUR",
+      "size": "500MB",
+      "version": "1.00",
+      "release": "October 14, 2014",
+      "min_fw": "5.05+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/08/Nidhogg-PS4-PKG.webp",
+      "name": "Nidhogg 2",
+      "type": "game",
+      "download_text": "AKR",
+      "key_description": "Game (5.05+) ⇛"
+    },
+    "https://akirabox.com/RMKGJXrkl31o/file": {
+      "region": "EUR",
+      "size": "500MB",
+      "version": "1.00",
+      "release": "October 14, 2014",
+      "min_fw": "5.05+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/08/Nidhogg-PS4-PKG.webp",
+      "name": "Nidhogg 2",
+      "type": "update",
+      "download_text": "AKR",
+      "key_description": "Update v1.02 (5.05+) ⇛"
     },
     "https://akirabox.com/0Kezk9162mD1/file": {
       "region": "EUR",
@@ -23613,6 +23637,42 @@
       "type": "update",
       "download_text": "AKR",
       "key_description": "Update v1.04 (Fix 5.05/6.72/7.xx) ⇛"
+    },
+    "https://akirabox.com/APVmagRM0zXo/file": {
+      "region": "EUR",
+      "size": "3GB",
+      "version": "1.00",
+      "release": "Jul 31, 2025",
+      "min_fw": null,
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/08/Ninja-Gaiden-Ragebound-PS4-PKG.webp",
+      "name": "Ninja Gaiden Ragebound",
+      "type": "game",
+      "download_text": "AKR",
+      "key_description": "Game ⇛"
+    },
+    "https://akirabox.com/LJlGnV2ZlG15/file": {
+      "region": "EUR",
+      "size": "3GB",
+      "version": "1.00",
+      "release": "Jul 31, 2025",
+      "min_fw": "Fix 6.72 / 7.02 / 7.55 / 9.00 / 11.00",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/08/Ninja-Gaiden-Ragebound-PS4-PKG.webp",
+      "name": "Ninja Gaiden Ragebound",
+      "type": "update",
+      "download_text": "AKR",
+      "key_description": "Update v1.01 (Fix 6.72 / 7.02 / 7.55 / 9.00 / 11.00) ⇛"
+    },
+    "https://akirabox.com/wgWGqY2WxG4o/file": {
+      "region": "EUR",
+      "size": "3GB",
+      "version": "1.00",
+      "release": "Jul 31, 2025",
+      "min_fw": "Fix 5.05",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/08/Ninja-Gaiden-Ragebound-PS4-PKG.webp",
+      "name": "Ninja Gaiden Ragebound",
+      "type": "update",
+      "download_text": "AKR",
+      "key_description": "Update v1.01 (Fix 5.05) ⇛"
     },
     "https://akirabox.com/obj3j2Er3DxJ/file": {
       "region": "EUR",
@@ -36825,7 +36885,7 @@
       "download_text": "AKR",
       "key_description": "Game (8.00+) ⇛"
     },
-    "https://akirabox.com/M2BGw5ap3j40/file": {
+    "https://akirabox.com/0KezkYlrnmD1/file": {
       "region": "EUR",
       "size": "609.03 MB",
       "version": "1.00",
@@ -36837,7 +36897,7 @@
       "download_text": "AKR",
       "key_description": "Game (11.00+) ⇛"
     },
-    "https://akirabox.com/N2p3DrD2GMa5/file": {
+    "https://akirabox.com/0rpmv75Wy3Rg/file": {
       "region": "EUR",
       "size": "609.03 MB",
       "version": "1.00",
@@ -36849,7 +36909,7 @@
       "download_text": "AKR",
       "key_description": "Update v1.01 (11.00+) ⇛"
     },
-    "https://akirabox.com/0rpmveayGRgZ/file": {
+    "https://akirabox.com/N2p3DJ7n2GMa/file": {
       "region": "EUR",
       "size": "609.03 MB",
       "version": "1.00",

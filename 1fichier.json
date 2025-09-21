@@ -5822,6 +5822,42 @@
       "download_text": "OneFile",
       "key_description": "All DLC ⇛"
     },
+    "https://1fichier.com/?n9hqreahrbj69cipcdui&af=4186346": {
+      "region": "EUR",
+      "size": "2.5GB",
+      "version": "1.00",
+      "release": "August 28, 2025",
+      "min_fw": null,
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/09/Boulder-Dash-40th-Anniversary-PS4-PKG.webp",
+      "name": "Boulder Dash 40Th Anniversary",
+      "type": "game",
+      "download_text": "OneFile",
+      "key_description": "Game ⇛"
+    },
+    "https://1fichier.com/?rsoo6afetvvwt7yqdgoi&af=4186346": {
+      "region": "EUR",
+      "size": "2.5GB",
+      "version": "1.00",
+      "release": "August 28, 2025",
+      "min_fw": "Fix 6.72/7.xx/9.00/11.00/12.02",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/09/Boulder-Dash-40th-Anniversary-PS4-PKG.webp",
+      "name": "Boulder Dash 40Th Anniversary",
+      "type": "update",
+      "download_text": "OneFile",
+      "key_description": "Update v1.03 (Fix 6.72/7.xx/9.00/11.00/12.02) ⇛"
+    },
+    "https://1fichier.com/?bz3dnrzg7v7z77kod00g&af=4186346": {
+      "region": "EUR",
+      "size": "2.5GB",
+      "version": "1.00",
+      "release": "August 28, 2025",
+      "min_fw": "Fix 5.05",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/09/Boulder-Dash-40th-Anniversary-PS4-PKG.webp",
+      "name": "Boulder Dash 40Th Anniversary",
+      "type": "update",
+      "download_text": "OneFile",
+      "key_description": "Update v1.03 (Fix 5.05) ⇛"
+    },
     "https://1fichier.com/?6o95tzxtq6kpqvbmsyoa&af=4186346": {
       "region": "EUR",
       "size": "774.18 MB",
@@ -25223,6 +25259,54 @@
       "download_text": "OneFile",
       "key_description": "Update v1.01 (5.05+) ⇛"
     },
+    "https://1fichier.com/?31nujxqlko9pcaob05fg&af=4186346": {
+      "region": "EUR",
+      "size": "3.5GB",
+      "version": "1.00",
+      "release": "November 22, 2017",
+      "min_fw": "5.05+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/09/Knowledge-is-Power​-PS4-PKG.webp",
+      "name": "Knowledge Is Power",
+      "type": "game",
+      "download_text": "OneFile",
+      "key_description": "Game (5.05+) ⇛"
+    },
+    "https://1fichier.com/?vtr32gj5s06agkqp39nt&af=4186346": {
+      "region": "EUR",
+      "size": "3.5GB",
+      "version": "1.00",
+      "release": "November 22, 2017",
+      "min_fw": "5.05+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/09/Knowledge-is-Power​-PS4-PKG.webp",
+      "name": "Knowledge Is Power",
+      "type": "update",
+      "download_text": "OneFile",
+      "key_description": "Update v1.02 (5.05+) ⇛"
+    },
+    "https://1fichier.com/?sxpvdjcgsvxefny1vycm&af=4186346": {
+      "region": "EUR",
+      "size": "3GB",
+      "version": "1.00",
+      "release": "November 14, 2018",
+      "min_fw": "5.05+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/09/Knowledge-is-Power-Decades-PS4-PKG.webp",
+      "name": "Knowledge Is Power Decades",
+      "type": "game",
+      "download_text": "OneFile",
+      "key_description": "Game (5.05+) ⇛"
+    },
+    "https://1fichier.com/?nqwgb7cqaj2sz8m33xa0&af=4186346": {
+      "region": "EUR",
+      "size": "3GB",
+      "version": "1.00",
+      "release": "November 14, 2018",
+      "min_fw": "5.05+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/09/Knowledge-is-Power-Decades-PS4-PKG.webp",
+      "name": "Knowledge Is Power Decades",
+      "type": "update",
+      "download_text": "OneFile",
+      "key_description": "Update v1.01 (5.05+) ⇛"
+    },
     "https://1fichier.com/?7nc5ktzmdpkjvb0tv4se&af=4186346": {
       "region": "EUR",
       "size": "300 MB",
@@ -33327,42 +33411,6 @@
       "type": "update",
       "download_text": "OneFile",
       "key_description": "Update v1.04 (Fix 5.05/6.72/7.xx) ⇛"
-    },
-    "https://1fichier.com/?k1xngz6xwbhb87mhagh8&af=4186346": {
-      "region": "EUR",
-      "size": "3GB",
-      "version": "1.00",
-      "release": "Jul 31, 2025",
-      "min_fw": null,
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/08/Ninja-Gaiden-Ragebound-PS4-PKG.webp",
-      "name": "Ninja Gaiden Ragebound",
-      "type": "game",
-      "download_text": "OneFile",
-      "key_description": "Game ⇛"
-    },
-    "https://1fichier.com/?yg4rffvrl026s4bjuf6m&af=4186346": {
-      "region": "EUR",
-      "size": "3GB",
-      "version": "1.00",
-      "release": "Jul 31, 2025",
-      "min_fw": "Fix 6.72 / 7.02 / 7.55 / 9.00 / 11.00",
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/08/Ninja-Gaiden-Ragebound-PS4-PKG.webp",
-      "name": "Ninja Gaiden Ragebound",
-      "type": "update",
-      "download_text": "OneFile",
-      "key_description": "Update v1.01 (Fix 6.72 / 7.02 / 7.55 / 9.00 / 11.00) ⇛"
-    },
-    "https://1fichier.com/?vitkc3bt3z5cg7nkbf0x&af=4186346": {
-      "region": "EUR",
-      "size": "3GB",
-      "version": "1.00",
-      "release": "Jul 31, 2025",
-      "min_fw": "Fix 5.05",
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/08/Ninja-Gaiden-Ragebound-PS4-PKG.webp",
-      "name": "Ninja Gaiden Ragebound",
-      "type": "update",
-      "download_text": "OneFile",
-      "key_description": "Update v1.01 (Fix 5.05) ⇛"
     },
     "https://1fichier.com/?dz1mpni702yjz0slkt2d&af=4186346": {
       "region": "EUR",

@@ -10431,7 +10431,7 @@
       "download_text": "AKR",
       "key_description": "Update v1.07 (Fix 5.05/6.72/7.xx/9.00) ⇛"
     },
-    "https://akirabox.com/QN9mE747z6dW/file": {
+    "https://akirabox.com/EL73gjgAYm9B/file": {
       "region": "USA",
       "size": "4GB",
       "version": "1.00",
@@ -10444,7 +10444,7 @@
       "download_text": "AKR",
       "key_description": "Game (6.72+) ⇛"
     },
-    "https://akirabox.com/0rpmv5EJGRgZ/file": {
+    "https://akirabox.com/vgKGxoWL4z8Q/file": {
       "region": "USA",
       "size": "4GB",
       "version": "1.00",
@@ -10457,7 +10457,7 @@
       "download_text": "AKR",
       "key_description": "Update v1.04 (6.72+) ⇛"
     },
-    "https://akirabox.com/0rpmv5EyGRgZ/file": {
+    "https://akirabox.com/Z9dzBjE4Ozk1/file": {
       "region": "USA",
       "size": "5GB",
       "version": "1.00",
@@ -10483,7 +10483,7 @@
       "download_text": "AKR",
       "key_description": "Update v1.02 (9.00+) ⇛"
     },
-    "https://akirabox.com/N2p3D7a2mMa5/file": {
+    "https://akirabox.com/Y2xm0DaR8mRO/file": {
       "region": "USA",
       "size": "5GB",
       "version": "1.00",
@@ -18116,7 +18116,7 @@
       "download_text": "AKR",
       "key_description": "Game (5.05+) ⇛"
     },
-    "https://akirabox.com/k0emb5xAGVb4/file": {
+    "https://akirabox.com/QN9mEYgKym6d/file": {
       "region": "USA",
       "size": "2.18 GB",
       "version": "1.00",
@@ -18129,7 +18129,7 @@
       "download_text": "AKR",
       "key_description": "Game (9.00+) ⇛"
     },
-    "https://akirabox.com/9QWmp5QJ3EB6/file": {
+    "https://akirabox.com/qLQ36pMxwG19/file": {
       "region": "USA",
       "size": "2.18 GB",
       "version": "1.00",
@@ -18974,6 +18974,19 @@
       "type": "update",
       "download_text": "AKR",
       "key_description": "Update v1.05 (6.72+) ⇛"
+    },
+    "https://akirabox.com/obj3jnJdA3Dx/file": {
+      "region": "USA",
+      "size": "677.51 MB",
+      "version": "1.00",
+      "release": "July 19, 2016",
+      "min_fw": "Fix 5.05",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/Lifeless-Planet_-Premier-Edition-PS4-PKG.webp",
+      "cusa": "CUSA05475",
+      "name": "Lifeless Planet Premier Edition",
+      "type": "update",
+      "download_text": "AKR",
+      "key_description": "Update v1.05 (Fix 5.05) ⇛"
     },
     "https://akirabox.com/gXeGOqxj3Aa7/file": {
       "region": "USA",
@@ -39738,6 +39751,18 @@
       "type": "update",
       "download_text": "AKR",
       "key_description": "Update v1.02 (Fix 5.05) ⇛"
+    },
+    "https://akirabox.com/E9Qz91yP6zOL/file": {
+      "region": "EUR",
+      "size": "3GB",
+      "version": "1.02",
+      "release": "July 8, 2021",
+      "min_fw": "9.00+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/09/Willy-Morgan-and-The-Curse-of-Bone-Town-PS4-PKG.webp",
+      "name": "Willy Morgan And The Curse Of Bone Town",
+      "type": "game",
+      "download_text": "AKR",
+      "key_description": "Game (v1.02)(9.00+) ⇛"
     },
     "https://akirabox.com/qw1zerMg0GXy/file": {
       "region": "EUR",

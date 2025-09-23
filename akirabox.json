@@ -2196,7 +2196,7 @@
       "download_text": "AKR",
       "key_description": "Fix 5.05 ⇛"
     },
-    "https://akirabox.com/0rpmvbJymRgZ/file": {
+    "https://akirabox.com/9QWmp7koxGEB/file": {
       "region": "EUR",
       "size": "13GB",
       "version": "1.00",
@@ -2220,7 +2220,7 @@
       "download_text": "AKR",
       "key_description": "Update v1.08 (9.00+) ⇛"
     },
-    "https://akirabox.com/N2p3D8M23Ma5/file": {
+    "https://akirabox.com/LK0G1eMgaG91/file": {
       "region": "EUR",
       "size": "13GB",
       "version": "1.00",
@@ -5396,7 +5396,7 @@
       "download_text": "AKR",
       "key_description": "Game (5.05+) ⇛"
     },
-    "https://akirabox.com/QN9mEd6pG6dW/file": {
+    "https://akirabox.com/0rpmv7eLa3Rg/file": {
       "region": "USA",
       "size": "1.73GB",
       "version": "1.00",
@@ -5409,7 +5409,7 @@
       "download_text": "AKR",
       "key_description": "Game ⇛"
     },
-    "https://akirabox.com/N2p3DdVp3Ma5/file": {
+    "https://akirabox.com/RMKGJkjO2m1o/file": {
       "region": "USA",
       "size": "1.73GB",
       "version": "1.00",
@@ -5422,7 +5422,7 @@
       "download_text": "AKR",
       "key_description": "Update v1.08 (9.00/11.00) ⇛"
     },
-    "https://akirabox.com/Zvqzl66OmaD2/file": {
+    "https://akirabox.com/b5OzdREpymB8/file": {
       "region": "USA",
       "size": "1.73GB",
       "version": "1.00",
@@ -12818,7 +12818,7 @@
       "download_text": "AKR",
       "key_description": "Update v1.01 (Fix 5.05/6.72/7.02) ⇛"
     },
-    "https://akirabox.com/qLQ360xEG19j/file": {
+    "https://akirabox.com/k0embJD0omVb/file": {
       "region": "USA",
       "size": "3GB",
       "version": "1.00",
@@ -12944,6 +12944,30 @@
       "type": "game",
       "download_text": "AKR",
       "key_description": "Fix (5.05/6.72/7.xx/8.xx) ⇛"
+    },
+    "https://akirabox.com/k0embJDQamVb/file": {
+      "region": "EUR",
+      "size": "15GB",
+      "version": "1.00",
+      "release": "Sep 18, 2025",
+      "min_fw": "12.00+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/09/Formula-Legends-PS4-PKG.webp",
+      "name": "Formula Legends",
+      "type": "game",
+      "download_text": "AKR",
+      "key_description": "Game (12.00+) ⇛"
+    },
+    "https://akirabox.com/Pbe3PMOQQzlX/file": {
+      "region": "EUR",
+      "size": "15GB",
+      "version": "1.00",
+      "release": "Sep 18, 2025",
+      "min_fw": "Fix 5.05/6.72/7.xx/9.00/11.00",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/09/Formula-Legends-PS4-PKG.webp",
+      "name": "Formula Legends",
+      "type": "update",
+      "download_text": "AKR",
+      "key_description": "Update v1.02 (Fix 5.05/6.72/7.xx/9.00/11.00) ⇛"
     },
     "https://akirabox.com/l76mZrLbmanY/file": {
       "region": "EUR",
@@ -14093,7 +14117,7 @@
       "download_text": "AKR",
       "key_description": "DLCs ⇛"
     },
-    "https://akirabox.com/0JgG7vLnzoYW/file": {
+    "https://akirabox.com/N2p3DJrQnGMa/file": {
       "region": "EUR",
       "size": "1.4 GB",
       "version": "1.00",
@@ -14105,7 +14129,7 @@
       "download_text": "AKR",
       "key_description": "Game (6.72+) ⇛"
     },
-    "https://akirabox.com/wgWGq1xPG4oy/file": {
+    "https://akirabox.com/0rpmv7eLw3Rg/file": {
       "region": "EUR",
       "size": "1.4 GB",
       "version": "1.00",
@@ -14117,7 +14141,7 @@
       "download_text": "AKR",
       "key_description": "Update v1.06 (6.72+) ⇛"
     },
-    "https://akirabox.com/APVmaZpR3Xo8/file": {
+    "https://akirabox.com/QN9mEYgKLm6d/file": {
       "region": "EUR",
       "size": "1.4 GB",
       "version": "1.00",
@@ -14942,7 +14966,7 @@
       "download_text": "AKR",
       "key_description": "Update v1.01 (Fix 5.05) ⇛"
     },
-    "https://akirabox.com/dkD3YV2lozLQ/file": {
+    "https://akirabox.com/APVmaJO6w3Xo/file": {
       "region": "EUR",
       "size": "6 GB",
       "version": "1.06",
@@ -15324,7 +15348,7 @@
       "version": "1.00",
       "release": "September 4, 2025",
       "min_fw": null,
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/09/Hollow-Knight-Silksong-PS4-PKG.webp",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/09/Fixed.jpg",
       "name": "Hollow Knight Silksong",
       "type": "game",
       "download_text": "AKR",
@@ -15336,59 +15360,23 @@
       "version": "1.00",
       "release": "September 4, 2025",
       "min_fw": "Fix 11.00",
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/09/Hollow-Knight-Silksong-PS4-PKG.webp",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/09/Fixed.jpg",
       "name": "Hollow Knight Silksong",
       "type": "update",
       "download_text": "AKR",
       "key_description": "Update v1.04 (Fix 11.00) ⇛"
     },
-    "https://akirabox.com/0rpmv760g3Rg/file": {
+    "https://akirabox.com/M2BGww5BMGj4/file": {
       "region": "EUR",
       "size": "3GB",
       "version": "1.00",
       "release": "September 4, 2025",
-      "min_fw": null,
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/09/Hollow-Knight-Silksong-PS4-PKG.webp",
-      "name": "Hollow Knight Silksong",
-      "type": "game",
-      "download_text": "AKR",
-      "key_description": "Game ⇛"
-    },
-    "https://akirabox.com/rk9zKwDJyz0l/file": {
-      "region": "EUR",
-      "size": "3GB",
-      "version": "1.00",
-      "release": "September 4, 2025",
-      "min_fw": "Fix 11.00",
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/09/Hollow-Knight-Silksong-PS4-PKG.webp",
+      "min_fw": "Fix 5.05/6.72/7.02/7.55/9.00",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/09/Fixed.jpg",
       "name": "Hollow Knight Silksong",
       "type": "update",
       "download_text": "AKR",
-      "key_description": "Update v1.02 (Fix 11.00) (Test work fine) ⇛"
-    },
-    "https://akirabox.com/N2p3DJqRdGMa/file": {
-      "region": "EUR",
-      "size": "3GB",
-      "version": "1.00",
-      "release": "September 4, 2025",
-      "min_fw": "Fix 6.72/7.02/7.55/9.00",
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/09/Hollow-Knight-Silksong-PS4-PKG.webp",
-      "name": "Hollow Knight Silksong",
-      "type": "update",
-      "download_text": "AKR",
-      "key_description": "Update v1.02 (Fix 6.72/7.02/7.55/9.00) ⇛"
-    },
-    "https://akirabox.com/gXeGORa8AzAa/file": {
-      "region": "EUR",
-      "size": "3GB",
-      "version": "1.00",
-      "release": "September 4, 2025",
-      "min_fw": "Fix 5.05",
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/09/Hollow-Knight-Silksong-PS4-PKG.webp",
-      "name": "Hollow Knight Silksong",
-      "type": "update",
-      "download_text": "AKR",
-      "key_description": "Update v1.02 (Fix 5.05) ⇛"
+      "key_description": "Update 1.04 (Fix 5.05/6.72/7.02/7.55/9.00) ⇛"
     },
     "https://akirabox.com/M2BGwP0Rmj40/file": {
       "region": "EUR",
@@ -15788,7 +15776,7 @@
       "download_text": "AKR",
       "key_description": "Game ⇛"
     },
-    "https://akirabox.com/Xkrzo17WmBOR/file": {
+    "https://akirabox.com/LK0G1eMbaG91/file": {
       "region": "EUR",
       "size": "25 GB",
       "version": "1.00",
@@ -15800,7 +15788,7 @@
       "download_text": "AKR",
       "key_description": "Update v1.19 ⇛"
     },
-    "https://akirabox.com/Y2xm0XgLmRO1/file": {
+    "https://akirabox.com/Y2xm0DaoomRO/file": {
       "region": "EUR",
       "size": "25 GB",
       "version": "1.00",
@@ -19897,7 +19885,7 @@
       "download_text": "AKR",
       "key_description": "Update v1.02 (9.00+) ⇛"
     },
-    "https://akirabox.com/5pVzN7rWG7wv/file": {
+    "https://akirabox.com/M2BGww5WMGj4/file": {
       "region": "USA",
       "size": "4GB",
       "version": "1.00",
@@ -20456,7 +20444,7 @@
       "download_text": "AKR",
       "key_description": "DLC ⇛"
     },
-    "https://akirabox.com/EL73glWjz9Ba/file": {
+    "https://akirabox.com/qw1zeJwdMGXy/file": {
       "region": "EUR",
       "size": "31.71 GB",
       "version": "1.00",
@@ -20592,7 +20580,7 @@
       "download_text": "AKR",
       "key_description": "Game (8.00+) ⇛"
     },
-    "https://akirabox.com/Pbe3PNK9GlX6/file": {
+    "https://akirabox.com/0KezkYdRjmD1/file": {
       "region": "USA",
       "size": "80GB",
       "version": "1.00",
@@ -23458,7 +23446,7 @@
       "download_text": "AKR",
       "key_description": "Update v1.15  ⇛"
     },
-    "https://akirabox.com/M2BGwPKXmj40/file": {
+    "https://akirabox.com/b5OzdREp4mB8/file": {
       "region": "EUR",
       "size": "5.62 GB",
       "version": "1.00",
@@ -23637,6 +23625,42 @@
       "type": "update",
       "download_text": "AKR",
       "key_description": "Update v1.04 (Fix 5.05/6.72/7.xx) ⇛"
+    },
+    "https://akirabox.com/qLQ36pMkKG19/file": {
+      "region": "EUR",
+      "size": "3GB",
+      "version": "1.00",
+      "release": "Jul 31, 2025",
+      "min_fw": "12.00+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/08/Ninja-Gaiden-Ragebound-PS4-PKG.webp",
+      "name": "Ninja Gaiden Ragebound",
+      "type": "game",
+      "download_text": "AKR",
+      "key_description": "Game (12.00+) ⇛"
+    },
+    "https://akirabox.com/dkD3YVJYozLQ/file": {
+      "region": "EUR",
+      "size": "3GB",
+      "version": "1.00",
+      "release": "Jul 31, 2025",
+      "min_fw": "Fix 6.72/7.xx/9.00/11.00",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/08/Ninja-Gaiden-Ragebound-PS4-PKG.webp",
+      "name": "Ninja Gaiden Ragebound",
+      "type": "update",
+      "download_text": "AKR",
+      "key_description": "Update v1.02 (Fix 6.72/7.xx/9.00/11.00) ⇛"
+    },
+    "https://akirabox.com/jar3XqB88z2d/file": {
+      "region": "EUR",
+      "size": "3GB",
+      "version": "1.00",
+      "release": "Jul 31, 2025",
+      "min_fw": "Fix 5.05",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/08/Ninja-Gaiden-Ragebound-PS4-PKG.webp",
+      "name": "Ninja Gaiden Ragebound",
+      "type": "update",
+      "download_text": "AKR",
+      "key_description": "Update v1.02 (Fix 5.05) ⇛"
     },
     "https://akirabox.com/APVmagRM0zXo/file": {
       "region": "EUR",
@@ -26533,7 +26557,7 @@
       "download_text": "AKR",
       "key_description": "DLC ⇛"
     },
-    "https://akirabox.com/l76mZKlj3anY/file": {
+    "https://akirabox.com/b5OzdRE24mB8/file": {
       "region": "EUR",
       "size": "500MB",
       "version": "1.00",
@@ -26545,7 +26569,7 @@
       "download_text": "AKR",
       "key_description": "Game (5.50+) ⇛"
     },
-    "https://akirabox.com/l5YzM8a83yOA/file": {
+    "https://akirabox.com/Z9dzBjEKOzk1/file": {
       "region": "EUR",
       "size": "500MB",
       "version": "1.00",
@@ -29885,7 +29909,7 @@
       "download_text": "AKR",
       "key_description": "DLCs (34) ⇛"
     },
-    "https://akirabox.com/qLQ36ajKm19j/file": {
+    "https://akirabox.com/gXeGOR6r6zAa/file": {
       "region": "USA",
       "size": "40MB",
       "version": "1.00",
@@ -34194,7 +34218,7 @@
       "download_text": "AKR",
       "key_description": "Fix (5.05/6.72/7.02/7.55) ⇛"
     },
-    "https://akirabox.com/LK0G15jeG917/file": {
+    "https://akirabox.com/Pbe3PMO4YzlX/file": {
       "region": "EUR",
       "size": "4 GB",
       "version": "1.00",
@@ -34616,7 +34640,7 @@
       "download_text": "AKR",
       "key_description": "Deluxe Edition Extras ⇛"
     },
-    "https://akirabox.com/2WVGrrj0Gkx7/file": {
+    "https://akirabox.com/jJD3VVgLr3a5/file": {
       "region": "USA",
       "size": "40GB",
       "version": "1.00",
@@ -34788,7 +34812,7 @@
       "download_text": "AKR",
       "key_description": "Update v1.02 (6.50+) ⇛"
     },
-    "https://akirabox.com/M2BGwXnNmj40/file": {
+    "https://akirabox.com/l5YzMwbZKmyO/file": {
       "region": "EUR",
       "size": "8.19GB",
       "version": "1.00",
@@ -34800,7 +34824,7 @@
       "download_text": "AKR",
       "key_description": "Game (9.00+) ⇛"
     },
-    "https://akirabox.com/9AqGQ7a83Mn6/file": {
+    "https://akirabox.com/vgKGxoWQ4z8Q/file": {
       "region": "EUR",
       "size": "8.19GB",
       "version": "1.00",
@@ -37137,7 +37161,7 @@
       "download_text": "AKR",
       "key_description": "Update v1.04 (4.50+) ⇛"
     },
-    "https://akirabox.com/qw1ze5VMzXyn/file": {
+    "https://akirabox.com/E1x3AavXg3yk/file": {
       "region": "USA",
       "size": "1GB",
       "version": "1.00",
@@ -37150,7 +37174,7 @@
       "download_text": "AKR",
       "key_description": "Game (6.72+) ⇛"
     },
-    "https://akirabox.com/E1x3A7xgGyk6/file": {
+    "https://akirabox.com/qw1zeJw6MGXy/file": {
       "region": "USA",
       "size": "1GB",
       "version": "1.00",
@@ -37163,7 +37187,7 @@
       "download_text": "AKR",
       "key_description": "Update v1.03 (6.72+) ⇛"
     },
-    "https://akirabox.com/Zvqzlo2gO3aD/file": {
+    "https://akirabox.com/M2BGww5WNGj4/file": {
       "region": "USA",
       "size": "1GB",
       "version": "1.00",
@@ -40016,7 +40040,7 @@
       "download_text": "AKR",
       "key_description": "DLC ⇛"
     },
-    "https://akirabox.com/dkD3Y1lw3LQK/file": {
+    "https://akirabox.com/2WVGrQZVEzkx/file": {
       "region": "USA",
       "size": "2.66 GB",
       "version": "1.00",
@@ -40029,7 +40053,7 @@
       "download_text": "AKR",
       "key_description": "Game (11.00+) ⇛"
     },
-    "https://akirabox.com/QN9mE74Qz6dW/file": {
+    "https://akirabox.com/0PdzyW7YMmeA/file": {
       "region": "USA",
       "size": "2.66 GB",
       "version": "1.00",
@@ -40042,7 +40066,7 @@
       "download_text": "AKR",
       "key_description": "Update v1.01 (11.00+) ⇛"
     },
-    "https://akirabox.com/2bJG8gK0zOBE/file": {
+    "https://akirabox.com/0JgG70Z75moY/file": {
       "region": "USA",
       "size": "2.66 GB",
       "version": "1.00",
@@ -40542,7 +40566,7 @@
       "download_text": "AKR",
       "key_description": "Game (6.72+) ⇛"
     },
-    "https://akirabox.com/b5Ozd15lGB8L/file": {
+    "https://akirabox.com/l76mZ2dr2man/file": {
       "region": "USA",
       "size": "45 GB",
       "version": "1.00",
@@ -40581,7 +40605,7 @@
       "download_text": "AKR",
       "key_description": "DLCs ⇛"
     },
-    "https://akirabox.com/0PdzyLgd3eAR/file": {
+    "https://akirabox.com/qw1zeJwbMGXy/file": {
       "region": "EUR",
       "size": "10GB",
       "version": "1.00",
@@ -40593,7 +40617,7 @@
       "download_text": "AKR",
       "key_description": "Game+Upv1.50 (7.00+) ⇛"
     },
-    "https://akirabox.com/1RgzRKJ8GbpB/file": {
+    "https://akirabox.com/RMKGJkjQPm1o/file": {
       "region": "EUR",
       "size": "10GB",
       "version": "1.00",
@@ -40669,7 +40693,7 @@
       "download_text": "AKR",
       "key_description": "Game (11.00) ⇛"
     },
-    "https://akirabox.com/0PdzyLp03eAR/file": {
+    "https://akirabox.com/qLQ36pMxQG19/file": {
       "region": "EUR",
       "size": "1.5GB",
       "version": "1.00",

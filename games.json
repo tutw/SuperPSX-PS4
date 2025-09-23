@@ -3749,6 +3749,30 @@
       "download_text": "Viki",
       "key_description": "Fix (5.05/6.72/7.xx/8.xx) ⇛"
     },
+    "https://vikingfile.com/f/8ZVmtlkdbv": {
+      "region": "EUR",
+      "size": "15GB",
+      "version": "1.00",
+      "release": "Sep 18, 2025",
+      "min_fw": "12.00+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/09/Formula-Legends-PS4-PKG.webp",
+      "name": "Formula Legends",
+      "type": "game",
+      "download_text": "Viki",
+      "key_description": "Game (12.00+) ⇛"
+    },
+    "https://vikingfile.com/f/IIzdFOTZBh": {
+      "region": "EUR",
+      "size": "15GB",
+      "version": "1.00",
+      "release": "Sep 18, 2025",
+      "min_fw": "Fix 5.05/6.72/7.xx/9.00/11.00",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/09/Formula-Legends-PS4-PKG.webp",
+      "name": "Formula Legends",
+      "type": "update",
+      "download_text": "Viki",
+      "key_description": "Update v1.02 (Fix 5.05/6.72/7.xx/9.00/11.00) ⇛"
+    },
     "https://vikingfile.com/f/KbgBppCrPw": {
       "region": "EUR",
       "size": "20GB",
@@ -4211,7 +4235,7 @@
       "version": "1.00",
       "release": "September 4, 2025",
       "min_fw": null,
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/09/Hollow-Knight-Silksong-PS4-PKG.webp",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/09/Fixed.jpg",
       "name": "Hollow Knight Silksong",
       "type": "game",
       "download_text": "Viki",
@@ -4223,59 +4247,23 @@
       "version": "1.00",
       "release": "September 4, 2025",
       "min_fw": "Fix 11.00",
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/09/Hollow-Knight-Silksong-PS4-PKG.webp",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/09/Fixed.jpg",
       "name": "Hollow Knight Silksong",
       "type": "update",
       "download_text": "Viki",
       "key_description": "Update v1.04 (Fix 11.00) ⇛"
     },
-    "https://vikingfile.com/f/E9tSSF0rh3": {
+    "https://vikingfile.com/f/zzqwrhf0Fq": {
       "region": "EUR",
       "size": "3GB",
       "version": "1.00",
       "release": "September 4, 2025",
-      "min_fw": null,
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/09/Hollow-Knight-Silksong-PS4-PKG.webp",
-      "name": "Hollow Knight Silksong",
-      "type": "game",
-      "download_text": "Viki",
-      "key_description": "Game ⇛"
-    },
-    "https://vikingfile.com/f/4l9HjIyRAK": {
-      "region": "EUR",
-      "size": "3GB",
-      "version": "1.00",
-      "release": "September 4, 2025",
-      "min_fw": "Fix 11.00",
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/09/Hollow-Knight-Silksong-PS4-PKG.webp",
+      "min_fw": "Fix 5.05/6.72/7.02/7.55/9.00",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/09/Fixed.jpg",
       "name": "Hollow Knight Silksong",
       "type": "update",
       "download_text": "Viki",
-      "key_description": "Update v1.02 (Fix 11.00) (Test work fine) ⇛"
-    },
-    "https://vikingfile.com/f/qTcbL45myU": {
-      "region": "EUR",
-      "size": "3GB",
-      "version": "1.00",
-      "release": "September 4, 2025",
-      "min_fw": "Fix 6.72/7.02/7.55/9.00",
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/09/Hollow-Knight-Silksong-PS4-PKG.webp",
-      "name": "Hollow Knight Silksong",
-      "type": "update",
-      "download_text": "Viki",
-      "key_description": "Update v1.02 (Fix 6.72/7.02/7.55/9.00) ⇛"
-    },
-    "https://vikingfile.com/f/c4quS37gXO": {
-      "region": "EUR",
-      "size": "3GB",
-      "version": "1.00",
-      "release": "September 4, 2025",
-      "min_fw": "Fix 5.05",
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/09/Hollow-Knight-Silksong-PS4-PKG.webp",
-      "name": "Hollow Knight Silksong",
-      "type": "update",
-      "download_text": "Viki",
-      "key_description": "Update v1.02 (Fix 5.05) ⇛"
+      "key_description": "Update 1.04 (Fix 5.05/6.72/7.02/7.55/9.00) ⇛"
     },
     "https://vikingfile.com/f/GPKHJTkLZY": {
       "region": "USA",
@@ -6410,6 +6398,42 @@
       "type": "update",
       "download_text": "Viki",
       "key_description": "Update v1.05 (Fix 5.05) ⇛"
+    },
+    "https://vikingfile.com/f/S2ACxjyjSh": {
+      "region": "EUR",
+      "size": "3GB",
+      "version": "1.00",
+      "release": "Jul 31, 2025",
+      "min_fw": "12.00+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/08/Ninja-Gaiden-Ragebound-PS4-PKG.webp",
+      "name": "Ninja Gaiden Ragebound",
+      "type": "game",
+      "download_text": "Viki",
+      "key_description": "Game (12.00+) ⇛"
+    },
+    "https://vikingfile.com/f/mc7XkORryh": {
+      "region": "EUR",
+      "size": "3GB",
+      "version": "1.00",
+      "release": "Jul 31, 2025",
+      "min_fw": "Fix 6.72/7.xx/9.00/11.00",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/08/Ninja-Gaiden-Ragebound-PS4-PKG.webp",
+      "name": "Ninja Gaiden Ragebound",
+      "type": "update",
+      "download_text": "Viki",
+      "key_description": "Update v1.02 (Fix 6.72/7.xx/9.00/11.00) ⇛"
+    },
+    "https://vikingfile.com/f/WdizzYRYiQ": {
+      "region": "EUR",
+      "size": "3GB",
+      "version": "1.00",
+      "release": "Jul 31, 2025",
+      "min_fw": "Fix 5.05",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/08/Ninja-Gaiden-Ragebound-PS4-PKG.webp",
+      "name": "Ninja Gaiden Ragebound",
+      "type": "update",
+      "download_text": "Viki",
+      "key_description": "Update v1.02 (Fix 5.05) ⇛"
     },
     "https://vikingfile.com/f/n9j0L4kCyL": {
       "region": "EUR",

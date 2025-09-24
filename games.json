@@ -10409,6 +10409,30 @@
       "download_text": "Viki",
       "key_description": "DLC v6 (14) ⇛"
     },
+    "https://vikingfile.com/f/CmG4TvlzML": {
+      "region": "EUR",
+      "size": "23GB",
+      "version": "1.00",
+      "release": "August 29, 2017",
+      "min_fw": "5.05+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/09/Yakuza-Kiwami-PS4-PKG.webp",
+      "name": "Yakuza Kiwami",
+      "type": "game",
+      "download_text": "Viki",
+      "key_description": "Game (5.05+) ⇛"
+    },
+    "https://vikingfile.com/f/5cgVUUu11i": {
+      "region": "EUR",
+      "size": "23GB",
+      "version": "1.00",
+      "release": "August 29, 2017",
+      "min_fw": "5.05+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/09/Yakuza-Kiwami-PS4-PKG.webp",
+      "name": "Yakuza Kiwami",
+      "type": "update",
+      "download_text": "Viki",
+      "key_description": "Update v1.09 (5.05+) ⇛"
+    },
     "https://vikingfile.com/f/371Es3kpz2": {
       "region": "EUR",
       "size": "159MB",

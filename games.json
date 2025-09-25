@@ -6663,6 +6663,78 @@
       "download_text": "Viki",
       "key_description": "Game (9.51+) ⇛"
     },
+    "https://vikingfile.com/f/IFhca2h8Wb": {
+      "region": "EUR",
+      "size": "32.72 GB",
+      "version": "1.00",
+      "release": "March 27, 2020",
+      "min_fw": null,
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/10/One-Piece-Pirate-Warriors-4-Ultimate-Edition-PS4-PKG.webp",
+      "name": "One Piece Pirate Warriors 4 Ultimate Edition",
+      "type": "game",
+      "download_text": "Viki",
+      "key_description": "Game ⇛"
+    },
+    "https://vikingfile.com/f/6YQllGuaHL": {
+      "region": "EUR",
+      "size": "32.72 GB",
+      "version": "1.00",
+      "release": "March 27, 2020",
+      "min_fw": "Fix 5.05/6.72/7.02/7.50/9.00",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/10/One-Piece-Pirate-Warriors-4-Ultimate-Edition-PS4-PKG.webp",
+      "name": "One Piece Pirate Warriors 4 Ultimate Edition",
+      "type": "update",
+      "download_text": "Viki",
+      "key_description": "Update v1.81 (Fix 5.05/6.72/7.02/7.50/9.00) ⇛"
+    },
+    "https://vikingfile.com/f/YUMjERdXtL": {
+      "region": "EUR",
+      "size": "32.72 GB",
+      "version": "3",
+      "release": "March 27, 2020",
+      "min_fw": null,
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/10/One-Piece-Pirate-Warriors-4-Ultimate-Edition-PS4-PKG.webp",
+      "name": "One Piece Pirate Warriors 4 Ultimate Edition",
+      "type": "dlc",
+      "download_text": "Viki",
+      "key_description": "All DLC (v3) ⇛"
+    },
+    "https://vikingfile.com/f/NYC5I7O1tn": {
+      "region": "EUR",
+      "size": "9GB",
+      "version": "1.00",
+      "release": "January 15, 2019",
+      "min_fw": "6.72+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/09/Onimusha-Warlords-PS4-PKG.webp",
+      "name": "Onimusha Warlords",
+      "type": "game",
+      "download_text": "Viki",
+      "key_description": "Game (6.72+) ⇛"
+    },
+    "https://vikingfile.com/f/1c2Uw2YUjD": {
+      "region": "EUR",
+      "size": "9GB",
+      "version": "1.00",
+      "release": "January 15, 2019",
+      "min_fw": null,
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/09/Onimusha-Warlords-PS4-PKG.webp",
+      "name": "Onimusha Warlords",
+      "type": "game",
+      "download_text": "Viki",
+      "key_description": "Fix 5.05 ⇛"
+    },
+    "https://vikingfile.com/f/5weaLUBnQR": {
+      "region": "EUR",
+      "size": "9GB",
+      "version": "1.00",
+      "release": "January 15, 2019",
+      "min_fw": "Fix 5.05/6.72",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/09/Onimusha-Warlords-PS4-PKG.webp",
+      "name": "Onimusha Warlords",
+      "type": "update",
+      "download_text": "Viki",
+      "key_description": "Update v1.01 (Fix 5.05/6.72) ⇛"
+    },
     "https://vikingfile.com/f/SCq21CEIvQ": {
       "region": "EUR",
       "size": "10.58 GB",

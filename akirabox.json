@@ -2885,7 +2885,7 @@
       "download_text": "AKR",
       "key_description": "Game (6.50+) ⇛"
     },
-    "https://akirabox.com/0JgG7Akj3oYW/file": {
+    "https://akirabox.com/9QWmp7erJGEB/file": {
       "region": "EUR",
       "size": "12GB",
       "version": "1.00",
@@ -15986,7 +15986,7 @@
       "download_text": "AKR",
       "key_description": "Update v1.06 (Fix 5.05/6.72) ⇛"
     },
-    "https://akirabox.com/5pVzNKOZG7wv/file": {
+    "https://akirabox.com/jJD3VVwK73a5/file": {
       "region": "EUR",
       "size": "50 GB",
       "version": "1.00",
@@ -21916,7 +21916,7 @@
       "download_text": "AKR",
       "key_description": "DLC Pack (33) ⇛"
     },
-    "https://akirabox.com/Pbe3PVkYGlX6/file": {
+    "https://akirabox.com/obj3jneQB3Dx/file": {
       "region": "EUR",
       "size": "15GB",
       "version": "1.00",
@@ -23494,30 +23494,6 @@
       "download_text": "AKR",
       "key_description": "DLC v2 ⇛"
     },
-    "https://akirabox.com/7d5GLr56V3xR/file": {
-      "region": "EUR",
-      "size": "397.15 MB",
-      "version": "1.00",
-      "release": "August 15, 2017",
-      "min_fw": "5.05+",
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/Nidhogg-2-PS4-PKG.webp",
-      "name": "Nidhogg 2",
-      "type": "game",
-      "download_text": "AKR",
-      "key_description": "Game (5.05+) ⇛"
-    },
-    "https://akirabox.com/5pVzNaNDX37w/file": {
-      "region": "EUR",
-      "size": "397.15 MB",
-      "version": "1.00",
-      "release": "August 15, 2017",
-      "min_fw": "5.05+",
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/Nidhogg-2-PS4-PKG.webp",
-      "name": "Nidhogg 2",
-      "type": "update",
-      "download_text": "AKR",
-      "key_description": "Update v1.07 (5.05+) ⇛"
-    },
     "https://akirabox.com/obj3jbwn23Dx/file": {
       "region": "EUR",
       "size": "500MB",
@@ -23541,6 +23517,30 @@
       "type": "update",
       "download_text": "AKR",
       "key_description": "Update v1.02 (5.05+) ⇛"
+    },
+    "https://akirabox.com/7d5GLr56V3xR/file": {
+      "region": "EUR",
+      "size": "397.15 MB",
+      "version": "1.00",
+      "release": "August 15, 2017",
+      "min_fw": "5.05+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/Nidhogg-2-PS4-PKG.webp",
+      "name": "Nidhogg 2",
+      "type": "game",
+      "download_text": "AKR",
+      "key_description": "Game (5.05+) ⇛"
+    },
+    "https://akirabox.com/5pVzNaNDX37w/file": {
+      "region": "EUR",
+      "size": "397.15 MB",
+      "version": "1.00",
+      "release": "August 15, 2017",
+      "min_fw": "5.05+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/Nidhogg-2-PS4-PKG.webp",
+      "name": "Nidhogg 2",
+      "type": "update",
+      "download_text": "AKR",
+      "key_description": "Update v1.07 (5.05+) ⇛"
     },
     "https://akirabox.com/0Kezk9162mD1/file": {
       "region": "EUR",
@@ -24345,6 +24345,42 @@
       "download_text": "AKR",
       "key_description": "DLC Pack (8) ⇛"
     },
+    "https://akirabox.com/gXeGOREejzAa/file": {
+      "region": "EUR",
+      "size": "32.72 GB",
+      "version": "1.00",
+      "release": "March 27, 2020",
+      "min_fw": null,
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/10/One-Piece-Pirate-Warriors-4-Ultimate-Edition-PS4-PKG.webp",
+      "name": "One Piece Pirate Warriors 4 Ultimate Edition",
+      "type": "game",
+      "download_text": "AKR",
+      "key_description": "Game ⇛"
+    },
+    "https://akirabox.com/RMKGJkoWlm1o/file": {
+      "region": "EUR",
+      "size": "32.72 GB",
+      "version": "1.00",
+      "release": "March 27, 2020",
+      "min_fw": "Fix 5.05/6.72/7.02/7.50/9.00",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/10/One-Piece-Pirate-Warriors-4-Ultimate-Edition-PS4-PKG.webp",
+      "name": "One Piece Pirate Warriors 4 Ultimate Edition",
+      "type": "update",
+      "download_text": "AKR",
+      "key_description": "Update v1.81 (Fix 5.05/6.72/7.02/7.50/9.00) ⇛"
+    },
+    "https://akirabox.com/Z9dzBj0Bgzk1/file": {
+      "region": "EUR",
+      "size": "32.72 GB",
+      "version": "3",
+      "release": "March 27, 2020",
+      "min_fw": null,
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/10/One-Piece-Pirate-Warriors-4-Ultimate-Edition-PS4-PKG.webp",
+      "name": "One Piece Pirate Warriors 4 Ultimate Edition",
+      "type": "dlc",
+      "download_text": "AKR",
+      "key_description": "All DLC (v3) ⇛"
+    },
     "https://akirabox.com/l76mZ7YZ3anY/file": {
       "region": "EUR",
       "size": "32.72 GB",
@@ -24455,6 +24491,42 @@
       "type": "dlc",
       "download_text": "AKR",
       "key_description": "DLC ⇛"
+    },
+    "https://akirabox.com/RMKGJkQ7Wm1o/file": {
+      "region": "EUR",
+      "size": "9GB",
+      "version": "1.00",
+      "release": "January 15, 2019",
+      "min_fw": "6.72+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/09/Onimusha-Warlords-PS4-PKG.webp",
+      "name": "Onimusha Warlords",
+      "type": "game",
+      "download_text": "AKR",
+      "key_description": "Game (6.72+) ⇛"
+    },
+    "https://akirabox.com/vgKGxoQRQz8Q/file": {
+      "region": "EUR",
+      "size": "9GB",
+      "version": "1.00",
+      "release": "January 15, 2019",
+      "min_fw": null,
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/09/Onimusha-Warlords-PS4-PKG.webp",
+      "name": "Onimusha Warlords",
+      "type": "game",
+      "download_text": "AKR",
+      "key_description": "Fix 5.05 ⇛"
+    },
+    "https://akirabox.com/Z9dzBjK7Pzk1/file": {
+      "region": "EUR",
+      "size": "9GB",
+      "version": "1.00",
+      "release": "January 15, 2019",
+      "min_fw": "Fix 5.05/6.72",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/09/Onimusha-Warlords-PS4-PKG.webp",
+      "name": "Onimusha Warlords",
+      "type": "update",
+      "download_text": "AKR",
+      "key_description": "Update v1.01 (Fix 5.05/6.72) ⇛"
     },
     "https://akirabox.com/jar3XQBrz2dD/folder": {
       "region": "EUR",
@@ -27186,6 +27258,30 @@
       "download_text": "AKR",
       "key_description": "Update v1.22 (Fix 5.05/6.72/7.02) ⇛"
     },
+    "https://akirabox.com/qPez4q9YxGOY/file": {
+      "region": "EUR",
+      "size": "15GB",
+      "version": "1.00",
+      "release": "Oct 24, 2024",
+      "min_fw": "Fix 9.00",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/11/Romancing-SaGa-2-PS4-PKG.webp",
+      "name": "Romancing Saga 2 Revenge Of The Seven",
+      "type": "update",
+      "download_text": "AKR",
+      "key_description": "Update v1.01 (Fix 9.00) ⇛"
+    },
+    "https://akirabox.com/Xkrzoq8vRmBO/file": {
+      "region": "EUR",
+      "size": "15GB",
+      "version": "1.00",
+      "release": "Oct 24, 2024",
+      "min_fw": "Fix 5.05-7.55",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/11/Romancing-SaGa-2-PS4-PKG.webp",
+      "name": "Romancing Saga 2 Revenge Of The Seven",
+      "type": "update",
+      "download_text": "AKR",
+      "key_description": "Update v1.01 (Fix 5.05-7.55) ⇛"
+    },
     "https://akirabox.com/qPez4KoN3OYn/file": {
       "region": "EUR",
       "size": "3.34 GB",
@@ -27414,7 +27510,7 @@
       "download_text": "AKR",
       "key_description": "DLC Pack (15) ⇛"
     },
-    "https://akirabox.com/E1x3AYYg3yk6/file": {
+    "https://akirabox.com/rk9zKw9B4z0l/file": {
       "region": "EUR",
       "size": "13GB",
       "version": "1.00",

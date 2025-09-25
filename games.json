@@ -2714,6 +2714,42 @@
       "download_text": "Viki",
       "key_description": "DLC ⇛"
     },
+    "https://vikingfile.com/f/Jg2qGy6fg1": {
+      "region": "EUR",
+      "size": "2GB",
+      "version": "1.00",
+      "release": "Sep 19, 2025",
+      "min_fw": "12.00+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/09/DreamWorks-Gabbys-Dollhouse-Ready-to-Party-PS4-PKG.webp",
+      "name": "Dreamworks Gabbys Dollhouse Ready To Party",
+      "type": "game",
+      "download_text": "Viki",
+      "key_description": "Game (12.00+) ⇛"
+    },
+    "https://vikingfile.com/f/G9eLBlYNRr": {
+      "region": "EUR",
+      "size": "2GB",
+      "version": "1.00",
+      "release": "Sep 19, 2025",
+      "min_fw": "Fix 6.72/7.xx/9.00/11.00",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/09/DreamWorks-Gabbys-Dollhouse-Ready-to-Party-PS4-PKG.webp",
+      "name": "Dreamworks Gabbys Dollhouse Ready To Party",
+      "type": "update",
+      "download_text": "Viki",
+      "key_description": "Update v1.01 (Fix 6.72/7.xx/9.00/11.00) ⇛"
+    },
+    "https://vikingfile.com/f/ZC8vMGOnUC": {
+      "region": "EUR",
+      "size": "2GB",
+      "version": "1.00",
+      "release": "Sep 19, 2025",
+      "min_fw": "Fix 5.05",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/09/DreamWorks-Gabbys-Dollhouse-Ready-to-Party-PS4-PKG.webp",
+      "name": "Dreamworks Gabbys Dollhouse Ready To Party",
+      "type": "update",
+      "download_text": "Viki",
+      "key_description": "Update v1.01 (Fix 5.05) ⇛"
+    },
     "https://vikingfile.com/f/gOmc7O1Rls": {
       "region": "EUR",
       "size": "8GB",
@@ -6710,6 +6746,54 @@
       "type": "dlc",
       "download_text": "Viki",
       "key_description": "DLC ⇛"
+    },
+    "https://vikingfile.com/f/JBeyv9p3Fm": {
+      "region": "EUR",
+      "size": "2GB",
+      "version": "1.00",
+      "release": "September 26, 2023",
+      "min_fw": "9.00+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/09/Paleo-Pines-PS4-PKG.webp",
+      "name": "Paleo Pines",
+      "type": "game",
+      "download_text": "Viki",
+      "key_description": "Game (9.00+) ⇛"
+    },
+    "https://vikingfile.com/f/jJGalMUt1k": {
+      "region": "EUR",
+      "size": "2GB",
+      "version": "1.00",
+      "release": "September 26, 2023",
+      "min_fw": "Fix 6.72/7.xx/9.00/11.00",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/09/Paleo-Pines-PS4-PKG.webp",
+      "name": "Paleo Pines",
+      "type": "update",
+      "download_text": "Viki",
+      "key_description": "Update v1.13 (Fix 6.72/7.xx/9.00/11.00) ⇛"
+    },
+    "https://vikingfile.com/f/zAcPKioppB": {
+      "region": "EUR",
+      "size": "2GB",
+      "version": "1.00",
+      "release": "September 26, 2023",
+      "min_fw": "Fix 5.05",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/09/Paleo-Pines-PS4-PKG.webp",
+      "name": "Paleo Pines",
+      "type": "update",
+      "download_text": "Viki",
+      "key_description": "Update v1.13 (Fix 5.05) ⇛"
+    },
+    "https://vikingfile.com/f/I5hoTqTx0Q": {
+      "region": "EUR",
+      "size": "2GB",
+      "version": "1.00",
+      "release": "September 26, 2023",
+      "min_fw": null,
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/09/Paleo-Pines-PS4-PKG.webp",
+      "name": "Paleo Pines",
+      "type": "dlc",
+      "download_text": "Viki",
+      "key_description": "DLC (2) ⇛"
     },
     "https://vikingfile.com/f/1pLepMt4md": {
       "region": "EUR",

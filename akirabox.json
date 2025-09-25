@@ -10136,6 +10136,42 @@
       "download_text": "AKR",
       "key_description": "DLC ⇛"
     },
+    "https://akirabox.com/0JgG70V6emoY/file": {
+      "region": "EUR",
+      "size": "2GB",
+      "version": "1.00",
+      "release": "Sep 19, 2025",
+      "min_fw": "12.00+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/09/DreamWorks-Gabbys-Dollhouse-Ready-to-Party-PS4-PKG.webp",
+      "name": "Dreamworks Gabbys Dollhouse Ready To Party",
+      "type": "game",
+      "download_text": "AKR",
+      "key_description": "Game (12.00+) ⇛"
+    },
+    "https://akirabox.com/0PdzyW06LmeA/file": {
+      "region": "EUR",
+      "size": "2GB",
+      "version": "1.00",
+      "release": "Sep 19, 2025",
+      "min_fw": "Fix 6.72/7.xx/9.00/11.00",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/09/DreamWorks-Gabbys-Dollhouse-Ready-to-Party-PS4-PKG.webp",
+      "name": "Dreamworks Gabbys Dollhouse Ready To Party",
+      "type": "update",
+      "download_text": "AKR",
+      "key_description": "Update v1.01 (Fix 6.72/7.xx/9.00/11.00) ⇛"
+    },
+    "https://akirabox.com/9AqGQR6YvmMn/file": {
+      "region": "EUR",
+      "size": "2GB",
+      "version": "1.00",
+      "release": "Sep 19, 2025",
+      "min_fw": "Fix 5.05",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/09/DreamWorks-Gabbys-Dollhouse-Ready-to-Party-PS4-PKG.webp",
+      "name": "Dreamworks Gabbys Dollhouse Ready To Party",
+      "type": "update",
+      "download_text": "AKR",
+      "key_description": "Update v1.01 (Fix 5.05) ⇛"
+    },
     "https://akirabox.com/M2BGwQE53j40/file": {
       "region": "EUR",
       "size": "3.26 GB",
@@ -23458,30 +23494,6 @@
       "download_text": "AKR",
       "key_description": "DLC v2 ⇛"
     },
-    "https://akirabox.com/obj3jbwn23Dx/file": {
-      "region": "EUR",
-      "size": "500MB",
-      "version": "1.00",
-      "release": "October 14, 2014",
-      "min_fw": "5.05+",
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/08/Nidhogg-PS4-PKG.webp",
-      "name": "Nidhogg 2",
-      "type": "game",
-      "download_text": "AKR",
-      "key_description": "Game (5.05+) ⇛"
-    },
-    "https://akirabox.com/RMKGJXrkl31o/file": {
-      "region": "EUR",
-      "size": "500MB",
-      "version": "1.00",
-      "release": "October 14, 2014",
-      "min_fw": "5.05+",
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/08/Nidhogg-PS4-PKG.webp",
-      "name": "Nidhogg 2",
-      "type": "update",
-      "download_text": "AKR",
-      "key_description": "Update v1.02 (5.05+) ⇛"
-    },
     "https://akirabox.com/7d5GLr56V3xR/file": {
       "region": "EUR",
       "size": "397.15 MB",
@@ -23505,6 +23517,30 @@
       "type": "update",
       "download_text": "AKR",
       "key_description": "Update v1.07 (5.05+) ⇛"
+    },
+    "https://akirabox.com/obj3jbwn23Dx/file": {
+      "region": "EUR",
+      "size": "500MB",
+      "version": "1.00",
+      "release": "October 14, 2014",
+      "min_fw": "5.05+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/08/Nidhogg-PS4-PKG.webp",
+      "name": "Nidhogg 2",
+      "type": "game",
+      "download_text": "AKR",
+      "key_description": "Game (5.05+) ⇛"
+    },
+    "https://akirabox.com/RMKGJXrkl31o/file": {
+      "region": "EUR",
+      "size": "500MB",
+      "version": "1.00",
+      "release": "October 14, 2014",
+      "min_fw": "5.05+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/08/Nidhogg-PS4-PKG.webp",
+      "name": "Nidhogg 2",
+      "type": "update",
+      "download_text": "AKR",
+      "key_description": "Update v1.02 (5.05+) ⇛"
     },
     "https://akirabox.com/0Kezk9162mD1/file": {
       "region": "EUR",
@@ -24737,6 +24773,54 @@
       "type": "update",
       "download_text": "AKR",
       "key_description": "Update v1.02 (Fix 5.05/6.72/7.xx/8.xx) ⇛"
+    },
+    "https://akirabox.com/qLQ36pVAPG19/file": {
+      "region": "EUR",
+      "size": "2GB",
+      "version": "1.00",
+      "release": "September 26, 2023",
+      "min_fw": "9.00+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/09/Paleo-Pines-PS4-PKG.webp",
+      "name": "Paleo Pines",
+      "type": "game",
+      "download_text": "AKR",
+      "key_description": "Game (9.00+) ⇛"
+    },
+    "https://akirabox.com/N2p3DJnppGMa/file": {
+      "region": "EUR",
+      "size": "2GB",
+      "version": "1.00",
+      "release": "September 26, 2023",
+      "min_fw": "Fix 6.72/7.xx/9.00/11.00",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/09/Paleo-Pines-PS4-PKG.webp",
+      "name": "Paleo Pines",
+      "type": "update",
+      "download_text": "AKR",
+      "key_description": "Update v1.13 (Fix 6.72/7.xx/9.00/11.00) ⇛"
+    },
+    "https://akirabox.com/gXeGOR9lKzAa/file": {
+      "region": "EUR",
+      "size": "2GB",
+      "version": "1.00",
+      "release": "September 26, 2023",
+      "min_fw": "Fix 5.05",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/09/Paleo-Pines-PS4-PKG.webp",
+      "name": "Paleo Pines",
+      "type": "update",
+      "download_text": "AKR",
+      "key_description": "Update v1.13 (Fix 5.05) ⇛"
+    },
+    "https://akirabox.com/2WVGrQ94kzkx/folder": {
+      "region": "EUR",
+      "size": "2GB",
+      "version": "1.00",
+      "release": "September 26, 2023",
+      "min_fw": null,
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/09/Paleo-Pines-PS4-PKG.webp",
+      "name": "Paleo Pines",
+      "type": "dlc",
+      "download_text": "AKR",
+      "key_description": "DLC (2) ⇛"
     },
     "https://akirabox.com/jar3XVagOG2d/file": {
       "region": "EUR",

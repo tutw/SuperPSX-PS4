@@ -29666,6 +29666,30 @@
       "download_text": "OneFile",
       "key_description": "Game (5.05+) ⇛"
     },
+    "https://1fichier.com/?ao8c3vcl45slgznpzhmh&af=4186346": {
+      "region": "EUR",
+      "size": "10GB",
+      "version": "1.00",
+      "release": "December, 10 2024",
+      "min_fw": null,
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/10/Mighty-Morphin-Power-Rangers-Ritas-Rewind-PS4-PKG.webp",
+      "name": "Mighty Morphin Power Rangers Ritas Rewind",
+      "type": "game",
+      "download_text": "OneFile",
+      "key_description": "Game (11.50+) ⇛"
+    },
+    "https://1fichier.com/?8lfaon950yps315x1lsb&af=4186346": {
+      "region": "EUR",
+      "size": "10GB",
+      "version": "1.00",
+      "release": "December, 10 2024",
+      "min_fw": "Fix 5.05/6.72/7.xx/9.00/11.00",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/10/Mighty-Morphin-Power-Rangers-Ritas-Rewind-PS4-PKG.webp",
+      "name": "Mighty Morphin Power Rangers Ritas Rewind",
+      "type": "update",
+      "download_text": "OneFile",
+      "key_description": "Update v1.09 (Fix 5.05/6.72/7.xx/9.00/11.00)  ⇛"
+    },
     "https://1fichier.com/?1ybmgmqvncwi2v46arv5&af=4186346": {
       "region": "EUR",
       "size": "177MB",
@@ -32094,42 +32118,6 @@
       "type": "dlc",
       "download_text": "OneFile",
       "key_description": "DLC ⇛"
-    },
-    "https://1fichier.com/?22oyng38w70u1ncsa2af&af=4186346": {
-      "region": "EUR",
-      "size": "70GB",
-      "version": "1.00",
-      "release": "Sep 5, 2025",
-      "min_fw": null,
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/09/NBA-2K26-PS4-PKG.webp",
-      "name": "NBA 2K26",
-      "type": "game",
-      "download_text": "OneFile",
-      "key_description": "Game (12.50+) ⇛"
-    },
-    "https://1fichier.com/?6tmr5kbkzolzd1z4az89&af=4186346": {
-      "region": "EUR",
-      "size": "70GB",
-      "version": "1.00",
-      "release": "Sep 5, 2025",
-      "min_fw": "Fix 5.05/6.72/7.xx/9.00/11.00/12.00",
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/09/NBA-2K26-PS4-PKG.webp",
-      "name": "NBA 2K26",
-      "type": "update",
-      "download_text": "OneFile",
-      "key_description": "Update v1.02 (Fix 5.05/6.72/7.xx/9.00/11.00/12.00) ⇛"
-    },
-    "https://1fichier.com/?y3v35lv6zift4ok7m0y4&af=4186346": {
-      "region": "EUR",
-      "size": "70GB",
-      "version": "1.00",
-      "release": "Sep 5, 2025",
-      "min_fw": null,
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/09/NBA-2K26-PS4-PKG.webp",
-      "name": "NBA 2K26",
-      "type": "dlc",
-      "download_text": "OneFile",
-      "key_description": "DLC s⇛"
     },
     "https://1fichier.com/?w0cvpfopdvjbs9aeaor8&af=4186346": {
       "region": "EUR",

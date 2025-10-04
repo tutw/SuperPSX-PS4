@@ -21267,6 +21267,30 @@
       "download_text": "AKR",
       "key_description": "Game (5.05+) ⇛"
     },
+    "https://akirabox.com/0rpmv7O5B3Rg/file": {
+      "region": "EUR",
+      "size": "10GB",
+      "version": "1.00",
+      "release": "December, 10 2024",
+      "min_fw": null,
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/10/Mighty-Morphin-Power-Rangers-Ritas-Rewind-PS4-PKG.webp",
+      "name": "Mighty Morphin Power Rangers Ritas Rewind",
+      "type": "game",
+      "download_text": "AKR",
+      "key_description": "Game (11.50+) ⇛"
+    },
+    "https://akirabox.com/gXeGORj7dzAa/file": {
+      "region": "EUR",
+      "size": "10GB",
+      "version": "1.00",
+      "release": "December, 10 2024",
+      "min_fw": "Fix 5.05/6.72/7.xx/9.00/11.00",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/10/Mighty-Morphin-Power-Rangers-Ritas-Rewind-PS4-PKG.webp",
+      "name": "Mighty Morphin Power Rangers Ritas Rewind",
+      "type": "update",
+      "download_text": "AKR",
+      "key_description": "Update v1.09 (Fix 5.05/6.72/7.xx/9.00/11.00)  ⇛"
+    },
     "https://akirabox.com/LK0G10lYz917/file": {
       "region": "EUR",
       "size": "177MB",
@@ -22631,42 +22655,6 @@
       "type": "update",
       "download_text": "AKR",
       "key_description": "Update v1.07 (Fix 5.05/6.72/7.xx/9.00) ⇛"
-    },
-    "https://akirabox.com/LK0G1e4Y4G91/file": {
-      "region": "EUR",
-      "size": "70GB",
-      "version": "1.00",
-      "release": "Sep 5, 2025",
-      "min_fw": null,
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/09/NBA-2K26-PS4-PKG.webp",
-      "name": "NBA 2K26",
-      "type": "game",
-      "download_text": "AKR",
-      "key_description": "Game (12.50+) ⇛"
-    },
-    "https://akirabox.com/l76mZ27Kxman/file": {
-      "region": "EUR",
-      "size": "70GB",
-      "version": "1.00",
-      "release": "Sep 5, 2025",
-      "min_fw": "Fix 5.05/6.72/7.xx/9.00/11.00/12.00",
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/09/NBA-2K26-PS4-PKG.webp",
-      "name": "NBA 2K26",
-      "type": "update",
-      "download_text": "AKR",
-      "key_description": "Update v1.02 (Fix 5.05/6.72/7.xx/9.00/11.00/12.00) ⇛"
-    },
-    "https://akirabox.com/RMKGJkO8Lm1o/file": {
-      "region": "EUR",
-      "size": "70GB",
-      "version": "1.00",
-      "release": "Sep 5, 2025",
-      "min_fw": null,
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/09/NBA-2K26-PS4-PKG.webp",
-      "name": "NBA 2K26",
-      "type": "dlc",
-      "download_text": "AKR",
-      "key_description": "DLC s⇛"
     },
     "https://akirabox.com/QN9mEjq6y36d/file": {
       "region": "EUR",

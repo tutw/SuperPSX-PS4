@@ -5721,6 +5721,30 @@
       "download_text": "Viki",
       "key_description": "Update v1.05 (5.05+) ⇛"
     },
+    "https://vikingfile.com/f/7QdbUzcN8x": {
+      "region": "EUR",
+      "size": "10GB",
+      "version": "1.00",
+      "release": "December, 10 2024",
+      "min_fw": null,
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/10/Mighty-Morphin-Power-Rangers-Ritas-Rewind-PS4-PKG.webp",
+      "name": "Mighty Morphin Power Rangers Ritas Rewind",
+      "type": "game",
+      "download_text": "Viki",
+      "key_description": "Game (11.50+) ⇛"
+    },
+    "https://vikingfile.com/f/brxgJ0XvRF": {
+      "region": "EUR",
+      "size": "10GB",
+      "version": "1.00",
+      "release": "December, 10 2024",
+      "min_fw": "Fix 5.05/6.72/7.xx/9.00/11.00",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/10/Mighty-Morphin-Power-Rangers-Ritas-Rewind-PS4-PKG.webp",
+      "name": "Mighty Morphin Power Rangers Ritas Rewind",
+      "type": "update",
+      "download_text": "Viki",
+      "key_description": "Update v1.09 (Fix 5.05/6.72/7.xx/9.00/11.00)  ⇛"
+    },
     "https://vikingfile.com/f/u6CosTY3eC": {
       "region": "EUR",
       "size": "177MB",
@@ -6156,30 +6180,6 @@
       "type": "update",
       "download_text": "Viki",
       "key_description": "Update v1.07 (Fix 5.05/6.72/7.xx/9.00) ⇛"
-    },
-    "https://vikingfile.com/f/6pXjRvc4Ft": {
-      "region": "EUR",
-      "size": "70GB",
-      "version": "1.00",
-      "release": "Sep 5, 2025",
-      "min_fw": null,
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/09/NBA-2K26-PS4-PKG.webp",
-      "name": "NBA 2K26",
-      "type": "game",
-      "download_text": "Viki",
-      "key_description": "Game (12.50+) ⇛"
-    },
-    "https://vikingfile.com/f/wkRcEKWU3i": {
-      "region": "EUR",
-      "size": "70GB",
-      "version": "1.00",
-      "release": "Sep 5, 2025",
-      "min_fw": null,
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/09/NBA-2K26-PS4-PKG.webp",
-      "name": "NBA 2K26",
-      "type": "dlc",
-      "download_text": "Viki",
-      "key_description": "DLC s⇛"
     },
     "https://vikingfile.com/f/ZC8JknOdQq": {
       "region": "EUR",

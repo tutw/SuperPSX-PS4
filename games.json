@@ -2342,42 +2342,6 @@
       "download_text": "Viki",
       "key_description": "Fix (5.05 / 6.72 / 7.02 / 7.55 / 9.00 / 11.00) ⇛"
     },
-    "https://vikingfile.com/f/dKbXHhQtAB": {
-      "region": "EUR",
-      "size": "7GB",
-      "version": "1.00",
-      "release": "October 21, 2021",
-      "min_fw": "9.00+",
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/05/Disciples-Liberation-PS4-PKG.webp",
-      "name": "Disciples Liberation",
-      "type": "game",
-      "download_text": "Viki",
-      "key_description": "Game (9.00+) ⇛"
-    },
-    "https://vikingfile.com/f/2NJDPAPCfZ": {
-      "region": "EUR",
-      "size": "7GB",
-      "version": "1.00",
-      "release": "October 21, 2021",
-      "min_fw": "9.00+",
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/05/Disciples-Liberation-PS4-PKG.webp",
-      "name": "Disciples Liberation",
-      "type": "update",
-      "download_text": "Viki",
-      "key_description": "Update v1.06 (9.00+) ⇛"
-    },
-    "https://vikingfile.com/f/FbQ9OC0RPF": {
-      "region": "EUR",
-      "size": "7GB",
-      "version": "1.00",
-      "release": "October 21, 2021",
-      "min_fw": "Fix 5.05/6.72/7.xx",
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/05/Disciples-Liberation-PS4-PKG.webp",
-      "name": "Disciples Liberation",
-      "type": "update",
-      "download_text": "Viki",
-      "key_description": "Update v1.06 (Fix 5.05/6.72/7.xx) ⇛"
-    },
     "https://vikingfile.com/f/szDN9OC1bp": {
       "region": "EUR",
       "size": "9GB",

@@ -9021,42 +9021,6 @@
       "download_text": "AKR",
       "key_description": "ALL DLCs ⇛"
     },
-    "https://akirabox.com/5pVzNPAEkm7w/file": {
-      "region": "EUR",
-      "size": "7GB",
-      "version": "1.00",
-      "release": "October 21, 2021",
-      "min_fw": "9.00+",
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/05/Disciples-Liberation-PS4-PKG.webp",
-      "name": "Disciples Liberation",
-      "type": "game",
-      "download_text": "AKR",
-      "key_description": "Game (9.00+) ⇛"
-    },
-    "https://akirabox.com/0JgG705k8moY/file": {
-      "region": "EUR",
-      "size": "7GB",
-      "version": "1.00",
-      "release": "October 21, 2021",
-      "min_fw": "9.00+",
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/05/Disciples-Liberation-PS4-PKG.webp",
-      "name": "Disciples Liberation",
-      "type": "update",
-      "download_text": "AKR",
-      "key_description": "Update v1.06 (9.00+) ⇛"
-    },
-    "https://akirabox.com/APVmaJb4q3Xo/file": {
-      "region": "EUR",
-      "size": "7GB",
-      "version": "1.00",
-      "release": "October 21, 2021",
-      "min_fw": "Fix 5.05/6.72/7.xx",
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/05/Disciples-Liberation-PS4-PKG.webp",
-      "name": "Disciples Liberation",
-      "type": "update",
-      "download_text": "AKR",
-      "key_description": "Update v1.06 (Fix 5.05/6.72/7.xx) ⇛"
-    },
     "https://akirabox.com/EL73gekAG9Ba/file": {
       "region": "USA",
       "size": "18 GB",
@@ -23493,30 +23457,6 @@
       "download_text": "AKR",
       "key_description": "DLC v2 ⇛"
     },
-    "https://akirabox.com/7d5GLr56V3xR/file": {
-      "region": "EUR",
-      "size": "397.15 MB",
-      "version": "1.00",
-      "release": "August 15, 2017",
-      "min_fw": "5.05+",
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/Nidhogg-2-PS4-PKG.webp",
-      "name": "Nidhogg 2",
-      "type": "game",
-      "download_text": "AKR",
-      "key_description": "Game (5.05+) ⇛"
-    },
-    "https://akirabox.com/5pVzNaNDX37w/file": {
-      "region": "EUR",
-      "size": "397.15 MB",
-      "version": "1.00",
-      "release": "August 15, 2017",
-      "min_fw": "5.05+",
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/Nidhogg-2-PS4-PKG.webp",
-      "name": "Nidhogg 2",
-      "type": "update",
-      "download_text": "AKR",
-      "key_description": "Update v1.07 (5.05+) ⇛"
-    },
     "https://akirabox.com/obj3jbwn23Dx/file": {
       "region": "EUR",
       "size": "500MB",
@@ -23540,6 +23480,30 @@
       "type": "update",
       "download_text": "AKR",
       "key_description": "Update v1.02 (5.05+) ⇛"
+    },
+    "https://akirabox.com/7d5GLr56V3xR/file": {
+      "region": "EUR",
+      "size": "397.15 MB",
+      "version": "1.00",
+      "release": "August 15, 2017",
+      "min_fw": "5.05+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/Nidhogg-2-PS4-PKG.webp",
+      "name": "Nidhogg 2",
+      "type": "game",
+      "download_text": "AKR",
+      "key_description": "Game (5.05+) ⇛"
+    },
+    "https://akirabox.com/5pVzNaNDX37w/file": {
+      "region": "EUR",
+      "size": "397.15 MB",
+      "version": "1.00",
+      "release": "August 15, 2017",
+      "min_fw": "5.05+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/Nidhogg-2-PS4-PKG.webp",
+      "name": "Nidhogg 2",
+      "type": "update",
+      "download_text": "AKR",
+      "key_description": "Update v1.07 (5.05+) ⇛"
     },
     "https://akirabox.com/0Kezk9162mD1/file": {
       "region": "EUR",

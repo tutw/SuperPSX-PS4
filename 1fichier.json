@@ -12612,42 +12612,6 @@
       "download_text": "OneFile",
       "key_description": "ALL DLCs ⇛"
     },
-    "https://1fichier.com/?mycjoekwfqwu6hwvar2z&af=4186346": {
-      "region": "EUR",
-      "size": "7GB",
-      "version": "1.00",
-      "release": "October 21, 2021",
-      "min_fw": "9.00+",
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/05/Disciples-Liberation-PS4-PKG.webp",
-      "name": "Disciples Liberation",
-      "type": "game",
-      "download_text": "OneFile",
-      "key_description": "Game (9.00+) ⇛"
-    },
-    "https://1fichier.com/?fazvkwdhvds8i003fcrp&af=4186346": {
-      "region": "EUR",
-      "size": "7GB",
-      "version": "1.00",
-      "release": "October 21, 2021",
-      "min_fw": "9.00+",
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/05/Disciples-Liberation-PS4-PKG.webp",
-      "name": "Disciples Liberation",
-      "type": "update",
-      "download_text": "OneFile",
-      "key_description": "Update v1.06 (9.00+) ⇛"
-    },
-    "https://1fichier.com/?xl8nzzw1t4wmqc22jtgi&af=4186346": {
-      "region": "EUR",
-      "size": "7GB",
-      "version": "1.00",
-      "release": "October 21, 2021",
-      "min_fw": "Fix 5.05/6.72/7.xx",
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/05/Disciples-Liberation-PS4-PKG.webp",
-      "name": "Disciples Liberation",
-      "type": "update",
-      "download_text": "OneFile",
-      "key_description": "Update v1.06 (Fix 5.05/6.72/7.xx) ⇛"
-    },
     "https://1fichier.com/?7d8gfn9cs94d7giznidu&af=4186346": {
       "region": "USA",
       "size": "18 GB",
@@ -33304,30 +33268,6 @@
       "download_text": "OneFile",
       "key_description": "DLC ⇛"
     },
-    "https://1fichier.com/?e7psyde2u42xep77z9a9&af=4186346": {
-      "region": "EUR",
-      "size": "397.15 MB",
-      "version": "1.00",
-      "release": "August 15, 2017",
-      "min_fw": "5.05+",
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/Nidhogg-2-PS4-PKG.webp",
-      "name": "Nidhogg 2",
-      "type": "game",
-      "download_text": "OneFile",
-      "key_description": "Game (5.05+) ⇛"
-    },
-    "https://1fichier.com/?gd1on8cxwscgvpfngm94&af=4186346": {
-      "region": "EUR",
-      "size": "397.15 MB",
-      "version": "1.00",
-      "release": "August 15, 2017",
-      "min_fw": "5.05+",
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/Nidhogg-2-PS4-PKG.webp",
-      "name": "Nidhogg 2",
-      "type": "update",
-      "download_text": "OneFile",
-      "key_description": "Update v1.07 (5.05+) ⇛"
-    },
     "https://1fichier.com/?x0l1nv7408ke0kb720il&af=4186346": {
       "region": "EUR",
       "size": "500MB",
@@ -33351,6 +33291,30 @@
       "type": "update",
       "download_text": "OneFile",
       "key_description": "Update v1.02 (5.05+) ⇛"
+    },
+    "https://1fichier.com/?e7psyde2u42xep77z9a9&af=4186346": {
+      "region": "EUR",
+      "size": "397.15 MB",
+      "version": "1.00",
+      "release": "August 15, 2017",
+      "min_fw": "5.05+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/Nidhogg-2-PS4-PKG.webp",
+      "name": "Nidhogg 2",
+      "type": "game",
+      "download_text": "OneFile",
+      "key_description": "Game (5.05+) ⇛"
+    },
+    "https://1fichier.com/?gd1on8cxwscgvpfngm94&af=4186346": {
+      "region": "EUR",
+      "size": "397.15 MB",
+      "version": "1.00",
+      "release": "August 15, 2017",
+      "min_fw": "5.05+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/Nidhogg-2-PS4-PKG.webp",
+      "name": "Nidhogg 2",
+      "type": "update",
+      "download_text": "OneFile",
+      "key_description": "Update v1.07 (5.05+) ⇛"
     },
     "https://1fichier.com/?l85tz68ijgs1udp3fkom&af=4186346": {
       "region": "EUR",

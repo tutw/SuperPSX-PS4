@@ -12612,6 +12612,42 @@
       "download_text": "OneFile",
       "key_description": "ALL DLCs ⇛"
     },
+    "https://1fichier.com/?mycjoekwfqwu6hwvar2z&af=4186346": {
+      "region": "EUR",
+      "size": "7GB",
+      "version": "1.00",
+      "release": "October 21, 2021",
+      "min_fw": "9.00+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/05/Disciples-Liberation-PS4-PKG.webp",
+      "name": "Disciples Liberation",
+      "type": "game",
+      "download_text": "OneFile",
+      "key_description": "Game (9.00+) ⇛"
+    },
+    "https://1fichier.com/?fazvkwdhvds8i003fcrp&af=4186346": {
+      "region": "EUR",
+      "size": "7GB",
+      "version": "1.00",
+      "release": "October 21, 2021",
+      "min_fw": "9.00+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/05/Disciples-Liberation-PS4-PKG.webp",
+      "name": "Disciples Liberation",
+      "type": "update",
+      "download_text": "OneFile",
+      "key_description": "Update v1.06 (9.00+) ⇛"
+    },
+    "https://1fichier.com/?xl8nzzw1t4wmqc22jtgi&af=4186346": {
+      "region": "EUR",
+      "size": "7GB",
+      "version": "1.00",
+      "release": "October 21, 2021",
+      "min_fw": "Fix 5.05/6.72/7.xx",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/05/Disciples-Liberation-PS4-PKG.webp",
+      "name": "Disciples Liberation",
+      "type": "update",
+      "download_text": "OneFile",
+      "key_description": "Update v1.06 (Fix 5.05/6.72/7.xx) ⇛"
+    },
     "https://1fichier.com/?7d8gfn9cs94d7giznidu&af=4186346": {
       "region": "USA",
       "size": "18 GB",
@@ -32082,6 +32118,42 @@
       "type": "dlc",
       "download_text": "OneFile",
       "key_description": "DLC ⇛"
+    },
+    "https://1fichier.com/?fwv5pg8sk0rsglmt3b48&af=4186346": {
+      "region": "EUR",
+      "size": "1GB",
+      "version": "1.00",
+      "release": "September 26, 2025",
+      "min_fw": null,
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/10/NBA-BOUNCE-PS4-PKG.webp",
+      "name": "NBA Bounce",
+      "type": "game",
+      "download_text": "OneFile",
+      "key_description": "Game ⇛"
+    },
+    "https://1fichier.com/?foplkxz1pkxz2ffqc2m4&af=4186346": {
+      "region": "EUR",
+      "size": "1GB",
+      "version": "1.00",
+      "release": "September 26, 2025",
+      "min_fw": "Fix 6.72/7.xx/9.00/11.00",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/10/NBA-BOUNCE-PS4-PKG.webp",
+      "name": "NBA Bounce",
+      "type": "update",
+      "download_text": "OneFile",
+      "key_description": "Update v1.01 (Fix 6.72/7.xx/9.00/11.00) ⇛"
+    },
+    "https://1fichier.com/?7nw4dlfjgbatbylpyk8t&af=4186346": {
+      "region": "EUR",
+      "size": "1GB",
+      "version": "1.00",
+      "release": "September 26, 2025",
+      "min_fw": "Fix 5.05",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/10/NBA-BOUNCE-PS4-PKG.webp",
+      "name": "NBA Bounce",
+      "type": "update",
+      "download_text": "OneFile",
+      "key_description": "Update v1.01 (Fix 5.05) ⇛"
     },
     "https://1fichier.com/?w0cvpfopdvjbs9aeaor8&af=4186346": {
       "region": "EUR",

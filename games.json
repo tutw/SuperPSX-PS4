@@ -615,6 +615,54 @@
       "download_text": "Viki",
       "key_description": "DLC (17) ⇛"
     },
+    "https://vikingfile.com/f/aUzTj6Ipdt": {
+      "region": "EUR",
+      "size": "19.5GB",
+      "version": "1.00",
+      "release": "March 27, 2025",
+      "min_fw": null,
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/03/Atomfall-Deluxe-Edition-PS4-PKG.webp",
+      "name": "Atomfall Deluxe Edition",
+      "type": "game",
+      "download_text": "Viki",
+      "key_description": "Game ⇛"
+    },
+    "https://vikingfile.com/f/OeVIuN4LQ9": {
+      "region": "EUR",
+      "size": "19.5GB",
+      "version": "1.00",
+      "release": "March 27, 2025",
+      "min_fw": "11.00+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/03/Atomfall-Deluxe-Edition-PS4-PKG.webp",
+      "name": "Atomfall Deluxe Edition",
+      "type": "update",
+      "download_text": "Viki",
+      "key_description": "Update v1.21 (11.00+) ⇛"
+    },
+    "https://vikingfile.com/f/96bhmewtwg": {
+      "region": "EUR",
+      "size": "19.5GB",
+      "version": "1.00",
+      "release": "March 27, 2025",
+      "min_fw": "Fix 5.05/6.72/7.xx/9.00",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/03/Atomfall-Deluxe-Edition-PS4-PKG.webp",
+      "name": "Atomfall Deluxe Edition",
+      "type": "update",
+      "download_text": "Viki",
+      "key_description": "Update v1.21 (Fix 5.05/6.72/7.xx/9.00) ⇛"
+    },
+    "https://vikingfile.com/f/AUMRN44g9D": {
+      "region": "EUR",
+      "size": "19.5GB",
+      "version": "1.00",
+      "release": "March 27, 2025",
+      "min_fw": null,
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/03/Atomfall-Deluxe-Edition-PS4-PKG.webp",
+      "name": "Atomfall Deluxe Edition",
+      "type": "dlc",
+      "download_text": "Viki",
+      "key_description": "DLC v2 (4) ⇛"
+    },
     "https://vikingfile.com/f/7G5paPNOqY": {
       "region": "EUR",
       "size": "19.5GB",
@@ -7568,6 +7616,42 @@
       "type": "game",
       "download_text": "Viki",
       "key_description": "Fix 5.05 ⇛"
+    },
+    "https://vikingfile.com/f/saghzypVFd": {
+      "region": "EUR",
+      "size": "5GB",
+      "version": "1.00",
+      "release": "November 15, 2022",
+      "min_fw": "9.00+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/10/RWBY-Arrowfell-PS4-PKG.webp",
+      "name": "Rwby Arrowfell",
+      "type": "game",
+      "download_text": "Viki",
+      "key_description": "Game (9.00+) ⇛"
+    },
+    "https://vikingfile.com/f/9OFfIB1Bpn": {
+      "region": "EUR",
+      "size": "5GB",
+      "version": "1.00",
+      "release": "November 15, 2022",
+      "min_fw": null,
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/10/RWBY-Arrowfell-PS4-PKG.webp",
+      "name": "Rwby Arrowfell",
+      "type": "update",
+      "download_text": "Viki",
+      "key_description": "Update v1.01 (9.50+)  ⇛"
+    },
+    "https://vikingfile.com/f/cE3nlZnyYs": {
+      "region": "EUR",
+      "size": "5GB",
+      "version": "1.00",
+      "release": "November 15, 2022",
+      "min_fw": "Fix 5.05/6.72/7.xx/9.00",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/10/RWBY-Arrowfell-PS4-PKG.webp",
+      "name": "Rwby Arrowfell",
+      "type": "update",
+      "download_text": "Viki",
+      "key_description": "Update v1.01 (Fix 5.05/6.72/7.xx/9.00) ⇛"
     },
     "https://vikingfile.com/f/yQbLQPlt0c": {
       "region": "EUR",

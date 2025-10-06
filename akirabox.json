@@ -2292,6 +2292,54 @@
       "download_text": "AKR",
       "key_description": "DLC (17) ⇛"
     },
+    "https://akirabox.com/7d5GLE205mxR/file": {
+      "region": "EUR",
+      "size": "19.5GB",
+      "version": "1.00",
+      "release": "March 27, 2025",
+      "min_fw": null,
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/03/Atomfall-Deluxe-Edition-PS4-PKG.webp",
+      "name": "Atomfall Deluxe Edition",
+      "type": "game",
+      "download_text": "AKR",
+      "key_description": "Game ⇛"
+    },
+    "https://akirabox.com/5pVzNP2lbm7w/file": {
+      "region": "EUR",
+      "size": "19.5GB",
+      "version": "1.00",
+      "release": "March 27, 2025",
+      "min_fw": "11.00+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/03/Atomfall-Deluxe-Edition-PS4-PKG.webp",
+      "name": "Atomfall Deluxe Edition",
+      "type": "update",
+      "download_text": "AKR",
+      "key_description": "Update v1.21 (11.00+) ⇛"
+    },
+    "https://akirabox.com/LJlGnqARRz15/file": {
+      "region": "EUR",
+      "size": "19.5GB",
+      "version": "1.00",
+      "release": "March 27, 2025",
+      "min_fw": "Fix 5.05/6.72/7.xx/9.00",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/03/Atomfall-Deluxe-Edition-PS4-PKG.webp",
+      "name": "Atomfall Deluxe Edition",
+      "type": "update",
+      "download_text": "AKR",
+      "key_description": "Update v1.21 (Fix 5.05/6.72/7.xx/9.00) ⇛"
+    },
+    "https://akirabox.com/wgWGqqoBdG4o/folder": {
+      "region": "EUR",
+      "size": "19.5GB",
+      "version": "1.00",
+      "release": "March 27, 2025",
+      "min_fw": null,
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/03/Atomfall-Deluxe-Edition-PS4-PKG.webp",
+      "name": "Atomfall Deluxe Edition",
+      "type": "dlc",
+      "download_text": "AKR",
+      "key_description": "DLC v2 (4) ⇛"
+    },
     "https://akirabox.com/RMKGJRRXXG1o/file": {
       "region": "EUR",
       "size": "19.5GB",
@@ -23529,30 +23577,6 @@
       "download_text": "AKR",
       "key_description": "DLC v2 ⇛"
     },
-    "https://akirabox.com/7d5GLr56V3xR/file": {
-      "region": "EUR",
-      "size": "397.15 MB",
-      "version": "1.00",
-      "release": "August 15, 2017",
-      "min_fw": "5.05+",
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/Nidhogg-2-PS4-PKG.webp",
-      "name": "Nidhogg 2",
-      "type": "game",
-      "download_text": "AKR",
-      "key_description": "Game (5.05+) ⇛"
-    },
-    "https://akirabox.com/5pVzNaNDX37w/file": {
-      "region": "EUR",
-      "size": "397.15 MB",
-      "version": "1.00",
-      "release": "August 15, 2017",
-      "min_fw": "5.05+",
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/Nidhogg-2-PS4-PKG.webp",
-      "name": "Nidhogg 2",
-      "type": "update",
-      "download_text": "AKR",
-      "key_description": "Update v1.07 (5.05+) ⇛"
-    },
     "https://akirabox.com/obj3jbwn23Dx/file": {
       "region": "EUR",
       "size": "500MB",
@@ -23576,6 +23600,30 @@
       "type": "update",
       "download_text": "AKR",
       "key_description": "Update v1.02 (5.05+) ⇛"
+    },
+    "https://akirabox.com/7d5GLr56V3xR/file": {
+      "region": "EUR",
+      "size": "397.15 MB",
+      "version": "1.00",
+      "release": "August 15, 2017",
+      "min_fw": "5.05+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/Nidhogg-2-PS4-PKG.webp",
+      "name": "Nidhogg 2",
+      "type": "game",
+      "download_text": "AKR",
+      "key_description": "Game (5.05+) ⇛"
+    },
+    "https://akirabox.com/5pVzNaNDX37w/file": {
+      "region": "EUR",
+      "size": "397.15 MB",
+      "version": "1.00",
+      "release": "August 15, 2017",
+      "min_fw": "5.05+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/Nidhogg-2-PS4-PKG.webp",
+      "name": "Nidhogg 2",
+      "type": "update",
+      "download_text": "AKR",
+      "key_description": "Update v1.07 (5.05+) ⇛"
     },
     "https://akirabox.com/0Kezk9162mD1/file": {
       "region": "EUR",
@@ -27496,6 +27544,42 @@
       "type": "game",
       "download_text": "AKR",
       "key_description": "Fix 5.05 ⇛"
+    },
+    "https://akirabox.com/l5YzMw2jKmyO/file": {
+      "region": "EUR",
+      "size": "5GB",
+      "version": "1.00",
+      "release": "November 15, 2022",
+      "min_fw": "9.00+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/10/RWBY-Arrowfell-PS4-PKG.webp",
+      "name": "Rwby Arrowfell",
+      "type": "game",
+      "download_text": "AKR",
+      "key_description": "Game (9.00+) ⇛"
+    },
+    "https://akirabox.com/1RgzR62RVzbp/file": {
+      "region": "EUR",
+      "size": "5GB",
+      "version": "1.00",
+      "release": "November 15, 2022",
+      "min_fw": null,
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/10/RWBY-Arrowfell-PS4-PKG.webp",
+      "name": "Rwby Arrowfell",
+      "type": "update",
+      "download_text": "AKR",
+      "key_description": "Update v1.01 (9.50+)  ⇛"
+    },
+    "https://akirabox.com/0KezkYMwjmD1/file": {
+      "region": "EUR",
+      "size": "5GB",
+      "version": "1.00",
+      "release": "November 15, 2022",
+      "min_fw": "Fix 5.05/6.72/7.xx/9.00",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/10/RWBY-Arrowfell-PS4-PKG.webp",
+      "name": "Rwby Arrowfell",
+      "type": "update",
+      "download_text": "AKR",
+      "key_description": "Update v1.01 (Fix 5.05/6.72/7.xx/9.00) ⇛"
     },
     "https://akirabox.com/Zvqzl988GaD2/file": {
       "region": "EUR",

@@ -44271,7 +44271,7 @@
       "download_text": "OneFile",
       "key_description": "Fix (5.05/6.72/7.02) ⇛"
     },
-    "https://1fichier.com/?ldtkva1d702vfh5p1wtv&af=4186346": {
+    "https://1fichier.com/?5e5gk2womaoifjjubs5a&af=4186346": {
       "region": "EUR",
       "size": "400 MB",
       "version": "1.00",
@@ -44283,7 +44283,7 @@
       "download_text": "OneFile",
       "key_description": "Game ⇛"
     },
-    "https://1fichier.com/?txsyytwfkvai7f9de79z&af=4186346": {
+    "https://1fichier.com/?6zlo0mmzc9ozqq02voch&af=4186346": {
       "region": "EUR",
       "size": "400 MB",
       "version": "1.00",
@@ -44293,7 +44293,19 @@
       "name": "Speedrunners",
       "type": "update",
       "download_text": "OneFile",
-      "key_description": "Update 1.03 ⇛"
+      "key_description": "Update v1.03 ⇛"
+    },
+    "https://1fichier.com/?v4oc3iw6gq0s74ijaoq4&af=4186346": {
+      "region": "EUR",
+      "size": "400 MB",
+      "version": "1.00",
+      "release": "Jul 5, 2017",
+      "min_fw": "3.50+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/SpeedRunners-PS4-PKG.webp",
+      "name": "Speedrunners",
+      "type": "dlc",
+      "download_text": "OneFile",
+      "key_description": "DLC (4) ⇛"
     },
     "https://1fichier.com/?u2e8kec0w7pwi658q1xw&af=4186346": {
       "region": "EUR",

@@ -30679,6 +30679,42 @@
       "download_text": "AKR",
       "key_description": "Game (v1.05) (5.05+) ⇛"
     },
+    "https://akirabox.com/l5YzMwrn2myO/file": {
+      "region": "EUR",
+      "size": "400 MB",
+      "version": "1.00",
+      "release": "Jul 5, 2017",
+      "min_fw": "3.50+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/SpeedRunners-PS4-PKG.webp",
+      "name": "Speedrunners",
+      "type": "game",
+      "download_text": "AKR",
+      "key_description": "Game ⇛"
+    },
+    "https://akirabox.com/l76mZ2ZnZman/file": {
+      "region": "EUR",
+      "size": "400 MB",
+      "version": "1.00",
+      "release": "Jul 5, 2017",
+      "min_fw": "3.50+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/SpeedRunners-PS4-PKG.webp",
+      "name": "Speedrunners",
+      "type": "update",
+      "download_text": "AKR",
+      "key_description": "Update v1.03 ⇛"
+    },
+    "https://akirabox.com/qPez4qxeNGOY/folder": {
+      "region": "EUR",
+      "size": "400 MB",
+      "version": "1.00",
+      "release": "Jul 5, 2017",
+      "min_fw": "3.50+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/SpeedRunners-PS4-PKG.webp",
+      "name": "Speedrunners",
+      "type": "dlc",
+      "download_text": "AKR",
+      "key_description": "DLC (4) ⇛"
+    },
     "https://akirabox.com/N2p3DdaR3Ma5/file": {
       "region": "EUR",
       "size": "14.10 GB",

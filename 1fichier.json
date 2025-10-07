@@ -13675,6 +13675,42 @@
       "download_text": "OneFile",
       "key_description": "DLC (33) ⇛"
     },
+    "https://1fichier.com/?wjdpj0f742eqv6uryjws&af=4186346": {
+      "region": "EUR",
+      "size": "14 GB",
+      "version": "1.00",
+      "release": "October 25, 2016",
+      "min_fw": null,
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/DRAGON-BALL-XENOVERSE-2-Deluxe-Edition-PS4-PKG.webp",
+      "name": "Dragon Ball Xenoverse 2 Deluxe Edition",
+      "type": "game",
+      "download_text": "OneFile",
+      "key_description": "Game ⇛"
+    },
+    "https://1fichier.com/?mr0b0ie8filjko2y0jyu&af=4186346": {
+      "region": "EUR",
+      "size": "14 GB",
+      "version": "1.00",
+      "release": "October 25, 2016",
+      "min_fw": "Fix 5.05/6.72/7.02/7.55/9.00/11.00",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/DRAGON-BALL-XENOVERSE-2-Deluxe-Edition-PS4-PKG.webp",
+      "name": "Dragon Ball Xenoverse 2 Deluxe Edition",
+      "type": "update",
+      "download_text": "OneFile",
+      "key_description": "Update v1.48 (Fix 5.05/6.72/7.02/7.55/9.00/11.00) ⇛"
+    },
+    "https://1fichier.com/?8sw0mfgk39r5ufsa1rms&af=4186346": {
+      "region": "EUR",
+      "size": "14 GB",
+      "version": "5",
+      "release": "October 25, 2016",
+      "min_fw": null,
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/DRAGON-BALL-XENOVERSE-2-Deluxe-Edition-PS4-PKG.webp",
+      "name": "Dragon Ball Xenoverse 2 Deluxe Edition",
+      "type": "dlc",
+      "download_text": "OneFile",
+      "key_description": "DLC (v5) ⇛"
+    },
     "https://1fichier.com/?b1bwk71i1jixtcyg55lz&af=4186346": {
       "region": "EUR",
       "size": "14 GB",
@@ -19690,12 +19726,48 @@
       "download_text": "OneFile",
       "key_description": "Update v1.44 (Fix 5.05/6.72/7.xx/8.xx) ⇛"
     },
+    "https://1fichier.com/?smj3a78d2yvc2ct8g6fp&af=4186346": {
+      "region": "EUR",
+      "size": "41.27 GB",
+      "version": "1.00",
+      "release": "October 17, 2017",
+      "min_fw": "5.05+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/Gran-Turismo_SPORT-PS4-PKG.webp",
+      "name": "Gran Turismo Sport",
+      "type": "game",
+      "download_text": "OneFile",
+      "key_description": "Game (5.05+) ⇛"
+    },
+    "https://1fichier.com/?syzje9m5qote39ml6wcb&af=4186346": {
+      "region": "EUR",
+      "size": "41.27 GB",
+      "version": "1.00",
+      "release": "October 17, 2017",
+      "min_fw": null,
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/Gran-Turismo_SPORT-PS4-PKG.webp",
+      "name": "Gran Turismo Sport",
+      "type": "update",
+      "download_text": "OneFile",
+      "key_description": "Update v1.69 (6.50+)  ⇛"
+    },
+    "https://1fichier.com/?5b9ait7d9m07hb1d5afi&af=4186346": {
+      "region": "EUR",
+      "size": "41.27 GB",
+      "version": "1.00",
+      "release": "October 17, 2017",
+      "min_fw": null,
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/Gran-Turismo_SPORT-PS4-PKG.webp",
+      "name": "Gran Turismo Sport",
+      "type": "dlc",
+      "download_text": "OneFile",
+      "key_description": "DLC Scapes Additional Content Pack (Free)  ⇛"
+    },
     "https://1fichier.com/?r7dtwt6v8834lxjotnrm&af=4186346": {
       "region": "EUR",
       "size": "41.27 GB",
       "version": "1.00",
       "release": "October 17, 2017",
-      "min_fw": "5.00+",
+      "min_fw": null,
       "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/Gran-Turismo_SPORT-PS4-PKG.webp",
       "name": "Gran Turismo Sport",
       "type": "game",

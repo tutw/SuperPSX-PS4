@@ -2594,6 +2594,42 @@
       "download_text": "Viki",
       "key_description": "DLCs (3) ⇛"
     },
+    "https://vikingfile.com/f/NkJUObWHJE": {
+      "region": "EUR",
+      "size": "14 GB",
+      "version": "1.00",
+      "release": "October 25, 2016",
+      "min_fw": null,
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/DRAGON-BALL-XENOVERSE-2-Deluxe-Edition-PS4-PKG.webp",
+      "name": "Dragon Ball Xenoverse 2 Deluxe Edition",
+      "type": "game",
+      "download_text": "Viki",
+      "key_description": "Game ⇛"
+    },
+    "https://vikingfile.com/f/eqtr0K53VR": {
+      "region": "EUR",
+      "size": "14 GB",
+      "version": "1.00",
+      "release": "October 25, 2016",
+      "min_fw": "Fix 5.05/6.72/7.02/7.55/9.00/11.00",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/DRAGON-BALL-XENOVERSE-2-Deluxe-Edition-PS4-PKG.webp",
+      "name": "Dragon Ball Xenoverse 2 Deluxe Edition",
+      "type": "update",
+      "download_text": "Viki",
+      "key_description": "Update v1.48 (Fix 5.05/6.72/7.02/7.55/9.00/11.00) ⇛"
+    },
+    "https://vikingfile.com/f/IkXf9QWrDA": {
+      "region": "EUR",
+      "size": "14 GB",
+      "version": "5",
+      "release": "October 25, 2016",
+      "min_fw": null,
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/DRAGON-BALL-XENOVERSE-2-Deluxe-Edition-PS4-PKG.webp",
+      "name": "Dragon Ball Xenoverse 2 Deluxe Edition",
+      "type": "dlc",
+      "download_text": "Viki",
+      "key_description": "DLC (v5) ⇛"
+    },
     "https://vikingfile.com/f/rPykyJuOqx": {
       "region": "EUR",
       "size": "14 GB",

@@ -9842,6 +9842,42 @@
       "download_text": "AKR",
       "key_description": "DLC (33) ⇛"
     },
+    "https://akirabox.com/vgKGxo9wVz8Q/file": {
+      "region": "EUR",
+      "size": "14 GB",
+      "version": "1.00",
+      "release": "October 25, 2016",
+      "min_fw": null,
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/DRAGON-BALL-XENOVERSE-2-Deluxe-Edition-PS4-PKG.webp",
+      "name": "Dragon Ball Xenoverse 2 Deluxe Edition",
+      "type": "game",
+      "download_text": "AKR",
+      "key_description": "Game ⇛"
+    },
+    "https://akirabox.com/b5OzdRrdpmB8/file": {
+      "region": "EUR",
+      "size": "14 GB",
+      "version": "1.00",
+      "release": "October 25, 2016",
+      "min_fw": "Fix 5.05/6.72/7.02/7.55/9.00/11.00",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/DRAGON-BALL-XENOVERSE-2-Deluxe-Edition-PS4-PKG.webp",
+      "name": "Dragon Ball Xenoverse 2 Deluxe Edition",
+      "type": "update",
+      "download_text": "AKR",
+      "key_description": "Update v1.48 (Fix 5.05/6.72/7.02/7.55/9.00/11.00) ⇛"
+    },
+    "https://akirabox.com/EL73gjBPjm9B/file": {
+      "region": "EUR",
+      "size": "14 GB",
+      "version": "5",
+      "release": "October 25, 2016",
+      "min_fw": null,
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/DRAGON-BALL-XENOVERSE-2-Deluxe-Edition-PS4-PKG.webp",
+      "name": "Dragon Ball Xenoverse 2 Deluxe Edition",
+      "type": "dlc",
+      "download_text": "AKR",
+      "key_description": "DLC (v5) ⇛"
+    },
     "https://akirabox.com/1RgzR46ZmbpB/file": {
       "region": "EUR",
       "size": "14 GB",
@@ -13997,12 +14033,48 @@
       "download_text": "AKR",
       "key_description": "Update v1.44 (Fix 5.05/6.72/7.xx/8.xx) ⇛"
     },
+    "https://akirabox.com/QN9mEYPNym6d/file": {
+      "region": "EUR",
+      "size": "41.27 GB",
+      "version": "1.00",
+      "release": "October 17, 2017",
+      "min_fw": "5.05+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/Gran-Turismo_SPORT-PS4-PKG.webp",
+      "name": "Gran Turismo Sport",
+      "type": "game",
+      "download_text": "AKR",
+      "key_description": "Game (5.05+) ⇛"
+    },
+    "https://akirabox.com/Z9dzBjdqOzk1/file": {
+      "region": "EUR",
+      "size": "41.27 GB",
+      "version": "1.00",
+      "release": "October 17, 2017",
+      "min_fw": null,
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/Gran-Turismo_SPORT-PS4-PKG.webp",
+      "name": "Gran Turismo Sport",
+      "type": "update",
+      "download_text": "AKR",
+      "key_description": "Update v1.69 (6.50+)  ⇛"
+    },
+    "https://akirabox.com/0JgG706e8moY/file": {
+      "region": "EUR",
+      "size": "41.27 GB",
+      "version": "1.00",
+      "release": "October 17, 2017",
+      "min_fw": null,
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/Gran-Turismo_SPORT-PS4-PKG.webp",
+      "name": "Gran Turismo Sport",
+      "type": "dlc",
+      "download_text": "AKR",
+      "key_description": "DLC Scapes Additional Content Pack (Free)  ⇛"
+    },
     "https://akirabox.com/9AqGQRr1RmMn/file": {
       "region": "EUR",
       "size": "41.27 GB",
       "version": "1.00",
       "release": "October 17, 2017",
-      "min_fw": "5.00+",
+      "min_fw": null,
       "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/Gran-Turismo_SPORT-PS4-PKG.webp",
       "name": "Gran Turismo Sport",
       "type": "game",

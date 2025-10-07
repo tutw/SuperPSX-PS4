@@ -663,54 +663,6 @@
       "download_text": "Viki",
       "key_description": "DLC v2 (4) ⇛"
     },
-    "https://vikingfile.com/f/7G5paPNOqY": {
-      "region": "EUR",
-      "size": "19.5GB",
-      "version": "1.00",
-      "release": "March 27, 2025",
-      "min_fw": "11.00",
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/03/Atomfall-Deluxe-Edition-PS4-PKG.webp",
-      "name": "Atomfall Deluxe Edition",
-      "type": "game",
-      "download_text": "Viki",
-      "key_description": "Game (11.00) ⇛"
-    },
-    "https://vikingfile.com/f/s1A4MeBBR1": {
-      "region": "EUR",
-      "size": "19.5GB",
-      "version": "1.00",
-      "release": "March 27, 2025",
-      "min_fw": "11.00",
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/03/Atomfall-Deluxe-Edition-PS4-PKG.webp",
-      "name": "Atomfall Deluxe Edition",
-      "type": "update",
-      "download_text": "Viki",
-      "key_description": "Update v1.06 (11.00) ⇛"
-    },
-    "https://vikingfile.com/f/NGVWWbXzqS": {
-      "region": "EUR",
-      "size": "19.5GB",
-      "version": "1.00",
-      "release": "March 27, 2025",
-      "min_fw": "Fix 5.05/6.72/7.xx/9.00",
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/03/Atomfall-Deluxe-Edition-PS4-PKG.webp",
-      "name": "Atomfall Deluxe Edition",
-      "type": "update",
-      "download_text": "Viki",
-      "key_description": "Update v1.06 (Fix 5.05/6.72/7.xx/9.00) ⇛"
-    },
-    "https://vikingfile.com/f/BGxnwKxxfr": {
-      "region": "EUR",
-      "size": "19.5GB",
-      "version": "1.00",
-      "release": "March 27, 2025",
-      "min_fw": null,
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/03/Atomfall-Deluxe-Edition-PS4-PKG.webp",
-      "name": "Atomfall Deluxe Edition",
-      "type": "dlc",
-      "download_text": "Viki",
-      "key_description": "DLC (3) ⇛"
-    },
     "https://vikingfile.com/f/2HbUEaiBV0": {
       "region": "EUR",
       "size": "27GB",
@@ -9960,6 +9912,66 @@
       "download_text": "Viki",
       "key_description": "Update v1.01 (Fix 5.05) ⇛"
     },
+    "https://vikingfile.com/f/Z9BPEaWpJV": {
+      "region": "EUR",
+      "size": "35GB",
+      "version": "1.00",
+      "release": "Jun 27, 2024",
+      "min_fw": null,
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/10/Tsukihime-A-Piece-of-Blue-Glass-Moon-PS4-PKG.webp",
+      "name": "Tsukihime A Piece Of Blue Glass Moon",
+      "type": "game",
+      "download_text": "Viki",
+      "key_description": "Game (9.50+) ⇛"
+    },
+    "https://vikingfile.com/f/TaAgxQyaN2": {
+      "region": "EUR",
+      "size": "35GB",
+      "version": "1.00",
+      "release": "Jun 27, 2024",
+      "min_fw": "9.00+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/10/Tsukihime-A-Piece-of-Blue-Glass-Moon-PS4-PKG.webp",
+      "name": "Tsukihime A Piece Of Blue Glass Moon",
+      "type": "update",
+      "download_text": "Viki",
+      "key_description": "Update v1.01 (9.00+) ⇛"
+    },
+    "https://vikingfile.com/f/pTVp1TiTjT": {
+      "region": "EUR",
+      "size": "35GB",
+      "version": "1.00",
+      "release": "Jun 27, 2024",
+      "min_fw": "Fix 5.05/6.72/7.xx",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/10/Tsukihime-A-Piece-of-Blue-Glass-Moon-PS4-PKG.webp",
+      "name": "Tsukihime A Piece Of Blue Glass Moon",
+      "type": "update",
+      "download_text": "Viki",
+      "key_description": "Update v1.01 (Fix 5.05/6.72/7.xx) ⇛"
+    },
+    "https://vikingfile.com/f/m3HTfdcmT8": {
+      "region": "EUR",
+      "size": "35GB",
+      "version": "1.00",
+      "release": "Jun 27, 2024",
+      "min_fw": null,
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/10/Tsukihime-A-Piece-of-Blue-Glass-Moon-PS4-PKG.webp",
+      "name": "Tsukihime A Piece Of Blue Glass Moon",
+      "type": "game",
+      "download_text": "Viki",
+      "key_description": "Game (8.00+) ⇛"
+    },
+    "https://vikingfile.com/f/4Sms50YI2b": {
+      "region": "EUR",
+      "size": "35GB",
+      "version": "1.00",
+      "release": "Jun 27, 2024",
+      "min_fw": "5.05/6.72/7.xx",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/10/Tsukihime-A-Piece-of-Blue-Glass-Moon-PS4-PKG.webp",
+      "name": "Tsukihime A Piece Of Blue Glass Moon",
+      "type": "game",
+      "download_text": "Viki",
+      "key_description": "Fix (5.05/6.72/7.xx)  ⇛"
+    },
     "https://vikingfile.com/f/rHPUkHUX14": {
       "region": "EUR",
       "size": "10GB",
@@ -10480,6 +10492,18 @@
       "type": "update",
       "download_text": "Viki",
       "key_description": "Update v1.06 (Fix 5.05/6.72/7.xx) ⇛"
+    },
+    "https://vikingfile.com/f/NhY75wKn5Y": {
+      "region": "EUR",
+      "size": "137MB",
+      "version": "1.00",
+      "release": "2 Oct 2021",
+      "min_fw": null,
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/10/Wallachia-Reign-of-Dracula-PS4-PKG.webp",
+      "name": "Wallachia Reign Of Dracula",
+      "type": "game",
+      "download_text": "Viki",
+      "key_description": "Game + Upv1.04 (8.50+)⇛"
     },
     "https://vikingfile.com/f/T0xJ2KMPwm": {
       "region": "EUR",

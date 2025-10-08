@@ -1443,45 +1443,6 @@
       "download_text": "Viki",
       "key_description": "Update v1.11 (Fix 5.05 / 6.72 / 7.02 / 7.55 / 9.00 / 11.00) ⇛"
     },
-    "https://vikingfile.com/f/dh1Io8tcQq": {
-      "region": "USA",
-      "size": "700MB",
-      "version": "1.00",
-      "release": "June 7, 2018",
-      "min_fw": "5.05+",
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/06/Catch-Release-PS4-PKG.webp",
-      "cusa": "CUSA12069",
-      "name": "Catch Release",
-      "type": "game",
-      "download_text": "Viki",
-      "key_description": "Game (5.05+) ⇛"
-    },
-    "https://vikingfile.com/f/aX2s9mfc0d": {
-      "region": "USA",
-      "size": "700MB",
-      "version": "1.00",
-      "release": "June 7, 2018",
-      "min_fw": "6.72+",
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/06/Catch-Release-PS4-PKG.webp",
-      "cusa": "CUSA12069",
-      "name": "Catch Release",
-      "type": "update",
-      "download_text": "Viki",
-      "key_description": "Update v1.53 (6.72+) ⇛"
-    },
-    "https://vikingfile.com/f/48RFwtZcjQ": {
-      "region": "USA",
-      "size": "700MB",
-      "version": "1.00",
-      "release": "June 7, 2018",
-      "min_fw": "Fix 5.05",
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/06/Catch-Release-PS4-PKG.webp",
-      "cusa": "CUSA12069",
-      "name": "Catch Release",
-      "type": "update",
-      "download_text": "Viki",
-      "key_description": "Update v1.53 (Fix 5.05) ⇛"
-    },
     "https://vikingfile.com/f/XUkxY5Hpey": {
       "region": "USA",
       "size": "1.5GB",
@@ -4801,6 +4762,18 @@
       "download_text": "Viki",
       "key_description": "Update v1.32 + All DLC ⇛"
     },
+    "https://vikingfile.com/f/rTegxCnRjE": {
+      "region": "EUR",
+      "size": "19GB",
+      "version": "1.00",
+      "release": "October 25, 2016",
+      "min_fw": null,
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/10/Just-Dance-2017-PS4-PKG.webp",
+      "name": "Just Dance 2017",
+      "type": "game",
+      "download_text": "Viki",
+      "key_description": "Game ⇛"
+    },
     "https://vikingfile.com/f/fVea3LeeeP": {
       "region": "USA",
       "size": "1.26 GB",
@@ -5804,6 +5777,30 @@
       "type": "update",
       "download_text": "Viki",
       "key_description": "Update v3.12 (Fix 5.05/6.72/7.xx/9.00)"
+    },
+    "https://vikingfile.com/f/GeNgSELLUA": {
+      "region": "EUR",
+      "size": "7.5 GB",
+      "version": "1.00",
+      "release": "October 25, 2016",
+      "min_fw": null,
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/10/Minecraft-Story-Mode-A-Telltale-Games-Series-The-Complete-Adventure-PS4.webp",
+      "name": "Minecraft Story Mode A Telltale Games Series The Complete Adventure",
+      "type": "game",
+      "download_text": "Viki",
+      "key_description": "Game ⇛"
+    },
+    "https://vikingfile.com/f/jMbvOQ53Ue": {
+      "region": "EUR",
+      "size": "8GB",
+      "version": "1.00",
+      "release": "July 11, 2017",
+      "min_fw": "5.05+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/10/Minecraft-Story-Mode-Season-Two-The-Telltale-Series-PS4-PKG.webp",
+      "name": "Minecraft Story Mode Season Two The Telltale Series",
+      "type": "game",
+      "download_text": "Viki",
+      "key_description": "Game (5.05+) ⇛"
     },
     "https://vikingfile.com/f/fk1ovpxs5c": {
       "region": "EUR",
@@ -7508,6 +7505,42 @@
       "type": "dlc",
       "download_text": "Viki",
       "key_description": "DLC (2) ⇛"
+    },
+    "https://vikingfile.com/f/90zdV1dnQp": {
+      "region": "EUR",
+      "size": "10GB",
+      "version": "1.00",
+      "release": "October 6, 2015",
+      "min_fw": "5.05+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/10/Rock-Band-4-PS4-PKG.webp",
+      "name": "Rock Band 4",
+      "type": "game",
+      "download_text": "Viki",
+      "key_description": "Game (5.05+) ⇛"
+    },
+    "https://vikingfile.com/f/vDup5f668d": {
+      "region": "EUR",
+      "size": "10GB",
+      "version": "1.00",
+      "release": "October 6, 2015",
+      "min_fw": "5.05+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/10/Rock-Band-4-PS4-PKG.webp",
+      "name": "Rock Band 4",
+      "type": "update",
+      "download_text": "Viki",
+      "key_description": "Update v2.21 (5.05+) ⇛"
+    },
+    "https://vikingfile.com/f/oww0un4vSH": {
+      "region": "EUR",
+      "size": "10GB",
+      "version": "1.00",
+      "release": "October 6, 2015",
+      "min_fw": null,
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/10/Rock-Band-4-PS4-PKG.webp",
+      "name": "Rock Band 4",
+      "type": "dlc",
+      "download_text": "Viki",
+      "key_description": "Rivals Expansion Pack ⇛"
     },
     "https://vikingfile.com/f/sXPrBsXck0": {
       "region": "EUR",

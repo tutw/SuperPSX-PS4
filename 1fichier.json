@@ -7532,45 +7532,6 @@
       "download_text": "OneFile",
       "key_description": "Update 1.01 (Fix 5.05) ⇛"
     },
-    "https://1fichier.com/?vgyi7lp924ascs3pabfo&af=4186346": {
-      "region": "USA",
-      "size": "700MB",
-      "version": "1.00",
-      "release": "June 7, 2018",
-      "min_fw": "5.05+",
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/06/Catch-Release-PS4-PKG.webp",
-      "cusa": "CUSA12069",
-      "name": "Catch Release",
-      "type": "game",
-      "download_text": "OneFile",
-      "key_description": "Game (5.05+) ⇛"
-    },
-    "https://1fichier.com/?zxy9e9exvvjfwa8e2sit&af=4186346": {
-      "region": "USA",
-      "size": "700MB",
-      "version": "1.00",
-      "release": "June 7, 2018",
-      "min_fw": "6.72+",
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/06/Catch-Release-PS4-PKG.webp",
-      "cusa": "CUSA12069",
-      "name": "Catch Release",
-      "type": "update",
-      "download_text": "OneFile",
-      "key_description": "Update v1.53 (6.72+) ⇛"
-    },
-    "https://1fichier.com/?4vb96hznprr848lsedz2&af=4186346": {
-      "region": "USA",
-      "size": "700MB",
-      "version": "1.00",
-      "release": "June 7, 2018",
-      "min_fw": "Fix 5.05",
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/06/Catch-Release-PS4-PKG.webp",
-      "cusa": "CUSA12069",
-      "name": "Catch Release",
-      "type": "update",
-      "download_text": "OneFile",
-      "key_description": "Update v1.53 (Fix 5.05) ⇛"
-    },
     "https://1fichier.com/?a0ykro5kj466sfsplbb3&af=4186346": {
       "region": "EUR",
       "size": "411.14 MB",
@@ -15775,45 +15736,6 @@
       "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/02/Everybodys-Golf-PS4-PKG.webp",
       "cusa": "CUSA04687",
       "name": "Everybodys Golf",
-      "type": "dlc",
-      "download_text": "OneFile",
-      "key_description": "DLCs ⇛"
-    },
-    "https://1fichier.com/?f5eioi457lmetvgjlinr&af=4186346": {
-      "region": "USA",
-      "size": "5.7GB",
-      "version": "1.00",
-      "release": "May 21, 2019",
-      "min_fw": "6.72+",
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/02/Everybodys-Golf-VR-PS4-PKG.webp",
-      "cusa": "CUSA14618",
-      "name": "Everybodys Golf VR",
-      "type": "game",
-      "download_text": "OneFile",
-      "key_description": "Game (6.72+) ⇛"
-    },
-    "https://1fichier.com/?bc0vte2ojs78g8wx148o&af=4186346": {
-      "region": "USA",
-      "size": "5.7GB",
-      "version": "1.00",
-      "release": "May 21, 2019",
-      "min_fw": "5.05",
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/02/Everybodys-Golf-VR-PS4-PKG.webp",
-      "cusa": "CUSA14618",
-      "name": "Everybodys Golf VR",
-      "type": "game",
-      "download_text": "OneFile",
-      "key_description": "Fix (5.05) ⇛"
-    },
-    "https://1fichier.com/dir/uNUqHItA": {
-      "region": "USA",
-      "size": "5.7GB",
-      "version": "1.00",
-      "release": "May 21, 2019",
-      "min_fw": null,
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/02/Everybodys-Golf-VR-PS4-PKG.webp",
-      "cusa": "CUSA14618",
-      "name": "Everybodys Golf VR",
       "type": "dlc",
       "download_text": "OneFile",
       "key_description": "DLCs ⇛"
@@ -33412,30 +33334,6 @@
       "download_text": "OneFile",
       "key_description": "DLC ⇛"
     },
-    "https://1fichier.com/?x0l1nv7408ke0kb720il&af=4186346": {
-      "region": "EUR",
-      "size": "500MB",
-      "version": "1.00",
-      "release": "October 14, 2014",
-      "min_fw": "5.05+",
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/08/Nidhogg-PS4-PKG.webp",
-      "name": "Nidhogg 2",
-      "type": "game",
-      "download_text": "OneFile",
-      "key_description": "Game (5.05+) ⇛"
-    },
-    "https://1fichier.com/?bry9hepim2a628h6iylm&af=4186346": {
-      "region": "EUR",
-      "size": "500MB",
-      "version": "1.00",
-      "release": "October 14, 2014",
-      "min_fw": "5.05+",
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/08/Nidhogg-PS4-PKG.webp",
-      "name": "Nidhogg 2",
-      "type": "update",
-      "download_text": "OneFile",
-      "key_description": "Update v1.02 (5.05+) ⇛"
-    },
     "https://1fichier.com/?e7psyde2u42xep77z9a9&af=4186346": {
       "region": "EUR",
       "size": "397.15 MB",
@@ -33459,6 +33357,30 @@
       "type": "update",
       "download_text": "OneFile",
       "key_description": "Update v1.07 (5.05+) ⇛"
+    },
+    "https://1fichier.com/?x0l1nv7408ke0kb720il&af=4186346": {
+      "region": "EUR",
+      "size": "500MB",
+      "version": "1.00",
+      "release": "October 14, 2014",
+      "min_fw": "5.05+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/08/Nidhogg-PS4-PKG.webp",
+      "name": "Nidhogg 2",
+      "type": "game",
+      "download_text": "OneFile",
+      "key_description": "Game (5.05+) ⇛"
+    },
+    "https://1fichier.com/?bry9hepim2a628h6iylm&af=4186346": {
+      "region": "EUR",
+      "size": "500MB",
+      "version": "1.00",
+      "release": "October 14, 2014",
+      "min_fw": "5.05+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/08/Nidhogg-PS4-PKG.webp",
+      "name": "Nidhogg 2",
+      "type": "update",
+      "download_text": "OneFile",
+      "key_description": "Update v1.02 (5.05+) ⇛"
     },
     "https://1fichier.com/?l85tz68ijgs1udp3fkom&af=4186346": {
       "region": "EUR",

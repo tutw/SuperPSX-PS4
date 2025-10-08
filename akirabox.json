@@ -5321,45 +5321,6 @@
       "download_text": "AKR",
       "key_description": "Update v1.11 (Fix 5.05 / 6.72 / 7.02 / 7.55 / 9.00 / 11.00) ⇛"
     },
-    "https://akirabox.com/LK0G1q1M9G91/file": {
-      "region": "USA",
-      "size": "700MB",
-      "version": "1.00",
-      "release": "June 7, 2018",
-      "min_fw": "5.05+",
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/06/Catch-Release-PS4-PKG.webp",
-      "cusa": "CUSA12069",
-      "name": "Catch Release",
-      "type": "game",
-      "download_text": "AKR",
-      "key_description": "Game (5.05+) ⇛"
-    },
-    "https://akirabox.com/2bJG8KnakzOB/file": {
-      "region": "USA",
-      "size": "700MB",
-      "version": "1.00",
-      "release": "June 7, 2018",
-      "min_fw": "6.72+",
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/06/Catch-Release-PS4-PKG.webp",
-      "cusa": "CUSA12069",
-      "name": "Catch Release",
-      "type": "update",
-      "download_text": "AKR",
-      "key_description": "Update v1.53 (6.72+) ⇛"
-    },
-    "https://akirabox.com/dkD3Yl9J7mLQ/file": {
-      "region": "USA",
-      "size": "700MB",
-      "version": "1.00",
-      "release": "June 7, 2018",
-      "min_fw": "Fix 5.05",
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/06/Catch-Release-PS4-PKG.webp",
-      "cusa": "CUSA12069",
-      "name": "Catch Release",
-      "type": "update",
-      "download_text": "AKR",
-      "key_description": "Update v1.53 (Fix 5.05) ⇛"
-    },
     "https://akirabox.com/9QWmp2JNzEB6/file": {
       "region": "EUR",
       "size": "763.30 MB",
@@ -11490,45 +11451,6 @@
       "download_text": "AKR",
       "key_description": "DLCs ⇛"
     },
-    "https://akirabox.com/RMKGJnD8G1oP/file": {
-      "region": "USA",
-      "size": "5.7GB",
-      "version": "1.00",
-      "release": "May 21, 2019",
-      "min_fw": "6.72+",
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/02/Everybodys-Golf-VR-PS4-PKG.webp",
-      "cusa": "CUSA14618",
-      "name": "Everybodys Golf VR",
-      "type": "game",
-      "download_text": "AKR",
-      "key_description": "Game (6.72+) ⇛"
-    },
-    "https://akirabox.com/vgKGx6Vn38Qn/file": {
-      "region": "USA",
-      "size": "5.7GB",
-      "version": "1.00",
-      "release": "May 21, 2019",
-      "min_fw": "5.05",
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/02/Everybodys-Golf-VR-PS4-PKG.webp",
-      "cusa": "CUSA14618",
-      "name": "Everybodys Golf VR",
-      "type": "game",
-      "download_text": "AKR",
-      "key_description": "Fix (5.05) ⇛"
-    },
-    "https://akirabox.com/0rpmvMYLGRgZ/folder": {
-      "region": "USA",
-      "size": "5.7GB",
-      "version": "1.00",
-      "release": "May 21, 2019",
-      "min_fw": null,
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/02/Everybodys-Golf-VR-PS4-PKG.webp",
-      "cusa": "CUSA14618",
-      "name": "Everybodys Golf VR",
-      "type": "dlc",
-      "download_text": "AKR",
-      "key_description": "DLCs ⇛"
-    },
     "https://akirabox.com/EL73gM0jG9Ba/file": {
       "region": "EUR",
       "size": "10.5 GB",
@@ -17398,6 +17320,18 @@
       "download_text": "AKR",
       "key_description": "Update v1.32 + All DLC ⇛"
     },
+    "https://akirabox.com/dZxG5ZBQ9mVj/file": {
+      "region": "EUR",
+      "size": "19GB",
+      "version": "1.00",
+      "release": "October 25, 2016",
+      "min_fw": null,
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/10/Just-Dance-2017-PS4-PKG.webp",
+      "name": "Just Dance 2017",
+      "type": "game",
+      "download_text": "AKR",
+      "key_description": "Game ⇛"
+    },
     "https://akirabox.com/Zvqzlo5ZK3aD/file": {
       "region": "USA",
       "size": "1.26 GB",
@@ -21519,6 +21453,30 @@
       "download_text": "AKR",
       "key_description": "Update v1.13 (Fix 5.05/6.72/7.xx/9.00) ⇛"
     },
+    "https://akirabox.com/2WVGrQyaBzkx/file": {
+      "region": "EUR",
+      "size": "7.5 GB",
+      "version": "1.00",
+      "release": "October 25, 2016",
+      "min_fw": null,
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/10/Minecraft-Story-Mode-A-Telltale-Games-Series-The-Complete-Adventure-PS4.webp",
+      "name": "Minecraft Story Mode A Telltale Games Series The Complete Adventure",
+      "type": "game",
+      "download_text": "AKR",
+      "key_description": "Game ⇛"
+    },
+    "https://akirabox.com/EL73gjyaAm9B/file": {
+      "region": "EUR",
+      "size": "8GB",
+      "version": "1.00",
+      "release": "July 11, 2017",
+      "min_fw": "5.05+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/10/Minecraft-Story-Mode-Season-Two-The-Telltale-Series-PS4-PKG.webp",
+      "name": "Minecraft Story Mode Season Two The Telltale Series",
+      "type": "game",
+      "download_text": "AKR",
+      "key_description": "Game (5.05+) ⇛"
+    },
     "https://akirabox.com/Z9dzBVxREzk1/file": {
       "region": "EUR",
       "size": "600 MB",
@@ -23601,30 +23559,6 @@
       "download_text": "AKR",
       "key_description": "DLC v2 ⇛"
     },
-    "https://akirabox.com/obj3jbwn23Dx/file": {
-      "region": "EUR",
-      "size": "500MB",
-      "version": "1.00",
-      "release": "October 14, 2014",
-      "min_fw": "5.05+",
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/08/Nidhogg-PS4-PKG.webp",
-      "name": "Nidhogg 2",
-      "type": "game",
-      "download_text": "AKR",
-      "key_description": "Game (5.05+) ⇛"
-    },
-    "https://akirabox.com/RMKGJXrkl31o/file": {
-      "region": "EUR",
-      "size": "500MB",
-      "version": "1.00",
-      "release": "October 14, 2014",
-      "min_fw": "5.05+",
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/08/Nidhogg-PS4-PKG.webp",
-      "name": "Nidhogg 2",
-      "type": "update",
-      "download_text": "AKR",
-      "key_description": "Update v1.02 (5.05+) ⇛"
-    },
     "https://akirabox.com/7d5GLr56V3xR/file": {
       "region": "EUR",
       "size": "397.15 MB",
@@ -23648,6 +23582,30 @@
       "type": "update",
       "download_text": "AKR",
       "key_description": "Update v1.07 (5.05+) ⇛"
+    },
+    "https://akirabox.com/obj3jbwn23Dx/file": {
+      "region": "EUR",
+      "size": "500MB",
+      "version": "1.00",
+      "release": "October 14, 2014",
+      "min_fw": "5.05+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/08/Nidhogg-PS4-PKG.webp",
+      "name": "Nidhogg 2",
+      "type": "game",
+      "download_text": "AKR",
+      "key_description": "Game (5.05+) ⇛"
+    },
+    "https://akirabox.com/RMKGJXrkl31o/file": {
+      "region": "EUR",
+      "size": "500MB",
+      "version": "1.00",
+      "release": "October 14, 2014",
+      "min_fw": "5.05+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/08/Nidhogg-PS4-PKG.webp",
+      "name": "Nidhogg 2",
+      "type": "update",
+      "download_text": "AKR",
+      "key_description": "Update v1.02 (5.05+) ⇛"
     },
     "https://akirabox.com/0Kezk9162mD1/file": {
       "region": "EUR",
@@ -27208,6 +27166,42 @@
       "type": "update",
       "download_text": "AKR",
       "key_description": "Update v1.04 (Fix 5.05) ⇛"
+    },
+    "https://akirabox.com/E9Qz91pQwzOL/file": {
+      "region": "EUR",
+      "size": "10GB",
+      "version": "1.00",
+      "release": "October 6, 2015",
+      "min_fw": "5.05+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/10/Rock-Band-4-PS4-PKG.webp",
+      "name": "Rock Band 4",
+      "type": "game",
+      "download_text": "AKR",
+      "key_description": "Game (5.05+) ⇛"
+    },
+    "https://akirabox.com/jar3XqR5gz2d/file": {
+      "region": "EUR",
+      "size": "10GB",
+      "version": "1.00",
+      "release": "October 6, 2015",
+      "min_fw": "5.05+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/10/Rock-Band-4-PS4-PKG.webp",
+      "name": "Rock Band 4",
+      "type": "update",
+      "download_text": "AKR",
+      "key_description": "Update v2.21 (5.05+) ⇛"
+    },
+    "https://akirabox.com/XkrzoqyRQmBO/file": {
+      "region": "EUR",
+      "size": "10GB",
+      "version": "1.00",
+      "release": "October 6, 2015",
+      "min_fw": null,
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/10/Rock-Band-4-PS4-PKG.webp",
+      "name": "Rock Band 4",
+      "type": "dlc",
+      "download_text": "AKR",
+      "key_description": "Rivals Expansion Pack ⇛"
     },
     "https://akirabox.com/0JgG7LJnmoYW/file": {
       "region": "EUR",

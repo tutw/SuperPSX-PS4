@@ -12316,7 +12316,7 @@
       "download_text": "AKR",
       "key_description": "Update v1.13 (Fix 5.05-11.00) ⇛"
     },
-    "https://akirabox.com/BnkmWw72PmR0/file": {
+    "https://akirabox.com/qLQ36pgW1G19/folder": {
       "region": "EUR",
       "size": "41GB",
       "version": "1.00",
@@ -23637,30 +23637,6 @@
       "download_text": "AKR",
       "key_description": "DLC v2 ⇛"
     },
-    "https://akirabox.com/7d5GLr56V3xR/file": {
-      "region": "EUR",
-      "size": "397.15 MB",
-      "version": "1.00",
-      "release": "August 15, 2017",
-      "min_fw": "5.05+",
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/Nidhogg-2-PS4-PKG.webp",
-      "name": "Nidhogg 2",
-      "type": "game",
-      "download_text": "AKR",
-      "key_description": "Game (5.05+) ⇛"
-    },
-    "https://akirabox.com/5pVzNaNDX37w/file": {
-      "region": "EUR",
-      "size": "397.15 MB",
-      "version": "1.00",
-      "release": "August 15, 2017",
-      "min_fw": "5.05+",
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/Nidhogg-2-PS4-PKG.webp",
-      "name": "Nidhogg 2",
-      "type": "update",
-      "download_text": "AKR",
-      "key_description": "Update v1.07 (5.05+) ⇛"
-    },
     "https://akirabox.com/obj3jbwn23Dx/file": {
       "region": "EUR",
       "size": "500MB",
@@ -23684,6 +23660,30 @@
       "type": "update",
       "download_text": "AKR",
       "key_description": "Update v1.02 (5.05+) ⇛"
+    },
+    "https://akirabox.com/7d5GLr56V3xR/file": {
+      "region": "EUR",
+      "size": "397.15 MB",
+      "version": "1.00",
+      "release": "August 15, 2017",
+      "min_fw": "5.05+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/Nidhogg-2-PS4-PKG.webp",
+      "name": "Nidhogg 2",
+      "type": "game",
+      "download_text": "AKR",
+      "key_description": "Game (5.05+) ⇛"
+    },
+    "https://akirabox.com/5pVzNaNDX37w/file": {
+      "region": "EUR",
+      "size": "397.15 MB",
+      "version": "1.00",
+      "release": "August 15, 2017",
+      "min_fw": "5.05+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/Nidhogg-2-PS4-PKG.webp",
+      "name": "Nidhogg 2",
+      "type": "update",
+      "download_text": "AKR",
+      "key_description": "Update v1.07 (5.05+) ⇛"
     },
     "https://akirabox.com/0Kezk9162mD1/file": {
       "region": "EUR",
@@ -27988,18 +27988,6 @@
       "type": "dlc",
       "download_text": "AKR",
       "key_description": "DLC ⇛"
-    },
-    "https://akirabox.com/E1x3AWK6Gyk6/file": {
-      "region": "EUR",
-      "size": "19.71 GB",
-      "version": "1.00",
-      "release": "15 Mar 2016",
-      "min_fw": "5.05+",
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/SAMURAI-WARRIORS-4-Empires-PS4-PKG.webp",
-      "name": "Samurai Warriors 4 Empires",
-      "type": "game",
-      "download_text": "AKR",
-      "key_description": "Game (5.05+) ⇛"
     },
     "https://akirabox.com/RMKGJQvlz1oP/file": {
       "region": "EUR",
@@ -37929,12 +37917,12 @@
       "size": "35GB",
       "version": "1.00",
       "release": "Jun 27, 2024",
-      "min_fw": null,
+      "min_fw": "9.00+",
       "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/10/Tsukihime-A-Piece-of-Blue-Glass-Moon-PS4-PKG.webp",
       "name": "Tsukihime A Piece Of Blue Glass Moon",
       "type": "game",
       "download_text": "AKR",
-      "key_description": "Game (9.50+) ⇛"
+      "key_description": "Game (9.00+) ⇛"
     },
     "https://akirabox.com/9AqGQRJogmMn/file": {
       "region": "EUR",
@@ -39716,7 +39704,19 @@
       "name": "Wallachia Reign Of Dracula",
       "type": "game",
       "download_text": "AKR",
-      "key_description": "Game + Upv1.04 (8.50+)⇛"
+      "key_description": "Game (8.50+)⇛"
+    },
+    "https://akirabox.com/0KezkY6Z1mD1/file": {
+      "region": "EUR",
+      "size": "137MB",
+      "version": "1.00",
+      "release": "2 Oct 2021",
+      "min_fw": "5.05/6.72/7.xx",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/10/Wallachia-Reign-of-Dracula-PS4-PKG.webp",
+      "name": "Wallachia Reign Of Dracula",
+      "type": "game",
+      "download_text": "AKR",
+      "key_description": "Fix (5.05/6.72/7.xx) ⇛"
     },
     "https://akirabox.com/l5YzM1ZgOzyO/file": {
       "region": "EUR",
@@ -40495,41 +40495,41 @@
       "download_text": "AKR",
       "key_description": "Full Collection of PS4 Playlink Android apps ⇛"
     },
-    "https://akirabox.com/qLQ36K0Qz19j/file": {
+    "https://akirabox.com/N2p3DJK0pGMa/file": {
       "region": "EUR",
-      "size": "19 GB",
+      "size": "19GB",
       "version": "1.00",
       "release": "April 16, 2019",
-      "min_fw": "9.00+",
+      "min_fw": null,
       "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/World-War-Z_-Aftermath-PS4-PKG.webp",
       "name": "World War Z",
       "type": "game",
       "download_text": "AKR",
-      "key_description": "Game (5.50+) ⇛"
+      "key_description": "Game ⇛"
     },
-    "https://akirabox.com/0KezkAeomD1X/file": {
+    "https://akirabox.com/0rpmv7jgZ3Rg/file": {
       "region": "EUR",
-      "size": "19 GB",
+      "size": "19GB",
       "version": "1.00",
       "release": "April 16, 2019",
-      "min_fw": "9.00+",
+      "min_fw": "Fix 5.05/6.72/7.02/7.55/9.00/11.00",
       "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/World-War-Z_-Aftermath-PS4-PKG.webp",
       "name": "World War Z",
       "type": "update",
       "download_text": "AKR",
-      "key_description": "Update v1.53 ⇛"
+      "key_description": "Update v1.69 (Fix 5.05/6.72/7.02/7.55/9.00/11.00) ⇛"
     },
-    "https://akirabox.com/BnkmW7JrmR0y/file": {
+    "https://akirabox.com/Z9dzBjMXEzk1/file": {
       "region": "EUR",
-      "size": "19 GB",
-      "version": "1.00",
+      "size": "19GB",
+      "version": "4",
       "release": "April 16, 2019",
-      "min_fw": "9.00+",
+      "min_fw": null,
       "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/World-War-Z_-Aftermath-PS4-PKG.webp",
       "name": "World War Z",
       "type": "dlc",
       "download_text": "AKR",
-      "key_description": "DLC ⇛"
+      "key_description": "DLC Pack (v4) ⇛"
     },
     "https://akirabox.com/2WVGrQZVEzkx/file": {
       "region": "USA",

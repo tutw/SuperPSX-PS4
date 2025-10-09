@@ -10025,12 +10025,12 @@
       "size": "35GB",
       "version": "1.00",
       "release": "Jun 27, 2024",
-      "min_fw": null,
+      "min_fw": "9.00+",
       "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/10/Tsukihime-A-Piece-of-Blue-Glass-Moon-PS4-PKG.webp",
       "name": "Tsukihime A Piece Of Blue Glass Moon",
       "type": "game",
       "download_text": "Viki",
-      "key_description": "Game (9.50+) ⇛"
+      "key_description": "Game (9.00+) ⇛"
     },
     "https://vikingfile.com/f/TaAgxQyaN2": {
       "region": "EUR",
@@ -10611,7 +10611,19 @@
       "name": "Wallachia Reign Of Dracula",
       "type": "game",
       "download_text": "Viki",
-      "key_description": "Game + Upv1.04 (8.50+)⇛"
+      "key_description": "Game (8.50+)⇛"
+    },
+    "https://vikingfile.com/f/MuF0pbhCfz": {
+      "region": "EUR",
+      "size": "137MB",
+      "version": "1.00",
+      "release": "2 Oct 2021",
+      "min_fw": "5.05/6.72/7.xx",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/10/Wallachia-Reign-of-Dracula-PS4-PKG.webp",
+      "name": "Wallachia Reign Of Dracula",
+      "type": "game",
+      "download_text": "Viki",
+      "key_description": "Fix (5.05/6.72/7.xx) ⇛"
     },
     "https://vikingfile.com/f/T0xJ2KMPwm": {
       "region": "EUR",
@@ -10756,6 +10768,18 @@
       "type": "update",
       "download_text": "Viki",
       "key_description": "Update v1.02 (Fix 5.05) ⇛"
+    },
+    "https://vikingfile.com/f/vMmUSO4C9v": {
+      "region": "EUR",
+      "size": "19GB",
+      "version": "1.00",
+      "release": "April 16, 2019",
+      "min_fw": null,
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/World-War-Z_-Aftermath-PS4-PKG.webp",
+      "name": "World War Z",
+      "type": "game",
+      "download_text": "Viki",
+      "key_description": "Game ⇛"
     },
     "https://vikingfile.com/f/w3vQUnumIO": {
       "region": "EUR",

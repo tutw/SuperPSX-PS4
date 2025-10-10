@@ -40537,6 +40537,18 @@
       "download_text": "OneFile",
       "key_description": "Update v1.01 ⇛"
     },
+    "https://1fichier.com/?gfcttv31j48f89jz4d2x&af=4186346": {
+      "region": "EUR",
+      "size": "19.71 GB",
+      "version": "1.00",
+      "release": "15 Mar 2016",
+      "min_fw": "5.05+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/SAMURAI-WARRIORS-4-Empires-PS4-PKG.webp",
+      "name": "Samurai Warriors 4 Empires",
+      "type": "game",
+      "download_text": "OneFile",
+      "key_description": "Game (5.05+) ⇛"
+    },
     "https://1fichier.com/?r25rrk8vbwp29ipby194&af=4186346": {
       "region": "EUR",
       "size": "13 GB",
@@ -57435,6 +57447,30 @@
       "type": "dlc",
       "download_text": "OneFile",
       "key_description": "DLC (3) ⇛"
+    },
+    "https://1fichier.com/?qky0k1t6c64vvbikdh9h&af=4186346": {
+      "region": "EUR",
+      "size": "380 MB",
+      "version": "1.00",
+      "release": "March 16, 2022",
+      "min_fw": "9.04+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/Wife-Quest-PS4-PKG.webp",
+      "name": "Wife Quest",
+      "type": "game",
+      "download_text": "OneFile",
+      "key_description": "Game ⇛"
+    },
+    "https://1fichier.com/?qvmuoys2xvc3qmhdvznz&af=4186346": {
+      "region": "EUR",
+      "size": "380 MB",
+      "version": "1.00",
+      "release": "March 16, 2022",
+      "min_fw": "5.05/6.72/7.02/7.55",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/Wife-Quest-PS4-PKG.webp",
+      "name": "Wife Quest",
+      "type": "game",
+      "download_text": "OneFile",
+      "key_description": "Fix (5.05/6.72/7.02/7.55) ⇛"
     },
     "https://1fichier.com/?9f155xl6whef9tmqb83h&af=4186346": {
       "region": "EUR",

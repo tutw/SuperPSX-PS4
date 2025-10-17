@@ -3928,6 +3928,66 @@
       "download_text": "1Cloud",
       "key_description": "Update v1.01 (Fix 5.05/6.72/7.02/7.55/9.00) ⇛"
     },
+    "https://datanodes.to/5lo33rakxf2x/[SuperPSX]-Persona.3.Reload_CUSA37522_v1.00_[9.00]-PS4.pkg": {
+      "region": "EUR",
+      "size": "24GB",
+      "version": "1.00",
+      "release": "February 2, 2024",
+      "min_fw": "9.00+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/Persona-3-Reload-PS4-PKG.webp",
+      "name": "Persona 3 Reload",
+      "type": "game",
+      "download_text": "DataN",
+      "key_description": "Game (9.00+) ⇛"
+    },
+    "https://datanodes.to/ttrdyve5hyb6/[SuperPSX]-Persona.3.Reload_CUSA37522_v1.08_[9.00]-PS4.pkg": {
+      "region": "EUR",
+      "size": "24GB",
+      "version": "1.00",
+      "release": "February 2, 2024",
+      "min_fw": "9.00+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/Persona-3-Reload-PS4-PKG.webp",
+      "name": "Persona 3 Reload",
+      "type": "update",
+      "download_text": "DataN",
+      "key_description": "Update v1.08 (9.00+) ⇛"
+    },
+    "https://datanodes.to/9na16ka0ywlt/[SuperPSX]-Persona.3.Reload_CUSA37522_v1.08_BACKPORT_[5.05-6.72-7.xx]-PS4.pkg": {
+      "region": "EUR",
+      "size": "24GB",
+      "version": "1.00",
+      "release": "February 2, 2024",
+      "min_fw": "Fix 5.05/6.72/7.xx",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/Persona-3-Reload-PS4-PKG.webp",
+      "name": "Persona 3 Reload",
+      "type": "update",
+      "download_text": "DataN",
+      "key_description": "Update v1.08 (Fix 5.05/6.72/7.xx) ⇛"
+    },
+    "https://datanodes.to/a0ulspk66ze0/[SuperPSX]-Persona.3.Reload_CUSA37522_DLCPACK_[13]-PS4.rar": {
+      "region": "EUR",
+      "size": "24GB",
+      "version": "1.00",
+      "release": "February 2, 2024",
+      "min_fw": null,
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/Persona-3-Reload-PS4-PKG.webp",
+      "name": "Persona 3 Reload",
+      "type": "dlc",
+      "download_text": "DataN",
+      "key_description": "DLC (13) ⇛"
+    },
+    "https://anotepad.com/notes/xdh6t78k": {
+      "region": "EUR",
+      "size": "24GB",
+      "version": "1.00",
+      "release": "February 2, 2024",
+      "min_fw": null,
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/Persona-3-Reload-PS4-PKG.webp",
+      "name": "Persona 3 Reload",
+      "type": "game",
+      "download_text": "Here",
+      "key_description": "Note ⇛"
+    },
     "https://anotepad.com/notes/748h95ex": {
       "region": "EUR",
       "size": "8.5GB",

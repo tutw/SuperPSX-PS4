@@ -10100,6 +10100,30 @@
       "download_text": "AKR",
       "key_description": "Game + Update v1.01 (5.05+) ⇛"
     },
+    "https://akirabox.com/0JgG70kWlmoY/file": {
+      "region": "EUR",
+      "size": "5GB",
+      "version": "1.00",
+      "release": "Jan 16, 2025",
+      "min_fw": null,
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/10/DreadOut-Remastered-Collection-PS4-PKG.webp",
+      "name": "Dreadout Remastered Collection",
+      "type": "game",
+      "download_text": "AKR",
+      "key_description": "Game + Upv1.02 (11.50+) ⇛"
+    },
+    "https://akirabox.com/LJlGnqOlVz15/file": {
+      "region": "EUR",
+      "size": "5GB",
+      "version": "1.00",
+      "release": "Jan 16, 2025",
+      "min_fw": "Fix 5.05/6.72/7.xx/9.00/11.00",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/10/DreadOut-Remastered-Collection-PS4-PKG.webp",
+      "name": "Dreadout Remastered Collection",
+      "type": "update",
+      "download_text": "AKR",
+      "key_description": "Update 1.02 (Fix 5.05/6.72/7.xx/9.00/11.00) ⇛"
+    },
     "https://akirabox.com/l76mZ6rYZman/file": {
       "region": "EUR",
       "size": "120MB",
@@ -23673,30 +23697,6 @@
       "download_text": "AKR",
       "key_description": "DLC v2 ⇛"
     },
-    "https://akirabox.com/7d5GLr56V3xR/file": {
-      "region": "EUR",
-      "size": "397.15 MB",
-      "version": "1.00",
-      "release": "August 15, 2017",
-      "min_fw": "5.05+",
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/Nidhogg-2-PS4-PKG.webp",
-      "name": "Nidhogg 2",
-      "type": "game",
-      "download_text": "AKR",
-      "key_description": "Game (5.05+) ⇛"
-    },
-    "https://akirabox.com/5pVzNaNDX37w/file": {
-      "region": "EUR",
-      "size": "397.15 MB",
-      "version": "1.00",
-      "release": "August 15, 2017",
-      "min_fw": "5.05+",
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/Nidhogg-2-PS4-PKG.webp",
-      "name": "Nidhogg 2",
-      "type": "update",
-      "download_text": "AKR",
-      "key_description": "Update v1.07 (5.05+) ⇛"
-    },
     "https://akirabox.com/obj3jbwn23Dx/file": {
       "region": "EUR",
       "size": "500MB",
@@ -23720,6 +23720,30 @@
       "type": "update",
       "download_text": "AKR",
       "key_description": "Update v1.02 (5.05+) ⇛"
+    },
+    "https://akirabox.com/7d5GLr56V3xR/file": {
+      "region": "EUR",
+      "size": "397.15 MB",
+      "version": "1.00",
+      "release": "August 15, 2017",
+      "min_fw": "5.05+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/Nidhogg-2-PS4-PKG.webp",
+      "name": "Nidhogg 2",
+      "type": "game",
+      "download_text": "AKR",
+      "key_description": "Game (5.05+) ⇛"
+    },
+    "https://akirabox.com/5pVzNaNDX37w/file": {
+      "region": "EUR",
+      "size": "397.15 MB",
+      "version": "1.00",
+      "release": "August 15, 2017",
+      "min_fw": "5.05+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/Nidhogg-2-PS4-PKG.webp",
+      "name": "Nidhogg 2",
+      "type": "update",
+      "download_text": "AKR",
+      "key_description": "Update v1.07 (5.05+) ⇛"
     },
     "https://akirabox.com/0Kezk9162mD1/file": {
       "region": "EUR",
@@ -25447,6 +25471,102 @@
       "download_text": "AKR",
       "key_description": "DLC ⇛"
     },
+    "https://akirabox.com/EL73gK1W39Ba/file": {
+      "region": "EUR",
+      "size": "24GB",
+      "version": "1.00",
+      "release": "February 2, 2024",
+      "min_fw": "9.00+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/Persona-3-Reload-PS4-PKG.webp",
+      "name": "Persona 3 Reload",
+      "type": "game",
+      "download_text": "AKR",
+      "key_description": "Game (9.00+) ⇛"
+    },
+    "https://akirabox.com/vgKGxBJR38Qn/file": {
+      "region": "EUR",
+      "size": "24GB",
+      "version": "1.00",
+      "release": "February 2, 2024",
+      "min_fw": "9.00+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/Persona-3-Reload-PS4-PKG.webp",
+      "name": "Persona 3 Reload",
+      "type": "update",
+      "download_text": "AKR",
+      "key_description": "Update v1.08 (9.00+) ⇛"
+    },
+    "https://akirabox.com/Z9dzBXoEmk1b/file": {
+      "region": "EUR",
+      "size": "24GB",
+      "version": "1.00",
+      "release": "February 2, 2024",
+      "min_fw": "Fix 5.05/6.72/7.xx",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/Persona-3-Reload-PS4-PKG.webp",
+      "name": "Persona 3 Reload",
+      "type": "update",
+      "download_text": "AKR",
+      "key_description": "Update v1.08 (Fix 5.05/6.72/7.xx) ⇛"
+    },
+    "https://akirabox.com/QN9mEn1R36dW/file": {
+      "region": "EUR",
+      "size": "24GB",
+      "version": "1.00",
+      "release": "February 2, 2024",
+      "min_fw": null,
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/Persona-3-Reload-PS4-PKG.webp",
+      "name": "Persona 3 Reload",
+      "type": "dlc",
+      "download_text": "AKR",
+      "key_description": "DLC (13) ⇛"
+    },
+    "https://akirabox.com/N2p3DkRXVmMa/file": {
+      "region": "EUR",
+      "size": "24GB",
+      "version": "1.00",
+      "release": "February 2, 2024",
+      "min_fw": null,
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/Persona-3-Reload-PS4-PKG.webp",
+      "name": "Persona 3 Reload",
+      "type": "game",
+      "download_text": "AKR",
+      "key_description": "Game ⇛"
+    },
+    "https://akirabox.com/QN9mEbM5Z36d/file": {
+      "region": "EUR",
+      "size": "24GB",
+      "version": "1.00",
+      "release": "February 2, 2024",
+      "min_fw": null,
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/Persona-3-Reload-PS4-PKG.webp",
+      "name": "Persona 3 Reload",
+      "type": "update",
+      "download_text": "AKR",
+      "key_description": "Update v1.07 (9.50+) ⇛"
+    },
+    "https://akirabox.com/M2BGw69vPzj4/file": {
+      "region": "EUR",
+      "size": "24GB",
+      "version": "1.00",
+      "release": "February 2, 2024",
+      "min_fw": "Fix 5.05/6.72/7.02/7.55/9.00",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/Persona-3-Reload-PS4-PKG.webp",
+      "name": "Persona 3 Reload",
+      "type": "update",
+      "download_text": "AKR",
+      "key_description": "Update v1.07 (Fix 5.05/6.72/7.02/7.55/9.00) ⇛"
+    },
+    "https://akirabox.com/0rpmvr0KDmRg/file": {
+      "region": "EUR",
+      "size": "24GB",
+      "version": "1.00",
+      "release": "February 2, 2024",
+      "min_fw": null,
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/Persona-3-Reload-PS4-PKG.webp",
+      "name": "Persona 3 Reload",
+      "type": "dlc",
+      "download_text": "AKR",
+      "key_description": "DLC v2 ⇛"
+    },
     "https://akirabox.com/9AqGQRDERmMn/file": {
       "region": "EUR",
       "size": "13 GB",
@@ -26615,6 +26735,30 @@
       "type": "game",
       "download_text": "AKR",
       "key_description": "Game (v1.02) (5.05+) ⇛"
+    },
+    "https://akirabox.com/N2p3D09d3Ma5/file": {
+      "region": "EUR",
+      "size": "3GB",
+      "version": "1.00",
+      "release": "Sep 22, 2023",
+      "min_fw": "11.00",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/12/Rainbow-High-Runway-Rush-PS4-PKG.webp",
+      "name": "Rainbow High Runway Rush",
+      "type": "game",
+      "download_text": "AKR",
+      "key_description": "Game (11.00) ⇛"
+    },
+    "https://akirabox.com/Z9dzBXoxmk1b/file": {
+      "region": "EUR",
+      "size": "3GB",
+      "version": "1.00",
+      "release": "Sep 22, 2023",
+      "min_fw": "5.05/6.72/7.xx/9.00",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/12/Rainbow-High-Runway-Rush-PS4-PKG.webp",
+      "name": "Rainbow High Runway Rush",
+      "type": "game",
+      "download_text": "AKR",
+      "key_description": "Fix (5.05/6.72/7.xx/9.00) ⇛"
     },
     "https://akirabox.com/2bJG8baD3OBE/file": {
       "region": "EUR",
@@ -40350,6 +40494,30 @@
       "type": "dlc",
       "download_text": "AKR",
       "key_description": "DLC Complete Edition ⇛"
+    },
+    "https://akirabox.com/APVmaJ4Bl3Xo/file": {
+      "region": "EUR",
+      "size": "1GB",
+      "version": "1.00",
+      "release": "July 14, 2023",
+      "min_fw": null,
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/10/Wobbly-Life-PS4-PKG.webp",
+      "name": "Wobbly Life",
+      "type": "game",
+      "download_text": "AKR",
+      "key_description": "Game (9.50+) ⇛"
+    },
+    "https://akirabox.com/0PdzyWjqqmeA/file": {
+      "region": "EUR",
+      "size": "1GB",
+      "version": "1.00",
+      "release": "July 14, 2023",
+      "min_fw": "Fix 5.05/6.72/7.xx/9.00",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/10/Wobbly-Life-PS4-PKG.webp",
+      "name": "Wobbly Life",
+      "type": "update",
+      "download_text": "AKR",
+      "key_description": "Update v1.22 (Fix 5.05/6.72/7.xx/9.00) ⇛"
     },
     "https://akirabox.com/l76mZ6Rdjman/file": {
       "region": "EUR",

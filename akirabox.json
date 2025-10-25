@@ -25978,6 +25978,55 @@
       "download_text": "AKR",
       "key_description": "Game+Update v1.06 (5.05+) ⇛"
     },
+    "https://akirabox.com/7d5GL1yaqmxR/file": {
+      "region": "USA",
+      "size": "750MB",
+      "version": "1.00",
+      "release": "March 15, 2018",
+      "min_fw": "5.05+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/06/PIPE-PS4-PKG.webp",
+      "cusa": "CUSA13683",
+      "name": "Pipe",
+      "type": "game",
+      "download_text": "AKR",
+      "key_description": "Game (5.05+) ⇛"
+    },
+    "https://akirabox.com/qLQ36xYKG19j/file": {
+      "region": "EUR",
+      "size": "2.6 GB",
+      "version": "1.00",
+      "release": "November 7, 2019",
+      "min_fw": "7.51+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/Pistol-Whip-PS4-_-PS5-PS4-PKG.webp",
+      "name": "Pistol Whip",
+      "type": "game",
+      "download_text": "AKR",
+      "key_description": "Game ⇛"
+    },
+    "https://akirabox.com/qLQ36xbKG19j/file": {
+      "region": "EUR",
+      "size": "2.6 GB",
+      "version": "1.00",
+      "release": "November 7, 2019",
+      "min_fw": "7.51+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/Pistol-Whip-PS4-_-PS5-PS4-PKG.webp",
+      "name": "Pistol Whip",
+      "type": "update",
+      "download_text": "AKR",
+      "key_description": "Update v1.08 ⇛"
+    },
+    "https://akirabox.com/b5Ozdp9pzB8L/file": {
+      "region": "EUR",
+      "size": "2.6 GB",
+      "version": "1.00",
+      "release": "November 7, 2019",
+      "min_fw": "Fix 5.05/6.72/7.xx/8.0x",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/Pistol-Whip-PS4-_-PS5-PS4-PKG.webp",
+      "name": "Pistol Whip",
+      "type": "update",
+      "download_text": "AKR",
+      "key_description": "Update v1.08 (Fix 5.05/6.72/7.xx/8.0x) ⇛"
+    },
     "https://akirabox.com/1RgzR6ll1zbp/file": {
       "region": "EUR",
       "size": "2GB",

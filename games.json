@@ -1215,6 +1215,42 @@
       "download_text": "Viki",
       "key_description": "Abyssal Terrors DLC ⇛"
     },
+    "https://vikingfile.com/f/Rh0y206YHo": {
+      "region": "EUR",
+      "size": "3GB",
+      "version": "1.00",
+      "release": "February 20, 2025",
+      "min_fw": "11.00+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/10/Cabernet-PS4-PKG.webp",
+      "name": "Cabernet",
+      "type": "game",
+      "download_text": "Viki",
+      "key_description": "Game (11.00+) ⇛"
+    },
+    "https://vikingfile.com/f/Ej08VZOj4G": {
+      "region": "EUR",
+      "size": "3GB",
+      "version": "1.00",
+      "release": "February 20, 2025",
+      "min_fw": "Fix 6.72/7.xx/9.00/11.00",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/10/Cabernet-PS4-PKG.webp",
+      "name": "Cabernet",
+      "type": "update",
+      "download_text": "Viki",
+      "key_description": "Update v1.09 (Fix 6.72/7.xx/9.00/11.00) ⇛"
+    },
+    "https://vikingfile.com/f/I4DGalFrD7": {
+      "region": "EUR",
+      "size": "3GB",
+      "version": "1.00",
+      "release": "February 20, 2025",
+      "min_fw": "Fix 5.05",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/10/Cabernet-PS4-PKG.webp",
+      "name": "Cabernet",
+      "type": "update",
+      "download_text": "Viki",
+      "key_description": "Update v1.09 (Fix 5.05) ⇛"
+    },
     "https://vikingfile.com/f/zmYgdCTFIO": {
       "region": "EUR",
       "size": "56.15 GB",
@@ -5140,6 +5176,30 @@
       "download_text": "Viki",
       "key_description": "DLC ⇛"
     },
+    "https://vikingfile.com/f/vOs1lNouGK": {
+      "region": "EUR",
+      "size": "2GB",
+      "version": "1.00",
+      "release": "September 15, 2025",
+      "min_fw": null,
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/10/LEGO-Voyagers-PS4-PKG.webp",
+      "name": "Lego Voyagers",
+      "type": "game",
+      "download_text": "Viki",
+      "key_description": "Game  ⇛"
+    },
+    "https://vikingfile.com/f/TQUxq7w6A6": {
+      "region": "EUR",
+      "size": "2GB",
+      "version": "1.00",
+      "release": "September 15, 2025",
+      "min_fw": "Fix 5.05/6.7 /7.02/7.55/9.00/11.00",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/10/LEGO-Voyagers-PS4-PKG.webp",
+      "name": "Lego Voyagers",
+      "type": "update",
+      "download_text": "Viki",
+      "key_description": "Update v1.07 (Fix 5.05/6.7 /7.02/7.55/9.00/11.00) ⇛"
+    },
     "https://vikingfile.com/f/yIbufLWCBM": {
       "region": "EUR",
       "size": "14.51 GB",
@@ -7202,19 +7262,6 @@
       "type": "update",
       "download_text": "Viki",
       "key_description": "Game+Update v1.06 (5.05+) ⇛"
-    },
-    "https://vikingfile.com/f/xHA8UjNOCS": {
-      "region": "USA",
-      "size": "750MB",
-      "version": "1.00",
-      "release": "March 15, 2018",
-      "min_fw": "5.05+",
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/06/PIPE-PS4-PKG.webp",
-      "cusa": "CUSA13683",
-      "name": "Pipe",
-      "type": "game",
-      "download_text": "Viki",
-      "key_description": "Game (5.05+) ⇛"
     },
     "https://vikingfile.com/f/z12Ov8PVUn": {
       "region": "EUR",

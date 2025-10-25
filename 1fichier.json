@@ -7875,6 +7875,30 @@
       "download_text": "OneFile",
       "key_description": "Update v1.05 (9.00+) ⇛"
     },
+    "https://1fichier.com/?81ofvscl6dsr1hsomlrp&af=4186346": {
+      "region": "EUR",
+      "size": "50 GB",
+      "version": "1.00",
+      "release": "December 3, 2021",
+      "min_fw": "9.00+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/Chorus-PS4-PKG.webp",
+      "name": "Chorus",
+      "type": "game",
+      "download_text": "OneFile",
+      "key_description": "Game ⇛"
+    },
+    "https://1fichier.com/?h669hc575xco984634oh&af=4186346": {
+      "region": "EUR",
+      "size": "50 GB",
+      "version": "1.00",
+      "release": "December 3, 2021",
+      "min_fw": "9.00+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/Chorus-PS4-PKG.webp",
+      "name": "Chorus",
+      "type": "update",
+      "download_text": "OneFile",
+      "key_description": "Update 1.03 ⇛"
+    },
     "https://1fichier.com/?tttcv8yfl6pc8mibfa2l&af=4186346": {
       "region": "EUR",
       "size": "4.25 GB",
@@ -36591,55 +36615,6 @@
       "type": "update",
       "download_text": "OneFile",
       "key_description": "Update v1.01 ⇛"
-    },
-    "https://1fichier.com/?llyisjezenbm71xv95wj&af=4186346": {
-      "region": "USA",
-      "size": "750MB",
-      "version": "1.00",
-      "release": "March 15, 2018",
-      "min_fw": "5.05+",
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/06/PIPE-PS4-PKG.webp",
-      "cusa": "CUSA13683",
-      "name": "Pipe",
-      "type": "game",
-      "download_text": "OneFile",
-      "key_description": "Game (5.05+) ⇛"
-    },
-    "https://1fichier.com/?b62wg36yq4rmo49cffm9&af=4186346": {
-      "region": "EUR",
-      "size": "2.6 GB",
-      "version": "1.00",
-      "release": "November 7, 2019",
-      "min_fw": "Fix 5.05/6.72/7.xx/8.0x",
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/Pistol-Whip-PS4-_-PS5-PS4-PKG.webp",
-      "name": "Pistol Whip",
-      "type": "update",
-      "download_text": "OneFile",
-      "key_description": "Game + Update 1.08 + Update 1.08 (Fix 5.05/6.72/7.xx/8.0x) ⇛"
-    },
-    "https://1fichier.com/?2bph6p5ctxgovz9h9tsc&af=4186346": {
-      "region": "EUR",
-      "size": "2.54 GB",
-      "version": "1.00",
-      "release": "June 4, 2019",
-      "min_fw": "6.72+",
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/PixARK-PS4-PKG.webp",
-      "name": "Pixark",
-      "type": "game",
-      "download_text": "OneFile",
-      "key_description": "Game (6.72+) ⇛"
-    },
-    "https://1fichier.com/?189490d4bzdlh3wfhn0h&af=4186346": {
-      "region": "EUR",
-      "size": "2.54 GB",
-      "version": "1.00",
-      "release": "June 4, 2019",
-      "min_fw": "6.72+",
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/PixARK-PS4-PKG.webp",
-      "name": "Pixark",
-      "type": "update",
-      "download_text": "OneFile",
-      "key_description": "Update 1.08 (6.72+) ⇛"
     },
     "https://1fichier.com/?iexby4sr7wsploj1nqc4&af=4186346": {
       "region": "EUR",

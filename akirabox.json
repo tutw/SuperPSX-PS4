@@ -4550,6 +4550,42 @@
       "download_text": "AKR",
       "key_description": "DLC (14) ⇛"
     },
+    "https://akirabox.com/l76mZ21gZman/file": {
+      "region": "EUR",
+      "size": "3GB",
+      "version": "1.00",
+      "release": "February 20, 2025",
+      "min_fw": "11.00+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/10/Cabernet-PS4-PKG.webp",
+      "name": "Cabernet",
+      "type": "game",
+      "download_text": "AKR",
+      "key_description": "Game (11.00+) ⇛"
+    },
+    "https://akirabox.com/0KezkYvD2mD1/file": {
+      "region": "EUR",
+      "size": "3GB",
+      "version": "1.00",
+      "release": "February 20, 2025",
+      "min_fw": "Fix 6.72/7.xx/9.00/11.00",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/10/Cabernet-PS4-PKG.webp",
+      "name": "Cabernet",
+      "type": "update",
+      "download_text": "AKR",
+      "key_description": "Update v1.09 (Fix 6.72/7.xx/9.00/11.00) ⇛"
+    },
+    "https://akirabox.com/k0embJqdnmVb/file": {
+      "region": "EUR",
+      "size": "3GB",
+      "version": "1.00",
+      "release": "February 20, 2025",
+      "min_fw": "Fix 5.05",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/10/Cabernet-PS4-PKG.webp",
+      "name": "Cabernet",
+      "type": "update",
+      "download_text": "AKR",
+      "key_description": "Update v1.09 (Fix 5.05) ⇛"
+    },
     "https://akirabox.com/E1x3Aa5gW3yk/file": {
       "region": "USA",
       "size": "10GB",
@@ -18742,6 +18778,30 @@
       "download_text": "AKR",
       "key_description": "Update v1.10 (Fix 5.05/6.72/7.xx/8.xx) ⇛"
     },
+    "https://akirabox.com/RMKGJkdwVm1o/file": {
+      "region": "EUR",
+      "size": "2GB",
+      "version": "1.00",
+      "release": "September 15, 2025",
+      "min_fw": null,
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/10/LEGO-Voyagers-PS4-PKG.webp",
+      "name": "Lego Voyagers",
+      "type": "game",
+      "download_text": "AKR",
+      "key_description": "Game  ⇛"
+    },
+    "https://akirabox.com/b5OzdR7MlmB8/file": {
+      "region": "EUR",
+      "size": "2GB",
+      "version": "1.00",
+      "release": "September 15, 2025",
+      "min_fw": "Fix 5.05/6.7 /7.02/7.55/9.00/11.00",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/10/LEGO-Voyagers-PS4-PKG.webp",
+      "name": "Lego Voyagers",
+      "type": "update",
+      "download_text": "AKR",
+      "key_description": "Update v1.07 (Fix 5.05/6.7 /7.02/7.55/9.00/11.00) ⇛"
+    },
     "https://akirabox.com/jar3XbDZG2dD/file": {
       "region": "EUR",
       "size": "3GB",
@@ -25917,55 +25977,6 @@
       "type": "update",
       "download_text": "AKR",
       "key_description": "Game+Update v1.06 (5.05+) ⇛"
-    },
-    "https://akirabox.com/7d5GL1yaqmxR/file": {
-      "region": "USA",
-      "size": "750MB",
-      "version": "1.00",
-      "release": "March 15, 2018",
-      "min_fw": "5.05+",
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/06/PIPE-PS4-PKG.webp",
-      "cusa": "CUSA13683",
-      "name": "Pipe",
-      "type": "game",
-      "download_text": "AKR",
-      "key_description": "Game (5.05+) ⇛"
-    },
-    "https://akirabox.com/qLQ36xYKG19j/file": {
-      "region": "EUR",
-      "size": "2.6 GB",
-      "version": "1.00",
-      "release": "November 7, 2019",
-      "min_fw": "7.51+",
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/Pistol-Whip-PS4-_-PS5-PS4-PKG.webp",
-      "name": "Pistol Whip",
-      "type": "game",
-      "download_text": "AKR",
-      "key_description": "Game ⇛"
-    },
-    "https://akirabox.com/qLQ36xbKG19j/file": {
-      "region": "EUR",
-      "size": "2.6 GB",
-      "version": "1.00",
-      "release": "November 7, 2019",
-      "min_fw": "7.51+",
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/Pistol-Whip-PS4-_-PS5-PS4-PKG.webp",
-      "name": "Pistol Whip",
-      "type": "update",
-      "download_text": "AKR",
-      "key_description": "Update v1.08 ⇛"
-    },
-    "https://akirabox.com/b5Ozdp9pzB8L/file": {
-      "region": "EUR",
-      "size": "2.6 GB",
-      "version": "1.00",
-      "release": "November 7, 2019",
-      "min_fw": "Fix 5.05/6.72/7.xx/8.0x",
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/Pistol-Whip-PS4-_-PS5-PS4-PKG.webp",
-      "name": "Pistol Whip",
-      "type": "update",
-      "download_text": "AKR",
-      "key_description": "Update v1.08 (Fix 5.05/6.72/7.xx/8.0x) ⇛"
     },
     "https://akirabox.com/1RgzR6ll1zbp/file": {
       "region": "EUR",

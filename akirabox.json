@@ -13655,6 +13655,18 @@
       "download_text": "AKR",
       "key_description": "Update v1.01 (Fix 5.05-7.02) ⇛"
     },
+    "https://akirabox.com/EL73gjnqYm9B/file": {
+      "region": "EUR",
+      "size": "2GB",
+      "version": "1.01",
+      "release": "July 6, 2023",
+      "min_fw": null,
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/10/Gimmick-Special-Edition-PS4-PKG.webp",
+      "name": "Gimmick Special Edition",
+      "type": "game",
+      "download_text": "AKR",
+      "key_description": "Game (v1.01) (10.50+) ⇛"
+    },
     "https://akirabox.com/qLQ36xydG19j/file": {
       "region": "EUR",
       "size": "11 GB",
@@ -16434,6 +16446,30 @@
       "type": "game",
       "download_text": "AKR",
       "key_description": "Fix (5.05/6.72/7.xx) ⇛"
+    },
+    "https://akirabox.com/0PdzyW1AMmeA/file": {
+      "region": "EUR",
+      "size": "3GB",
+      "version": "1.00",
+      "release": "March 27, 2025",
+      "min_fw": null,
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/10/I-Have-No-Mouth-and-I-Must-Scream-PS4-PKG.png",
+      "name": "I Have No Mouth And I Must Scream",
+      "type": "game",
+      "download_text": "AKR",
+      "key_description": "Game ⇛"
+    },
+    "https://akirabox.com/wgWGqqdXxG4o/file": {
+      "region": "EUR",
+      "size": "3GB",
+      "version": "1.00",
+      "release": "March 27, 2025",
+      "min_fw": "Fix 5.05 / 6.72 / 7.02 / 7.55 / 9.00 / 11.00",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/10/I-Have-No-Mouth-and-I-Must-Scream-PS4-PKG.png",
+      "name": "I Have No Mouth And I Must Scream",
+      "type": "update",
+      "download_text": "AKR",
+      "key_description": "Update v1.01 (Fix 5.05 / 6.72 / 7.02 / 7.55 / 9.00 / 11.00) ⇛"
     },
     "https://akirabox.com/2bJG80erGOBE/file": {
       "region": "EUR",
@@ -23757,30 +23793,6 @@
       "download_text": "AKR",
       "key_description": "DLC v2 ⇛"
     },
-    "https://akirabox.com/7d5GLr56V3xR/file": {
-      "region": "EUR",
-      "size": "397.15 MB",
-      "version": "1.00",
-      "release": "August 15, 2017",
-      "min_fw": "5.05+",
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/Nidhogg-2-PS4-PKG.webp",
-      "name": "Nidhogg 2",
-      "type": "game",
-      "download_text": "AKR",
-      "key_description": "Game (5.05+) ⇛"
-    },
-    "https://akirabox.com/5pVzNaNDX37w/file": {
-      "region": "EUR",
-      "size": "397.15 MB",
-      "version": "1.00",
-      "release": "August 15, 2017",
-      "min_fw": "5.05+",
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/Nidhogg-2-PS4-PKG.webp",
-      "name": "Nidhogg 2",
-      "type": "update",
-      "download_text": "AKR",
-      "key_description": "Update v1.07 (5.05+) ⇛"
-    },
     "https://akirabox.com/obj3jbwn23Dx/file": {
       "region": "EUR",
       "size": "500MB",
@@ -23804,6 +23816,30 @@
       "type": "update",
       "download_text": "AKR",
       "key_description": "Update v1.02 (5.05+) ⇛"
+    },
+    "https://akirabox.com/7d5GLr56V3xR/file": {
+      "region": "EUR",
+      "size": "397.15 MB",
+      "version": "1.00",
+      "release": "August 15, 2017",
+      "min_fw": "5.05+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/Nidhogg-2-PS4-PKG.webp",
+      "name": "Nidhogg 2",
+      "type": "game",
+      "download_text": "AKR",
+      "key_description": "Game (5.05+) ⇛"
+    },
+    "https://akirabox.com/5pVzNaNDX37w/file": {
+      "region": "EUR",
+      "size": "397.15 MB",
+      "version": "1.00",
+      "release": "August 15, 2017",
+      "min_fw": "5.05+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/Nidhogg-2-PS4-PKG.webp",
+      "name": "Nidhogg 2",
+      "type": "update",
+      "download_text": "AKR",
+      "key_description": "Update v1.07 (5.05+) ⇛"
     },
     "https://akirabox.com/0Kezk9162mD1/file": {
       "region": "EUR",
@@ -28108,6 +28144,30 @@
       "type": "dlc",
       "download_text": "AKR",
       "key_description": "DLC ⇛"
+    },
+    "https://akirabox.com/Pbe3PMR1WzlX/file": {
+      "region": "EUR",
+      "size": "285MB",
+      "version": "1.00",
+      "release": "September 12, 2017",
+      "min_fw": "5.05+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/10/Samurai-Shodown-V-Special-PS4-PKG.webp",
+      "name": "Samurai Shodown V Special",
+      "type": "game",
+      "download_text": "AKR",
+      "key_description": "Game (5.05+) ⇛"
+    },
+    "https://akirabox.com/Z9dzBjlWEzk1/file": {
+      "region": "EUR",
+      "size": "285MB",
+      "version": "1.00",
+      "release": "September 12, 2017",
+      "min_fw": "Fix 5.05 / 6.72 / 7.02 / 7.55 / 9.00 / 11.00",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/10/Samurai-Shodown-V-Special-PS4-PKG.webp",
+      "name": "Samurai Shodown V Special",
+      "type": "update",
+      "download_text": "AKR",
+      "key_description": "Update v1.02 (Fix 5.05 / 6.72 / 7.02 / 7.55 / 9.00 / 11.00) ⇛"
     },
     "https://akirabox.com/E1x3AWK6Gyk6/file": {
       "region": "EUR",

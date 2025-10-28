@@ -2750,6 +2750,30 @@
       "download_text": "Viki",
       "key_description": "Game (5.05+) ⇛"
     },
+    "https://vikingfile.com/f/l0fWV6WGXy": {
+      "region": "EUR",
+      "size": "10.59GB",
+      "version": "1.00",
+      "release": "May 5, 2017",
+      "min_fw": "5.05+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2018/09/Dreamfall-Chapters-PS4-PKG.webp",
+      "name": "Dreamfall Chapters",
+      "type": "game",
+      "download_text": "Viki",
+      "key_description": "Game (5.05+) ⇛"
+    },
+    "https://vikingfile.com/f/yakiUBoeGg": {
+      "region": "EUR",
+      "size": "10.59GB",
+      "version": "1.00",
+      "release": "May 5, 2017",
+      "min_fw": "5.05+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2018/09/Dreamfall-Chapters-PS4-PKG.webp",
+      "name": "Dreamfall Chapters",
+      "type": "update",
+      "download_text": "Viki",
+      "key_description": "Update v1.02 (5.05+) ⇛"
+    },
     "https://vikingfile.com/f/pg27EmYsC1": {
       "region": "EUR",
       "size": "12 GB",

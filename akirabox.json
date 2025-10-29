@@ -23817,30 +23817,6 @@
       "download_text": "AKR",
       "key_description": "DLC v2 ⇛"
     },
-    "https://akirabox.com/obj3jbwn23Dx/file": {
-      "region": "EUR",
-      "size": "500MB",
-      "version": "1.00",
-      "release": "October 14, 2014",
-      "min_fw": "5.05+",
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/08/Nidhogg-PS4-PKG.webp",
-      "name": "Nidhogg 2",
-      "type": "game",
-      "download_text": "AKR",
-      "key_description": "Game (5.05+) ⇛"
-    },
-    "https://akirabox.com/RMKGJXrkl31o/file": {
-      "region": "EUR",
-      "size": "500MB",
-      "version": "1.00",
-      "release": "October 14, 2014",
-      "min_fw": "5.05+",
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/08/Nidhogg-PS4-PKG.webp",
-      "name": "Nidhogg 2",
-      "type": "update",
-      "download_text": "AKR",
-      "key_description": "Update v1.02 (5.05+) ⇛"
-    },
     "https://akirabox.com/7d5GLr56V3xR/file": {
       "region": "EUR",
       "size": "397.15 MB",
@@ -23864,6 +23840,30 @@
       "type": "update",
       "download_text": "AKR",
       "key_description": "Update v1.07 (5.05+) ⇛"
+    },
+    "https://akirabox.com/obj3jbwn23Dx/file": {
+      "region": "EUR",
+      "size": "500MB",
+      "version": "1.00",
+      "release": "October 14, 2014",
+      "min_fw": "5.05+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/08/Nidhogg-PS4-PKG.webp",
+      "name": "Nidhogg 2",
+      "type": "game",
+      "download_text": "AKR",
+      "key_description": "Game (5.05+) ⇛"
+    },
+    "https://akirabox.com/RMKGJXrkl31o/file": {
+      "region": "EUR",
+      "size": "500MB",
+      "version": "1.00",
+      "release": "October 14, 2014",
+      "min_fw": "5.05+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/08/Nidhogg-PS4-PKG.webp",
+      "name": "Nidhogg 2",
+      "type": "update",
+      "download_text": "AKR",
+      "key_description": "Update v1.02 (5.05+) ⇛"
     },
     "https://akirabox.com/0Kezk9162mD1/file": {
       "region": "EUR",
@@ -41497,6 +41497,30 @@
       "type": "update",
       "download_text": "AKR",
       "key_description": "Update v1.10 (Fix 5.05/6.72/7.xx/9.00) ⇛"
+    },
+    "https://akirabox.com/l5YzMwPp2myO/file": {
+      "region": "EUR",
+      "size": "1GB",
+      "version": "1.00",
+      "release": "November 20, 2018",
+      "min_fw": "6.72+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/10/Youtubers-Life-OMG-PS4-PKG.webp",
+      "name": "Youtubers Life Omg",
+      "type": "game",
+      "download_text": "AKR",
+      "key_description": "Game (6.72+) ⇛"
+    },
+    "https://akirabox.com/1RgzR6Zpbzbp/file": {
+      "region": "EUR",
+      "size": "1GB",
+      "version": "1.00",
+      "release": "November 20, 2018",
+      "min_fw": "Fix 5.05/6.72",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/10/Youtubers-Life-OMG-PS4-PKG.webp",
+      "name": "Youtubers Life Omg",
+      "type": "update",
+      "download_text": "AKR",
+      "key_description": "Update v1.06 (Fix 5.05/6.72) ⇛"
     },
     "https://akirabox.com/7d5GLKJazxRJ/file": {
       "region": "EUR",

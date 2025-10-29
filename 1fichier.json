@@ -25890,33 +25890,33 @@
       "download_text": "OneFile",
       "key_description": "Game + Update 1.10 ⇛"
     },
-    "https://1fichier.com/?v8i4dwiew43euaf78ykd&af=4186346": {
+    "https://1fichier.com/?53my5fv4hifa04sfymx3": {
       "region": "USA",
       "size": "8GB",
       "version": "1.00",
       "release": "May 16, 2023",
-      "min_fw": "9.00+",
+      "min_fw": null,
       "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/01/LEGO-2K-Drive-Awesome-Rivals-Edition-PS4-PKG.webp",
       "cusa": "CUSA34255",
       "name": "Lego 2K Drive Awesome Rivals Edition",
       "type": "game",
       "download_text": "OneFile",
-      "key_description": "Game (9.00+) ⇛"
+      "key_description": "Game ⇛"
     },
-    "https://1fichier.com/?bggu5dgy19hobes3flax&af=4186346": {
+    "https://1fichier.com/?8ozvbwyqu7h51z7kx1ig": {
       "region": "USA",
       "size": "8GB",
       "version": "1.00",
       "release": "May 16, 2023",
-      "min_fw": "Fix 5.05/6.72/7.02/7.55/9.00",
+      "min_fw": "FiFix 5.05/6.72/7.xx/9.00/11.00",
       "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/01/LEGO-2K-Drive-Awesome-Rivals-Edition-PS4-PKG.webp",
       "cusa": "CUSA34255",
       "name": "Lego 2K Drive Awesome Rivals Edition",
       "type": "update",
       "download_text": "OneFile",
-      "key_description": "Update v1.09 (Fix 5.05/6.72/7.02/7.55/9.00) ⇛"
+      "key_description": "Update v1.17 (FiFix 5.05/6.72/7.xx/9.00/11.00) ⇛"
     },
-    "https://1fichier.com/?hc6doerm76o6m9k64s7o&af=4186346": {
+    "https://1fichier.com/?f2mao1rt5k4ak8h5m7rc": {
       "region": "USA",
       "size": "8GB",
       "version": "1.00",
@@ -25927,7 +25927,7 @@
       "name": "Lego 2K Drive Awesome Rivals Edition",
       "type": "dlc",
       "download_text": "OneFile",
-      "key_description": "DLC ⇛"
+      "key_description": "DLC (14) ⇛"
     },
     "https://1fichier.com/?9po90towwi9s0zbevmus&af=4186346": {
       "region": "EUR",
@@ -33448,30 +33448,6 @@
       "download_text": "OneFile",
       "key_description": "DLC ⇛"
     },
-    "https://1fichier.com/?e7psyde2u42xep77z9a9&af=4186346": {
-      "region": "EUR",
-      "size": "397.15 MB",
-      "version": "1.00",
-      "release": "August 15, 2017",
-      "min_fw": "5.05+",
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/Nidhogg-2-PS4-PKG.webp",
-      "name": "Nidhogg 2",
-      "type": "game",
-      "download_text": "OneFile",
-      "key_description": "Game (5.05+) ⇛"
-    },
-    "https://1fichier.com/?gd1on8cxwscgvpfngm94&af=4186346": {
-      "region": "EUR",
-      "size": "397.15 MB",
-      "version": "1.00",
-      "release": "August 15, 2017",
-      "min_fw": "5.05+",
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/Nidhogg-2-PS4-PKG.webp",
-      "name": "Nidhogg 2",
-      "type": "update",
-      "download_text": "OneFile",
-      "key_description": "Update v1.07 (5.05+) ⇛"
-    },
     "https://1fichier.com/?x0l1nv7408ke0kb720il&af=4186346": {
       "region": "EUR",
       "size": "500MB",
@@ -33495,6 +33471,30 @@
       "type": "update",
       "download_text": "OneFile",
       "key_description": "Update v1.02 (5.05+) ⇛"
+    },
+    "https://1fichier.com/?e7psyde2u42xep77z9a9&af=4186346": {
+      "region": "EUR",
+      "size": "397.15 MB",
+      "version": "1.00",
+      "release": "August 15, 2017",
+      "min_fw": "5.05+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/Nidhogg-2-PS4-PKG.webp",
+      "name": "Nidhogg 2",
+      "type": "game",
+      "download_text": "OneFile",
+      "key_description": "Game (5.05+) ⇛"
+    },
+    "https://1fichier.com/?gd1on8cxwscgvpfngm94&af=4186346": {
+      "region": "EUR",
+      "size": "397.15 MB",
+      "version": "1.00",
+      "release": "August 15, 2017",
+      "min_fw": "5.05+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/Nidhogg-2-PS4-PKG.webp",
+      "name": "Nidhogg 2",
+      "type": "update",
+      "download_text": "OneFile",
+      "key_description": "Update v1.07 (5.05+) ⇛"
     },
     "https://1fichier.com/?l85tz68ijgs1udp3fkom&af=4186346": {
       "region": "EUR",
@@ -57570,18 +57570,6 @@
       "type": "update",
       "download_text": "OneFile",
       "key_description": "Update v1.02 (Fix 5.05) ⇛"
-    },
-    "https://1fichier.com/?mbcco3cmnszb7wz3zg4x&af=4186346": {
-      "region": "EUR",
-      "size": "3GB",
-      "version": "1.02",
-      "release": "July 8, 2021",
-      "min_fw": "9.00+",
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/09/Willy-Morgan-and-The-Curse-of-Bone-Town-PS4-PKG.webp",
-      "name": "Willy Morgan And The Curse Of Bone Town",
-      "type": "game",
-      "download_text": "OneFile",
-      "key_description": "Game (v1.02)(9.00+) ⇛"
     },
     "https://1fichier.com/?8evhp9nr2ie2cgv5wwnw&af=4186346": {
       "region": "EUR",

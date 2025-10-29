@@ -5152,6 +5152,45 @@
       "download_text": "Viki",
       "key_description": "Update v1.03 (Fix 5.05/6.72/7.02/7.55/9.00/11.00) ⇛"
     },
+    "https://vikingfile.com/f/80se7gFKAT": {
+      "region": "USA",
+      "size": "8GB",
+      "version": "1.00",
+      "release": "May 16, 2023",
+      "min_fw": null,
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/01/LEGO-2K-Drive-Awesome-Rivals-Edition-PS4-PKG.webp",
+      "cusa": "CUSA34255",
+      "name": "Lego 2K Drive Awesome Rivals Edition",
+      "type": "game",
+      "download_text": "Viki",
+      "key_description": "Game ⇛"
+    },
+    "https://vikingfile.com/f/m3mMFlYq1Y": {
+      "region": "USA",
+      "size": "8GB",
+      "version": "1.00",
+      "release": "May 16, 2023",
+      "min_fw": "FiFix 5.05/6.72/7.xx/9.00/11.00",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/01/LEGO-2K-Drive-Awesome-Rivals-Edition-PS4-PKG.webp",
+      "cusa": "CUSA34255",
+      "name": "Lego 2K Drive Awesome Rivals Edition",
+      "type": "update",
+      "download_text": "Viki",
+      "key_description": "Update v1.17 (FiFix 5.05/6.72/7.xx/9.00/11.00) ⇛"
+    },
+    "https://vikingfile.com/f/ZpVfSUolas": {
+      "region": "USA",
+      "size": "8GB",
+      "version": "1.00",
+      "release": "May 16, 2023",
+      "min_fw": null,
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/01/LEGO-2K-Drive-Awesome-Rivals-Edition-PS4-PKG.webp",
+      "cusa": "CUSA34255",
+      "name": "Lego 2K Drive Awesome Rivals Edition",
+      "type": "dlc",
+      "download_text": "Viki",
+      "key_description": "DLC (14) ⇛"
+    },
     "https://vikingfile.com/f/hoLm2iGznK": {
       "region": "EUR",
       "size": "1.83GB",
@@ -10878,18 +10917,6 @@
       "type": "dlc",
       "download_text": "Viki",
       "key_description": "DLC ⇛"
-    },
-    "https://vikingfile.com/f/pTmViwlxBK": {
-      "region": "EUR",
-      "size": "3GB",
-      "version": "1.02",
-      "release": "July 8, 2021",
-      "min_fw": "9.00+",
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/09/Willy-Morgan-and-The-Curse-of-Bone-Town-PS4-PKG.webp",
-      "name": "Willy Morgan And The Curse Of Bone Town",
-      "type": "game",
-      "download_text": "Viki",
-      "key_description": "Game (v1.02)(9.00+) ⇛"
     },
     "https://vikingfile.com/f/jye1ftd3mJ": {
       "region": "EUR",

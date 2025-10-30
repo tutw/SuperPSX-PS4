@@ -5815,6 +5815,30 @@
       "download_text": "Viki",
       "key_description": "Update v1.02 (Fix 5.05/6.72/7.xx/9.00/11.00) ⇛"
     },
+    "https://vikingfile.com/f/CTerj0Pyva": {
+      "region": "EUR",
+      "size": "2GB",
+      "version": "1.00",
+      "release": "October 2, 2018",
+      "min_fw": null,
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/10/Mega-Man-11-PS4-PKG.webp",
+      "name": "Mega Man 11",
+      "type": "game",
+      "download_text": "Viki",
+      "key_description": "Game (5.50+) ⇛"
+    },
+    "https://vikingfile.com/f/aE8WwqOUK0": {
+      "region": "EUR",
+      "size": "2GB",
+      "version": "1.00",
+      "release": "October 2, 2018",
+      "min_fw": null,
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/10/Mega-Man-11-PS4-PKG.webp",
+      "name": "Mega Man 11",
+      "type": "dlc",
+      "download_text": "Viki",
+      "key_description": "DLC ⇛"
+    },
     "https://vikingfile.com/f/edayaG7xtt": {
       "region": "USA",
       "size": "5GB",
@@ -8493,18 +8517,6 @@
       "download_text": "Viki",
       "key_description": "Fix 5.05 ⇛"
     },
-    "https://vikingfile.com/f/rnLTEzMtao": {
-      "region": "EUR",
-      "size": "250MB",
-      "version": "1.00",
-      "release": "October 9, 2015",
-      "min_fw": "5.05+",
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/05/SkyScrappers-PS4-PKG.webp",
-      "name": "Skyscrappers",
-      "type": "game",
-      "download_text": "Viki",
-      "key_description": "Game (5.05+) ⇛"
-    },
     "https://vikingfile.com/f/GHlU1Gr1H7": {
       "region": "USA",
       "size": "1.7GB",
@@ -10917,6 +10929,18 @@
       "type": "dlc",
       "download_text": "Viki",
       "key_description": "DLC ⇛"
+    },
+    "https://vikingfile.com/f/pTmViwlxBK": {
+      "region": "EUR",
+      "size": "3GB",
+      "version": "1.02",
+      "release": "July 8, 2021",
+      "min_fw": "9.00+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/09/Willy-Morgan-and-The-Curse-of-Bone-Town-PS4-PKG.webp",
+      "name": "Willy Morgan And The Curse Of Bone Town",
+      "type": "game",
+      "download_text": "Viki",
+      "key_description": "Game (v1.02)(9.00+) ⇛"
     },
     "https://vikingfile.com/f/jye1ftd3mJ": {
       "region": "EUR",

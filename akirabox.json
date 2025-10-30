@@ -18922,30 +18922,6 @@
       "download_text": "AKR",
       "key_description": "All DLC ⇛"
     },
-    "https://akirabox.com/EL73gqZEG9Ba/file": {
-      "region": "EUR",
-      "size": "3GB",
-      "version": "1.00",
-      "release": "November 15, 2022",
-      "min_fw": "9.00+",
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/01/Lets-Sing-2023-PS4-PKG.webp",
-      "name": "Lets Sing 2023",
-      "type": "game",
-      "download_text": "AKR",
-      "key_description": "Game (9.00+) ⇛"
-    },
-    "https://akirabox.com/gXeGONW6zAa7/file": {
-      "region": "EUR",
-      "size": "3GB",
-      "version": "1.00",
-      "release": "November 15, 2022",
-      "min_fw": "9.00+",
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/01/Lets-Sing-2023-PS4-PKG.webp",
-      "name": "Lets Sing 2023",
-      "type": "update",
-      "download_text": "AKR",
-      "key_description": "Update v1.01 (9.00+) ⇛"
-    },
     "https://akirabox.com/E1x3AeJR3yk6/file": {
       "region": "EUR",
       "size": "1GB",
@@ -21090,6 +21066,30 @@
       "type": "update",
       "download_text": "AKR",
       "key_description": "Update v1.02 (Fix 5.05/6.72/7.xx/9.00/11.00) ⇛"
+    },
+    "https://akirabox.com/0JgG7BORgzoY/file": {
+      "region": "EUR",
+      "size": "2GB",
+      "version": "1.00",
+      "release": "October 2, 2018",
+      "min_fw": null,
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/10/Mega-Man-11-PS4-PKG.webp",
+      "name": "Mega Man 11",
+      "type": "game",
+      "download_text": "AKR",
+      "key_description": "Game (5.50+) ⇛"
+    },
+    "https://akirabox.com/APVmalVKvGXo/file": {
+      "region": "EUR",
+      "size": "2GB",
+      "version": "1.00",
+      "release": "October 2, 2018",
+      "min_fw": null,
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/10/Mega-Man-11-PS4-PKG.webp",
+      "name": "Mega Man 11",
+      "type": "dlc",
+      "download_text": "AKR",
+      "key_description": "DLC ⇛"
     },
     "https://akirabox.com/Y2xm0Z7ozRO1/file": {
       "region": "EUR",
@@ -28853,42 +28853,6 @@
       "download_text": "AKR",
       "key_description": "Update v1.03 (Fix 5.05/6.72/7.xx/8.xx) ⇛"
     },
-    "https://akirabox.com/0KezkpLRGD1X/file": {
-      "region": "EUR",
-      "size": "825.75 MB",
-      "version": "1.00",
-      "release": "June 21, 2022",
-      "min_fw": "9.00+",
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/06/Shadowrun-Returns-PS4-PKG.webp",
-      "name": "Shadowrun Returns",
-      "type": "game",
-      "download_text": "AKR",
-      "key_description": "Game (9.00+) ⇛"
-    },
-    "https://akirabox.com/Pbe3Plp13lX6/file": {
-      "region": "EUR",
-      "size": "825.75 MB",
-      "version": "1.00",
-      "release": "June 21, 2022",
-      "min_fw": "9.00+",
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/06/Shadowrun-Returns-PS4-PKG.webp",
-      "name": "Shadowrun Returns",
-      "type": "update",
-      "download_text": "AKR",
-      "key_description": "Update v1.03 (9.00+) ⇛"
-    },
-    "https://akirabox.com/k0embELVGVb4/file": {
-      "region": "EUR",
-      "size": "825.75 MB",
-      "version": "1.00",
-      "release": "June 21, 2022",
-      "min_fw": "Fix 5.05/6.72/7.02/7.55",
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/06/Shadowrun-Returns-PS4-PKG.webp",
-      "name": "Shadowrun Returns",
-      "type": "update",
-      "download_text": "AKR",
-      "key_description": "Update v1.03 (Fix 5.05/6.72/7.02/7.55) ⇛"
-    },
     "https://akirabox.com/9QWmpYlMx3EB/file": {
       "region": "USA",
       "size": "3.7GB",
@@ -29853,18 +29817,6 @@
       "type": "game",
       "download_text": "AKR",
       "key_description": "Fix 5.05 ⇛"
-    },
-    "https://akirabox.com/gXeGOJWLKzAa/file": {
-      "region": "EUR",
-      "size": "250MB",
-      "version": "1.00",
-      "release": "October 9, 2015",
-      "min_fw": "5.05+",
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/05/SkyScrappers-PS4-PKG.webp",
-      "name": "Skyscrappers",
-      "type": "game",
-      "download_text": "AKR",
-      "key_description": "Game (5.05+) ⇛"
     },
     "https://akirabox.com/ZvqzloWNa3aD/file": {
       "region": "USA",
@@ -33233,45 +33185,6 @@
       "download_text": "AKR",
       "key_description": "Update v1.02 (Fix 5.05/6.72/7.xx) ⇛"
     },
-    "https://akirabox.com/Y2xm08bLmRO1/file": {
-      "region": "USA",
-      "size": "2.5GB",
-      "version": "1.00",
-      "release": "Oct 20, 2015",
-      "min_fw": "5.05+",
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/02/Tales-from-the-Borderlands-A-Telltale-Game-Series-PS4-PKG.webp",
-      "cusa": "CUSA00870",
-      "name": "Tales From The Borderlands",
-      "type": "game",
-      "download_text": "AKR",
-      "key_description": "Game (5.05+) ⇛"
-    },
-    "https://akirabox.com/l5YzMMMRzyOA/file": {
-      "region": "USA",
-      "size": "2.5GB",
-      "version": "1.00",
-      "release": "Oct 20, 2015",
-      "min_fw": "5.05+",
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/02/Tales-from-the-Borderlands-A-Telltale-Game-Series-PS4-PKG.webp",
-      "cusa": "CUSA00870",
-      "name": "Tales From The Borderlands",
-      "type": "update",
-      "download_text": "AKR",
-      "key_description": "Update v1.07 (5.05+) ⇛"
-    },
-    "https://akirabox.com/rk9zKkkXz0lY/folder": {
-      "region": "USA",
-      "size": "2.5GB",
-      "version": "1.00",
-      "release": "Oct 20, 2015",
-      "min_fw": null,
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/02/Tales-from-the-Borderlands-A-Telltale-Game-Series-PS4-PKG.webp",
-      "cusa": "CUSA00870",
-      "name": "Tales From The Borderlands",
-      "type": "dlc",
-      "download_text": "AKR",
-      "key_description": "DLCs ⇛"
-    },
     "https://akirabox.com/vgKGxoXJ4z8Q/file": {
       "region": "EUR",
       "size": "37GB",
@@ -34814,32 +34727,6 @@
       "type": "update",
       "download_text": "AKR",
       "key_description": "Update v1.15 [Fix.5.05] ⇛"
-    },
-    "https://akirabox.com/LJlGnJyAG15w/file": {
-      "region": "USA",
-      "size": "3GB",
-      "version": "1.00",
-      "release": "July 27, 2021",
-      "min_fw": "8.00+",
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/02/The-Great-Ace-Attorney-Chronicles-PS4-PKG.webp",
-      "cusa": "CUSA17886",
-      "name": "The Great Ace Attorney Chronicles",
-      "type": "game",
-      "download_text": "AKR",
-      "key_description": "Game (8.00+) ⇛"
-    },
-    "https://akirabox.com/5pVzNLgdm7wv/file": {
-      "region": "USA",
-      "size": "3GB",
-      "version": "1.00",
-      "release": "July 27, 2021",
-      "min_fw": "5.05/6.72/7.02/7.55",
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/02/The-Great-Ace-Attorney-Chronicles-PS4-PKG.webp",
-      "cusa": "CUSA17886",
-      "name": "The Great Ace Attorney Chronicles",
-      "type": "game",
-      "download_text": "AKR",
-      "key_description": "Fix (5.05/6.72/7.02/7.55) ⇛"
     },
     "https://akirabox.com/Pbe3PMO4YzlX/file": {
       "region": "EUR",
@@ -40508,6 +40395,18 @@
       "type": "update",
       "download_text": "AKR",
       "key_description": "Update v1.02 (Fix 5.05) ⇛"
+    },
+    "https://akirabox.com/E9Qz91yP6zOL/file": {
+      "region": "EUR",
+      "size": "3GB",
+      "version": "1.02",
+      "release": "July 8, 2021",
+      "min_fw": "9.00+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/09/Willy-Morgan-and-The-Curse-of-Bone-Town-PS4-PKG.webp",
+      "name": "Willy Morgan And The Curse Of Bone Town",
+      "type": "game",
+      "download_text": "AKR",
+      "key_description": "Game (v1.02)(9.00+) ⇛"
     },
     "https://akirabox.com/qw1zerMg0GXy/file": {
       "region": "EUR",

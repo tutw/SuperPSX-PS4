@@ -615,6 +615,42 @@
       "download_text": "Viki",
       "key_description": "DLC (17) ⇛"
     },
+    "https://vikingfile.com/f/CaCYpAPeKm": {
+      "region": "EUR",
+      "size": "19.5GB",
+      "version": "1.00",
+      "release": "March 27, 2025",
+      "min_fw": null,
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/03/Atomfall-Deluxe-Edition-PS4-PKG.webp",
+      "name": "Atomfall Deluxe Edition",
+      "type": "game",
+      "download_text": "Viki",
+      "key_description": "Game ⇛"
+    },
+    "https://vikingfile.com/f/KFNIwFynbc": {
+      "region": "EUR",
+      "size": "19.5GB",
+      "version": "1.00",
+      "release": "March 27, 2025",
+      "min_fw": "Fix 5.05/6.72/7.02/7.55/9.00/11.00",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/03/Atomfall-Deluxe-Edition-PS4-PKG.webp",
+      "name": "Atomfall Deluxe Edition",
+      "type": "update",
+      "download_text": "Viki",
+      "key_description": "Update v1.22 (Fix 5.05/6.72/7.02/7.55/9.00/11.00) ⇛"
+    },
+    "https://vikingfile.com/f/es16kV6Ru8": {
+      "region": "EUR",
+      "size": "19.5GB",
+      "version": "1.00",
+      "release": "March 27, 2025",
+      "min_fw": null,
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/03/Atomfall-Deluxe-Edition-PS4-PKG.webp",
+      "name": "Atomfall Deluxe Edition",
+      "type": "dlc",
+      "download_text": "Viki",
+      "key_description": "DLC ⇛"
+    },
     "https://vikingfile.com/f/aUzTj6Ipdt": {
       "region": "EUR",
       "size": "19.5GB",
@@ -2450,7 +2486,7 @@
       "download_text": "Viki",
       "key_description": "DLC Complete Edition ⇛"
     },
-    "https://vikingfile.com/f/ATebLIPFn1": {
+    "https://vikingfile.com/f/6WvenF8AtW": {
       "region": "EUR",
       "size": "18GB",
       "version": "1.00",
@@ -2462,7 +2498,31 @@
       "download_text": "Viki",
       "key_description": "Game (5.05+) ⇛"
     },
-    "https://vikingfile.com/f/teyikMYBm4": {
+    "https://vikingfile.com/f/c480PLihOq": {
+      "region": "EUR",
+      "size": "50GB",
+      "version": "1.00",
+      "release": "March 14, 2025",
+      "min_fw": "Fix 5.05/6.72/7.xx",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/03/WWE-2K25-PS4-PKG.webp",
+      "name": "Wwe 2K25",
+      "type": "update",
+      "download_text": "Viki",
+      "key_description": "Update v1.26 (Fix 5.05/6.72/7.xx) ⇛"
+    },
+    "https://vikingfile.com/f/o4srLZuUdn": {
+      "region": "EUR",
+      "size": "18GB",
+      "version": "1.00",
+      "release": "August 25, 2015",
+      "min_fw": "5.05+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/03/Dishonored-Definitive-Edition-PS4-PKG.webp",
+      "name": "Dishonored Definitive Edition",
+      "type": "game",
+      "download_text": "Viki",
+      "key_description": "Game (5.05+) ⇛"
+    },
+    "https://vikingfile.com/f/3JnEyeAJXB": {
       "region": "EUR",
       "size": "18GB",
       "version": "1.00",
@@ -8517,6 +8577,18 @@
       "download_text": "Viki",
       "key_description": "Fix 5.05 ⇛"
     },
+    "https://vikingfile.com/f/rnLTEzMtao": {
+      "region": "EUR",
+      "size": "250MB",
+      "version": "1.00",
+      "release": "October 9, 2015",
+      "min_fw": "5.05+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/05/SkyScrappers-PS4-PKG.webp",
+      "name": "Skyscrappers",
+      "type": "game",
+      "download_text": "Viki",
+      "key_description": "Game (5.05+) ⇛"
+    },
     "https://vikingfile.com/f/GHlU1Gr1H7": {
       "region": "USA",
       "size": "1.7GB",
@@ -10215,7 +10287,7 @@
       "download_text": "Viki",
       "key_description": "Update v1.02 (8.50+) ⇛"
     },
-    "https://vikingfile.com/f/zcrK2RyX0f": {
+    "https://vikingfile.com/f/wy1dyCVIk1": {
       "region": "USA",
       "size": "6GB",
       "version": "1.00",
@@ -10228,7 +10300,7 @@
       "download_text": "Viki",
       "key_description": "Game+Update v1.16 (5.05+) ⇛"
     },
-    "https://vikingfile.com/f/gvWHUUCa4V": {
+    "https://vikingfile.com/f/EKRTw2nRWM": {
       "region": "USA",
       "size": "6GB",
       "version": "1.00",
@@ -11133,6 +11205,42 @@
       "type": "dlc",
       "download_text": "Viki",
       "key_description": "DLC (v5) ⇛"
+    },
+    "https://vikingfile.com/f/UJCpPDp10Y": {
+      "region": "EUR",
+      "size": "50GB",
+      "version": "1.00",
+      "release": "March 14, 2025",
+      "min_fw": "12.00",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/03/WWE-2K25-PS4-PKG.webp",
+      "name": "Wwe 2K25",
+      "type": "game",
+      "download_text": "Viki",
+      "key_description": "Game (12.00) ⇛"
+    },
+    "https://vikingfile.com/f/dApa67rXwr": {
+      "region": "EUR",
+      "size": "50GB",
+      "version": "1.00",
+      "release": "March 14, 2025",
+      "min_fw": "9.00/11.00",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/03/WWE-2K25-PS4-PKG.webp",
+      "name": "Wwe 2K25",
+      "type": "update",
+      "download_text": "Viki",
+      "key_description": "Update v1.26 (9.00/11.00) ⇛"
+    },
+    "https://vikingfile.com/f/3QajQaaqz0": {
+      "region": "EUR",
+      "size": "50GB",
+      "version": "1.00",
+      "release": "March 14, 2025",
+      "min_fw": null,
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/03/WWE-2K25-PS4-PKG.webp",
+      "name": "Wwe 2K25",
+      "type": "dlc",
+      "download_text": "Viki",
+      "key_description": "DLC v5 ⇛"
     },
     "https://vikingfile.com/f/AIANIUo9KS": {
       "region": "EUR",

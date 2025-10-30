@@ -2292,6 +2292,42 @@
       "download_text": "AKR",
       "key_description": "DLC (17) ⇛"
     },
+    "https://akirabox.com/b5Ozd0JOyzB8/file": {
+      "region": "EUR",
+      "size": "19.5GB",
+      "version": "1.00",
+      "release": "March 27, 2025",
+      "min_fw": null,
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/03/Atomfall-Deluxe-Edition-PS4-PKG.webp",
+      "name": "Atomfall Deluxe Edition",
+      "type": "game",
+      "download_text": "AKR",
+      "key_description": "Game ⇛"
+    },
+    "https://akirabox.com/obj3joMgjzDx/file": {
+      "region": "EUR",
+      "size": "19.5GB",
+      "version": "1.00",
+      "release": "March 27, 2025",
+      "min_fw": "Fix 5.05/6.72/7.02/7.55/9.00/11.00",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/03/Atomfall-Deluxe-Edition-PS4-PKG.webp",
+      "name": "Atomfall Deluxe Edition",
+      "type": "update",
+      "download_text": "AKR",
+      "key_description": "Update v1.22 (Fix 5.05/6.72/7.02/7.55/9.00/11.00) ⇛"
+    },
+    "https://akirabox.com/N2p3DZEbnGMa/folder": {
+      "region": "EUR",
+      "size": "19.5GB",
+      "version": "1.00",
+      "release": "March 27, 2025",
+      "min_fw": null,
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/03/Atomfall-Deluxe-Edition-PS4-PKG.webp",
+      "name": "Atomfall Deluxe Edition",
+      "type": "dlc",
+      "download_text": "AKR",
+      "key_description": "DLC ⇛"
+    },
     "https://akirabox.com/7d5GLE205mxR/file": {
       "region": "EUR",
       "size": "19.5GB",
@@ -9288,7 +9324,7 @@
       "download_text": "AKR",
       "key_description": "Update v1.02 (5.05+) ⇛"
     },
-    "https://akirabox.com/ex5z2rgBzKqk/file": {
+    "https://akirabox.com/XkrzoYA4RmBO/file": {
       "region": "EUR",
       "size": "18GB",
       "version": "1.00",
@@ -9300,7 +9336,31 @@
       "download_text": "AKR",
       "key_description": "Game (5.05+) ⇛"
     },
-    "https://akirabox.com/jJD3Vbpa3a5Q/file": {
+    "https://akirabox.com/l76mZV6anman/file": {
+      "region": "EUR",
+      "size": "18GB",
+      "version": "1.00",
+      "release": "August 25, 2015",
+      "min_fw": "5.05+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/03/Dishonored-Definitive-Edition-PS4-PKG.webp",
+      "name": "Dishonored Definitive Edition",
+      "type": "update",
+      "download_text": "AKR",
+      "key_description": "Update v1.03 (5.05+) ⇛"
+    },
+    "https://akirabox.com/k0embKxY83Vb/file": {
+      "region": "EUR",
+      "size": "18GB",
+      "version": "1.00",
+      "release": "August 25, 2015",
+      "min_fw": "5.05+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/03/Dishonored-Definitive-Edition-PS4-PKG.webp",
+      "name": "Dishonored Definitive Edition",
+      "type": "game",
+      "download_text": "AKR",
+      "key_description": "Game (5.05+) ⇛"
+    },
+    "https://akirabox.com/M2BGwYklP3j4/file": {
       "region": "EUR",
       "size": "18GB",
       "version": "1.00",
@@ -18922,6 +18982,30 @@
       "download_text": "AKR",
       "key_description": "All DLC ⇛"
     },
+    "https://akirabox.com/EL73gqZEG9Ba/file": {
+      "region": "EUR",
+      "size": "3GB",
+      "version": "1.00",
+      "release": "November 15, 2022",
+      "min_fw": "9.00+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/01/Lets-Sing-2023-PS4-PKG.webp",
+      "name": "Lets Sing 2023",
+      "type": "game",
+      "download_text": "AKR",
+      "key_description": "Game (9.00+) ⇛"
+    },
+    "https://akirabox.com/gXeGONW6zAa7/file": {
+      "region": "EUR",
+      "size": "3GB",
+      "version": "1.00",
+      "release": "November 15, 2022",
+      "min_fw": "9.00+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/01/Lets-Sing-2023-PS4-PKG.webp",
+      "name": "Lets Sing 2023",
+      "type": "update",
+      "download_text": "AKR",
+      "key_description": "Update v1.01 (9.00+) ⇛"
+    },
     "https://akirabox.com/E1x3AeJR3yk6/file": {
       "region": "EUR",
       "size": "1GB",
@@ -23817,30 +23901,6 @@
       "download_text": "AKR",
       "key_description": "DLC v2 ⇛"
     },
-    "https://akirabox.com/obj3jbwn23Dx/file": {
-      "region": "EUR",
-      "size": "500MB",
-      "version": "1.00",
-      "release": "October 14, 2014",
-      "min_fw": "5.05+",
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/08/Nidhogg-PS4-PKG.webp",
-      "name": "Nidhogg 2",
-      "type": "game",
-      "download_text": "AKR",
-      "key_description": "Game (5.05+) ⇛"
-    },
-    "https://akirabox.com/RMKGJXrkl31o/file": {
-      "region": "EUR",
-      "size": "500MB",
-      "version": "1.00",
-      "release": "October 14, 2014",
-      "min_fw": "5.05+",
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/08/Nidhogg-PS4-PKG.webp",
-      "name": "Nidhogg 2",
-      "type": "update",
-      "download_text": "AKR",
-      "key_description": "Update v1.02 (5.05+) ⇛"
-    },
     "https://akirabox.com/7d5GLr56V3xR/file": {
       "region": "EUR",
       "size": "397.15 MB",
@@ -23864,6 +23924,30 @@
       "type": "update",
       "download_text": "AKR",
       "key_description": "Update v1.07 (5.05+) ⇛"
+    },
+    "https://akirabox.com/obj3jbwn23Dx/file": {
+      "region": "EUR",
+      "size": "500MB",
+      "version": "1.00",
+      "release": "October 14, 2014",
+      "min_fw": "5.05+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/08/Nidhogg-PS4-PKG.webp",
+      "name": "Nidhogg 2",
+      "type": "game",
+      "download_text": "AKR",
+      "key_description": "Game (5.05+) ⇛"
+    },
+    "https://akirabox.com/RMKGJXrkl31o/file": {
+      "region": "EUR",
+      "size": "500MB",
+      "version": "1.00",
+      "release": "October 14, 2014",
+      "min_fw": "5.05+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/08/Nidhogg-PS4-PKG.webp",
+      "name": "Nidhogg 2",
+      "type": "update",
+      "download_text": "AKR",
+      "key_description": "Update v1.02 (5.05+) ⇛"
     },
     "https://akirabox.com/0Kezk9162mD1/file": {
       "region": "EUR",
@@ -28853,6 +28937,42 @@
       "download_text": "AKR",
       "key_description": "Update v1.03 (Fix 5.05/6.72/7.xx/8.xx) ⇛"
     },
+    "https://akirabox.com/0KezkpLRGD1X/file": {
+      "region": "EUR",
+      "size": "825.75 MB",
+      "version": "1.00",
+      "release": "June 21, 2022",
+      "min_fw": "9.00+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/06/Shadowrun-Returns-PS4-PKG.webp",
+      "name": "Shadowrun Returns",
+      "type": "game",
+      "download_text": "AKR",
+      "key_description": "Game (9.00+) ⇛"
+    },
+    "https://akirabox.com/Pbe3Plp13lX6/file": {
+      "region": "EUR",
+      "size": "825.75 MB",
+      "version": "1.00",
+      "release": "June 21, 2022",
+      "min_fw": "9.00+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/06/Shadowrun-Returns-PS4-PKG.webp",
+      "name": "Shadowrun Returns",
+      "type": "update",
+      "download_text": "AKR",
+      "key_description": "Update v1.03 (9.00+) ⇛"
+    },
+    "https://akirabox.com/k0embELVGVb4/file": {
+      "region": "EUR",
+      "size": "825.75 MB",
+      "version": "1.00",
+      "release": "June 21, 2022",
+      "min_fw": "Fix 5.05/6.72/7.02/7.55",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/06/Shadowrun-Returns-PS4-PKG.webp",
+      "name": "Shadowrun Returns",
+      "type": "update",
+      "download_text": "AKR",
+      "key_description": "Update v1.03 (Fix 5.05/6.72/7.02/7.55) ⇛"
+    },
     "https://akirabox.com/9QWmpYlMx3EB/file": {
       "region": "USA",
       "size": "3.7GB",
@@ -29817,6 +29937,18 @@
       "type": "game",
       "download_text": "AKR",
       "key_description": "Fix 5.05 ⇛"
+    },
+    "https://akirabox.com/gXeGOJWLKzAa/file": {
+      "region": "EUR",
+      "size": "250MB",
+      "version": "1.00",
+      "release": "October 9, 2015",
+      "min_fw": "5.05+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/05/SkyScrappers-PS4-PKG.webp",
+      "name": "Skyscrappers",
+      "type": "game",
+      "download_text": "AKR",
+      "key_description": "Game (5.05+) ⇛"
     },
     "https://akirabox.com/ZvqzloWNa3aD/file": {
       "region": "USA",
@@ -33185,6 +33317,45 @@
       "download_text": "AKR",
       "key_description": "Update v1.02 (Fix 5.05/6.72/7.xx) ⇛"
     },
+    "https://akirabox.com/Y2xm08bLmRO1/file": {
+      "region": "USA",
+      "size": "2.5GB",
+      "version": "1.00",
+      "release": "Oct 20, 2015",
+      "min_fw": "5.05+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/02/Tales-from-the-Borderlands-A-Telltale-Game-Series-PS4-PKG.webp",
+      "cusa": "CUSA00870",
+      "name": "Tales From The Borderlands",
+      "type": "game",
+      "download_text": "AKR",
+      "key_description": "Game (5.05+) ⇛"
+    },
+    "https://akirabox.com/l5YzMMMRzyOA/file": {
+      "region": "USA",
+      "size": "2.5GB",
+      "version": "1.00",
+      "release": "Oct 20, 2015",
+      "min_fw": "5.05+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/02/Tales-from-the-Borderlands-A-Telltale-Game-Series-PS4-PKG.webp",
+      "cusa": "CUSA00870",
+      "name": "Tales From The Borderlands",
+      "type": "update",
+      "download_text": "AKR",
+      "key_description": "Update v1.07 (5.05+) ⇛"
+    },
+    "https://akirabox.com/rk9zKkkXz0lY/folder": {
+      "region": "USA",
+      "size": "2.5GB",
+      "version": "1.00",
+      "release": "Oct 20, 2015",
+      "min_fw": null,
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/02/Tales-from-the-Borderlands-A-Telltale-Game-Series-PS4-PKG.webp",
+      "cusa": "CUSA00870",
+      "name": "Tales From The Borderlands",
+      "type": "dlc",
+      "download_text": "AKR",
+      "key_description": "DLCs ⇛"
+    },
     "https://akirabox.com/vgKGxoXJ4z8Q/file": {
       "region": "EUR",
       "size": "37GB",
@@ -34727,6 +34898,32 @@
       "type": "update",
       "download_text": "AKR",
       "key_description": "Update v1.15 [Fix.5.05] ⇛"
+    },
+    "https://akirabox.com/LJlGnJyAG15w/file": {
+      "region": "USA",
+      "size": "3GB",
+      "version": "1.00",
+      "release": "July 27, 2021",
+      "min_fw": "8.00+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/02/The-Great-Ace-Attorney-Chronicles-PS4-PKG.webp",
+      "cusa": "CUSA17886",
+      "name": "The Great Ace Attorney Chronicles",
+      "type": "game",
+      "download_text": "AKR",
+      "key_description": "Game (8.00+) ⇛"
+    },
+    "https://akirabox.com/5pVzNLgdm7wv/file": {
+      "region": "USA",
+      "size": "3GB",
+      "version": "1.00",
+      "release": "July 27, 2021",
+      "min_fw": "5.05/6.72/7.02/7.55",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/02/The-Great-Ace-Attorney-Chronicles-PS4-PKG.webp",
+      "cusa": "CUSA17886",
+      "name": "The Great Ace Attorney Chronicles",
+      "type": "game",
+      "download_text": "AKR",
+      "key_description": "Fix (5.05/6.72/7.02/7.55) ⇛"
     },
     "https://akirabox.com/Pbe3PMO4YzlX/file": {
       "region": "EUR",
@@ -36927,32 +37124,6 @@
       "download_text": "AKR",
       "key_description": "ALL DLCs ⇛"
     },
-    "https://akirabox.com/7d5GLAbjmxRJ/file": {
-      "region": "USA",
-      "size": "15GB",
-      "version": "1.00",
-      "release": "January 28, 2014",
-      "min_fw": null,
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/10/Tomb-Raider-Definitive-Edition-PS4-PKG.webp",
-      "cusa": "CUSA00107",
-      "name": "Tomb Raider Definitive Edition",
-      "type": "game",
-      "download_text": "AKR",
-      "key_description": "Game (5.50+) ⇛"
-    },
-    "https://akirabox.com/EL73g4aEz9Ba/file": {
-      "region": "USA",
-      "size": "15GB",
-      "version": "1.00",
-      "release": "January 28, 2014",
-      "min_fw": null,
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/10/Tomb-Raider-Definitive-Edition-PS4-PKG.webp",
-      "cusa": "CUSA00107",
-      "name": "Tomb Raider Definitive Edition",
-      "type": "update",
-      "download_text": "AKR",
-      "key_description": "Update v1.01 (5.50+) ⇛"
-    },
     "https://akirabox.com/9AqGQRN78mMn/file": {
       "region": "USA",
       "size": "10 GB",
@@ -37823,7 +37994,7 @@
       "download_text": "AKR",
       "key_description": "Update v1.02 (8.50+) ⇛"
     },
-    "https://akirabox.com/qLQ36pqN1G19/file": {
+    "https://akirabox.com/0Kezko9xbzD1/file": {
       "region": "USA",
       "size": "6GB",
       "version": "1.00",
@@ -37836,7 +38007,7 @@
       "download_text": "AKR",
       "key_description": "Game+Update v1.16 (5.05+) ⇛"
     },
-    "https://akirabox.com/qLQ366Z7P319/file": {
+    "https://akirabox.com/Pbe3PgxnQmlX/file": {
       "region": "USA",
       "size": "6GB",
       "version": "1.00",
@@ -40953,6 +41124,54 @@
       "type": "dlc",
       "download_text": "AKR",
       "key_description": "DLC (v5) ⇛"
+    },
+    "https://akirabox.com/l5YzMx1YY3yO/file": {
+      "region": "EUR",
+      "size": "50GB",
+      "version": "1.00",
+      "release": "March 14, 2025",
+      "min_fw": "12.00",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/03/WWE-2K25-PS4-PKG.webp",
+      "name": "Wwe 2K25",
+      "type": "game",
+      "download_text": "AKR",
+      "key_description": "Game (12.00) ⇛"
+    },
+    "https://akirabox.com/E1x3AldJnmyk/file": {
+      "region": "EUR",
+      "size": "50GB",
+      "version": "1.00",
+      "release": "March 14, 2025",
+      "min_fw": "9.00/11.00",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/03/WWE-2K25-PS4-PKG.webp",
+      "name": "Wwe 2K25",
+      "type": "update",
+      "download_text": "AKR",
+      "key_description": "Update v1.26 (9.00/11.00) ⇛"
+    },
+    "https://akirabox.com/rk9zKvYKZ30l/file": {
+      "region": "EUR",
+      "size": "50GB",
+      "version": "1.00",
+      "release": "March 14, 2025",
+      "min_fw": "Fix 5.05/6.72/7.xx",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/03/WWE-2K25-PS4-PKG.webp",
+      "name": "Wwe 2K25",
+      "type": "update",
+      "download_text": "AKR",
+      "key_description": "Update v1.26 (Fix 5.05/6.72/7.xx) ⇛"
+    },
+    "https://akirabox.com/LJlGno1Qjm15/file": {
+      "region": "EUR",
+      "size": "50GB",
+      "version": "1.00",
+      "release": "March 14, 2025",
+      "min_fw": null,
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/03/WWE-2K25-PS4-PKG.webp",
+      "name": "Wwe 2K25",
+      "type": "dlc",
+      "download_text": "AKR",
+      "key_description": "DLC v5 ⇛"
     },
     "https://akirabox.com/obj3jwePzDxJ/file": {
       "region": "EUR",

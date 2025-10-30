@@ -12905,30 +12905,6 @@
       "download_text": "OneFile",
       "key_description": "Update v1.02 (5.05+) ⇛"
     },
-    "https://1fichier.com/?zpl0i24a68crq7b6zboq&af=4186346": {
-      "region": "EUR",
-      "size": "18GB",
-      "version": "1.00",
-      "release": "August 25, 2015",
-      "min_fw": "5.05+",
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/03/Dishonored-Definitive-Edition-PS4-PKG.webp",
-      "name": "Dishonored Definitive Edition",
-      "type": "game",
-      "download_text": "OneFile",
-      "key_description": "Game (5.05+) ⇛"
-    },
-    "https://1fichier.com/?sgrut89eg7jl2sv6zolm&af=4186346": {
-      "region": "EUR",
-      "size": "18GB",
-      "version": "1.00",
-      "release": "August 25, 2015",
-      "min_fw": "5.05+",
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/03/Dishonored-Definitive-Edition-PS4-PKG.webp",
-      "name": "Dishonored Definitive Edition",
-      "type": "update",
-      "download_text": "OneFile",
-      "key_description": "Update v1.03 (5.05+) ⇛"
-    },
     "https://1fichier.com/?6dhczq9uj26ym5aurwk8&af=4186346": {
       "region": "EUR",
       "size": "7.28 GB",
@@ -24909,6 +24885,18 @@
       "download_text": "OneFile",
       "key_description": "Update v1.03 (Fix 5.05) ⇛"
     },
+    "https://1fichier.com/?0rpqxc5psx5q9kwty5xd&af=4186346": {
+      "region": "EUR",
+      "size": "961 MB",
+      "version": "1.00",
+      "release": "September 28, 2021",
+      "min_fw": "9.00+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/KeyWe-PS4-PKG.webp",
+      "name": "Keywe",
+      "type": "game",
+      "download_text": "OneFile",
+      "key_description": "Game ⇛"
+    },
     "https://1fichier.com/?6qatst5d6vv3xvr4atb4&af=4186346": {
       "region": "EUR",
       "size": "1.61 GB",
@@ -26441,6 +26429,30 @@
       "type": "update",
       "download_text": "OneFile",
       "key_description": "Update 1.02 (Fix 5.05/6.72/7.xx) ⇛"
+    },
+    "https://1fichier.com/?evmy8omfvwn1zigttta8&af=4186346": {
+      "region": "EUR",
+      "size": "3GB",
+      "version": "1.00",
+      "release": "November 15, 2022",
+      "min_fw": "9.00+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/01/Lets-Sing-2023-PS4-PKG.webp",
+      "name": "Lets Sing 2023",
+      "type": "game",
+      "download_text": "OneFile",
+      "key_description": "Game (9.00+) ⇛"
+    },
+    "https://1fichier.com/?ybiy42g0osner7qi9ao4&af=4186346": {
+      "region": "EUR",
+      "size": "3GB",
+      "version": "1.00",
+      "release": "November 15, 2022",
+      "min_fw": "9.00+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/01/Lets-Sing-2023-PS4-PKG.webp",
+      "name": "Lets Sing 2023",
+      "type": "update",
+      "download_text": "OneFile",
+      "key_description": "Update v1.01 (9.00+) ⇛"
     },
     "https://1fichier.com/?xgbnijeqgxtokpv90pao&af=4186346": {
       "region": "EUR",
@@ -33412,30 +33424,6 @@
       "download_text": "OneFile",
       "key_description": "DLC ⇛"
     },
-    "https://1fichier.com/?x0l1nv7408ke0kb720il&af=4186346": {
-      "region": "EUR",
-      "size": "500MB",
-      "version": "1.00",
-      "release": "October 14, 2014",
-      "min_fw": "5.05+",
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/08/Nidhogg-PS4-PKG.webp",
-      "name": "Nidhogg 2",
-      "type": "game",
-      "download_text": "OneFile",
-      "key_description": "Game (5.05+) ⇛"
-    },
-    "https://1fichier.com/?bry9hepim2a628h6iylm&af=4186346": {
-      "region": "EUR",
-      "size": "500MB",
-      "version": "1.00",
-      "release": "October 14, 2014",
-      "min_fw": "5.05+",
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/08/Nidhogg-PS4-PKG.webp",
-      "name": "Nidhogg 2",
-      "type": "update",
-      "download_text": "OneFile",
-      "key_description": "Update v1.02 (5.05+) ⇛"
-    },
     "https://1fichier.com/?e7psyde2u42xep77z9a9&af=4186346": {
       "region": "EUR",
       "size": "397.15 MB",
@@ -33459,6 +33447,30 @@
       "type": "update",
       "download_text": "OneFile",
       "key_description": "Update v1.07 (5.05+) ⇛"
+    },
+    "https://1fichier.com/?x0l1nv7408ke0kb720il&af=4186346": {
+      "region": "EUR",
+      "size": "500MB",
+      "version": "1.00",
+      "release": "October 14, 2014",
+      "min_fw": "5.05+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/08/Nidhogg-PS4-PKG.webp",
+      "name": "Nidhogg 2",
+      "type": "game",
+      "download_text": "OneFile",
+      "key_description": "Game (5.05+) ⇛"
+    },
+    "https://1fichier.com/?bry9hepim2a628h6iylm&af=4186346": {
+      "region": "EUR",
+      "size": "500MB",
+      "version": "1.00",
+      "release": "October 14, 2014",
+      "min_fw": "5.05+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/08/Nidhogg-PS4-PKG.webp",
+      "name": "Nidhogg 2",
+      "type": "update",
+      "download_text": "OneFile",
+      "key_description": "Update v1.02 (5.05+) ⇛"
     },
     "https://1fichier.com/?l85tz68ijgs1udp3fkom&af=4186346": {
       "region": "EUR",
@@ -38144,6 +38156,18 @@
       "download_text": "OneFile",
       "key_description": "DLC Pack (3) ⇛"
     },
+    "https://1fichier.com/?g1a8jgofblpv8ace0vv7&af=4186346": {
+      "region": "EUR",
+      "size": "8 GB",
+      "version": "1.04",
+      "release": "October 10, 2017",
+      "min_fw": "5.55+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/Raw-Data-PS4-PKG.webp",
+      "name": "Raw Data",
+      "type": "game",
+      "download_text": "OneFile",
+      "key_description": "Game (v1.04) ⇛"
+    },
     "https://1fichier.com/?rjwkvpgjo91fclipb21j&af=4186346": {
       "region": "EUR",
       "size": "10.83 GB",
@@ -41545,6 +41569,42 @@
       "download_text": "OneFile",
       "key_description": "Update v1.03 (Fix 5.05/6.72/7.xx/8.xx) ⇛"
     },
+    "https://1fichier.com/?77vqx3i3kvvath6kbczt&af=4186346": {
+      "region": "EUR",
+      "size": "825.75 MB",
+      "version": "1.00",
+      "release": "June 21, 2022",
+      "min_fw": "9.00+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/06/Shadowrun-Returns-PS4-PKG.webp",
+      "name": "Shadowrun Returns",
+      "type": "game",
+      "download_text": "OneFile",
+      "key_description": "Game (9.00+) ⇛"
+    },
+    "https://1fichier.com/?72oj55if7ifshvlfwdb3&af=4186346": {
+      "region": "EUR",
+      "size": "825.75 MB",
+      "version": "1.00",
+      "release": "June 21, 2022",
+      "min_fw": "9.00+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/06/Shadowrun-Returns-PS4-PKG.webp",
+      "name": "Shadowrun Returns",
+      "type": "update",
+      "download_text": "OneFile",
+      "key_description": "Update v1.03 (9.00+) ⇛"
+    },
+    "https://1fichier.com/?8ph0gsartk1lrlrylz23&af=4186346": {
+      "region": "EUR",
+      "size": "825.75 MB",
+      "version": "1.00",
+      "release": "June 21, 2022",
+      "min_fw": "Fix 5.05/6.72/7.02/7.55",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/06/Shadowrun-Returns-PS4-PKG.webp",
+      "name": "Shadowrun Returns",
+      "type": "update",
+      "download_text": "OneFile",
+      "key_description": "Update v1.03 (Fix 5.05/6.72/7.02/7.55) ⇛"
+    },
     "https://1fichier.com/?wa67qwgg56n4c7idmxa6&af=4186346": {
       "region": "EUR",
       "size": "6.61 GB",
@@ -42833,6 +42893,18 @@
       "type": "update",
       "download_text": "OneFile",
       "key_description": "Game + Update v1.01 ⇛"
+    },
+    "https://1fichier.com/?u0hzq2ecetzqddfxukcx&af=4186346": {
+      "region": "EUR",
+      "size": "250MB",
+      "version": "1.00",
+      "release": "October 9, 2015",
+      "min_fw": "5.05+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/05/SkyScrappers-PS4-PKG.webp",
+      "name": "Skyscrappers",
+      "type": "game",
+      "download_text": "OneFile",
+      "key_description": "Game (5.05+) ⇛"
     },
     "https://1fichier.com/?i5qc67wbli4iz8kbtwm3&af=4186346": {
       "region": "USA",
@@ -47209,6 +47281,45 @@
       "download_text": "OneFile",
       "key_description": "Game ⇛"
     },
+    "https://1fichier.com/?azjqwfsr7xb2goa2f9bf&af=4186346": {
+      "region": "USA",
+      "size": "2.5GB",
+      "version": "1.00",
+      "release": "Oct 20, 2015",
+      "min_fw": "5.05+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/02/Tales-from-the-Borderlands-A-Telltale-Game-Series-PS4-PKG.webp",
+      "cusa": "CUSA00870",
+      "name": "Tales From The Borderlands",
+      "type": "game",
+      "download_text": "OneFile",
+      "key_description": "Game (5.05+) ⇛"
+    },
+    "https://1fichier.com/?30qswvivhoembww6m4fx&af=4186346": {
+      "region": "USA",
+      "size": "2.5GB",
+      "version": "1.00",
+      "release": "Oct 20, 2015",
+      "min_fw": "5.05+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/02/Tales-from-the-Borderlands-A-Telltale-Game-Series-PS4-PKG.webp",
+      "cusa": "CUSA00870",
+      "name": "Tales From The Borderlands",
+      "type": "update",
+      "download_text": "OneFile",
+      "key_description": "Update v1.07 (5.05+) ⇛"
+    },
+    "https://1fichier.com/dir/f8X4twux": {
+      "region": "USA",
+      "size": "2.5GB",
+      "version": "1.00",
+      "release": "Oct 20, 2015",
+      "min_fw": null,
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/02/Tales-from-the-Borderlands-A-Telltale-Game-Series-PS4-PKG.webp",
+      "cusa": "CUSA00870",
+      "name": "Tales From The Borderlands",
+      "type": "dlc",
+      "download_text": "OneFile",
+      "key_description": "DLCs ⇛"
+    },
     "https://1fichier.com/?3grrrlsbx8kko0s0x9lo&af=4186346": {
       "region": "EUR",
       "size": "37GB",
@@ -49571,6 +49682,32 @@
       "type": "update",
       "download_text": "OneFile",
       "key_description": "Update v1.14 (Fix 5.05) ⇛"
+    },
+    "https://1fichier.com/?so0oi53bs6kgmirtf0r8&af=4186346": {
+      "region": "USA",
+      "size": "3GB",
+      "version": "1.00",
+      "release": "July 27, 2021",
+      "min_fw": "8.00+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/02/The-Great-Ace-Attorney-Chronicles-PS4-PKG.webp",
+      "cusa": "CUSA17886",
+      "name": "The Great Ace Attorney Chronicles",
+      "type": "game",
+      "download_text": "OneFile",
+      "key_description": "Game (8.00+) ⇛"
+    },
+    "https://1fichier.com/?z97tvczc4uwmcs1yn4o5&af=4186346": {
+      "region": "USA",
+      "size": "3GB",
+      "version": "1.00",
+      "release": "July 27, 2021",
+      "min_fw": "5.05/6.72/7.02/7.55",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/02/The-Great-Ace-Attorney-Chronicles-PS4-PKG.webp",
+      "cusa": "CUSA17886",
+      "name": "The Great Ace Attorney Chronicles",
+      "type": "game",
+      "download_text": "OneFile",
+      "key_description": "Fix (5.05/6.72/7.02/7.55) ⇛"
     },
     "https://1fichier.com/?tcfm82b5zmxis5p3aqj7&af=4186346": {
       "region": "EUR",
@@ -52815,32 +52952,6 @@
       "download_text": "OneFile",
       "key_description": "ALL DLCs ⇛"
     },
-    "https://1fichier.com/?cfrt04mnbom2f3th2x2b&af=4186346": {
-      "region": "USA",
-      "size": "15GB",
-      "version": "1.00",
-      "release": "January 28, 2014",
-      "min_fw": null,
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/10/Tomb-Raider-Definitive-Edition-PS4-PKG.webp",
-      "cusa": "CUSA00107",
-      "name": "Tomb Raider Definitive Edition",
-      "type": "game",
-      "download_text": "OneFile",
-      "key_description": "Game (5.50+) ⇛"
-    },
-    "https://1fichier.com/?bg3m7fnqdgtuk01iyhes&af=4186346": {
-      "region": "USA",
-      "size": "15GB",
-      "version": "1.00",
-      "release": "January 28, 2014",
-      "min_fw": null,
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/10/Tomb-Raider-Definitive-Edition-PS4-PKG.webp",
-      "cusa": "CUSA00107",
-      "name": "Tomb Raider Definitive Edition",
-      "type": "update",
-      "download_text": "OneFile",
-      "key_description": "Update v1.01 (5.50+) ⇛"
-    },
     "https://1fichier.com/?llv5ph29hi0sp2y3xm06&af=4186346": {
       "region": "EUR",
       "size": "3.54 GB",
@@ -54032,32 +54143,6 @@
       "type": "update",
       "download_text": "OneFile",
       "key_description": "Update v1.04 (Fix 5.05/6.72/7.02/7.55) ⇛"
-    },
-    "https://1fichier.com/?4dsz76uh4vcdihjy4xo1&af=4186346": {
-      "region": "USA",
-      "size": "6GB",
-      "version": "1.00",
-      "release": "April 16, 2014",
-      "min_fw": "5.05+",
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/Trials-Fusion_-PS4-PKG.webp",
-      "cusa": "CUSA00230",
-      "name": "Trials Fusion",
-      "type": "update",
-      "download_text": "OneFile",
-      "key_description": "Game+Update v1.16 (5.05+) ⇛"
-    },
-    "https://1fichier.com/?nyccnpr5s3ts7btxcfy1&af=4186346": {
-      "region": "USA",
-      "size": "6GB",
-      "version": "1.00",
-      "release": "April 16, 2014",
-      "min_fw": null,
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/Trials-Fusion_-PS4-PKG.webp",
-      "cusa": "CUSA00230",
-      "name": "Trials Fusion",
-      "type": "dlc",
-      "download_text": "OneFile",
-      "key_description": "DLC ⇛"
     },
     "https://1fichier.com/?kaqlhkv0rp8xrmwyvx8o&af=4186346": {
       "region": "EUR",

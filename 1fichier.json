@@ -52952,6 +52952,32 @@
       "download_text": "OneFile",
       "key_description": "ALL DLCs ⇛"
     },
+    "https://1fichier.com/?cfrt04mnbom2f3th2x2b&af=4186346": {
+      "region": "USA",
+      "size": "15GB",
+      "version": "1.00",
+      "release": "January 28, 2014",
+      "min_fw": null,
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/10/Tomb-Raider-Definitive-Edition-PS4-PKG.webp",
+      "cusa": "CUSA00107",
+      "name": "Tomb Raider Definitive Edition",
+      "type": "game",
+      "download_text": "OneFile",
+      "key_description": "Game (5.50+) ⇛"
+    },
+    "https://1fichier.com/?bg3m7fnqdgtuk01iyhes&af=4186346": {
+      "region": "USA",
+      "size": "15GB",
+      "version": "1.00",
+      "release": "January 28, 2014",
+      "min_fw": null,
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/10/Tomb-Raider-Definitive-Edition-PS4-PKG.webp",
+      "cusa": "CUSA00107",
+      "name": "Tomb Raider Definitive Edition",
+      "type": "update",
+      "download_text": "OneFile",
+      "key_description": "Update v1.01 (5.50+) ⇛"
+    },
     "https://1fichier.com/?llv5ph29hi0sp2y3xm06&af=4186346": {
       "region": "EUR",
       "size": "3.54 GB",

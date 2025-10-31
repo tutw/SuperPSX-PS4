@@ -37124,6 +37124,32 @@
       "download_text": "AKR",
       "key_description": "ALL DLCs ⇛"
     },
+    "https://akirabox.com/7d5GLAbjmxRJ/file": {
+      "region": "USA",
+      "size": "15GB",
+      "version": "1.00",
+      "release": "January 28, 2014",
+      "min_fw": null,
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/10/Tomb-Raider-Definitive-Edition-PS4-PKG.webp",
+      "cusa": "CUSA00107",
+      "name": "Tomb Raider Definitive Edition",
+      "type": "game",
+      "download_text": "AKR",
+      "key_description": "Game (5.50+) ⇛"
+    },
+    "https://akirabox.com/EL73g4aEz9Ba/file": {
+      "region": "USA",
+      "size": "15GB",
+      "version": "1.00",
+      "release": "January 28, 2014",
+      "min_fw": null,
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/10/Tomb-Raider-Definitive-Edition-PS4-PKG.webp",
+      "cusa": "CUSA00107",
+      "name": "Tomb Raider Definitive Edition",
+      "type": "update",
+      "download_text": "AKR",
+      "key_description": "Update v1.01 (5.50+) ⇛"
+    },
     "https://akirabox.com/9AqGQRN78mMn/file": {
       "region": "USA",
       "size": "10 GB",

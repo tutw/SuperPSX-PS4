@@ -41151,6 +41151,42 @@
       "download_text": "AKR",
       "key_description": "DLC (v5) ⇛"
     },
+    "https://akirabox.com/obj3jwePzDxJ/file": {
+      "region": "EUR",
+      "size": "50GB",
+      "version": "1.00",
+      "release": "March 14, 2025",
+      "min_fw": "12.00",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/03/WWE-2K25-PS4-PKG.webp",
+      "name": "Wwe 2K25",
+      "type": "game",
+      "download_text": "AKR",
+      "key_description": "Game (12.00) ⇛"
+    },
+    "https://akirabox.com/gXeGO1gbA3Aa/file": {
+      "region": "EUR",
+      "size": "50GB",
+      "version": "1.00",
+      "release": "March 14, 2025",
+      "min_fw": "Fix 5.05-6.72-7.xx-9.00-11.00",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/03/WWE-2K25-PS4-PKG.webp",
+      "name": "Wwe 2K25",
+      "type": "update",
+      "download_text": "AKR",
+      "key_description": "Update v1.27 (Fix 5.05-6.72-7.xx-9.00-11.00) ⇛"
+    },
+    "https://akirabox.com/M2BGwY6xk3j4/file": {
+      "region": "EUR",
+      "size": "50GB",
+      "version": "1.00",
+      "release": "March 14, 2025",
+      "min_fw": null,
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/03/WWE-2K25-PS4-PKG.webp",
+      "name": "Wwe 2K25",
+      "type": "dlc",
+      "download_text": "AKR",
+      "key_description": "DLC v7 (15) ⇛"
+    },
     "https://akirabox.com/l5YzMx1YY3yO/file": {
       "region": "EUR",
       "size": "50GB",
@@ -41198,42 +41234,6 @@
       "type": "dlc",
       "download_text": "AKR",
       "key_description": "DLC v5 ⇛"
-    },
-    "https://akirabox.com/obj3jwePzDxJ/file": {
-      "region": "EUR",
-      "size": "50GB",
-      "version": "1.00",
-      "release": "March 14, 2025",
-      "min_fw": "12.00",
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/03/WWE-2K25-PS4-PKG.webp",
-      "name": "Wwe 2K25",
-      "type": "game",
-      "download_text": "AKR",
-      "key_description": "Game (12.00) ⇛"
-    },
-    "https://akirabox.com/RMKGJke51m1o/file": {
-      "region": "EUR",
-      "size": "50GB",
-      "version": "1.00",
-      "release": "March 14, 2025",
-      "min_fw": "Fix 5.05-6.72-7.xx-9.00-11.00",
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/03/WWE-2K25-PS4-PKG.webp",
-      "name": "Wwe 2K25",
-      "type": "update",
-      "download_text": "AKR",
-      "key_description": "Update v1.25 (Fix 5.05-6.72-7.xx-9.00-11.00) ⇛"
-    },
-    "https://akirabox.com/QN9mEYWQpm6d/file": {
-      "region": "EUR",
-      "size": "50GB",
-      "version": "1.00",
-      "release": "March 14, 2025",
-      "min_fw": null,
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/03/WWE-2K25-PS4-PKG.webp",
-      "name": "Wwe 2K25",
-      "type": "dlc",
-      "download_text": "AKR",
-      "key_description": "DLC v6 (14) ⇛"
     },
     "https://akirabox.com/APVmaJW4l3Xo/file": {
       "region": "USA",

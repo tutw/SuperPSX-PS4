@@ -11206,6 +11206,30 @@
       "download_text": "Viki",
       "key_description": "DLC (v5) ⇛"
     },
+    "https://vikingfile.com/f/gA3fqCdOBl": {
+      "region": "EUR",
+      "size": "50GB",
+      "version": "1.00",
+      "release": "March 14, 2025",
+      "min_fw": "Fix 5.05-6.72-7.xx-9.00-11.00",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/03/WWE-2K25-PS4-PKG.webp",
+      "name": "Wwe 2K25",
+      "type": "update",
+      "download_text": "Viki",
+      "key_description": "Update v1.27 (Fix 5.05-6.72-7.xx-9.00-11.00) ⇛"
+    },
+    "https://vikingfile.com/f/oiMZb24yqw": {
+      "region": "EUR",
+      "size": "50GB",
+      "version": "1.00",
+      "release": "March 14, 2025",
+      "min_fw": null,
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/03/WWE-2K25-PS4-PKG.webp",
+      "name": "Wwe 2K25",
+      "type": "dlc",
+      "download_text": "Viki",
+      "key_description": "DLC v7 (15) ⇛"
+    },
     "https://vikingfile.com/f/UJCpPDp10Y": {
       "region": "EUR",
       "size": "50GB",
@@ -11241,30 +11265,6 @@
       "type": "dlc",
       "download_text": "Viki",
       "key_description": "DLC v5 ⇛"
-    },
-    "https://vikingfile.com/f/AIANIUo9KS": {
-      "region": "EUR",
-      "size": "50GB",
-      "version": "1.00",
-      "release": "March 14, 2025",
-      "min_fw": "Fix 5.05-6.72-7.xx-9.00-11.00",
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/03/WWE-2K25-PS4-PKG.webp",
-      "name": "Wwe 2K25",
-      "type": "update",
-      "download_text": "Viki",
-      "key_description": "Update v1.25 (Fix 5.05-6.72-7.xx-9.00-11.00) ⇛"
-    },
-    "https://vikingfile.com/f/FYwOuKfcsc": {
-      "region": "EUR",
-      "size": "50GB",
-      "version": "1.00",
-      "release": "March 14, 2025",
-      "min_fw": null,
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/03/WWE-2K25-PS4-PKG.webp",
-      "name": "Wwe 2K25",
-      "type": "dlc",
-      "download_text": "Viki",
-      "key_description": "DLC v6 (14) ⇛"
     },
     "https://vikingfile.com/f/CmG4TvlzML": {
       "region": "EUR",

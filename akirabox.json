@@ -30532,43 +30532,31 @@
       "download_text": "AKR",
       "key_description": "DLC ⇛"
     },
-    "https://akirabox.com/Pbe3PaWWzlX6/file": {
+    "https://akirabox.com/ZvqzlwRja3aD/folder": {
+      "region": "EUR",
+      "size": "21GB",
+      "version": "1.64",
+      "release": "May 31, 2022",
+      "min_fw": "11.00+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/SnowRunner-PS4-PKG.webp",
+      "name": "Snowrunner",
+      "type": "game",
+      "download_text": "AKR",
+      "key_description": "Game (v1.64)(11.00+) ⇛"
+    },
+    "https://akirabox.com/QN9mEwbgxz6d/file": {
       "region": "EUR",
       "size": "21GB",
       "version": "1.00",
       "release": "May 31, 2022",
-      "min_fw": "9.00+",
+      "min_fw": "Fix 5.05/6.72/7.xx/9.00",
       "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/SnowRunner-PS4-PKG.webp",
       "name": "Snowrunner",
       "type": "update",
       "download_text": "AKR",
-      "key_description": "Game + Update v1.49 (9.00+) ⇛"
+      "key_description": "Update v1.64 (Fix 5.05/6.72/7.xx/9.00) ⇛"
     },
-    "https://akirabox.com/Zvqzl7N53aD2/file": {
-      "region": "EUR",
-      "size": "21GB",
-      "version": "1.00",
-      "release": "May 31, 2022",
-      "min_fw": null,
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/SnowRunner-PS4-PKG.webp",
-      "name": "Snowrunner",
-      "type": "update",
-      "download_text": "AKR",
-      "key_description": "Update v1.49 OptionalFix ⇛"
-    },
-    "https://akirabox.com/qLQ36q8Bm19j/file": {
-      "region": "EUR",
-      "size": "21GB",
-      "version": "1.00",
-      "release": "May 31, 2022",
-      "min_fw": "Fix.5.05-7.55",
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/SnowRunner-PS4-PKG.webp",
-      "name": "Snowrunner",
-      "type": "update",
-      "download_text": "AKR",
-      "key_description": "Update v1.49 (Fix.5.05-7.55) ⇛"
-    },
-    "https://akirabox.com/N2p3DPBR3Ma5/file": {
+    "https://akirabox.com/M2BGwY65R3j4/file": {
       "region": "EUR",
       "size": "21GB",
       "version": "1.00",
@@ -30578,7 +30566,7 @@
       "name": "Snowrunner",
       "type": "dlc",
       "download_text": "AKR",
-      "key_description": "DLCs (34) ⇛"
+      "key_description": "DLC v4 (44) ⇛"
     },
     "https://akirabox.com/gXeGOR6r6zAa/file": {
       "region": "USA",
@@ -36420,6 +36408,42 @@
       "type": "update",
       "download_text": "AKR",
       "key_description": "Update 1.02 (Fix 5.05/6.72/7.xx/9.00) ⇛"
+    },
+    "https://akirabox.com/0rpmvYrngGRg/file": {
+      "region": "EUR",
+      "size": "10GB",
+      "version": "1.12",
+      "release": "May 19 2020",
+      "min_fw": null,
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/10/The-Wonderful-101-Remastered-PS4-PKG.webp",
+      "name": "The Wonderful 101 Remastered",
+      "type": "game",
+      "download_text": "AKR",
+      "key_description": "Game (v1.12)(7.00+) ⇛"
+    },
+    "https://akirabox.com/qLQ361oEKm19/file": {
+      "region": "EUR",
+      "size": "10GB",
+      "version": "1.00",
+      "release": "May 19 2020",
+      "min_fw": null,
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/10/The-Wonderful-101-Remastered-PS4-PKG.webp",
+      "name": "The Wonderful 101 Remastered",
+      "type": "game",
+      "download_text": "AKR",
+      "key_description": "Game Info Fix ⇛"
+    },
+    "https://akirabox.com/N2p3DZkWdGMa/folder": {
+      "region": "EUR",
+      "size": "10GB",
+      "version": "1.00",
+      "release": "May 19 2020",
+      "min_fw": null,
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/10/The-Wonderful-101-Remastered-PS4-PKG.webp",
+      "name": "The Wonderful 101 Remastered",
+      "type": "dlc",
+      "download_text": "AKR",
+      "key_description": "All DLC (4) ⇛"
     },
     "https://akirabox.com/jar3XVl2YG2d/folder": {
       "region": "EUR",

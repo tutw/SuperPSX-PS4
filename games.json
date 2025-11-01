@@ -8742,6 +8742,42 @@
       "download_text": "Viki",
       "key_description": "DLC v2 (9) ⇛"
     },
+    "https://vikingfile.com/f/NurWyGmzds": {
+      "region": "EUR",
+      "size": "21GB",
+      "version": "1.64",
+      "release": "May 31, 2022",
+      "min_fw": "11.00+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/SnowRunner-PS4-PKG.webp",
+      "name": "Snowrunner",
+      "type": "game",
+      "download_text": "Viki",
+      "key_description": "Game (v1.64)(11.00+) ⇛"
+    },
+    "https://vikingfile.com/f/jyJkiIAdAG": {
+      "region": "EUR",
+      "size": "21GB",
+      "version": "1.00",
+      "release": "May 31, 2022",
+      "min_fw": "Fix 5.05/6.72/7.xx/9.00",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/SnowRunner-PS4-PKG.webp",
+      "name": "Snowrunner",
+      "type": "update",
+      "download_text": "Viki",
+      "key_description": "Update v1.64 (Fix 5.05/6.72/7.xx/9.00) ⇛"
+    },
+    "https://vikingfile.com/f/KV4ssWmIiW": {
+      "region": "EUR",
+      "size": "21GB",
+      "version": "1.00",
+      "release": "May 31, 2022",
+      "min_fw": null,
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/SnowRunner-PS4-PKG.webp",
+      "name": "Snowrunner",
+      "type": "dlc",
+      "download_text": "Viki",
+      "key_description": "DLC v4 (44) ⇛"
+    },
     "https://vikingfile.com/f/HeNB507u3F": {
       "region": "EUR",
       "size": "4.96 GB",
@@ -9860,6 +9896,42 @@
       "type": "update",
       "download_text": "Viki",
       "key_description": "Update v1.03 (Fix 5.05/6.72/7.02/7.55/9.00/11.00) ⇛"
+    },
+    "https://vikingfile.com/f/s4IllBoxZ1": {
+      "region": "EUR",
+      "size": "10GB",
+      "version": "1.12",
+      "release": "May 19 2020",
+      "min_fw": null,
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/10/The-Wonderful-101-Remastered-PS4-PKG.webp",
+      "name": "The Wonderful 101 Remastered",
+      "type": "game",
+      "download_text": "Viki",
+      "key_description": "Game (v1.12)(7.00+) ⇛"
+    },
+    "https://vikingfile.com/f/iLljKwS5h2": {
+      "region": "EUR",
+      "size": "10GB",
+      "version": "1.00",
+      "release": "May 19 2020",
+      "min_fw": null,
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/10/The-Wonderful-101-Remastered-PS4-PKG.webp",
+      "name": "The Wonderful 101 Remastered",
+      "type": "game",
+      "download_text": "Viki",
+      "key_description": "Game Info Fix ⇛"
+    },
+    "https://vikingfile.com/f/iyf2Gzio5I": {
+      "region": "EUR",
+      "size": "10GB",
+      "version": "1.00",
+      "release": "May 19 2020",
+      "min_fw": null,
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/10/The-Wonderful-101-Remastered-PS4-PKG.webp",
+      "name": "The Wonderful 101 Remastered",
+      "type": "dlc",
+      "download_text": "Viki",
+      "key_description": "All DLC (4) ⇛"
     },
     "https://vikingfile.com/f/yTTXdEpClP": {
       "region": "EUR",

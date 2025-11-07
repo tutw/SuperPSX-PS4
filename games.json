@@ -2558,6 +2558,42 @@
       "download_text": "Viki",
       "key_description": "Update v1.02 (Fix 5.05/6.72/7.xx/9.00) ⇛"
     },
+    "https://vikingfile.com/f/GZP3V1LW0a": {
+      "region": "EUR",
+      "size": "7.77 GB",
+      "version": "1.00",
+      "release": "28 June 2022",
+      "min_fw": null,
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/DNF-Duel-PS4-PKG.webp",
+      "name": "Dnf Duel",
+      "type": "game",
+      "download_text": "Viki",
+      "key_description": "Game ⇛"
+    },
+    "https://vikingfile.com/f/sO66c3SRbl": {
+      "region": "EUR",
+      "size": "7.77 GB",
+      "version": "1.00",
+      "release": "28 June 2022",
+      "min_fw": "Fix 5.05/6.72/7.xx/9.00+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/DNF-Duel-PS4-PKG.webp",
+      "name": "Dnf Duel",
+      "type": "update",
+      "download_text": "Viki",
+      "key_description": "Update v1.80 (Fix 5.05/6.72/7.xx/9.00+) ⇛"
+    },
+    "https://vikingfile.com/f/YCAki1WL55": {
+      "region": "EUR",
+      "size": "7.77 GB",
+      "version": "1.00",
+      "release": "28 June 2022",
+      "min_fw": null,
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/DNF-Duel-PS4-PKG.webp",
+      "name": "Dnf Duel",
+      "type": "dlc",
+      "download_text": "Viki",
+      "key_description": "DLC (6) ⇛"
+    },
     "https://vikingfile.com/f/az7vdS50QG": {
       "region": "EUR",
       "size": "500MB",
@@ -3520,6 +3556,42 @@
       "type": "dlc",
       "download_text": "Viki",
       "key_description": "DLC ⇛"
+    },
+    "https://vikingfile.com/f/CfMlboBRVh": {
+      "region": "EUR",
+      "size": "12.37 GB",
+      "version": "1.16",
+      "release": "March 5, 2024",
+      "min_fw": null,
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/Expeditions_-A-MudRunner-Game-Supreme-Edition-PS4-PKG.webp",
+      "name": "Expeditions A Mudrunner Game",
+      "type": "game",
+      "download_text": "Viki",
+      "key_description": "Game (v1.16) (10.50+ ⇛"
+    },
+    "https://vikingfile.com/f/4bvprG28gC": {
+      "region": "EUR",
+      "size": "12.37 GB",
+      "version": "1.00",
+      "release": "March 5, 2024",
+      "min_fw": "Fix 5.05/6.72/7.xx/9.00",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/Expeditions_-A-MudRunner-Game-Supreme-Edition-PS4-PKG.webp",
+      "name": "Expeditions A Mudrunner Game",
+      "type": "update",
+      "download_text": "Viki",
+      "key_description": "Update v1.16 (Fix 5.05/6.72/7.xx/9.00) ⇛"
+    },
+    "https://vikingfile.com/f/HrmQ1aDPy5": {
+      "region": "EUR",
+      "size": "12.37 GB",
+      "version": "1.00",
+      "release": "March 5, 2024",
+      "min_fw": null,
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/Expeditions_-A-MudRunner-Game-Supreme-Edition-PS4-PKG.webp",
+      "name": "Expeditions A Mudrunner Game",
+      "type": "dlc",
+      "download_text": "Viki",
+      "key_description": "All DLC (@Droby25) ⇛"
     },
     "https://vikingfile.com/f/2lmYdVJx05": {
       "region": "EUR",

@@ -9566,6 +9566,42 @@
       "download_text": "AKR",
       "key_description": "Update v1.03 (5.05+) ⇛"
     },
+    "https://akirabox.com/l5YzMxpVQ3yO/file": {
+      "region": "EUR",
+      "size": "7.77 GB",
+      "version": "1.00",
+      "release": "28 June 2022",
+      "min_fw": null,
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/DNF-Duel-PS4-PKG.webp",
+      "name": "Dnf Duel",
+      "type": "game",
+      "download_text": "AKR",
+      "key_description": "Game ⇛"
+    },
+    "https://akirabox.com/b5Ozd0M6OzB8/file": {
+      "region": "EUR",
+      "size": "7.77 GB",
+      "version": "1.00",
+      "release": "28 June 2022",
+      "min_fw": "Fix 5.05/6.72/7.xx/9.00+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/DNF-Duel-PS4-PKG.webp",
+      "name": "Dnf Duel",
+      "type": "update",
+      "download_text": "AKR",
+      "key_description": "Update v1.80 (Fix 5.05/6.72/7.xx/9.00+) ⇛"
+    },
+    "https://akirabox.com/1RgzRBNJXzbp/folder": {
+      "region": "EUR",
+      "size": "7.77 GB",
+      "version": "1.00",
+      "release": "28 June 2022",
+      "min_fw": null,
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/DNF-Duel-PS4-PKG.webp",
+      "name": "Dnf Duel",
+      "type": "dlc",
+      "download_text": "AKR",
+      "key_description": "DLC (6) ⇛"
+    },
     "https://akirabox.com/EL73gd88z9Ba/file": {
       "region": "EUR",
       "size": "5.78 GB",
@@ -11817,41 +11853,53 @@
       "download_text": "AKR",
       "key_description": "Update v1.01 (Fix 5.05/6.72/7.02) ⇛"
     },
-    "https://akirabox.com/obj3jlp1GDxJ/folder": {
+    "https://akirabox.com/gXeGO1BLN3Aa/file": {
       "region": "EUR",
       "size": "12.37 GB",
-      "version": "1.06",
+      "version": "1.16",
       "release": "March 5, 2024",
-      "min_fw": "9.00/11.00",
+      "min_fw": null,
       "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/Expeditions_-A-MudRunner-Game-Supreme-Edition-PS4-PKG.webp",
       "name": "Expeditions A Mudrunner Game",
       "type": "game",
       "download_text": "AKR",
-      "key_description": "Game (v1.06) (9.00/11.00) ⇛"
+      "key_description": "Game (v1.16) (10.50+ ⇛"
     },
-    "https://akirabox.com/BnkmW75qmR0y/file": {
+    "https://akirabox.com/APVmalBqlGXo/file": {
       "region": "EUR",
       "size": "12.37 GB",
       "version": "1.00",
       "release": "March 5, 2024",
-      "min_fw": "Fix 5.05/6.72/7.xx/8.xx",
+      "min_fw": "Fix 5.05/6.72/7.xx/9.00",
       "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/Expeditions_-A-MudRunner-Game-Supreme-Edition-PS4-PKG.webp",
       "name": "Expeditions A Mudrunner Game",
       "type": "update",
       "download_text": "AKR",
-      "key_description": "Update 1.06 (Fix 5.05/6.72/7.xx/8.xx) ⇛"
+      "key_description": "Update v1.16 (Fix 5.05/6.72/7.xx/9.00) ⇛"
     },
-    "https://akirabox.com/9AqGQ0JNzMn6/file": {
+    "https://akirabox.com/BnkmWRPDaGR0/folder": {
       "region": "EUR",
       "size": "12.37 GB",
       "version": "1.00",
       "release": "March 5, 2024",
-      "min_fw": "9.00+",
+      "min_fw": null,
       "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/Expeditions_-A-MudRunner-Game-Supreme-Edition-PS4-PKG.webp",
       "name": "Expeditions A Mudrunner Game",
       "type": "dlc",
       "download_text": "AKR",
-      "key_description": "DLC (3) ⇛"
+      "key_description": "DLC (3)(@Opoisso893/Golemnight) ⇛"
+    },
+    "https://akirabox.com/LJlGno9Bjm15/file": {
+      "region": "EUR",
+      "size": "12.37 GB",
+      "version": "1.00",
+      "release": "March 5, 2024",
+      "min_fw": null,
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/Expeditions_-A-MudRunner-Game-Supreme-Edition-PS4-PKG.webp",
+      "name": "Expeditions A Mudrunner Game",
+      "type": "dlc",
+      "download_text": "AKR",
+      "key_description": "All DLC (@Droby25) ⇛"
     },
     "https://akirabox.com/vgKGxgqQz8Qn/file": {
       "region": "USA",
@@ -26159,7 +26207,7 @@
       "download_text": "AKR",
       "key_description": "Update v1.08 ⇛"
     },
-    "https://akirabox.com/b5Ozdp9pzB8L/file": {
+    "https://akirabox.com/Y2xm0wZr9GRO/file": {
       "region": "EUR",
       "size": "2.6 GB",
       "version": "1.00",

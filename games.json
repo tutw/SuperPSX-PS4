@@ -735,6 +735,42 @@
       "download_text": "Viki",
       "key_description": "Update v1.14 (Fix 9.00) ⇛"
     },
+    "https://vikingfile.com/f/wtuKYOg057": {
+      "region": "EUR",
+      "size": "1GB",
+      "version": "1.00",
+      "release": "October 10, 2025",
+      "min_fw": "12.00+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/11/Barbie-Horse-Trails-PS4-PKG.webp",
+      "name": "Barbie Horse Trails",
+      "type": "game",
+      "download_text": "Viki",
+      "key_description": "Game (12.00+) ⇛"
+    },
+    "https://vikingfile.com/f/VRpGVfyusA": {
+      "region": "EUR",
+      "size": "1GB",
+      "version": "1.00",
+      "release": "October 10, 2025",
+      "min_fw": "Fix 6.72/7.xx/9.00/11.00",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/11/Barbie-Horse-Trails-PS4-PKG.webp",
+      "name": "Barbie Horse Trails",
+      "type": "update",
+      "download_text": "Viki",
+      "key_description": "Update v1.01 (Fix 6.72/7.xx/9.00/11.00) ⇛"
+    },
+    "https://vikingfile.com/f/RjA61ZDAKx": {
+      "region": "EUR",
+      "size": "1GB",
+      "version": "1.00",
+      "release": "October 10, 2025",
+      "min_fw": "Fix 5.05",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/11/Barbie-Horse-Trails-PS4-PKG.webp",
+      "name": "Barbie Horse Trails",
+      "type": "update",
+      "download_text": "Viki",
+      "key_description": "Update v1.01 (Fix 5.05) ⇛"
+    },
     "https://vikingfile.com/f/g67Cvf7NRM": {
       "region": "EUR",
       "size": "28.5GB",
@@ -1541,6 +1577,30 @@
       "type": "update",
       "download_text": "Viki",
       "key_description": "Update v1.53 (Fix 5.05) ⇛"
+    },
+    "https://vikingfile.com/f/WXrzUJTxBk": {
+      "region": "EUR",
+      "size": "250MB",
+      "version": "1.00",
+      "release": "September 9, 2022",
+      "min_fw": "9.00+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/11/Catmaze-PS4-PKG.webp",
+      "name": "Catmaze",
+      "type": "game",
+      "download_text": "Viki",
+      "key_description": "Game (9.00+) ⇛"
+    },
+    "https://vikingfile.com/f/fdhhUp1r85": {
+      "region": "EUR",
+      "size": "250MB",
+      "version": "1.00",
+      "release": "September 9, 2022",
+      "min_fw": "Fix 5.05/6.72/7.xx/9.00/11.00+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/11/Catmaze-PS4-PKG.webp",
+      "name": "Catmaze",
+      "type": "update",
+      "download_text": "Viki",
+      "key_description": "Update v1.01 (Fix 5.05/6.72/7.xx/9.00/11.00+) ⇛"
     },
     "https://vikingfile.com/f/XUkxY5Hpey": {
       "region": "USA",
@@ -2941,42 +3001,6 @@
       "type": "dlc",
       "download_text": "Viki",
       "key_description": "DLC ⇛"
-    },
-    "https://vikingfile.com/f/Jg2qGy6fg1": {
-      "region": "EUR",
-      "size": "2GB",
-      "version": "1.00",
-      "release": "Sep 19, 2025",
-      "min_fw": "12.00+",
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/09/DreamWorks-Gabbys-Dollhouse-Ready-to-Party-PS4-PKG.webp",
-      "name": "Dreamworks Gabbys Dollhouse Ready To Party",
-      "type": "game",
-      "download_text": "Viki",
-      "key_description": "Game (12.00+) ⇛"
-    },
-    "https://vikingfile.com/f/G9eLBlYNRr": {
-      "region": "EUR",
-      "size": "2GB",
-      "version": "1.00",
-      "release": "Sep 19, 2025",
-      "min_fw": "Fix 6.72/7.xx/9.00/11.00",
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/09/DreamWorks-Gabbys-Dollhouse-Ready-to-Party-PS4-PKG.webp",
-      "name": "Dreamworks Gabbys Dollhouse Ready To Party",
-      "type": "update",
-      "download_text": "Viki",
-      "key_description": "Update v1.01 (Fix 6.72/7.xx/9.00/11.00) ⇛"
-    },
-    "https://vikingfile.com/f/ZC8vMGOnUC": {
-      "region": "EUR",
-      "size": "2GB",
-      "version": "1.00",
-      "release": "Sep 19, 2025",
-      "min_fw": "Fix 5.05",
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/09/DreamWorks-Gabbys-Dollhouse-Ready-to-Party-PS4-PKG.webp",
-      "name": "Dreamworks Gabbys Dollhouse Ready To Party",
-      "type": "update",
-      "download_text": "Viki",
-      "key_description": "Update v1.01 (Fix 5.05) ⇛"
     },
     "https://vikingfile.com/f/gOmc7O1Rls": {
       "region": "EUR",

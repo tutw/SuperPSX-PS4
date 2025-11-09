@@ -2821,6 +2821,42 @@
       "download_text": "AKR",
       "key_description": "Update v1.03 (Fix 5.05/6.72/7.02/7.55) ⇛"
     },
+    "https://akirabox.com/Pbe3PggnWmlX/file": {
+      "region": "EUR",
+      "size": "1GB",
+      "version": "1.00",
+      "release": "October 10, 2025",
+      "min_fw": "12.00+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/11/Barbie-Horse-Trails-PS4-PKG.webp",
+      "name": "Barbie Horse Trails",
+      "type": "game",
+      "download_text": "AKR",
+      "key_description": "Game (12.00+) ⇛"
+    },
+    "https://akirabox.com/9QWmp66pNzEB/file": {
+      "region": "EUR",
+      "size": "1GB",
+      "version": "1.00",
+      "release": "October 10, 2025",
+      "min_fw": "Fix 6.72/7.xx/9.00/11.00",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/11/Barbie-Horse-Trails-PS4-PKG.webp",
+      "name": "Barbie Horse Trails",
+      "type": "update",
+      "download_text": "AKR",
+      "key_description": "Update v1.01 (Fix 6.72/7.xx/9.00/11.00) ⇛"
+    },
+    "https://akirabox.com/k0embKKnn3Vb/file": {
+      "region": "EUR",
+      "size": "1GB",
+      "version": "1.00",
+      "release": "October 10, 2025",
+      "min_fw": "Fix 5.05",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/11/Barbie-Horse-Trails-PS4-PKG.webp",
+      "name": "Barbie Horse Trails",
+      "type": "update",
+      "download_text": "AKR",
+      "key_description": "Update v1.01 (Fix 5.05) ⇛"
+    },
     "https://akirabox.com/5pVzNPKWbm7w/file": {
       "region": "EUR",
       "size": "28.5GB",
@@ -3634,42 +3670,6 @@
       "type": "dlc",
       "download_text": "AKR",
       "key_description": "All DLC ⇛"
-    },
-    "https://akirabox.com/RMKGJg2Wm1oP/file": {
-      "region": "EUR",
-      "size": "12.5GB",
-      "version": "1.00",
-      "release": "March 25, 2014",
-      "min_fw": "5.05+",
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/BlazBlue_-Chrono-Phantasma-EXTEND-PS4-PKG.webp",
-      "name": "Blazblue Chrono Phantasma",
-      "type": "game",
-      "download_text": "AKR",
-      "key_description": "Game (5.05+) ⇛"
-    },
-    "https://akirabox.com/jJD3VZZO3a5Q/file": {
-      "region": "EUR",
-      "size": "12.5GB",
-      "version": "1.00",
-      "release": "March 25, 2014",
-      "min_fw": "5.05+",
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/BlazBlue_-Chrono-Phantasma-EXTEND-PS4-PKG.webp",
-      "name": "Blazblue Chrono Phantasma",
-      "type": "update",
-      "download_text": "AKR",
-      "key_description": "Update v1.03 (5.05+) ⇛"
-    },
-    "https://akirabox.com/0PdzyEE4zeAR/file": {
-      "region": "EUR",
-      "size": "12.5GB",
-      "version": "1.00",
-      "release": "March 25, 2014",
-      "min_fw": null,
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/BlazBlue_-Chrono-Phantasma-EXTEND-PS4-PKG.webp",
-      "name": "Blazblue Chrono Phantasma",
-      "type": "dlc",
-      "download_text": "AKR",
-      "key_description": "DLC ⇛"
     },
     "https://akirabox.com/wgWGqKPD34oy/file": {
       "region": "EUR",
@@ -5431,6 +5431,30 @@
       "type": "update",
       "download_text": "AKR",
       "key_description": "Update v1.53 (Fix 5.05) ⇛"
+    },
+    "https://akirabox.com/XkrzoY7dPmBO/file": {
+      "region": "EUR",
+      "size": "250MB",
+      "version": "1.00",
+      "release": "September 9, 2022",
+      "min_fw": "9.00+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/11/Catmaze-PS4-PKG.webp",
+      "name": "Catmaze",
+      "type": "game",
+      "download_text": "AKR",
+      "key_description": "Game (9.00+) ⇛"
+    },
+    "https://akirabox.com/qPez4dWjpzOY/file": {
+      "region": "EUR",
+      "size": "250MB",
+      "version": "1.00",
+      "release": "September 9, 2022",
+      "min_fw": "Fix 5.05/6.72/7.xx/9.00/11.00+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/11/Catmaze-PS4-PKG.webp",
+      "name": "Catmaze",
+      "type": "update",
+      "download_text": "AKR",
+      "key_description": "Update v1.01 (Fix 5.05/6.72/7.xx/9.00/11.00+) ⇛"
     },
     "https://akirabox.com/9QWmp2JNzEB6/file": {
       "region": "EUR",
@@ -10375,42 +10399,6 @@
       "type": "dlc",
       "download_text": "AKR",
       "key_description": "DLC ⇛"
-    },
-    "https://akirabox.com/0JgG70V6emoY/file": {
-      "region": "EUR",
-      "size": "2GB",
-      "version": "1.00",
-      "release": "Sep 19, 2025",
-      "min_fw": "12.00+",
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/09/DreamWorks-Gabbys-Dollhouse-Ready-to-Party-PS4-PKG.webp",
-      "name": "Dreamworks Gabbys Dollhouse Ready To Party",
-      "type": "game",
-      "download_text": "AKR",
-      "key_description": "Game (12.00+) ⇛"
-    },
-    "https://akirabox.com/0PdzyW06LmeA/file": {
-      "region": "EUR",
-      "size": "2GB",
-      "version": "1.00",
-      "release": "Sep 19, 2025",
-      "min_fw": "Fix 6.72/7.xx/9.00/11.00",
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/09/DreamWorks-Gabbys-Dollhouse-Ready-to-Party-PS4-PKG.webp",
-      "name": "Dreamworks Gabbys Dollhouse Ready To Party",
-      "type": "update",
-      "download_text": "AKR",
-      "key_description": "Update v1.01 (Fix 6.72/7.xx/9.00/11.00) ⇛"
-    },
-    "https://akirabox.com/9AqGQR6YvmMn/file": {
-      "region": "EUR",
-      "size": "2GB",
-      "version": "1.00",
-      "release": "Sep 19, 2025",
-      "min_fw": "Fix 5.05",
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/09/DreamWorks-Gabbys-Dollhouse-Ready-to-Party-PS4-PKG.webp",
-      "name": "Dreamworks Gabbys Dollhouse Ready To Party",
-      "type": "update",
-      "download_text": "AKR",
-      "key_description": "Update v1.01 (Fix 5.05) ⇛"
     },
     "https://akirabox.com/M2BGwQE53j40/file": {
       "region": "EUR",

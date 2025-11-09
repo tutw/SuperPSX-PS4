@@ -4994,42 +4994,6 @@
       "download_text": "OneFile",
       "key_description": "All DLC ⇛"
     },
-    "https://1fichier.com/?1zsy2jr5xbgto9bf0c4a&af=4186346": {
-      "region": "EUR",
-      "size": "12.5GB",
-      "version": "1.00",
-      "release": "March 25, 2014",
-      "min_fw": "5.05+",
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/BlazBlue_-Chrono-Phantasma-EXTEND-PS4-PKG.webp",
-      "name": "Blazblue Chrono Phantasma",
-      "type": "game",
-      "download_text": "OneFile",
-      "key_description": "Game (5.05+) ⇛"
-    },
-    "https://1fichier.com/?h6wweubt3j5bg8uod89k&af=4186346": {
-      "region": "EUR",
-      "size": "12.5GB",
-      "version": "1.00",
-      "release": "March 25, 2014",
-      "min_fw": "5.05+",
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/BlazBlue_-Chrono-Phantasma-EXTEND-PS4-PKG.webp",
-      "name": "Blazblue Chrono Phantasma",
-      "type": "update",
-      "download_text": "OneFile",
-      "key_description": "Update v1.03 (5.05+) ⇛"
-    },
-    "https://1fichier.com/?xn31br75ow58pz749p3k&af=4186346": {
-      "region": "EUR",
-      "size": "12.5GB",
-      "version": "1.00",
-      "release": "March 25, 2014",
-      "min_fw": null,
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/BlazBlue_-Chrono-Phantasma-EXTEND-PS4-PKG.webp",
-      "name": "Blazblue Chrono Phantasma",
-      "type": "dlc",
-      "download_text": "OneFile",
-      "key_description": "DLC ⇛"
-    },
     "https://1fichier.com/?7tg4lpgxehlouhadj7uf&af=4186346": {
       "region": "EUR",
       "size": "2.5 GB",
@@ -14088,42 +14052,6 @@
       "type": "dlc",
       "download_text": "OneFile",
       "key_description": "DLC ⇛"
-    },
-    "https://1fichier.com/?ap8qp51t6vvqsq99rj2z&af=4186346": {
-      "region": "EUR",
-      "size": "2GB",
-      "version": "1.00",
-      "release": "Sep 19, 2025",
-      "min_fw": "12.00+",
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/09/DreamWorks-Gabbys-Dollhouse-Ready-to-Party-PS4-PKG.webp",
-      "name": "Dreamworks Gabbys Dollhouse Ready To Party",
-      "type": "game",
-      "download_text": "OneFile",
-      "key_description": "Game (12.00+) ⇛"
-    },
-    "https://1fichier.com/?1hq3nqn7z1nct93yi8gt&af=4186346": {
-      "region": "EUR",
-      "size": "2GB",
-      "version": "1.00",
-      "release": "Sep 19, 2025",
-      "min_fw": "Fix 6.72/7.xx/9.00/11.00",
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/09/DreamWorks-Gabbys-Dollhouse-Ready-to-Party-PS4-PKG.webp",
-      "name": "Dreamworks Gabbys Dollhouse Ready To Party",
-      "type": "update",
-      "download_text": "OneFile",
-      "key_description": "Update v1.01 (Fix 6.72/7.xx/9.00/11.00) ⇛"
-    },
-    "https://1fichier.com/?2x0xz2jr1j4k7ghoj3zy&af=4186346": {
-      "region": "EUR",
-      "size": "2GB",
-      "version": "1.00",
-      "release": "Sep 19, 2025",
-      "min_fw": "Fix 5.05",
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/09/DreamWorks-Gabbys-Dollhouse-Ready-to-Party-PS4-PKG.webp",
-      "name": "Dreamworks Gabbys Dollhouse Ready To Party",
-      "type": "update",
-      "download_text": "OneFile",
-      "key_description": "Update v1.01 (Fix 5.05) ⇛"
     },
     "https://1fichier.com/?u8rlmcq2fn5w2nkv9o8c&af=4186346": {
       "region": "EUR",

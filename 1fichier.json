@@ -2047,6 +2047,42 @@
       "download_text": "OneFile",
       "key_description": "DLC ⇛"
     },
+    "https://1fichier.com/?3d4dhazd6bpuba2gegaj&af=4186346": {
+      "region": "EUR",
+      "size": "800MB",
+      "version": "1.00",
+      "release": "May 27, 2022",
+      "min_fw": null,
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/11/Arcade-Spirits-The-New-Challengers-PS4-PKG.webp",
+      "name": "Arcade Spirits The New Challengers",
+      "type": "game",
+      "download_text": "OneFile",
+      "key_description": "Game ⇛"
+    },
+    "https://1fichier.com/?q5kghfaltgdmat9mu6uw&af=4186346": {
+      "region": "EUR",
+      "size": "800MB",
+      "version": "1.00",
+      "release": "May 27, 2022",
+      "min_fw": null,
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/11/Arcade-Spirits-The-New-Challengers-PS4-PKG.webp",
+      "name": "Arcade Spirits The New Challengers",
+      "type": "update",
+      "download_text": "OneFile",
+      "key_description": "Update v1.05 (9.50+) ⇛"
+    },
+    "https://1fichier.com/?7r9tow91dqs9123ksri5&af=4186346": {
+      "region": "EUR",
+      "size": "800MB",
+      "version": "1.00",
+      "release": "May 27, 2022",
+      "min_fw": "Fix 9.00xx",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/11/Arcade-Spirits-The-New-Challengers-PS4-PKG.webp",
+      "name": "Arcade Spirits The New Challengers",
+      "type": "update",
+      "download_text": "OneFile",
+      "key_description": "Update v1.05 (Fix 9.00xx) (@Oxeres) ⇛"
+    },
     "https://1fichier.com/?bxurjwuotir8m8o8e52j&af=4186346": {
       "region": "EUR",
       "size": "4.22 GB",

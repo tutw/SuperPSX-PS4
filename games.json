@@ -339,6 +339,42 @@
       "download_text": "Viki",
       "key_description": "Update v1.03 (8.00+) ⇛"
     },
+    "https://vikingfile.com/f/PsmedHnH2C": {
+      "region": "EUR",
+      "size": "800MB",
+      "version": "1.00",
+      "release": "May 27, 2022",
+      "min_fw": null,
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/11/Arcade-Spirits-The-New-Challengers-PS4-PKG.webp",
+      "name": "Arcade Spirits The New Challengers",
+      "type": "game",
+      "download_text": "Viki",
+      "key_description": "Game ⇛"
+    },
+    "https://vikingfile.com/f/BHqDOrpWqb": {
+      "region": "EUR",
+      "size": "800MB",
+      "version": "1.00",
+      "release": "May 27, 2022",
+      "min_fw": null,
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/11/Arcade-Spirits-The-New-Challengers-PS4-PKG.webp",
+      "name": "Arcade Spirits The New Challengers",
+      "type": "update",
+      "download_text": "Viki",
+      "key_description": "Update v1.05 (9.50+) ⇛"
+    },
+    "https://vikingfile.com/f/M69mguqQGc": {
+      "region": "EUR",
+      "size": "800MB",
+      "version": "1.00",
+      "release": "May 27, 2022",
+      "min_fw": "Fix 9.00xx",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/11/Arcade-Spirits-The-New-Challengers-PS4-PKG.webp",
+      "name": "Arcade Spirits The New Challengers",
+      "type": "update",
+      "download_text": "Viki",
+      "key_description": "Update v1.05 (Fix 9.00xx) (@Oxeres) ⇛"
+    },
     "https://vikingfile.com/f/rT5E257t4J": {
       "region": "EUR",
       "size": "4.22 GB",

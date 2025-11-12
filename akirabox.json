@@ -11133,6 +11133,30 @@
       "download_text": "AKR",
       "key_description": "Update v1.02 (Fix 5.05-11.00) ⇛"
     },
+    "https://akirabox.com/dkD3Ya2pl3LQ/file": {
+      "region": "EUR",
+      "size": "55 GB",
+      "version": "1.39",
+      "release": "30 September 2021",
+      "min_fw": null,
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/eFootball_-PS4-PKG.webp",
+      "name": "Efootball 2022",
+      "type": "game",
+      "download_text": "AKR",
+      "key_description": "Game (v1.39) ⇛"
+    },
+    "https://akirabox.com/b5Ozd0ALyzB8/file": {
+      "region": "EUR",
+      "size": "55 GB",
+      "version": "1.39",
+      "release": "30 September 2021",
+      "min_fw": "Fix 5.05/6.72/7.xx/9.00+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/eFootball_-PS4-PKG.webp",
+      "name": "Efootball 2022",
+      "type": "game",
+      "download_text": "AKR",
+      "key_description": "Game (v1.39) (Fix 5.05/6.72/7.xx/9.00+) ⇛"
+    },
     "https://akirabox.com/qPez4DMMzOYn/file": {
       "region": "EUR",
       "size": "44GB",
@@ -13412,6 +13436,54 @@
       "type": "update",
       "download_text": "AKR",
       "key_description": "Update v1.01 (Fix 5.05/6.72/7.02) ⇛"
+    },
+    "https://akirabox.com/9QWmpo6rGEB6/file": {
+      "region": "EUR",
+      "size": "10 GB",
+      "version": "1.00",
+      "release": "December 16, 2021",
+      "min_fw": "9.00+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/Five-Nights-at-Freddy_s_-Security-Breach-PS4-PKG.webp",
+      "name": "Freddys Security Breach",
+      "type": "game",
+      "download_text": "AKR",
+      "key_description": "Game (9.00+) ⇛"
+    },
+    "https://akirabox.com/0KezkAobmD1X/file": {
+      "region": "EUR",
+      "size": "10 GB",
+      "version": "1.00",
+      "release": "December 16, 2021",
+      "min_fw": "11.00+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/Five-Nights-at-Freddy_s_-Security-Breach-PS4-PKG.webp",
+      "name": "Freddys Security Breach",
+      "type": "update",
+      "download_text": "AKR",
+      "key_description": "Update v1.16 (11.00+) ⇛"
+    },
+    "https://akirabox.com/k0embVKamVb4/file": {
+      "region": "EUR",
+      "size": "10 GB",
+      "version": "1.00",
+      "release": "December 16, 2021",
+      "min_fw": "5.05/6.72/7.02/7.55/9.00",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/Five-Nights-at-Freddy_s_-Security-Breach-PS4-PKG.webp",
+      "name": "Freddys Security Breach",
+      "type": "update",
+      "download_text": "AKR",
+      "key_description": "Update v1.16 (5.05/6.72/7.02/7.55/9.00) ⇛"
+    },
+    "https://akirabox.com/M2BGwWYNGj40/file": {
+      "region": "EUR",
+      "size": "10 GB",
+      "version": "1.00",
+      "release": "December 16, 2021",
+      "min_fw": null,
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/Five-Nights-at-Freddy_s_-Security-Breach-PS4-PKG.webp",
+      "name": "Freddys Security Breach",
+      "type": "dlc",
+      "download_text": "AKR",
+      "key_description": "Ruin DLC ⇛"
     },
     "https://akirabox.com/QN9mEgpxz6dW/file": {
       "region": "USA",
@@ -23997,30 +24069,6 @@
       "download_text": "AKR",
       "key_description": "DLC v2 ⇛"
     },
-    "https://akirabox.com/7d5GLr56V3xR/file": {
-      "region": "EUR",
-      "size": "397.15 MB",
-      "version": "1.00",
-      "release": "August 15, 2017",
-      "min_fw": "5.05+",
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/Nidhogg-2-PS4-PKG.webp",
-      "name": "Nidhogg 2",
-      "type": "game",
-      "download_text": "AKR",
-      "key_description": "Game (5.05+) ⇛"
-    },
-    "https://akirabox.com/5pVzNaNDX37w/file": {
-      "region": "EUR",
-      "size": "397.15 MB",
-      "version": "1.00",
-      "release": "August 15, 2017",
-      "min_fw": "5.05+",
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/Nidhogg-2-PS4-PKG.webp",
-      "name": "Nidhogg 2",
-      "type": "update",
-      "download_text": "AKR",
-      "key_description": "Update v1.07 (5.05+) ⇛"
-    },
     "https://akirabox.com/obj3jbwn23Dx/file": {
       "region": "EUR",
       "size": "500MB",
@@ -24044,6 +24092,30 @@
       "type": "update",
       "download_text": "AKR",
       "key_description": "Update v1.02 (5.05+) ⇛"
+    },
+    "https://akirabox.com/7d5GLr56V3xR/file": {
+      "region": "EUR",
+      "size": "397.15 MB",
+      "version": "1.00",
+      "release": "August 15, 2017",
+      "min_fw": "5.05+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/Nidhogg-2-PS4-PKG.webp",
+      "name": "Nidhogg 2",
+      "type": "game",
+      "download_text": "AKR",
+      "key_description": "Game (5.05+) ⇛"
+    },
+    "https://akirabox.com/5pVzNaNDX37w/file": {
+      "region": "EUR",
+      "size": "397.15 MB",
+      "version": "1.00",
+      "release": "August 15, 2017",
+      "min_fw": "5.05+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/Nidhogg-2-PS4-PKG.webp",
+      "name": "Nidhogg 2",
+      "type": "update",
+      "download_text": "AKR",
+      "key_description": "Update v1.07 (5.05+) ⇛"
     },
     "https://akirabox.com/0Kezk9162mD1/file": {
       "region": "EUR",

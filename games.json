@@ -3398,6 +3398,30 @@
       "download_text": "Viki",
       "key_description": "Update v1.02 (Fix 5.05-11.00) ⇛"
     },
+    "https://vikingfile.com/f/cH9V6twsQX": {
+      "region": "EUR",
+      "size": "55 GB",
+      "version": "1.39",
+      "release": "30 September 2021",
+      "min_fw": null,
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/eFootball_-PS4-PKG.webp",
+      "name": "Efootball 2022",
+      "type": "game",
+      "download_text": "Viki",
+      "key_description": "Game (v1.39) ⇛"
+    },
+    "https://vikingfile.com/f/8k3ZCAqaCK": {
+      "region": "EUR",
+      "size": "55 GB",
+      "version": "1.39",
+      "release": "30 September 2021",
+      "min_fw": "Fix 5.05/6.72/7.xx/9.00+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/eFootball_-PS4-PKG.webp",
+      "name": "Efootball 2022",
+      "type": "game",
+      "download_text": "Viki",
+      "key_description": "Game (v1.39) (Fix 5.05/6.72/7.xx/9.00+) ⇛"
+    },
     "https://vikingfile.com/f/BI94Dzn8yW": {
       "region": "EUR",
       "size": "5GB",

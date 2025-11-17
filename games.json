@@ -3413,14 +3413,14 @@
     "https://vikingfile.com/f/8k3ZCAqaCK": {
       "region": "EUR",
       "size": "55 GB",
-      "version": "1.39",
+      "version": "1.00",
       "release": "30 September 2021",
       "min_fw": "Fix 5.05/6.72/7.xx/9.00+",
       "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/eFootball_-PS4-PKG.webp",
       "name": "Efootball 2022",
-      "type": "game",
+      "type": "update",
       "download_text": "Viki",
-      "key_description": "Game (v1.39) (Fix 5.05/6.72/7.xx/9.00+) ⇛"
+      "key_description": "Update v1.39 (Fix 5.05/6.72/7.xx/9.00+) ⇛"
     },
     "https://vikingfile.com/f/BI94Dzn8yW": {
       "region": "EUR",
@@ -11470,7 +11470,7 @@
       "download_text": "Viki",
       "key_description": "DLC (v5) ⇛"
     },
-    "https://vikingfile.com/f/gA3fqCdOBl": {
+    "https://vikingfile.com/f/0YxlferyJa": {
       "region": "EUR",
       "size": "50GB",
       "version": "1.00",
@@ -11480,9 +11480,9 @@
       "name": "Wwe 2K25",
       "type": "update",
       "download_text": "Viki",
-      "key_description": "Update v1.27 (Fix 5.05-6.72-7.xx-9.00-11.00) ⇛"
+      "key_description": "Update v1.28 (Fix 5.05-6.72-7.xx-9.00-11.00) ⇛"
     },
-    "https://vikingfile.com/f/oiMZb24yqw": {
+    "https://vikingfile.com/f/wkSXMyqNaD": {
       "region": "EUR",
       "size": "50GB",
       "version": "1.00",
@@ -11492,7 +11492,7 @@
       "name": "Wwe 2K25",
       "type": "dlc",
       "download_text": "Viki",
-      "key_description": "DLC v7 (15) ⇛"
+      "key_description": "DLC v7 (16) ⇛"
     },
     "https://vikingfile.com/f/UJCpPDp10Y": {
       "region": "EUR",

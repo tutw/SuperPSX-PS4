@@ -15065,14 +15065,14 @@
     "https://1fichier.com/?lo3bvz4gkuuyc3vwxlp2&af=4186346": {
       "region": "EUR",
       "size": "55 GB",
-      "version": "1.39",
+      "version": "1.00",
       "release": "30 September 2021",
       "min_fw": "Fix 5.05/6.72/7.xx/9.00+",
       "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/eFootball_-PS4-PKG.webp",
       "name": "Efootball 2022",
-      "type": "game",
+      "type": "update",
       "download_text": "OneFile",
-      "key_description": "Game (v1.39) (Fix 5.05/6.72/7.xx/9.00+) ⇛"
+      "key_description": "Update v1.39 (Fix 5.05/6.72/7.xx/9.00+) ⇛"
     },
     "https://1fichier.com/?7fr821yr1o4sj66fs93b&af=4186346": {
       "region": "EUR",
@@ -58331,7 +58331,7 @@
       "download_text": "OneFile",
       "key_description": "Game (12.00) ⇛"
     },
-    "https://1fichier.com/?51fuecatfscjlejcef46&af=4186346": {
+    "https://1fichier.com/?x6wui4fnnbo59psln26a&af=4186346": {
       "region": "EUR",
       "size": "50GB",
       "version": "1.00",
@@ -58341,9 +58341,9 @@
       "name": "Wwe 2K25",
       "type": "update",
       "download_text": "OneFile",
-      "key_description": "Update v1.27 (Fix 5.05-6.72-7.xx-9.00-11.00) ⇛"
+      "key_description": "Update v1.28 (Fix 5.05-6.72-7.xx-9.00-11.00) ⇛"
     },
-    "https://1fichier.com/?0eve2924e04ksluncq7p&af=4186346": {
+    "https://1fichier.com/?ef3qbloaeq3tigr7bpge&af=4186346": {
       "region": "EUR",
       "size": "50GB",
       "version": "1.00",
@@ -58353,7 +58353,7 @@
       "name": "Wwe 2K25",
       "type": "dlc",
       "download_text": "OneFile",
-      "key_description": "DLC v7 (15) ⇛"
+      "key_description": "DLC v7 (16) ⇛"
     },
     "https://1fichier.com/?awrxdhgpvy9xslip305e&af=4186346": {
       "region": "USA",

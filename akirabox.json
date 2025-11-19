@@ -1796,6 +1796,30 @@
       "download_text": "AKR",
       "key_description": "DLC + Language Pack ⇛"
     },
+    "https://akirabox.com/k0embbnnmVb4/file": {
+      "region": "EUR",
+      "size": "9.19 GB",
+      "version": "1.00",
+      "release": "March 20, 2018",
+      "min_fw": "5.05+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/Assassin_s-Creed-Rogue-Remastered-PS4-PKG.webp",
+      "name": "Assassins Creed Rogue Remastered",
+      "type": "game",
+      "download_text": "AKR",
+      "key_description": "Game (5.05+) ⇛"
+    },
+    "https://akirabox.com/ex5z25KB3Kqk/file": {
+      "region": "EUR",
+      "size": "9.19 GB",
+      "version": "1.00",
+      "release": "March 20, 2018",
+      "min_fw": null,
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/Assassin_s-Creed-Rogue-Remastered-PS4-PKG.webp",
+      "name": "Assassins Creed Rogue Remastered",
+      "type": "update",
+      "download_text": "AKR",
+      "key_description": "Update v1.01 ⇛"
+    },
     "https://akirabox.com/Pbe3P8613lX6/file": {
       "region": "EUR",
       "size": "9 GB",

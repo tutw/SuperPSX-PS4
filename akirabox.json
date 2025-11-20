@@ -9480,31 +9480,19 @@
       "download_text": "AKR",
       "key_description": "Game (9.00+) ⇛"
     },
-    "https://akirabox.com/obj3jlojGDxJ/file": {
+    "https://akirabox.com/qLQ361VvEm19/file": {
       "region": "EUR",
       "size": "7.28 GB",
       "version": "1.00",
       "release": "December 5, 2023",
-      "min_fw": "11.00+",
+      "min_fw": "Fix 6.72/7.xx/9.00/11.00/12.00",
       "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/06/Disney-Dreamlight-Valley-PS4-PKG.webp",
       "name": "Disney Dreamlight Valley",
       "type": "update",
       "download_text": "AKR",
-      "key_description": "Update v12.02 (11.00+) ⇛"
+      "key_description": "Update 19.01 (Fix 6.72/7.xx/9.00/11.00/12.00) ⇛"
     },
-    "https://akirabox.com/b5Ozdp0yzB8L/file": {
-      "region": "EUR",
-      "size": "7.28 GB",
-      "version": "1.00",
-      "release": "December 5, 2023",
-      "min_fw": "6.72/7.02/7.55/9.00",
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/06/Disney-Dreamlight-Valley-PS4-PKG.webp",
-      "name": "Disney Dreamlight Valley",
-      "type": "update",
-      "download_text": "AKR",
-      "key_description": "Update v12.02 (6.72/7.02/7.55/9.00) ⇛"
-    },
-    "https://akirabox.com/RMKGJOD2m1oP/file": {
+    "https://akirabox.com/ZvqzlwebK3aD/file": {
       "region": "EUR",
       "size": "7.28 GB",
       "version": "1.00",
@@ -9514,7 +9502,7 @@
       "name": "Disney Dreamlight Valley",
       "type": "update",
       "download_text": "AKR",
-      "key_description": "Update v12.02 (Fix 5.05) ⇛"
+      "key_description": "Update 19.01 (Fix 5.05) ⇛"
     },
     "https://akirabox.com/vgKGxOWqnz8Q/folder": {
       "region": "EUR",

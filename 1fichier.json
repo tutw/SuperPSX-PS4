@@ -12953,42 +12953,6 @@
       "download_text": "OneFile",
       "key_description": "Game (9.00+) ⇛"
     },
-    "https://1fichier.com/?cxs9dznx1jdtfz8opf8c&af=4186346": {
-      "region": "EUR",
-      "size": "7.28 GB",
-      "version": "1.00",
-      "release": "December 5, 2023",
-      "min_fw": "11.00+",
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/06/Disney-Dreamlight-Valley-PS4-PKG.webp",
-      "name": "Disney Dreamlight Valley",
-      "type": "update",
-      "download_text": "OneFile",
-      "key_description": "Update v12.02 (11.00+) ⇛"
-    },
-    "https://1fichier.com/?at32ossxy28gd3d4iaxe&af=4186346": {
-      "region": "EUR",
-      "size": "7.28 GB",
-      "version": "1.00",
-      "release": "December 5, 2023",
-      "min_fw": "6.72/7.02/7.55/9.00",
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/06/Disney-Dreamlight-Valley-PS4-PKG.webp",
-      "name": "Disney Dreamlight Valley",
-      "type": "update",
-      "download_text": "OneFile",
-      "key_description": "Update v12.02 (6.72/7.02/7.55/9.00) ⇛"
-    },
-    "https://1fichier.com/?vm63sq6afdec4s1lzyy7&af=4186346": {
-      "region": "EUR",
-      "size": "7.28 GB",
-      "version": "1.00",
-      "release": "December 5, 2023",
-      "min_fw": "Fix 5.05",
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/06/Disney-Dreamlight-Valley-PS4-PKG.webp",
-      "name": "Disney Dreamlight Valley",
-      "type": "update",
-      "download_text": "OneFile",
-      "key_description": "Update v12.02 (Fix 5.05) ⇛"
-    },
     "https://1fichier.com/?2bdj727f1gyiwohj8qqz&af=4186346": {
       "region": "EUR",
       "size": "2GB",
@@ -48099,6 +48063,30 @@
       "type": "update",
       "download_text": "OneFile",
       "key_description": "Update v1.03 (Fix 5.05) ⇛"
+    },
+    "https://1fichier.com/?yasvyjvsdquyaudcf629&af=4186346": {
+      "region": "EUR",
+      "size": "5.94 GB",
+      "version": "1.00",
+      "release": "January 25, 2022",
+      "min_fw": "9.03+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/The-Artful-Escape-PS4-PKG.webp",
+      "name": "The Artful Escape",
+      "type": "game",
+      "download_text": "OneFile",
+      "key_description": "Game ⇛"
+    },
+    "https://1fichier.com/?fr63v7si2n3n8ugpvr4n&af=4186346": {
+      "region": "EUR",
+      "size": "5.94 GB",
+      "version": "1.00",
+      "release": "January 25, 2022",
+      "min_fw": "9.03+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/The-Artful-Escape-PS4-PKG.webp",
+      "name": "The Artful Escape",
+      "type": "update",
+      "download_text": "OneFile",
+      "key_description": "Update 1.02 ⇛"
     },
     "https://1fichier.com/?gai069l5wozdwgckz94i&af=4186346": {
       "region": "EUR",

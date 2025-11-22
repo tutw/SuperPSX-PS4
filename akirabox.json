@@ -9866,6 +9866,30 @@
       "download_text": "AKR",
       "key_description": "Update v2.87 (Fix 5.05/6.72/7.xx/8.xx) ⇛"
     },
+    "https://akirabox.com/5pVzNxvnWm7w/file": {
+      "region": "EUR",
+      "size": "300MB",
+      "version": "1.00",
+      "release": "August 28, 2018",
+      "min_fw": null,
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/11/Donut-County-PS4-PKG.webp",
+      "name": "Donut County",
+      "type": "game",
+      "download_text": "AKR",
+      "key_description": "Game ⇛"
+    },
+    "https://akirabox.com/7d5GLaOnjmxR/file": {
+      "region": "EUR",
+      "size": "300MB",
+      "version": "1.00",
+      "release": "August 28, 2018",
+      "min_fw": "Fix 5.05/6.72/7.02/7.55/9.00/11.00",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/11/Donut-County-PS4-PKG.webp",
+      "name": "Donut County",
+      "type": "update",
+      "download_text": "AKR",
+      "key_description": "Update v1.01 (Fix 5.05/6.72/7.02/7.55/9.00/11.00) ⇛"
+    },
     "https://akirabox.com/dZxG5XwbzVjK/file": {
       "region": "EUR",
       "size": "5GB",
@@ -22427,6 +22451,58 @@
       "download_text": "AKR",
       "key_description": "Update v1.06 (9.00+) ⇛"
     },
+    "https://akirabox.com/BnkmW772mR0y/file": {
+      "region": "USA",
+      "size": "42 GB",
+      "version": "1.00",
+      "release": "November 17, 2020",
+      "min_fw": "6.72+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/Mortal-Kombat-11-Ultimate-PS4-PKG.webp",
+      "cusa": "CUSA11379",
+      "name": "Mortal Kombat Ultimate",
+      "type": "game",
+      "download_text": "AKR",
+      "key_description": "Game (6.72+) ⇛"
+    },
+    "https://akirabox.com/0Pdzy996zeAR/file": {
+      "region": "USA",
+      "size": "42 GB",
+      "version": "1.00",
+      "release": "November 17, 2020",
+      "min_fw": null,
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/Mortal-Kombat-11-Ultimate-PS4-PKG.webp",
+      "cusa": "CUSA11379",
+      "name": "Mortal Kombat Ultimate",
+      "type": "update",
+      "download_text": "AKR",
+      "key_description": "Update v1.30 (7.50+) ⇛"
+    },
+    "https://akirabox.com/9AqGQ00nzMn6/file": {
+      "region": "USA",
+      "size": "42 GB",
+      "version": "1.00",
+      "release": "November 17, 2020",
+      "min_fw": "Fix 5.05/6.72/7.02",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/Mortal-Kombat-11-Ultimate-PS4-PKG.webp",
+      "cusa": "CUSA11379",
+      "name": "Mortal Kombat Ultimate",
+      "type": "update",
+      "download_text": "AKR",
+      "key_description": "Update v1.30 (Fix 5.05/6.72/7.02) ⇛"
+    },
+    "https://akirabox.com/dZxG5eeYGVjK/file": {
+      "region": "USA",
+      "size": "42 GB",
+      "version": "1.00",
+      "release": "November 17, 2020",
+      "min_fw": null,
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/Mortal-Kombat-11-Ultimate-PS4-PKG.webp",
+      "cusa": "CUSA11379",
+      "name": "Mortal Kombat Ultimate",
+      "type": "dlc",
+      "download_text": "AKR",
+      "key_description": "DLC Pack (33) ⇛"
+    },
     "https://akirabox.com/obj3jneQB3Dx/file": {
       "region": "EUR",
       "size": "15GB",
@@ -24005,30 +24081,6 @@
       "download_text": "AKR",
       "key_description": "DLC v2 ⇛"
     },
-    "https://akirabox.com/7d5GLr56V3xR/file": {
-      "region": "EUR",
-      "size": "397.15 MB",
-      "version": "1.00",
-      "release": "August 15, 2017",
-      "min_fw": "5.05+",
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/Nidhogg-2-PS4-PKG.webp",
-      "name": "Nidhogg 2",
-      "type": "game",
-      "download_text": "AKR",
-      "key_description": "Game (5.05+) ⇛"
-    },
-    "https://akirabox.com/5pVzNaNDX37w/file": {
-      "region": "EUR",
-      "size": "397.15 MB",
-      "version": "1.00",
-      "release": "August 15, 2017",
-      "min_fw": "5.05+",
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/Nidhogg-2-PS4-PKG.webp",
-      "name": "Nidhogg 2",
-      "type": "update",
-      "download_text": "AKR",
-      "key_description": "Update v1.07 (5.05+) ⇛"
-    },
     "https://akirabox.com/obj3jbwn23Dx/file": {
       "region": "EUR",
       "size": "500MB",
@@ -24052,6 +24104,30 @@
       "type": "update",
       "download_text": "AKR",
       "key_description": "Update v1.02 (5.05+) ⇛"
+    },
+    "https://akirabox.com/7d5GLr56V3xR/file": {
+      "region": "EUR",
+      "size": "397.15 MB",
+      "version": "1.00",
+      "release": "August 15, 2017",
+      "min_fw": "5.05+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/Nidhogg-2-PS4-PKG.webp",
+      "name": "Nidhogg 2",
+      "type": "game",
+      "download_text": "AKR",
+      "key_description": "Game (5.05+) ⇛"
+    },
+    "https://akirabox.com/5pVzNaNDX37w/file": {
+      "region": "EUR",
+      "size": "397.15 MB",
+      "version": "1.00",
+      "release": "August 15, 2017",
+      "min_fw": "5.05+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/Nidhogg-2-PS4-PKG.webp",
+      "name": "Nidhogg 2",
+      "type": "update",
+      "download_text": "AKR",
+      "key_description": "Update v1.07 (5.05+) ⇛"
     },
     "https://akirabox.com/0Kezk9162mD1/file": {
       "region": "EUR",
@@ -32841,6 +32917,30 @@
       "type": "game",
       "download_text": "AKR",
       "key_description": "Game (5.05+) ⇛"
+    },
+    "https://akirabox.com/9AqGQjvdNmMn/file": {
+      "region": "EUR",
+      "size": "30MB",
+      "version": "1.00",
+      "release": "July 17, 2018",
+      "min_fw": null,
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/11/Super-Skull-Smash-GO-2-Turbo-PS4-PKG.webp",
+      "name": "Super Skull Smash Go 2 Turbo",
+      "type": "game",
+      "download_text": "AKR",
+      "key_description": "Game (6.20+) ⇛"
+    },
+    "https://akirabox.com/0PdzyBpv8GeA/file": {
+      "region": "EUR",
+      "size": "30MB",
+      "version": "1.00",
+      "release": "July 17, 2018",
+      "min_fw": null,
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/11/Super-Skull-Smash-GO-2-Turbo-PS4-PKG.webp",
+      "name": "Super Skull Smash Go 2 Turbo",
+      "type": "update",
+      "download_text": "AKR",
+      "key_description": "Update v1.01 (6.20+) ⇛"
     },
     "https://akirabox.com/Y2xm06NazRO1/file": {
       "region": "EUR",

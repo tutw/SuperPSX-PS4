@@ -2786,6 +2786,30 @@
       "download_text": "Viki",
       "key_description": "Update v2.87 (Fix 5.05/6.72/7.xx/8.xx) ⇛"
     },
+    "https://vikingfile.com/f/Ltqd5NPB86": {
+      "region": "EUR",
+      "size": "300MB",
+      "version": "1.00",
+      "release": "August 28, 2018",
+      "min_fw": null,
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/11/Donut-County-PS4-PKG.webp",
+      "name": "Donut County",
+      "type": "game",
+      "download_text": "Viki",
+      "key_description": "Game ⇛"
+    },
+    "https://vikingfile.com/f/oCKTg7MWsm": {
+      "region": "EUR",
+      "size": "300MB",
+      "version": "1.00",
+      "release": "August 28, 2018",
+      "min_fw": "Fix 5.05/6.72/7.02/7.55/9.00/11.00",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/11/Donut-County-PS4-PKG.webp",
+      "name": "Donut County",
+      "type": "update",
+      "download_text": "Viki",
+      "key_description": "Update v1.01 (Fix 5.05/6.72/7.02/7.55/9.00/11.00) ⇛"
+    },
     "https://vikingfile.com/f/2mWLiWPkFl": {
       "region": "EUR",
       "size": "40 GB",
@@ -9476,6 +9500,30 @@
       "type": "game",
       "download_text": "Viki",
       "key_description": "Fix 5.05 ⇛"
+    },
+    "https://vikingfile.com/f/s4QGAouAW2": {
+      "region": "EUR",
+      "size": "30MB",
+      "version": "1.00",
+      "release": "July 17, 2018",
+      "min_fw": null,
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/11/Super-Skull-Smash-GO-2-Turbo-PS4-PKG.webp",
+      "name": "Super Skull Smash Go 2 Turbo",
+      "type": "game",
+      "download_text": "Viki",
+      "key_description": "Game (6.20+) ⇛"
+    },
+    "https://vikingfile.com/f/ZEvaTMyEMq": {
+      "region": "EUR",
+      "size": "30MB",
+      "version": "1.00",
+      "release": "July 17, 2018",
+      "min_fw": null,
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/11/Super-Skull-Smash-GO-2-Turbo-PS4-PKG.webp",
+      "name": "Super Skull Smash Go 2 Turbo",
+      "type": "update",
+      "download_text": "Viki",
+      "key_description": "Update v1.01 (6.20+) ⇛"
     },
     "https://vikingfile.com/f/xK6OJuWGLo": {
       "region": "EUR",

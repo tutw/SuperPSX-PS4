@@ -11985,6 +11985,42 @@
       "download_text": "AKR",
       "key_description": "Update v1.01 (Fix 5.05/6.72/7.02) ⇛"
     },
+    "https://akirabox.com/qLQ3618oPm19/folder": {
+      "region": "EUR",
+      "size": "12.37 GB",
+      "version": "1.22",
+      "release": "March 5, 2024",
+      "min_fw": "11.00+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/Expeditions_-A-MudRunner-Game-Supreme-Edition-PS4-PKG.webp",
+      "name": "Expeditions A Mudrunner Game",
+      "type": "game",
+      "download_text": "AKR",
+      "key_description": "Game (v1.22) (11.00+)⇛"
+    },
+    "https://akirabox.com/jar3XwoV8m2d/file": {
+      "region": "EUR",
+      "size": "12.37 GB",
+      "version": "1.00",
+      "release": "March 5, 2024",
+      "min_fw": "Fix 5.05/6.72/7.xx/9.00",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/Expeditions_-A-MudRunner-Game-Supreme-Edition-PS4-PKG.webp",
+      "name": "Expeditions A Mudrunner Game",
+      "type": "update",
+      "download_text": "AKR",
+      "key_description": "Update v1.22 (Fix 5.05/6.72/7.xx/9.00) ⇛"
+    },
+    "https://akirabox.com/dkD3Ya7lo3LQ/file": {
+      "region": "EUR",
+      "size": "12.37 GB",
+      "version": "1.00",
+      "release": "March 5, 2024",
+      "min_fw": null,
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/Expeditions_-A-MudRunner-Game-Supreme-Edition-PS4-PKG.webp",
+      "name": "Expeditions A Mudrunner Game",
+      "type": "dlc",
+      "download_text": "AKR",
+      "key_description": "DLC v2 (9) ⇛"
+    },
     "https://akirabox.com/gXeGO1BLN3Aa/file": {
       "region": "EUR",
       "size": "12.37 GB",
@@ -11995,7 +12031,7 @@
       "name": "Expeditions A Mudrunner Game",
       "type": "game",
       "download_text": "AKR",
-      "key_description": "Game (v1.16) (10.50+ ⇛"
+      "key_description": "Game (v1.16) (10.50)+ ⇛"
     },
     "https://akirabox.com/APVmalBqlGXo/file": {
       "region": "EUR",
@@ -24081,30 +24117,6 @@
       "download_text": "AKR",
       "key_description": "DLC v2 ⇛"
     },
-    "https://akirabox.com/obj3jbwn23Dx/file": {
-      "region": "EUR",
-      "size": "500MB",
-      "version": "1.00",
-      "release": "October 14, 2014",
-      "min_fw": "5.05+",
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/08/Nidhogg-PS4-PKG.webp",
-      "name": "Nidhogg 2",
-      "type": "game",
-      "download_text": "AKR",
-      "key_description": "Game (5.05+) ⇛"
-    },
-    "https://akirabox.com/RMKGJXrkl31o/file": {
-      "region": "EUR",
-      "size": "500MB",
-      "version": "1.00",
-      "release": "October 14, 2014",
-      "min_fw": "5.05+",
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/08/Nidhogg-PS4-PKG.webp",
-      "name": "Nidhogg 2",
-      "type": "update",
-      "download_text": "AKR",
-      "key_description": "Update v1.02 (5.05+) ⇛"
-    },
     "https://akirabox.com/7d5GLr56V3xR/file": {
       "region": "EUR",
       "size": "397.15 MB",
@@ -24128,6 +24140,30 @@
       "type": "update",
       "download_text": "AKR",
       "key_description": "Update v1.07 (5.05+) ⇛"
+    },
+    "https://akirabox.com/obj3jbwn23Dx/file": {
+      "region": "EUR",
+      "size": "500MB",
+      "version": "1.00",
+      "release": "October 14, 2014",
+      "min_fw": "5.05+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/08/Nidhogg-PS4-PKG.webp",
+      "name": "Nidhogg 2",
+      "type": "game",
+      "download_text": "AKR",
+      "key_description": "Game (5.05+) ⇛"
+    },
+    "https://akirabox.com/RMKGJXrkl31o/file": {
+      "region": "EUR",
+      "size": "500MB",
+      "version": "1.00",
+      "release": "October 14, 2014",
+      "min_fw": "5.05+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/08/Nidhogg-PS4-PKG.webp",
+      "name": "Nidhogg 2",
+      "type": "update",
+      "download_text": "AKR",
+      "key_description": "Update v1.02 (5.05+) ⇛"
     },
     "https://akirabox.com/0Kezk9162mD1/file": {
       "region": "EUR",
@@ -24931,6 +24967,42 @@
       "type": "dlc",
       "download_text": "AKR",
       "key_description": "DLC Pack (8) ⇛"
+    },
+    "https://akirabox.com/Y2xm0w8LpGRO/file": {
+      "region": "EUR",
+      "size": "32.72 GB",
+      "version": "1.00",
+      "release": "March 27, 2020",
+      "min_fw": "6.72+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/10/One-Piece-Pirate-Warriors-4-Ultimate-Edition-PS4-PKG.webp",
+      "name": "One Piece Pirate Warriors 4 Ultimate Edition",
+      "type": "game",
+      "download_text": "AKR",
+      "key_description": "Game (6.72+) ⇛"
+    },
+    "https://akirabox.com/qPez4d8kNzOY/file": {
+      "region": "EUR",
+      "size": "32.72 GB",
+      "version": "1.00",
+      "release": "March 27, 2020",
+      "min_fw": "Fix 5.05/6.72+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/10/One-Piece-Pirate-Warriors-4-Ultimate-Edition-PS4-PKG.webp",
+      "name": "One Piece Pirate Warriors 4 Ultimate Edition",
+      "type": "update",
+      "download_text": "AKR",
+      "key_description": "Update v1.82 (Fix 5.05/6.72+) ⇛"
+    },
+    "https://akirabox.com/qw1zenNrQGXy/file": {
+      "region": "EUR",
+      "size": "32.72 GB",
+      "version": "1.00",
+      "release": "March 27, 2020",
+      "min_fw": null,
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/10/One-Piece-Pirate-Warriors-4-Ultimate-Edition-PS4-PKG.webp",
+      "name": "One Piece Pirate Warriors 4 Ultimate Edition",
+      "type": "dlc",
+      "download_text": "AKR",
+      "key_description": "All DLC (24) ⇛"
     },
     "https://akirabox.com/gXeGOREejzAa/file": {
       "region": "EUR",
@@ -28504,6 +28576,42 @@
       "type": "update",
       "download_text": "AKR",
       "key_description": "Update v1.03 (Fix 5.05/6.72/7.xx) ⇛"
+    },
+    "https://akirabox.com/rk9zKvkY530l/file": {
+      "region": "EUR",
+      "size": "19.14 GB",
+      "version": "1.00",
+      "release": "April 26, 2024",
+      "min_fw": null,
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/05/SAND-LAND-Deluxe-Edition-PS4-PKG.webp",
+      "name": "Sand Land Deluxe Edition",
+      "type": "game",
+      "download_text": "AKR",
+      "key_description": "Game (10.50+) ⇛"
+    },
+    "https://akirabox.com/l5YzMxM123yO/file": {
+      "region": "EUR",
+      "size": "19.14 GB",
+      "version": "1.00",
+      "release": "April 26, 2024",
+      "min_fw": null,
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/05/SAND-LAND-Deluxe-Edition-PS4-PKG.webp",
+      "name": "Sand Land Deluxe Edition",
+      "type": "update",
+      "download_text": "AKR",
+      "key_description": "Update v1.07 (Game Info Fix)  ⇛"
+    },
+    "https://akirabox.com/1RgzRBoVbzbp/file": {
+      "region": "EUR",
+      "size": "19.14 GB",
+      "version": "1.00",
+      "release": "April 26, 2024",
+      "min_fw": null,
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/05/SAND-LAND-Deluxe-Edition-PS4-PKG.webp",
+      "name": "Sand Land Deluxe Edition",
+      "type": "dlc",
+      "download_text": "AKR",
+      "key_description": "ALL DLCs ⇛"
     },
     "https://akirabox.com/qw1zepD4p3Xy/folder": {
       "region": "EUR",

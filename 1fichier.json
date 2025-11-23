@@ -21803,6 +21803,42 @@
       "download_text": "OneFile",
       "key_description": "Update v1.01 (Fix 5.05) ⇛"
     },
+    "https://1fichier.com/?bc5v4zluxodzsitol5s1&af=4186346": {
+      "region": "EUR",
+      "size": "408.36 MB",
+      "version": "1.00",
+      "release": "14 Dec 2023",
+      "min_fw": "9.00+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/Hidden-Paws-PS4-PKG.webp",
+      "name": "Hidden Paws",
+      "type": "game",
+      "download_text": "OneFile",
+      "key_description": "Game (9.00+) ⇛"
+    },
+    "https://1fichier.com/?5fb0crkpxy0d23jfiaik&af=4186346": {
+      "region": "EUR",
+      "size": "408.36 MB",
+      "version": "1.00",
+      "release": "14 Dec 2023",
+      "min_fw": "9.00+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/Hidden-Paws-PS4-PKG.webp",
+      "name": "Hidden Paws",
+      "type": "update",
+      "download_text": "OneFile",
+      "key_description": "Update v1.02 (9.00+) ⇛"
+    },
+    "https://1fichier.com/?yy7l93v70ttc5kdpqaea&af=4186346": {
+      "region": "EUR",
+      "size": "408.36 MB",
+      "version": "1.00",
+      "release": "14 Dec 2023",
+      "min_fw": "Fix 5.05/6.72/7.02/7.55",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/Hidden-Paws-PS4-PKG.webp",
+      "name": "Hidden Paws",
+      "type": "update",
+      "download_text": "OneFile",
+      "key_description": "Update v1.02 (Fix 5.05/6.72/7.02/7.55) ⇛"
+    },
     "https://1fichier.com/?9ptytuutkqqcfzuc5kyt&af=4186346": {
       "region": "EUR",
       "size": "199.56 MB",
@@ -33436,30 +33472,6 @@
       "download_text": "OneFile",
       "key_description": "DLC ⇛"
     },
-    "https://1fichier.com/?x0l1nv7408ke0kb720il&af=4186346": {
-      "region": "EUR",
-      "size": "500MB",
-      "version": "1.00",
-      "release": "October 14, 2014",
-      "min_fw": "5.05+",
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/08/Nidhogg-PS4-PKG.webp",
-      "name": "Nidhogg 2",
-      "type": "game",
-      "download_text": "OneFile",
-      "key_description": "Game (5.05+) ⇛"
-    },
-    "https://1fichier.com/?bry9hepim2a628h6iylm&af=4186346": {
-      "region": "EUR",
-      "size": "500MB",
-      "version": "1.00",
-      "release": "October 14, 2014",
-      "min_fw": "5.05+",
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/08/Nidhogg-PS4-PKG.webp",
-      "name": "Nidhogg 2",
-      "type": "update",
-      "download_text": "OneFile",
-      "key_description": "Update v1.02 (5.05+) ⇛"
-    },
     "https://1fichier.com/?e7psyde2u42xep77z9a9&af=4186346": {
       "region": "EUR",
       "size": "397.15 MB",
@@ -33483,6 +33495,30 @@
       "type": "update",
       "download_text": "OneFile",
       "key_description": "Update v1.07 (5.05+) ⇛"
+    },
+    "https://1fichier.com/?x0l1nv7408ke0kb720il&af=4186346": {
+      "region": "EUR",
+      "size": "500MB",
+      "version": "1.00",
+      "release": "October 14, 2014",
+      "min_fw": "5.05+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/08/Nidhogg-PS4-PKG.webp",
+      "name": "Nidhogg 2",
+      "type": "game",
+      "download_text": "OneFile",
+      "key_description": "Game (5.05+) ⇛"
+    },
+    "https://1fichier.com/?bry9hepim2a628h6iylm&af=4186346": {
+      "region": "EUR",
+      "size": "500MB",
+      "version": "1.00",
+      "release": "October 14, 2014",
+      "min_fw": "5.05+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/08/Nidhogg-PS4-PKG.webp",
+      "name": "Nidhogg 2",
+      "type": "update",
+      "download_text": "OneFile",
+      "key_description": "Update v1.02 (5.05+) ⇛"
     },
     "https://1fichier.com/?l85tz68ijgs1udp3fkom&af=4186346": {
       "region": "EUR",
@@ -40608,6 +40644,42 @@
       "type": "update",
       "download_text": "OneFile",
       "key_description": "Update v1.03 (Fix 5.05/6.72/7.xx) ⇛"
+    },
+    "https://1fichier.com/?eywvbha7pwua8alemjhu&af=4186346": {
+      "region": "EUR",
+      "size": "19.14 GB",
+      "version": "1.00",
+      "release": "April 26, 2024",
+      "min_fw": null,
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/05/SAND-LAND-Deluxe-Edition-PS4-PKG.webp",
+      "name": "Sand Land Deluxe Edition",
+      "type": "game",
+      "download_text": "OneFile",
+      "key_description": "Game (10.50+) ⇛"
+    },
+    "https://1fichier.com/?wt87m9ywg6a5paduh328&af=4186346": {
+      "region": "EUR",
+      "size": "19.14 GB",
+      "version": "1.00",
+      "release": "April 26, 2024",
+      "min_fw": null,
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/05/SAND-LAND-Deluxe-Edition-PS4-PKG.webp",
+      "name": "Sand Land Deluxe Edition",
+      "type": "update",
+      "download_text": "OneFile",
+      "key_description": "Update v1.07 (Game Info Fix)  ⇛"
+    },
+    "https://1fichier.com/?shwwpwcpxrjgaf5rcu44&af=4186346": {
+      "region": "EUR",
+      "size": "19.14 GB",
+      "version": "1.00",
+      "release": "April 26, 2024",
+      "min_fw": null,
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/05/SAND-LAND-Deluxe-Edition-PS4-PKG.webp",
+      "name": "Sand Land Deluxe Edition",
+      "type": "dlc",
+      "download_text": "OneFile",
+      "key_description": "ALL DLCs ⇛"
     },
     "https://1fichier.com/?qjn3akeu1u451jgr2ioa&af=4186346": {
       "region": "EUR",

@@ -1645,14 +1645,14 @@
       "size": "21.74 GB",
       "version": "1.00",
       "release": "October 5, 2023",
-      "min_fw": "10.71+",
+      "min_fw": null,
       "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/Assassin_s-Creed-Mirage-PS4-PKG.webp",
       "name": "Assassins Creed Mirage",
       "type": "game",
       "download_text": "AKR",
       "key_description": "Game ⇛"
     },
-    "https://akirabox.com/Y2xm0Zw9zRO1/file": {
+    "https://akirabox.com/jar3XwYbgm2d/file": {
       "region": "EUR",
       "size": "21.74 GB",
       "version": "1.00",
@@ -1662,14 +1662,14 @@
       "name": "Assassins Creed Mirage",
       "type": "update",
       "download_text": "AKR",
-      "key_description": "Update v1.07 (Fix 5.05/6.72/7.02/7.55/9.00) ⇛"
+      "key_description": "Update v1.11 (Fix 5.05/6.72/7.02/7.55/9.00) ⇛"
     },
     "https://akirabox.com/rk9zKDvPG0lY/file": {
       "region": "EUR",
       "size": "21.74 GB",
       "version": "1.00",
       "release": "October 5, 2023",
-      "min_fw": "10.71+",
+      "min_fw": null,
       "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/Assassin_s-Creed-Mirage-PS4-PKG.webp",
       "name": "Assassins Creed Mirage",
       "type": "dlc",
@@ -14333,41 +14333,29 @@
       "download_text": "AKR",
       "key_description": "Artbook & Soundtracks (5) ⇛"
     },
-    "https://akirabox.com/gXeGO6BjzAa7/file": {
+    "https://akirabox.com/0PdzyB6x0GeA/file": {
       "region": "EUR",
       "size": "79 GB",
-      "version": "1.54",
+      "version": "1.63",
       "release": "March 4, 2022",
       "min_fw": "11.00",
       "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/Gran-Turismo-7-PS4-PKG.webp",
       "name": "Gran Turismo 7",
       "type": "game",
       "download_text": "AKR",
-      "key_description": "Game (v1.54) (Part 1) (11.00) ⇛"
+      "key_description": "Game (v1.63) (11.00) ⇛"
     },
-    "https://akirabox.com/Pbe3P90ezlX6/file": {
+    "https://akirabox.com/E1x3AlJodmyk/file": {
       "region": "EUR",
       "size": "79 GB",
-      "version": "1.54",
-      "release": "March 4, 2022",
-      "min_fw": "11.00",
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/Gran-Turismo-7-PS4-PKG.webp",
-      "name": "Gran Turismo 7",
-      "type": "game",
-      "download_text": "AKR",
-      "key_description": "Game (v1.54) (Part 2) (11.00) ⇛"
-    },
-    "https://akirabox.com/k0embRg9mVb4/file": {
-      "region": "EUR",
-      "size": "79 GB",
-      "version": "1.54",
+      "version": "1.63",
       "release": "March 4, 2022",
       "min_fw": "Fix 5.05/6.72/7.xx/9.00",
       "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/Gran-Turismo-7-PS4-PKG.webp",
       "name": "Gran Turismo 7",
       "type": "game",
       "download_text": "AKR",
-      "key_description": "Game (v1.54) (Fix 5.05/6.72/7.xx/9.00) ⇛"
+      "key_description": "Game (v1.63) (Fix 5.05/6.72/7.xx/9.00) ⇛"
     },
     "https://akirabox.com/vgKGxQw6m8Qn/file": {
       "region": "EUR",
@@ -23122,7 +23110,7 @@
       "download_text": "AKR",
       "key_description": "Game (9.00+) ⇛"
     },
-    "https://akirabox.com/BnkmW4l13R0y/file": {
+    "https://akirabox.com/9AqGQjY6rmMn/file": {
       "region": "EUR",
       "size": "4.73 GB",
       "version": "1.00",
@@ -24117,30 +24105,6 @@
       "download_text": "AKR",
       "key_description": "DLC v2 ⇛"
     },
-    "https://akirabox.com/7d5GLr56V3xR/file": {
-      "region": "EUR",
-      "size": "397.15 MB",
-      "version": "1.00",
-      "release": "August 15, 2017",
-      "min_fw": "5.05+",
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/Nidhogg-2-PS4-PKG.webp",
-      "name": "Nidhogg 2",
-      "type": "game",
-      "download_text": "AKR",
-      "key_description": "Game (5.05+) ⇛"
-    },
-    "https://akirabox.com/5pVzNaNDX37w/file": {
-      "region": "EUR",
-      "size": "397.15 MB",
-      "version": "1.00",
-      "release": "August 15, 2017",
-      "min_fw": "5.05+",
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/Nidhogg-2-PS4-PKG.webp",
-      "name": "Nidhogg 2",
-      "type": "update",
-      "download_text": "AKR",
-      "key_description": "Update v1.07 (5.05+) ⇛"
-    },
     "https://akirabox.com/obj3jbwn23Dx/file": {
       "region": "EUR",
       "size": "500MB",
@@ -24164,6 +24128,30 @@
       "type": "update",
       "download_text": "AKR",
       "key_description": "Update v1.02 (5.05+) ⇛"
+    },
+    "https://akirabox.com/7d5GLr56V3xR/file": {
+      "region": "EUR",
+      "size": "397.15 MB",
+      "version": "1.00",
+      "release": "August 15, 2017",
+      "min_fw": "5.05+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/Nidhogg-2-PS4-PKG.webp",
+      "name": "Nidhogg 2",
+      "type": "game",
+      "download_text": "AKR",
+      "key_description": "Game (5.05+) ⇛"
+    },
+    "https://akirabox.com/5pVzNaNDX37w/file": {
+      "region": "EUR",
+      "size": "397.15 MB",
+      "version": "1.00",
+      "release": "August 15, 2017",
+      "min_fw": "5.05+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/Nidhogg-2-PS4-PKG.webp",
+      "name": "Nidhogg 2",
+      "type": "update",
+      "download_text": "AKR",
+      "key_description": "Update v1.07 (5.05+) ⇛"
     },
     "https://akirabox.com/0Kezk9162mD1/file": {
       "region": "EUR",
@@ -31422,54 +31410,6 @@
       "type": "dlc",
       "download_text": "AKR",
       "key_description": "DLC (4) ⇛"
-    },
-    "https://akirabox.com/N2p3DdaR3Ma5/file": {
-      "region": "EUR",
-      "size": "14.10 GB",
-      "version": "1.00",
-      "release": "Jun 7, 2022",
-      "min_fw": "9.60+",
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/SpellForce-III-Reforced_-Complete-Edition-PS4-PKG.webp",
-      "name": "Spellforce 3 Reforced",
-      "type": "game",
-      "download_text": "AKR",
-      "key_description": "Game ⇛"
-    },
-    "https://akirabox.com/2WVGrWoEmkx7/file": {
-      "region": "EUR",
-      "size": "14.10 GB",
-      "version": "1.00",
-      "release": "Jun 7, 2022",
-      "min_fw": "9.60+",
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/SpellForce-III-Reforced_-Complete-Edition-PS4-PKG.webp",
-      "name": "Spellforce 3 Reforced",
-      "type": "update",
-      "download_text": "AKR",
-      "key_description": "Update v1.02 ⇛"
-    },
-    "https://akirabox.com/EL73gkpY39Ba/file": {
-      "region": "EUR",
-      "size": "14.10 GB",
-      "version": "1.00",
-      "release": "Jun 7, 2022",
-      "min_fw": "Fix 5.05/6.72/7.xx/8.xx",
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/SpellForce-III-Reforced_-Complete-Edition-PS4-PKG.webp",
-      "name": "Spellforce 3 Reforced",
-      "type": "update",
-      "download_text": "AKR",
-      "key_description": "Update v1.02 (Fix 5.05/6.72/7.xx/8.xx) ⇛"
-    },
-    "https://akirabox.com/9QWmpE7x3EB6/folder": {
-      "region": "EUR",
-      "size": "14.10 GB",
-      "version": "1.00",
-      "release": "Jun 7, 2022",
-      "min_fw": "9.60+",
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/SpellForce-III-Reforced_-Complete-Edition-PS4-PKG.webp",
-      "name": "Spellforce 3 Reforced",
-      "type": "dlc",
-      "download_text": "AKR",
-      "key_description": "DLC ⇛"
     },
     "https://akirabox.com/qLQ36X0EG19j/file": {
       "region": "EUR",
@@ -39623,7 +39563,7 @@
       "download_text": "AKR",
       "key_description": "Update v1.01 (Fix 5.05/6.72/7.xx) ⇛"
     },
-    "https://akirabox.com/E9Qz9gwDmOL2/file": {
+    "https://akirabox.com/jar3XwYpOm2d/file": {
       "region": "EUR",
       "size": "50GB",
       "version": "1.00",
@@ -39635,7 +39575,7 @@
       "download_text": "AKR",
       "key_description": "Game (5.05+) ⇛"
     },
-    "https://akirabox.com/XkrzoQ0dmBOR/file": {
+    "https://akirabox.com/E9Qz9dDo03OL/file": {
       "region": "EUR",
       "size": "50GB",
       "version": "1.00",
@@ -39647,7 +39587,7 @@
       "download_text": "AKR",
       "key_description": "Update v1.03 (5.05+) ⇛"
     },
-    "https://akirabox.com/qLQ36E0Bm19j/file": {
+    "https://akirabox.com/qPez4dZ9qzOY/file": {
       "region": "EUR",
       "size": "50GB",
       "version": "1.00",

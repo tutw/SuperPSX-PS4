@@ -1822,6 +1822,42 @@
       "download_text": "Viki",
       "key_description": "DLC ⇛"
     },
+    "https://vikingfile.com/f/k0ihH2UKrZ": {
+      "region": "EUR",
+      "size": "500MB",
+      "version": "1.00",
+      "release": "December 14, 2000",
+      "min_fw": "5.05+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/11/Crash-Bandicoot-Carnival-PS4-PKG.webp",
+      "name": "Crash Bandicoot Carnival",
+      "type": "game",
+      "download_text": "Viki",
+      "key_description": "Game (5.05+) ⇛"
+    },
+    "https://vikingfile.com/f/EAiF2qLorY": {
+      "region": "EUR",
+      "size": "100MB",
+      "version": "1.00",
+      "release": "November 6, 2000",
+      "min_fw": "5.05+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/11/Crash-Bash-PS4-PKG.webp",
+      "name": "Crash Bash",
+      "type": "game",
+      "download_text": "Viki",
+      "key_description": "Game (5.05+) ⇛"
+    },
+    "https://vikingfile.com/f/nLabbsmVGm": {
+      "region": "EUR",
+      "size": "2.2GB",
+      "version": "1.00",
+      "release": "November 1, 2005",
+      "min_fw": "5.05+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/11/Crash-Tag-Team-Racing-PS4-PKG.webp",
+      "name": "Crash Tag Team Racing",
+      "type": "game",
+      "download_text": "Viki",
+      "key_description": "Game (5.05+) ⇛"
+    },
     "https://vikingfile.com/f/AwlP1vHPUY": {
       "region": "EUR",
       "size": "3.1GB",

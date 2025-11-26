@@ -6453,6 +6453,18 @@
       "download_text": "AKR",
       "key_description": "DLC ⇛"
     },
+    "https://akirabox.com/rk9zKvKMy30l/file": {
+      "region": "EUR",
+      "size": "500MB",
+      "version": "1.00",
+      "release": "December 14, 2000",
+      "min_fw": "5.05+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/11/Crash-Bandicoot-Carnival-PS4-PKG.webp",
+      "name": "Crash Bandicoot Carnival",
+      "type": "game",
+      "download_text": "AKR",
+      "key_description": "Game (5.05+) ⇛"
+    },
     "https://akirabox.com/0rpmvQxwGRgZ/file": {
       "region": "EUR",
       "size": "22 GB",
@@ -6500,6 +6512,30 @@
       "type": "dlc",
       "download_text": "AKR",
       "key_description": "DLC Future Tense + Stormy Ascent ⇛"
+    },
+    "https://akirabox.com/2WVGrD4r93kx/file": {
+      "region": "EUR",
+      "size": "100MB",
+      "version": "1.00",
+      "release": "November 6, 2000",
+      "min_fw": "5.05+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/11/Crash-Bash-PS4-PKG.webp",
+      "name": "Crash Bash",
+      "type": "game",
+      "download_text": "AKR",
+      "key_description": "Game (5.05+) ⇛"
+    },
+    "https://akirabox.com/wgWGqO4ew34o/file": {
+      "region": "EUR",
+      "size": "2.2GB",
+      "version": "1.00",
+      "release": "November 1, 2005",
+      "min_fw": "5.05+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/11/Crash-Tag-Team-Racing-PS4-PKG.webp",
+      "name": "Crash Tag Team Racing",
+      "type": "game",
+      "download_text": "AKR",
+      "key_description": "Game (5.05+) ⇛"
     },
     "https://akirabox.com/dZxG5qbBGVjK/file": {
       "region": "EUR",
@@ -12588,6 +12624,42 @@
       "type": "update",
       "download_text": "AKR",
       "key_description": "Update v1.08 (5.05+) ⇛"
+    },
+    "https://akirabox.com/N2p3DZ1AVGMa/file": {
+      "region": "EUR",
+      "size": "40 GB",
+      "version": "1.09",
+      "release": "August 7, 2020",
+      "min_fw": "7.55+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2021/06/Fast-Furious-Crossroads-PS4-cover.webp",
+      "name": "Fast Furious Crossroads",
+      "type": "game",
+      "download_text": "AKR",
+      "key_description": "Game (v1.09)(7.00+) ⇛"
+    },
+    "https://akirabox.com/APVmal8XjGXo/file": {
+      "region": "EUR",
+      "size": "40 GB",
+      "version": "1.00",
+      "release": "August 7, 2020",
+      "min_fw": "7.55+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2021/06/Fast-Furious-Crossroads-PS4-cover.webp",
+      "name": "Fast Furious Crossroads",
+      "type": "update",
+      "download_text": "AKR",
+      "key_description": "Update v1.09 (7.00+)"
+    },
+    "https://akirabox.com/0JgG7B9gNzoY/file": {
+      "region": "EUR",
+      "size": "40 GB",
+      "version": "1.00",
+      "release": "August 7, 2020",
+      "min_fw": "5.05/6.72",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2021/06/Fast-Furious-Crossroads-PS4-cover.webp",
+      "name": "Fast Furious Crossroads",
+      "type": "game",
+      "download_text": "AKR",
+      "key_description": "Fix (5.05/6.72) ⇛"
     },
     "https://akirabox.com/E1x3ALQemyk6/file": {
       "region": "USA",
@@ -31411,6 +31483,54 @@
       "download_text": "AKR",
       "key_description": "DLC (4) ⇛"
     },
+    "https://akirabox.com/N2p3DdaR3Ma5/file": {
+      "region": "EUR",
+      "size": "14.10 GB",
+      "version": "1.00",
+      "release": "Jun 7, 2022",
+      "min_fw": "9.60+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/SpellForce-III-Reforced_-Complete-Edition-PS4-PKG.webp",
+      "name": "Spellforce 3 Reforced",
+      "type": "game",
+      "download_text": "AKR",
+      "key_description": "Game ⇛"
+    },
+    "https://akirabox.com/2WVGrWoEmkx7/file": {
+      "region": "EUR",
+      "size": "14.10 GB",
+      "version": "1.00",
+      "release": "Jun 7, 2022",
+      "min_fw": "9.60+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/SpellForce-III-Reforced_-Complete-Edition-PS4-PKG.webp",
+      "name": "Spellforce 3 Reforced",
+      "type": "update",
+      "download_text": "AKR",
+      "key_description": "Update v1.02 ⇛"
+    },
+    "https://akirabox.com/EL73gkpY39Ba/file": {
+      "region": "EUR",
+      "size": "14.10 GB",
+      "version": "1.00",
+      "release": "Jun 7, 2022",
+      "min_fw": "Fix 5.05/6.72/7.xx/8.xx",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/SpellForce-III-Reforced_-Complete-Edition-PS4-PKG.webp",
+      "name": "Spellforce 3 Reforced",
+      "type": "update",
+      "download_text": "AKR",
+      "key_description": "Update v1.02 (Fix 5.05/6.72/7.xx/8.xx) ⇛"
+    },
+    "https://akirabox.com/9QWmpE7x3EB6/folder": {
+      "region": "EUR",
+      "size": "14.10 GB",
+      "version": "1.00",
+      "release": "Jun 7, 2022",
+      "min_fw": "9.60+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/SpellForce-III-Reforced_-Complete-Edition-PS4-PKG.webp",
+      "name": "Spellforce 3 Reforced",
+      "type": "dlc",
+      "download_text": "AKR",
+      "key_description": "DLC ⇛"
+    },
     "https://akirabox.com/qLQ36X0EG19j/file": {
       "region": "EUR",
       "size": "2GB",
@@ -41753,42 +41873,6 @@
       "type": "update",
       "download_text": "AKR",
       "key_description": "Update v1.09 (5.05+) ⇛"
-    },
-    "https://akirabox.com/Y2xm0PZ6mRO1/file": {
-      "region": "EUR",
-      "size": "40 GB",
-      "version": "1.00",
-      "release": "August 28, 2018",
-      "min_fw": "5.05+",
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/Yakuza-Kiwami-2-PS4-PKG.webp",
-      "name": "Yakuza Kiwami 2",
-      "type": "game",
-      "download_text": "AKR",
-      "key_description": "Game (5.05+) ⇛"
-    },
-    "https://akirabox.com/Z9dzB4Ylmk1b/file": {
-      "region": "EUR",
-      "size": "40 GB",
-      "version": "1.00",
-      "release": "August 28, 2018",
-      "min_fw": "5.03+",
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/Yakuza-Kiwami-2-PS4-PKG.webp",
-      "name": "Yakuza Kiwami 2",
-      "type": "update",
-      "download_text": "AKR",
-      "key_description": "Update v1.04 ⇛"
-    },
-    "https://akirabox.com/2WVGrVrkGkx7/file": {
-      "region": "EUR",
-      "size": "40 GB",
-      "version": "1.00",
-      "release": "August 28, 2018",
-      "min_fw": "5.03+",
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/Yakuza-Kiwami-2-PS4-PKG.webp",
-      "name": "Yakuza Kiwami 2",
-      "type": "dlc",
-      "download_text": "AKR",
-      "key_description": "DLC ⇛"
     },
     "https://akirabox.com/qPez4DvNzOYn/file": {
       "region": "USA",

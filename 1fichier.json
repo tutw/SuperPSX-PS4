@@ -9132,6 +9132,18 @@
       "download_text": "OneFile",
       "key_description": "Totally Tubular Skins DLC ⇛"
     },
+    "https://1fichier.com/?f5f0qwiycb1lebj0mg0h&af=4186346": {
+      "region": "EUR",
+      "size": "500MB",
+      "version": "1.00",
+      "release": "December 14, 2000",
+      "min_fw": "5.05+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/11/Crash-Bandicoot-Carnival-PS4-PKG.webp",
+      "name": "Crash Bandicoot Carnival",
+      "type": "game",
+      "download_text": "OneFile",
+      "key_description": "Game (5.05+) ⇛"
+    },
     "https://1fichier.com/?pdj9i3culrl00vvfro4h&af=4186346": {
       "region": "EUR",
       "size": "22 GB",
@@ -9179,6 +9191,18 @@
       "type": "dlc",
       "download_text": "OneFile",
       "key_description": "DLC Future Tense + Stormy Ascent ⇛"
+    },
+    "https://1fichier.com/?0cf67ke860pp9zfxavog&af=4186346": {
+      "region": "EUR",
+      "size": "100MB",
+      "version": "1.00",
+      "release": "November 6, 2000",
+      "min_fw": "5.05+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/11/Crash-Bash-PS4-PKG.webp",
+      "name": "Crash Bash",
+      "type": "game",
+      "download_text": "OneFile",
+      "key_description": "Game (5.05+) ⇛"
     },
     "https://1fichier.com/?3vsv90nj6z4v6eqyu6oy&af=4186346": {
       "region": "EUR",
@@ -44402,6 +44426,54 @@
       "type": "dlc",
       "download_text": "OneFile",
       "key_description": "DLC (4) ⇛"
+    },
+    "https://1fichier.com/?u2e8kec0w7pwi658q1xw&af=4186346": {
+      "region": "EUR",
+      "size": "14.10 GB",
+      "version": "1.00",
+      "release": "Jun 7, 2022",
+      "min_fw": "9.60+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/SpellForce-III-Reforced_-Complete-Edition-PS4-PKG.webp",
+      "name": "Spellforce 3 Reforced",
+      "type": "game",
+      "download_text": "OneFile",
+      "key_description": "Game ⇛"
+    },
+    "https://1fichier.com/?fmk2qwdi44qzde94jby5&af=4186346": {
+      "region": "EUR",
+      "size": "14.10 GB",
+      "version": "1.00",
+      "release": "Jun 7, 2022",
+      "min_fw": "9.60+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/SpellForce-III-Reforced_-Complete-Edition-PS4-PKG.webp",
+      "name": "Spellforce 3 Reforced",
+      "type": "update",
+      "download_text": "OneFile",
+      "key_description": "Update v1.02 ⇛"
+    },
+    "https://1fichier.com/?putpkda7mqoq9acb62cq&af=4186346": {
+      "region": "EUR",
+      "size": "14.10 GB",
+      "version": "1.00",
+      "release": "Jun 7, 2022",
+      "min_fw": "Fix 5.05/6.72/7.xx/8.xx",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/SpellForce-III-Reforced_-Complete-Edition-PS4-PKG.webp",
+      "name": "Spellforce 3 Reforced",
+      "type": "update",
+      "download_text": "OneFile",
+      "key_description": "Update v1.02 (Fix 5.05/6.72/7.xx/8.xx) ⇛"
+    },
+    "https://1fichier.com/?8fdw0ojga6tff0rjq14l&af=4186346": {
+      "region": "EUR",
+      "size": "14.10 GB",
+      "version": "1.00",
+      "release": "Jun 7, 2022",
+      "min_fw": "9.60+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/SpellForce-III-Reforced_-Complete-Edition-PS4-PKG.webp",
+      "name": "Spellforce 3 Reforced",
+      "type": "dlc",
+      "download_text": "OneFile",
+      "key_description": "DLC ⇛"
     },
     "https://1fichier.com/?7pfj9kklhv3ayz17to1i&af=4186346": {
       "region": "EUR",

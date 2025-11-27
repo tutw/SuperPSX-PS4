@@ -534,6 +534,30 @@
       "download_text": "OneFile",
       "key_description": "Update v1.04 ⇛"
     },
+    "https://1fichier.com/?mca9j26rli6h1fgvqkgn&af=4186346": {
+      "region": "EUR",
+      "size": "3GB",
+      "version": "1.00",
+      "release": "Oct 9, 2025",
+      "min_fw": null,
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/11/Absolum-PS4-PKG.webp",
+      "name": "Absolum",
+      "type": "game",
+      "download_text": "OneFile",
+      "key_description": "Game (12.02)⇛"
+    },
+    "https://1fichier.com/?f2gkeoin48mxnzl8b7w1&af=4186346": {
+      "region": "EUR",
+      "size": "3GB",
+      "version": "1.00",
+      "release": "Oct 9, 2025",
+      "min_fw": "Fix 5.05/6.72/7.xx/9.00/11.00/12.02",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/11/Absolum-PS4-PKG.webp",
+      "name": "Absolum",
+      "type": "update",
+      "download_text": "OneFile",
+      "key_description": "Update v1.01 (Fix 5.05/6.72/7.xx/9.00/11.00/12.02) ⇛"
+    },
     "https://1fichier.com/?jd3wbhjot5u9olm3vfau&af=4186346": {
       "region": "EUR",
       "size": "5.95 GB",
@@ -10903,6 +10927,30 @@
       "type": "update",
       "download_text": "OneFile",
       "key_description": "Update 1.05 (Fix 5.05/6.72/7.xx/8.xx) ⇛"
+    },
+    "https://1fichier.com/?0izqf4fgcvfthmn7g997&af=4186346": {
+      "region": "EUR",
+      "size": "4GB",
+      "version": "1.00",
+      "release": "March 10, 2023",
+      "min_fw": "11.00",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/11/DCs-Justice-League-Cosmic-Chaos-PS4-PKG.webp",
+      "name": "Dcs Justice League Cosmic Chaos",
+      "type": "game",
+      "download_text": "OneFile",
+      "key_description": "Game (11.00) ⇛"
+    },
+    "https://1fichier.com/?cocjqf9aycdxxu2ptjhm&af=4186346": {
+      "region": "EUR",
+      "size": "4GB",
+      "version": "1.00",
+      "release": "March 10, 2023",
+      "min_fw": "Fix 5.05/6.72/7.xx/9.00/11.00",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/11/DCs-Justice-League-Cosmic-Chaos-PS4-PKG.webp",
+      "name": "Dcs Justice League Cosmic Chaos",
+      "type": "update",
+      "download_text": "OneFile",
+      "key_description": "Update v1.04 (Fix 5.05/6.72/7.xx/9.00/11.00) ⇛"
     },
     "https://1fichier.com/?lqpjp80h1a6gdc4jh52u&af=4186346": {
       "region": "EUR",
@@ -24932,6 +24980,18 @@
       "type": "game",
       "download_text": "OneFile",
       "key_description": "Game ⇛"
+    },
+    "https://1fichier.com/?kywzot1b7whb9p2gjtnm&af=4186346": {
+      "region": "EUR",
+      "size": "2GB",
+      "version": "1.00",
+      "release": "Oct 2, 2024",
+      "min_fw": null,
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/11/Kill-Knight-PS4-PKG.webp",
+      "name": "Kill Knight",
+      "type": "game",
+      "download_text": "OneFile",
+      "key_description": "Game ⇛"
     },
     "https://1fichier.com/?6qatst5d6vv3xvr4atb4&af=4186346": {
       "region": "EUR",
@@ -39816,6 +39876,30 @@
       "type": "dlc",
       "download_text": "OneFile",
       "key_description": "DLC (26) ⇛"
+    },
+    "https://1fichier.com/remove/lgleda6jtkgjoeqcrr3j/XjUfTFRS&af=4186346": {
+      "region": "EUR",
+      "size": "1.4GB",
+      "version": "1.00",
+      "release": "Nov 11, 2025",
+      "min_fw": null,
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/11/Rue-Valley-PS4-PKG.webp",
+      "name": "Rue Valley",
+      "type": "game",
+      "download_text": "OneFile",
+      "key_description": "Game ⇛"
+    },
+    "https://1fichier.com/?hrbjig15vk6akp99zeyy&af=4186346": {
+      "region": "EUR",
+      "size": "1.4GB",
+      "version": "1.00",
+      "release": "Nov 11, 2025",
+      "min_fw": "Fix 5.05/6.72/7.02/7.55/9.00/11.00",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/11/Rue-Valley-PS4-PKG.webp",
+      "name": "Rue Valley",
+      "type": "update",
+      "download_text": "OneFile",
+      "key_description": "Update v1.03 (Fix 5.05/6.72/7.02/7.55/9.00/11.00) ⇛"
     },
     "https://1fichier.com/?u5gfzbufcpr9rc89idr2&af=4186346": {
       "region": "EUR",

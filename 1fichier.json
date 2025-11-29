@@ -52381,6 +52381,30 @@
       "download_text": "OneFile",
       "key_description": "Game ⇛"
     },
+    "https://1fichier.com/?xfsyeam3ujduzs79zm4e&af=4186346": {
+      "region": "EUR",
+      "size": "2.08 GB",
+      "version": "1.00",
+      "release": "3 Oct 2022",
+      "min_fw": "9.00+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/Time-Loader-PS4-PKG.webp",
+      "name": "Time Loader",
+      "type": "game",
+      "download_text": "OneFile",
+      "key_description": "Game (9.00+) ⇛"
+    },
+    "https://1fichier.com/?d92dl31jfsimtnrjqrl5&af=4186346": {
+      "region": "EUR",
+      "size": "2.08 GB",
+      "version": "1.00",
+      "release": "3 Oct 2022",
+      "min_fw": "5.05/6.72/7.xx/8.xx",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/Time-Loader-PS4-PKG.webp",
+      "name": "Time Loader",
+      "type": "game",
+      "download_text": "OneFile",
+      "key_description": "Fix (5.05/6.72/7.xx/8.xx) ⇛"
+    },
     "https://1fichier.com/?806cfkh3mv2237oqghn0&af=4186346": {
       "region": "EUR",
       "size": "274 MB",

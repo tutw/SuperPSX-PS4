@@ -4025,6 +4025,30 @@
       "download_text": "Viki",
       "key_description": "DLC ⇛"
     },
+    "https://vikingfile.com/f/sREm891Mmy": {
+      "region": "EUR",
+      "size": "30GB",
+      "version": "1.00",
+      "release": "September 27, 2016",
+      "min_fw": "5.05+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/12/FIFA-17-PS4-PKG.webp",
+      "name": "Fifa 17",
+      "type": "game",
+      "download_text": "Viki",
+      "key_description": "Game (5.05+) ⇛"
+    },
+    "https://vikingfile.com/f/XlAbistLYj": {
+      "region": "EUR",
+      "size": "30GB",
+      "version": "1.00",
+      "release": "September 27, 2016",
+      "min_fw": "5.05+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/12/FIFA-17-PS4-PKG.webp",
+      "name": "Fifa 17",
+      "type": "update",
+      "download_text": "Viki",
+      "key_description": "Update v1.11 (5.05+) ⇛"
+    },
     "https://vikingfile.com/f/0NWLfiq0l7": {
       "region": "EUR",
       "size": "5.2GB",

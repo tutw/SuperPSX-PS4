@@ -12433,42 +12433,6 @@
       "download_text": "AKR",
       "key_description": "Update v1.12 (Fix 5.05/6.72/7.02)"
     },
-    "https://akirabox.com/APVmaoP0zXo8/file": {
-      "region": "EUR",
-      "size": "1.80 GB",
-      "version": "1.00",
-      "release": "March 1, 2022",
-      "min_fw": "9.00+",
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/FAR_-Changing-Tides-PS4-PKG.webp",
-      "name": "Far Changing Tides",
-      "type": "game",
-      "download_text": "AKR",
-      "key_description": "Game (9.00+) ⇛"
-    },
-    "https://akirabox.com/dZxG5aLZGVjK/file": {
-      "region": "EUR",
-      "size": "1.80 GB",
-      "version": "1.00",
-      "release": "March 1, 2022",
-      "min_fw": "9.00+",
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/FAR_-Changing-Tides-PS4-PKG.webp",
-      "name": "Far Changing Tides",
-      "type": "update",
-      "download_text": "AKR",
-      "key_description": "Update v1.02 (9.00+) ⇛"
-    },
-    "https://akirabox.com/jar3Xokrm2dD/file": {
-      "region": "EUR",
-      "size": "1.80 GB",
-      "version": "1.00",
-      "release": "March 1, 2022",
-      "min_fw": "Fix 5.05/6.72/7.xx",
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/FAR_-Changing-Tides-PS4-PKG.webp",
-      "name": "Far Changing Tides",
-      "type": "update",
-      "download_text": "AKR",
-      "key_description": "Update v1.02 (Fix 5.05/6.72/7.xx) ⇛"
-    },
     "https://akirabox.com/M2BGwQnk3j40/file": {
       "region": "EUR",
       "size": "6.79 GB",
@@ -15032,7 +14996,7 @@
       "download_text": "AKR",
       "key_description": "Game (v1.07) ⇛"
     },
-    "https://akirabox.com/jar3XV6KNG2d/file": {
+    "https://akirabox.com/qw1zenBL0GXy/file": {
       "region": "EUR",
       "size": "45 GB",
       "version": "1.00",
@@ -24273,30 +24237,6 @@
       "download_text": "AKR",
       "key_description": "DLC v2 ⇛"
     },
-    "https://akirabox.com/obj3jbwn23Dx/file": {
-      "region": "EUR",
-      "size": "500MB",
-      "version": "1.00",
-      "release": "October 14, 2014",
-      "min_fw": "5.05+",
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/08/Nidhogg-PS4-PKG.webp",
-      "name": "Nidhogg 2",
-      "type": "game",
-      "download_text": "AKR",
-      "key_description": "Game (5.05+) ⇛"
-    },
-    "https://akirabox.com/RMKGJXrkl31o/file": {
-      "region": "EUR",
-      "size": "500MB",
-      "version": "1.00",
-      "release": "October 14, 2014",
-      "min_fw": "5.05+",
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/08/Nidhogg-PS4-PKG.webp",
-      "name": "Nidhogg 2",
-      "type": "update",
-      "download_text": "AKR",
-      "key_description": "Update v1.02 (5.05+) ⇛"
-    },
     "https://akirabox.com/7d5GLr56V3xR/file": {
       "region": "EUR",
       "size": "397.15 MB",
@@ -24320,6 +24260,30 @@
       "type": "update",
       "download_text": "AKR",
       "key_description": "Update v1.07 (5.05+) ⇛"
+    },
+    "https://akirabox.com/obj3jbwn23Dx/file": {
+      "region": "EUR",
+      "size": "500MB",
+      "version": "1.00",
+      "release": "October 14, 2014",
+      "min_fw": "5.05+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/08/Nidhogg-PS4-PKG.webp",
+      "name": "Nidhogg 2",
+      "type": "game",
+      "download_text": "AKR",
+      "key_description": "Game (5.05+) ⇛"
+    },
+    "https://akirabox.com/RMKGJXrkl31o/file": {
+      "region": "EUR",
+      "size": "500MB",
+      "version": "1.00",
+      "release": "October 14, 2014",
+      "min_fw": "5.05+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/08/Nidhogg-PS4-PKG.webp",
+      "name": "Nidhogg 2",
+      "type": "update",
+      "download_text": "AKR",
+      "key_description": "Update v1.02 (5.05+) ⇛"
     },
     "https://akirabox.com/0Kezk9162mD1/file": {
       "region": "EUR",

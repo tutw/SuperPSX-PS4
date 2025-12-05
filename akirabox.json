@@ -12433,6 +12433,42 @@
       "download_text": "AKR",
       "key_description": "Update v1.12 (Fix 5.05/6.72/7.02)"
     },
+    "https://akirabox.com/l76mZVWgpman/file": {
+      "region": "EUR",
+      "size": "8GB",
+      "version": "1.00",
+      "release": "May 21, 2025",
+      "min_fw": null,
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/12/Fantasy-Life-i-The-Girl-Who-Steals-Time-–-Digital-Deluxe-Edition-PS4-PKG.webp",
+      "name": "Fantasy Life I The Girl Who Steals Time Digital Deluxe Edition",
+      "type": "game",
+      "download_text": "AKR",
+      "key_description": "Game ⇛"
+    },
+    "https://akirabox.com/l5YzMxQpR3yO/file": {
+      "region": "EUR",
+      "size": "8GB",
+      "version": "1.00",
+      "release": "May 21, 2025",
+      "min_fw": "Fix 5.05 / 6.72 / 7.02 / 7.55 / 9.00 / 11.00",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/12/Fantasy-Life-i-The-Girl-Who-Steals-Time-–-Digital-Deluxe-Edition-PS4-PKG.webp",
+      "name": "Fantasy Life I The Girl Who Steals Time Digital Deluxe Edition",
+      "type": "update",
+      "download_text": "AKR",
+      "key_description": "Update v1.50 (Fix 5.05 / 6.72 / 7.02 / 7.55 / 9.00 / 11.00) ⇛"
+    },
+    "https://akirabox.com/7d5GLax7amxR/folder": {
+      "region": "EUR",
+      "size": "8GB",
+      "version": "1.00",
+      "release": "May 21, 2025",
+      "min_fw": null,
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/12/Fantasy-Life-i-The-Girl-Who-Steals-Time-–-Digital-Deluxe-Edition-PS4-PKG.webp",
+      "name": "Fantasy Life I The Girl Who Steals Time Digital Deluxe Edition",
+      "type": "dlc",
+      "download_text": "AKR",
+      "key_description": "DLC ⇛"
+    },
     "https://akirabox.com/APVmaoP0zXo8/file": {
       "region": "EUR",
       "size": "1.80 GB",
@@ -12807,6 +12843,30 @@
       "type": "dlc",
       "download_text": "AKR",
       "key_description": "DLC ⇛"
+    },
+    "https://akirabox.com/qLQ361ZKlm19/file": {
+      "region": "EUR",
+      "size": "2GB",
+      "version": "1.00",
+      "release": "Aug 29, 2025",
+      "min_fw": null,
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/12/Fear-Effect-PS4-PKG.webp",
+      "name": "Fear Effect",
+      "type": "game",
+      "download_text": "AKR",
+      "key_description": "Game ⇛"
+    },
+    "https://akirabox.com/b5Ozd0L2OzB8/file": {
+      "region": "EUR",
+      "size": "2GB",
+      "version": "1.00",
+      "release": "Aug 29, 2025",
+      "min_fw": "5.05 / 6.72 / 7.02 / 7.55 / 9.00 / 11.00",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/12/Fear-Effect-PS4-PKG.webp",
+      "name": "Fear Effect",
+      "type": "game",
+      "download_text": "AKR",
+      "key_description": "Fix (5.05 / 6.72 / 7.02 / 7.55 / 9.00 / 11.00) ⇛"
     },
     "https://akirabox.com/RMKGJD11V31o/file": {
       "region": "EUR",
@@ -20918,58 +20978,6 @@
       "download_text": "AKR",
       "key_description": "DLC (2) ⇛"
     },
-    "https://akirabox.com/1RgzRgxRGbpB/file": {
-      "region": "USA",
-      "size": "6.30 GB",
-      "version": "1.00",
-      "release": "May 22, 2020",
-      "min_fw": "7.02+",
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/06/Maneater-PS4-PKG-1.webp",
-      "cusa": "CUSA14538",
-      "name": "Maneater",
-      "type": "game",
-      "download_text": "AKR",
-      "key_description": "Game (7.02+) ⇛"
-    },
-    "https://akirabox.com/obj3jnWv93Dx/file": {
-      "region": "USA",
-      "size": "6.30 GB",
-      "version": "1.00",
-      "release": "May 22, 2020",
-      "min_fw": "9.00+",
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/06/Maneater-PS4-PKG-1.webp",
-      "cusa": "CUSA14538",
-      "name": "Maneater",
-      "type": "update",
-      "download_text": "AKR",
-      "key_description": "Update v1.13 (9.00+) ⇛"
-    },
-    "https://akirabox.com/9QWmp7EgQGEB/file": {
-      "region": "USA",
-      "size": "6.30 GB",
-      "version": "1.00",
-      "release": "May 22, 2020",
-      "min_fw": "Fix 5.05/6.72/7.xx",
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/06/Maneater-PS4-PKG-1.webp",
-      "cusa": "CUSA14538",
-      "name": "Maneater",
-      "type": "update",
-      "download_text": "AKR",
-      "key_description": "Update v1.13 (Fix 5.05/6.72/7.xx) ⇛"
-    },
-    "https://akirabox.com/vgKGxojV9z8Q/file": {
-      "region": "USA",
-      "size": "6.30 GB",
-      "version": "1.00",
-      "release": "May 22, 2020",
-      "min_fw": null,
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/06/Maneater-PS4-PKG-1.webp",
-      "cusa": "CUSA14538",
-      "name": "Maneater",
-      "type": "dlc",
-      "download_text": "AKR",
-      "key_description": "DLC ⇛"
-    },
     "https://akirabox.com/QN9mEn9736dW/file": {
       "region": "EUR",
       "size": "5 GB",
@@ -24273,30 +24281,6 @@
       "download_text": "AKR",
       "key_description": "DLC v2 ⇛"
     },
-    "https://akirabox.com/7d5GLr56V3xR/file": {
-      "region": "EUR",
-      "size": "397.15 MB",
-      "version": "1.00",
-      "release": "August 15, 2017",
-      "min_fw": "5.05+",
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/Nidhogg-2-PS4-PKG.webp",
-      "name": "Nidhogg 2",
-      "type": "game",
-      "download_text": "AKR",
-      "key_description": "Game (5.05+) ⇛"
-    },
-    "https://akirabox.com/5pVzNaNDX37w/file": {
-      "region": "EUR",
-      "size": "397.15 MB",
-      "version": "1.00",
-      "release": "August 15, 2017",
-      "min_fw": "5.05+",
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/Nidhogg-2-PS4-PKG.webp",
-      "name": "Nidhogg 2",
-      "type": "update",
-      "download_text": "AKR",
-      "key_description": "Update v1.07 (5.05+) ⇛"
-    },
     "https://akirabox.com/obj3jbwn23Dx/file": {
       "region": "EUR",
       "size": "500MB",
@@ -24320,6 +24304,30 @@
       "type": "update",
       "download_text": "AKR",
       "key_description": "Update v1.02 (5.05+) ⇛"
+    },
+    "https://akirabox.com/7d5GLr56V3xR/file": {
+      "region": "EUR",
+      "size": "397.15 MB",
+      "version": "1.00",
+      "release": "August 15, 2017",
+      "min_fw": "5.05+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/Nidhogg-2-PS4-PKG.webp",
+      "name": "Nidhogg 2",
+      "type": "game",
+      "download_text": "AKR",
+      "key_description": "Game (5.05+) ⇛"
+    },
+    "https://akirabox.com/5pVzNaNDX37w/file": {
+      "region": "EUR",
+      "size": "397.15 MB",
+      "version": "1.00",
+      "release": "August 15, 2017",
+      "min_fw": "5.05+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/Nidhogg-2-PS4-PKG.webp",
+      "name": "Nidhogg 2",
+      "type": "update",
+      "download_text": "AKR",
+      "key_description": "Update v1.07 (5.05+) ⇛"
     },
     "https://akirabox.com/0Kezk9162mD1/file": {
       "region": "EUR",
@@ -28540,6 +28548,30 @@
       "type": "update",
       "download_text": "AKR",
       "key_description": "Update v2.00 (Fix 5.05/6.72/7.02/7.55/9.00/11.00) ⇛"
+    },
+    "https://akirabox.com/RMKGJDrQL31o/file": {
+      "region": "EUR",
+      "size": "2GB",
+      "version": "1.00",
+      "release": "Aug 14, 2024",
+      "min_fw": null,
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/12/Sam-Max-The-Devils-Playhouse-PS4-PKG.webp",
+      "name": "Sam Max The Devils Playhouse",
+      "type": "game",
+      "download_text": "AKR",
+      "key_description": "Game ⇛"
+    },
+    "https://akirabox.com/Z9dzBD5K5mk1/file": {
+      "region": "EUR",
+      "size": "2GB",
+      "version": "1.00",
+      "release": "Aug 14, 2024",
+      "min_fw": "Fix 5.05 / 6.72 / 7.02 / 7.55 / 9.00 / 11.00",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/12/Sam-Max-The-Devils-Playhouse-PS4-PKG.webp",
+      "name": "Sam Max The Devils Playhouse",
+      "type": "update",
+      "download_text": "AKR",
+      "key_description": "Update v1.06 (Fix 5.05 / 6.72 / 7.02 / 7.55 / 9.00 / 11.00) ⇛"
     },
     "https://akirabox.com/b5OzdN8pmB8L/file": {
       "region": "EUR",

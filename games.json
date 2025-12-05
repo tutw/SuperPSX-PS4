@@ -3989,6 +3989,18 @@
       "download_text": "Viki",
       "key_description": "DLC v2 (18) ⇛"
     },
+    "https://vikingfile.com/f/R6dsahoUoe": {
+      "region": "EUR",
+      "size": "8GB",
+      "version": "1.00",
+      "release": "May 21, 2025",
+      "min_fw": null,
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/12/Fantasy-Life-i-The-Girl-Who-Steals-Time-–-Digital-Deluxe-Edition-PS4-PKG.webp",
+      "name": "Fantasy Life I The Girl Who Steals Time Digital Deluxe Edition",
+      "type": "dlc",
+      "download_text": "Viki",
+      "key_description": "DLC ⇛"
+    },
     "https://vikingfile.com/f/WA6FFeLgiM": {
       "region": "EUR",
       "size": "41GB",
@@ -4024,6 +4036,30 @@
       "type": "dlc",
       "download_text": "Viki",
       "key_description": "DLC ⇛"
+    },
+    "https://vikingfile.com/f/IWt8LB53qk": {
+      "region": "EUR",
+      "size": "2GB",
+      "version": "1.00",
+      "release": "Aug 29, 2025",
+      "min_fw": null,
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/12/Fear-Effect-PS4-PKG.webp",
+      "name": "Fear Effect",
+      "type": "game",
+      "download_text": "Viki",
+      "key_description": "Game ⇛"
+    },
+    "https://vikingfile.com/f/Ax0cIRVkad": {
+      "region": "EUR",
+      "size": "2GB",
+      "version": "1.00",
+      "release": "Aug 29, 2025",
+      "min_fw": "5.05 / 6.72 / 7.02 / 7.55 / 9.00 / 11.00",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/12/Fear-Effect-PS4-PKG.webp",
+      "name": "Fear Effect",
+      "type": "game",
+      "download_text": "Viki",
+      "key_description": "Fix (5.05 / 6.72 / 7.02 / 7.55 / 9.00 / 11.00) ⇛"
     },
     "https://vikingfile.com/f/sREm891Mmy": {
       "region": "EUR",
@@ -8543,6 +8579,30 @@
       "type": "update",
       "download_text": "Viki",
       "key_description": "Update v2.00 (Fix 5.05/6.72/7.02/7.55/9.00/11.00) ⇛"
+    },
+    "https://vikingfile.com/f/MhgA2tiLDJ": {
+      "region": "EUR",
+      "size": "2GB",
+      "version": "1.00",
+      "release": "Aug 14, 2024",
+      "min_fw": null,
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/12/Sam-Max-The-Devils-Playhouse-PS4-PKG.webp",
+      "name": "Sam Max The Devils Playhouse",
+      "type": "game",
+      "download_text": "Viki",
+      "key_description": "Game ⇛"
+    },
+    "https://vikingfile.com/f/R3Z0Q4McU6": {
+      "region": "EUR",
+      "size": "2GB",
+      "version": "1.00",
+      "release": "Aug 14, 2024",
+      "min_fw": "Fix 5.05 / 6.72 / 7.02 / 7.55 / 9.00 / 11.00",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/12/Sam-Max-The-Devils-Playhouse-PS4-PKG.webp",
+      "name": "Sam Max The Devils Playhouse",
+      "type": "update",
+      "download_text": "Viki",
+      "key_description": "Update v1.06 (Fix 5.05 / 6.72 / 7.02 / 7.55 / 9.00 / 11.00) ⇛"
     },
     "https://vikingfile.com/f/lXbLCKcKSN": {
       "region": "EUR",

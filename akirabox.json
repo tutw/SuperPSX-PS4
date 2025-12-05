@@ -20978,6 +20978,58 @@
       "download_text": "AKR",
       "key_description": "DLC (2) ⇛"
     },
+    "https://akirabox.com/1RgzRgxRGbpB/file": {
+      "region": "USA",
+      "size": "6.30 GB",
+      "version": "1.00",
+      "release": "May 22, 2020",
+      "min_fw": "7.02+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/06/Maneater-PS4-PKG-1.webp",
+      "cusa": "CUSA14538",
+      "name": "Maneater",
+      "type": "game",
+      "download_text": "AKR",
+      "key_description": "Game (7.02+) ⇛"
+    },
+    "https://akirabox.com/obj3jnWv93Dx/file": {
+      "region": "USA",
+      "size": "6.30 GB",
+      "version": "1.00",
+      "release": "May 22, 2020",
+      "min_fw": "9.00+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/06/Maneater-PS4-PKG-1.webp",
+      "cusa": "CUSA14538",
+      "name": "Maneater",
+      "type": "update",
+      "download_text": "AKR",
+      "key_description": "Update v1.13 (9.00+) ⇛"
+    },
+    "https://akirabox.com/9QWmp7EgQGEB/file": {
+      "region": "USA",
+      "size": "6.30 GB",
+      "version": "1.00",
+      "release": "May 22, 2020",
+      "min_fw": "Fix 5.05/6.72/7.xx",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/06/Maneater-PS4-PKG-1.webp",
+      "cusa": "CUSA14538",
+      "name": "Maneater",
+      "type": "update",
+      "download_text": "AKR",
+      "key_description": "Update v1.13 (Fix 5.05/6.72/7.xx) ⇛"
+    },
+    "https://akirabox.com/vgKGxojV9z8Q/file": {
+      "region": "USA",
+      "size": "6.30 GB",
+      "version": "1.00",
+      "release": "May 22, 2020",
+      "min_fw": null,
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/06/Maneater-PS4-PKG-1.webp",
+      "cusa": "CUSA14538",
+      "name": "Maneater",
+      "type": "dlc",
+      "download_text": "AKR",
+      "key_description": "DLC ⇛"
+    },
     "https://akirabox.com/QN9mEn9736dW/file": {
       "region": "EUR",
       "size": "5 GB",

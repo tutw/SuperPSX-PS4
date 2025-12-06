@@ -288,18 +288,6 @@
       "download_text": "Viki",
       "key_description": "Update v1.05 (Fix 5.05/6.72/7.xx) ⇛"
     },
-    "https://vikingfile.com/f/jZkFT9VZEs": {
-      "region": "EUR",
-      "size": "10GB",
-      "version": "1.02",
-      "release": "October 4, 2022",
-      "min_fw": "9.00+",
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/07/Alfred-Hitchcock-Vertigo-PS4-PKG.webp",
-      "name": "Alfred Hitchcock Vertigo",
-      "type": "game",
-      "download_text": "Viki",
-      "key_description": "Game (v1.02)(9.00+) ⇛"
-    },
     "https://vikingfile.com/f/f8B1MMrqXU": {
       "region": "USA",
       "size": "3.5 GB",
@@ -4456,42 +4444,6 @@
       "type": "dlc",
       "download_text": "Viki",
       "key_description": "DLC (19) ⇛"
-    },
-    "https://vikingfile.com/f/Dhz4gO1oZZ": {
-      "region": "EUR",
-      "size": "681MB",
-      "version": "1.00",
-      "release": "September 30, 2021",
-      "min_fw": "9.00+",
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/04/Gearshifters-PS4-PKG.webp",
-      "name": "Gearshifters",
-      "type": "game",
-      "download_text": "Viki",
-      "key_description": "Game (9.00+) ⇛"
-    },
-    "https://vikingfile.com/f/Dfofy6AwVq": {
-      "region": "EUR",
-      "size": "681MB",
-      "version": "1.00",
-      "release": "September 30, 2021",
-      "min_fw": "9.00+",
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/04/Gearshifters-PS4-PKG.webp",
-      "name": "Gearshifters",
-      "type": "update",
-      "download_text": "Viki",
-      "key_description": "Update v1.03 (9.00+) ⇛"
-    },
-    "https://vikingfile.com/f/Lixo3VprrJ": {
-      "region": "EUR",
-      "size": "681MB",
-      "version": "1.00",
-      "release": "September 30, 2021",
-      "min_fw": "Fix 5.05/6.72/7.xx",
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/04/Gearshifters-PS4-PKG.webp",
-      "name": "Gearshifters",
-      "type": "update",
-      "download_text": "Viki",
-      "key_description": "Update v1.03 (Fix 5.05/6.72/7.xx) ⇛"
     },
     "https://vikingfile.com/f/KWvwFOkpTz": {
       "region": "EUR",

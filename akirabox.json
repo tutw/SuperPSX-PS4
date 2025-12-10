@@ -6150,6 +6150,42 @@
       "download_text": "AKR",
       "key_description": "Update v1.02 (Fix 5.05/6.72/7.xx/9.00) ⇛"
     },
+    "https://akirabox.com/9QWmp6dAJzEB/file": {
+      "region": "EUR",
+      "size": "811MB",
+      "version": "1.00",
+      "release": "Jul 23, 2024",
+      "min_fw": "11.00",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/12/CONSCRIPT-PS4-PKG.webp",
+      "name": "Conscript",
+      "type": "game",
+      "download_text": "AKR",
+      "key_description": "Game (11.00) ⇛"
+    },
+    "https://akirabox.com/obj3jow7BzDx/file": {
+      "region": "EUR",
+      "size": "811MB",
+      "version": "1.00",
+      "release": "Jul 23, 2024",
+      "min_fw": "Fix 5.05/6.72/7.xx/9.00/11.00",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/12/CONSCRIPT-PS4-PKG.webp",
+      "name": "Conscript",
+      "type": "update",
+      "download_text": "AKR",
+      "key_description": "Update v1.02 (Fix 5.05/6.72/7.xx/9.00/11.00) ⇛"
+    },
+    "https://akirabox.com/0PdzyBZA8GeA/folder": {
+      "region": "EUR",
+      "size": "811MB",
+      "version": "1.00",
+      "release": "Jul 23, 2024",
+      "min_fw": null,
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/12/CONSCRIPT-PS4-PKG.webp",
+      "name": "Conscript",
+      "type": "dlc",
+      "download_text": "AKR",
+      "key_description": "DLC (2) ⇛"
+    },
     "https://akirabox.com/QN9mEZo436dW/file": {
       "region": "EUR",
       "size": "4.30 GB",
@@ -12868,6 +12904,30 @@
       "download_text": "AKR",
       "key_description": "Fix (5.05 / 6.72 / 7.02 / 7.55 / 9.00 / 11.00) ⇛"
     },
+    "https://akirabox.com/Pbe3Pgj4KmlX/file": {
+      "region": "EUR",
+      "size": "577MB",
+      "version": "1.00",
+      "release": "December 8, 2023",
+      "min_fw": null,
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/12/Fearmonium-PS4-PKG.webp",
+      "name": "Fearmonium",
+      "type": "game",
+      "download_text": "AKR",
+      "key_description": "Game ⇛"
+    },
+    "https://akirabox.com/k0embKX0A3Vb/file": {
+      "region": "EUR",
+      "size": "577MB",
+      "version": "1.00",
+      "release": "December 8, 2023",
+      "min_fw": "Fix 5.05 / 6.72 / 7.02 / 7.55 / 9.00 / 11.00",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/12/Fearmonium-PS4-PKG.webp",
+      "name": "Fearmonium",
+      "type": "update",
+      "download_text": "AKR",
+      "key_description": "Update v1.02 (Fix 5.05 / 6.72 / 7.02 / 7.55 / 9.00 / 11.00) ⇛"
+    },
     "https://akirabox.com/RMKGJD11V31o/file": {
       "region": "EUR",
       "size": "30GB",
@@ -15793,6 +15853,42 @@
       "type": "dlc",
       "download_text": "AKR",
       "key_description": "DLC ⇛"
+    },
+    "https://akirabox.com/RMKGJDBkW31o/file": {
+      "region": "EUR",
+      "size": "591MB",
+      "version": "1.02",
+      "release": "Aug 7, 2025",
+      "min_fw": "12.00+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/12/Heretic-Hexen-PS4-PKG.webp",
+      "name": "Heretic Hexen",
+      "type": "game",
+      "download_text": "AKR",
+      "key_description": "Game (v1.02)(12.00+) ⇛"
+    },
+    "https://akirabox.com/9QWmp6J7XzEB/file": {
+      "region": "EUR",
+      "size": "591MB",
+      "version": "1.00",
+      "release": "Aug 7, 2025",
+      "min_fw": "12.00+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/12/Heretic-Hexen-PS4-PKG.webp",
+      "name": "Heretic Hexen",
+      "type": "update",
+      "download_text": "AKR",
+      "key_description": "Update v1.03 (12.00+) ⇛"
+    },
+    "https://akirabox.com/obj3joEn1zDx/file": {
+      "region": "EUR",
+      "size": "591MB",
+      "version": "1.00",
+      "release": "Aug 7, 2025",
+      "min_fw": "Fix 5.05/6.72/7.xx/9.00/11.00",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/12/Heretic-Hexen-PS4-PKG.webp",
+      "name": "Heretic Hexen",
+      "type": "update",
+      "download_text": "AKR",
+      "key_description": "Update v1.03 (Fix 5.05/6.72/7.xx/9.00/11.00)(@Pout) ⇛"
     },
     "https://akirabox.com/qLQ365OYm19j/file": {
       "region": "EUR",
@@ -20365,6 +20461,30 @@
       "type": "update",
       "download_text": "AKR",
       "key_description": "Update v1.01 (9.00+) ⇛"
+    },
+    "https://akirabox.com/qPez4qldxGOY/file": {
+      "region": "EUR",
+      "size": "2.18 GB",
+      "version": "1.00",
+      "release": "5 September 2017",
+      "min_fw": "6.72+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/LocoRoco_-Remastered-PS4-PKG.webp",
+      "name": "Locoroco Remastered",
+      "type": "game",
+      "download_text": "AKR",
+      "key_description": "Game (6.72+) ⇛"
+    },
+    "https://akirabox.com/E1x3Aavln3yk/file": {
+      "region": "EUR",
+      "size": "2.18 GB",
+      "version": "1.00",
+      "release": "5 September 2017",
+      "min_fw": "6.72+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/LocoRoco_-Remastered-PS4-PKG.webp",
+      "name": "Locoroco Remastered",
+      "type": "update",
+      "download_text": "AKR",
+      "key_description": "Update v1.02 (6.72+) ⇛"
     },
     "https://akirabox.com/QN9mEbaap36d/file": {
       "region": "USA",
@@ -28457,6 +28577,30 @@
       "download_text": "AKR",
       "key_description": "Update v1.01 (Fix 5.05/6.72/7.xx/9.00) ⇛"
     },
+    "https://akirabox.com/vgKGxVZX838Q/file": {
+      "region": "EUR",
+      "size": "3GB",
+      "version": "1.00",
+      "release": "Mar 30, 2023",
+      "min_fw": null,
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/12/Saga-of-Sins-PS4-PKG.webp",
+      "name": "Saga Of Sins",
+      "type": "game",
+      "download_text": "AKR",
+      "key_description": "Game (9.50+) ⇛"
+    },
+    "https://akirabox.com/M2BGwYMPp3j4/file": {
+      "region": "EUR",
+      "size": "3GB",
+      "version": "1.00",
+      "release": "Mar 30, 2023",
+      "min_fw": "5.05 / 6.72 / 7.02 / 7.55 / 9.00 / 11.00",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/12/Saga-of-Sins-PS4-PKG.webp",
+      "name": "Saga Of Sins",
+      "type": "game",
+      "download_text": "AKR",
+      "key_description": "Fix (5.05 / 6.72 / 7.02 / 7.55 / 9.00 / 11.00) ⇛"
+    },
     "https://akirabox.com/Zvqzl988GaD2/file": {
       "region": "EUR",
       "size": "36 GB",
@@ -35535,6 +35679,42 @@
       "download_text": "AKR",
       "key_description": "Update v1.15 [Fix.5.05] ⇛"
     },
+    "https://akirabox.com/k0embKQdl3Vb/file": {
+      "region": "EUR",
+      "size": "3GB",
+      "version": "1.00",
+      "release": "October 15, 2021",
+      "min_fw": null,
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/12/The-Good-Life-PS4-PKG.webp",
+      "name": "The Good Life",
+      "type": "game",
+      "download_text": "AKR",
+      "key_description": "Game (8.00+) ⇛"
+    },
+    "https://akirabox.com/Pbe3PgQ1EmlX/file": {
+      "region": "EUR",
+      "size": "3GB",
+      "version": "1.00",
+      "release": "October 15, 2021",
+      "min_fw": "Fix 5.05 / 6.72 / 7.02 / 7.55 / 9.00 / 11.00",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/12/The-Good-Life-PS4-PKG.webp",
+      "name": "The Good Life",
+      "type": "update",
+      "download_text": "AKR",
+      "key_description": "Update v1.15 (Fix 5.05 / 6.72 / 7.02 / 7.55 / 9.00 / 11.00) ⇛"
+    },
+    "https://akirabox.com/0Kezko6WRzD1/file": {
+      "region": "EUR",
+      "size": "3GB",
+      "version": "1.00",
+      "release": "October 15, 2021",
+      "min_fw": null,
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/12/The-Good-Life-PS4-PKG.webp",
+      "name": "The Good Life",
+      "type": "dlc",
+      "download_text": "AKR",
+      "key_description": "DLC ⇛"
+    },
     "https://akirabox.com/LJlGnJyAG15w/file": {
       "region": "USA",
       "size": "3GB",
@@ -40627,6 +40807,30 @@
       "download_text": "AKR",
       "key_description": "Update v1.03 (Fix 5.05/6.72) ⇛"
     },
+    "https://akirabox.com/2WVGrDldg3kx/file": {
+      "region": "EUR",
+      "size": "375MB",
+      "version": "1.00",
+      "release": "October 17, 2023",
+      "min_fw": null,
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/12/Vlad-Circus-Descend-Into-Madness-PS4-PKG.webp",
+      "name": "Vlad Circus Descend Into Madness",
+      "type": "game",
+      "download_text": "AKR",
+      "key_description": "Game ⇛"
+    },
+    "https://akirabox.com/QN9mEwOqQz6d/file": {
+      "region": "EUR",
+      "size": "375MB",
+      "version": "1.00",
+      "release": "October 17, 2023",
+      "min_fw": "Fix 5.05 / 6.72 / 7.02 / 7.55 / 9.00 / 11.00",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/12/Vlad-Circus-Descend-Into-Madness-PS4-PKG.webp",
+      "name": "Vlad Circus Descend Into Madness",
+      "type": "update",
+      "download_text": "AKR",
+      "key_description": "Update v1.01 (Fix 5.05 / 6.72 / 7.02 / 7.55 / 9.00 / 11.00) ⇛"
+    },
     "https://akirabox.com/qLQ36wKwz19j/file": {
       "region": "USA",
       "size": "550MB",
@@ -42177,6 +42381,30 @@
       "type": "update",
       "download_text": "AKR",
       "key_description": "English Patch v1 ⇛"
+    },
+    "https://akirabox.com/Pbe3PgjaKmlX/file": {
+      "region": "EUR",
+      "size": "730MB",
+      "version": "1.00",
+      "release": "November 16, 2023",
+      "min_fw": null,
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/12/Yohane-the-Parhelion-BLAZE-in-the-DEEPBLUE-PS4-PKG.webp",
+      "name": "Yohane The Parhelion Blaze In The Deepblue",
+      "type": "game",
+      "download_text": "AKR",
+      "key_description": "Game ⇛"
+    },
+    "https://akirabox.com/b5Ozd0LV9zB8/file": {
+      "region": "EUR",
+      "size": "730MB",
+      "version": "1.00",
+      "release": "November 16, 2023",
+      "min_fw": "5.05 / 6.72 / 7.02 / 7.55 / 9.00 / 11.00",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/12/Yohane-the-Parhelion-BLAZE-in-the-DEEPBLUE-PS4-PKG.webp",
+      "name": "Yohane The Parhelion Blaze In The Deepblue",
+      "type": "game",
+      "download_text": "AKR",
+      "key_description": "Fix (5.05 / 6.72 / 7.02 / 7.55 / 9.00 / 11.00) ⇛"
     },
     "https://akirabox.com/QN9mEjRnw36d/file": {
       "region": "USA",

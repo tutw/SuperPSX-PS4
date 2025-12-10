@@ -27610,6 +27610,30 @@
       "download_text": "OneFile",
       "key_description": "Game (9.00+) ⇛"
     },
+    "https://1fichier.com/?d9b6z1p9bng49kjk47f7&af=4186346": {
+      "region": "EUR",
+      "size": "2.18 GB",
+      "version": "1.00",
+      "release": "5 September 2017",
+      "min_fw": "6.72+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/LocoRoco_-Remastered-PS4-PKG.webp",
+      "name": "Locoroco Remastered",
+      "type": "game",
+      "download_text": "OneFile",
+      "key_description": "Game (6.72+) ⇛"
+    },
+    "https://1fichier.com/?aqaf2d4t90indllzoqj9": {
+      "region": "EUR",
+      "size": "2.18 GB",
+      "version": "1.00",
+      "release": "5 September 2017",
+      "min_fw": "6.72+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/LocoRoco_-Remastered-PS4-PKG.webp",
+      "name": "Locoroco Remastered",
+      "type": "update",
+      "download_text": "OneFile",
+      "key_description": "Update v1.02 (6.72+) ⇛"
+    },
     "https://1fichier.com/?vf5rigie97iqymh5gsv1&af=4186346": {
       "region": "EUR",
       "size": "1.43 GB",

@@ -1798,6 +1798,42 @@
       "download_text": "VIKI",
       "key_description": "Update v1.01 (Fix 5.05)  ⇛"
     },
+    "https://vikingfile.com/f/fznoMTECBI": {
+      "region": "EUR",
+      "size": "811MB",
+      "version": "1.00",
+      "release": "Jul 23, 2024",
+      "min_fw": "11.00",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/12/CONSCRIPT-PS4-PKG.webp",
+      "name": "Conscript",
+      "type": "game",
+      "download_text": "Viki",
+      "key_description": "Game (11.00) ⇛"
+    },
+    "https://vikingfile.com/f/kR7mA252ak": {
+      "region": "EUR",
+      "size": "811MB",
+      "version": "1.00",
+      "release": "Jul 23, 2024",
+      "min_fw": "Fix 5.05/6.72/7.xx/9.00/11.00",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/12/CONSCRIPT-PS4-PKG.webp",
+      "name": "Conscript",
+      "type": "update",
+      "download_text": "Viki",
+      "key_description": "Update v1.02 (Fix 5.05/6.72/7.xx/9.00/11.00) ⇛"
+    },
+    "https://vikingfile.com/f/LwZTZvtoWw": {
+      "region": "EUR",
+      "size": "811MB",
+      "version": "1.00",
+      "release": "Jul 23, 2024",
+      "min_fw": null,
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/12/CONSCRIPT-PS4-PKG.webp",
+      "name": "Conscript",
+      "type": "dlc",
+      "download_text": "Viki",
+      "key_description": "DLC (2) ⇛"
+    },
     "https://vikingfile.com/f/Eppa1uW8Xc": {
       "region": "EUR",
       "size": "24.4 GB",
@@ -4061,6 +4097,30 @@
       "download_text": "Viki",
       "key_description": "Fix (5.05 / 6.72 / 7.02 / 7.55 / 9.00 / 11.00) ⇛"
     },
+    "https://vikingfile.com/f/DqSwgeeAu4": {
+      "region": "EUR",
+      "size": "577MB",
+      "version": "1.00",
+      "release": "December 8, 2023",
+      "min_fw": null,
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/12/Fearmonium-PS4-PKG.webp",
+      "name": "Fearmonium",
+      "type": "game",
+      "download_text": "Viki",
+      "key_description": "Game ⇛"
+    },
+    "https://vikingfile.com/f/lbyJh6pwNt": {
+      "region": "EUR",
+      "size": "577MB",
+      "version": "1.00",
+      "release": "December 8, 2023",
+      "min_fw": "Fix 5.05 / 6.72 / 7.02 / 7.55 / 9.00 / 11.00",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/12/Fearmonium-PS4-PKG.webp",
+      "name": "Fearmonium",
+      "type": "update",
+      "download_text": "Viki",
+      "key_description": "Update v1.02 (Fix 5.05 / 6.72 / 7.02 / 7.55 / 9.00 / 11.00) ⇛"
+    },
     "https://vikingfile.com/f/sREm891Mmy": {
       "region": "EUR",
       "size": "30GB",
@@ -4912,6 +4972,42 @@
       "type": "dlc",
       "download_text": "Viki",
       "key_description": "DLCs ⇛"
+    },
+    "https://vikingfile.com/f/B5gc56kKlP": {
+      "region": "EUR",
+      "size": "591MB",
+      "version": "1.02",
+      "release": "Aug 7, 2025",
+      "min_fw": "12.00+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/12/Heretic-Hexen-PS4-PKG.webp",
+      "name": "Heretic Hexen",
+      "type": "game",
+      "download_text": "Viki",
+      "key_description": "Game (v1.02)(12.00+) ⇛"
+    },
+    "https://vikingfile.com/f/Vd5oEYNqIf": {
+      "region": "EUR",
+      "size": "591MB",
+      "version": "1.00",
+      "release": "Aug 7, 2025",
+      "min_fw": "12.00+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/12/Heretic-Hexen-PS4-PKG.webp",
+      "name": "Heretic Hexen",
+      "type": "update",
+      "download_text": "Viki",
+      "key_description": "Update v1.03 (12.00+) ⇛"
+    },
+    "https://vikingfile.com/f/PNIfgPS0eW": {
+      "region": "EUR",
+      "size": "591MB",
+      "version": "1.00",
+      "release": "Aug 7, 2025",
+      "min_fw": "Fix 5.05/6.72/7.xx/9.00/11.00",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/12/Heretic-Hexen-PS4-PKG.webp",
+      "name": "Heretic Hexen",
+      "type": "update",
+      "download_text": "Viki",
+      "key_description": "Update v1.03 (Fix 5.05/6.72/7.xx/9.00/11.00)(@Pout) ⇛"
     },
     "https://vikingfile.com/f/F16MCexIPS": {
       "region": "EUR",
@@ -8556,6 +8652,30 @@
       "download_text": "Viki",
       "key_description": "Update v1.01 (Fix 5.05/6.72/7.xx/9.00) ⇛"
     },
+    "https://vikingfile.com/f/CS8nW3aHmy": {
+      "region": "EUR",
+      "size": "3GB",
+      "version": "1.00",
+      "release": "Mar 30, 2023",
+      "min_fw": null,
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/12/Saga-of-Sins-PS4-PKG.webp",
+      "name": "Saga Of Sins",
+      "type": "game",
+      "download_text": "Viki",
+      "key_description": "Game (9.50+) ⇛"
+    },
+    "https://vikingfile.com/f/RJf3XBUqxI": {
+      "region": "EUR",
+      "size": "3GB",
+      "version": "1.00",
+      "release": "Mar 30, 2023",
+      "min_fw": "5.05 / 6.72 / 7.02 / 7.55 / 9.00 / 11.00",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/12/Saga-of-Sins-PS4-PKG.webp",
+      "name": "Saga Of Sins",
+      "type": "game",
+      "download_text": "Viki",
+      "key_description": "Fix (5.05 / 6.72 / 7.02 / 7.55 / 9.00 / 11.00) ⇛"
+    },
     "https://vikingfile.com/f/yQbLQPlt0c": {
       "region": "EUR",
       "size": "1GB",
@@ -10389,6 +10509,42 @@
       "download_text": "Viki",
       "key_description": "Update v1.02 (Fix 5.05) ⇛"
     },
+    "https://vikingfile.com/f/w0gy1pi07q": {
+      "region": "EUR",
+      "size": "3GB",
+      "version": "1.00",
+      "release": "October 15, 2021",
+      "min_fw": null,
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/12/The-Good-Life-PS4-PKG.webp",
+      "name": "The Good Life",
+      "type": "game",
+      "download_text": "Viki",
+      "key_description": "Game (8.00+) ⇛"
+    },
+    "https://vikingfile.com/f/N3sWeXJE9W": {
+      "region": "EUR",
+      "size": "3GB",
+      "version": "1.00",
+      "release": "October 15, 2021",
+      "min_fw": "Fix 5.05 / 6.72 / 7.02 / 7.55 / 9.00 / 11.00",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/12/The-Good-Life-PS4-PKG.webp",
+      "name": "The Good Life",
+      "type": "update",
+      "download_text": "Viki",
+      "key_description": "Update v1.15 (Fix 5.05 / 6.72 / 7.02 / 7.55 / 9.00 / 11.00) ⇛"
+    },
+    "https://vikingfile.com/f/QotipWdJ65": {
+      "region": "EUR",
+      "size": "3GB",
+      "version": "1.00",
+      "release": "October 15, 2021",
+      "min_fw": null,
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/12/The-Good-Life-PS4-PKG.webp",
+      "name": "The Good Life",
+      "type": "dlc",
+      "download_text": "Viki",
+      "key_description": "DLC ⇛"
+    },
     "https://vikingfile.com/f/V3pTGu6Fjr": {
       "region": "EUR",
       "size": "115MB",
@@ -11734,6 +11890,30 @@
       "download_text": "Viki",
       "key_description": "Update v1.06 (Fix 5.05/6.72/7.xx) ⇛"
     },
+    "https://vikingfile.com/f/XJMuzsrRD9": {
+      "region": "EUR",
+      "size": "375MB",
+      "version": "1.00",
+      "release": "October 17, 2023",
+      "min_fw": null,
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/12/Vlad-Circus-Descend-Into-Madness-PS4-PKG.webp",
+      "name": "Vlad Circus Descend Into Madness",
+      "type": "game",
+      "download_text": "Viki",
+      "key_description": "Game ⇛"
+    },
+    "https://vikingfile.com/f/AP8ojJnTae": {
+      "region": "EUR",
+      "size": "375MB",
+      "version": "1.00",
+      "release": "October 17, 2023",
+      "min_fw": "Fix 5.05 / 6.72 / 7.02 / 7.55 / 9.00 / 11.00",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/12/Vlad-Circus-Descend-Into-Madness-PS4-PKG.webp",
+      "name": "Vlad Circus Descend Into Madness",
+      "type": "update",
+      "download_text": "Viki",
+      "key_description": "Update v1.01 (Fix 5.05 / 6.72 / 7.02 / 7.55 / 9.00 / 11.00) ⇛"
+    },
     "https://vikingfile.com/f/NhY75wKn5Y": {
       "region": "EUR",
       "size": "137MB",
@@ -12081,6 +12261,30 @@
       "type": "update",
       "download_text": "Viki",
       "key_description": "Update v1.09 (5.05+) ⇛"
+    },
+    "https://vikingfile.com/f/ZclR3bGcNA": {
+      "region": "EUR",
+      "size": "730MB",
+      "version": "1.00",
+      "release": "November 16, 2023",
+      "min_fw": null,
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/12/Yohane-the-Parhelion-BLAZE-in-the-DEEPBLUE-PS4-PKG.webp",
+      "name": "Yohane The Parhelion Blaze In The Deepblue",
+      "type": "game",
+      "download_text": "Viki",
+      "key_description": "Game ⇛"
+    },
+    "https://vikingfile.com/f/YwoFiYQxCp": {
+      "region": "EUR",
+      "size": "730MB",
+      "version": "1.00",
+      "release": "November 16, 2023",
+      "min_fw": "5.05 / 6.72 / 7.02 / 7.55 / 9.00 / 11.00",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/12/Yohane-the-Parhelion-BLAZE-in-the-DEEPBLUE-PS4-PKG.webp",
+      "name": "Yohane The Parhelion Blaze In The Deepblue",
+      "type": "game",
+      "download_text": "Viki",
+      "key_description": "Fix (5.05 / 6.72 / 7.02 / 7.55 / 9.00 / 11.00) ⇛"
     },
     "https://vikingfile.com/f/NxKQp9Uicn": {
       "region": "EUR",

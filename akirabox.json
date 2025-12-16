@@ -4175,7 +4175,7 @@
       "download_text": "AKR",
       "key_description": "Game (6.72+) ⇛"
     },
-    "https://akirabox.com/gXeGOgw8jGAa/file": {
+    "https://akirabox.com/XkrzoYM55mBO/file": {
       "region": "EUR",
       "size": "38.01 GB",
       "version": "1.00",
@@ -6837,6 +6837,42 @@
       "download_text": "AKR",
       "key_description": "DLC ⇛"
     },
+    "https://akirabox.com/E9Qz9dryJ3OL/file": {
+      "region": "EUR",
+      "size": "799 MB",
+      "version": "1.00",
+      "release": "May 9, 2024",
+      "min_fw": "12.00+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/11/Crow-Country-PS4-PKG.webp",
+      "name": "Crow Country",
+      "type": "game",
+      "download_text": "AKR",
+      "key_description": "Game (12.00+) ⇛"
+    },
+    "https://akirabox.com/Y2xm0wQa6GRO/file": {
+      "region": "EUR",
+      "size": "799 MB",
+      "version": "1.00",
+      "release": "May 9, 2024",
+      "min_fw": "Fix 6.72/7.xx/9.00/11.00",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/11/Crow-Country-PS4-PKG.webp",
+      "name": "Crow Country",
+      "type": "update",
+      "download_text": "AKR",
+      "key_description": "Update v1.01 (Fix 6.72/7.xx/9.00/11.00) ⇛"
+    },
+    "https://akirabox.com/XkrzoYMbRmBO/file": {
+      "region": "EUR",
+      "size": "799 MB",
+      "version": "1.00",
+      "release": "May 9, 2024",
+      "min_fw": "Fix 5.05",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/11/Crow-Country-PS4-PKG.webp",
+      "name": "Crow Country",
+      "type": "update",
+      "download_text": "AKR",
+      "key_description": "Update v1.01 (Fix 5.05) ⇛"
+    },
     "https://akirabox.com/Z9dzB41xmk1b/file": {
       "region": "EUR",
       "size": "799 MB",
@@ -8437,7 +8473,7 @@
       "download_text": "AKR",
       "key_description": "Game ⇛"
     },
-    "https://akirabox.com/0KezkkePozD1/file": {
+    "https://akirabox.com/2WVGrDAOW3kx/file": {
       "region": "EUR",
       "size": "45 GB",
       "version": "1.00",
@@ -8473,7 +8509,7 @@
       "download_text": "AKR",
       "key_description": "DLC New ⇛"
     },
-    "https://akirabox.com/qLQ36pqxwG19/file": {
+    "https://akirabox.com/vgKGxV1g238Q/file": {
       "region": "EUR",
       "size": "20GB",
       "version": "Merged Update 1.05",
@@ -8616,18 +8652,6 @@
       "type": "dlc",
       "download_text": "AKR",
       "key_description": "DLC ⇛"
-    },
-    "https://akirabox.com/qLQ36pqKwG19/file": {
-      "region": "EUR",
-      "size": "20GB",
-      "version": "Merged Update 1.05",
-      "release": "August 5th 2025",
-      "min_fw": "Fix 5.05/6.72/7.02/7.55/9.00/11.00",
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/09/Demon-Slayer-Kimetsu-no-Yaiba-The-Hinokami-Chronicles-2-PS4-PKG.webp",
-      "name": "Demon Slayer Kimetsu No Yaiba The Hinokami Chronicles 2",
-      "type": "update",
-      "download_text": "AKR",
-      "key_description": "Game (Merged Update v1.05)(Fix 5.05/6.72/7.02/7.55/9.00/11.00) ⇛"
     },
     "https://akirabox.com/LJlGnq7Wlz15/file": {
       "region": "EUR",
@@ -11181,7 +11205,7 @@
       "download_text": "AKR",
       "key_description": "AUDIO PACK [12] ⇛"
     },
-    "https://akirabox.com/0rpmvqYBBGRg/file": {
+    "https://akirabox.com/Z9dzBDb0nmk1/file": {
       "region": "EUR",
       "size": "19GB",
       "version": "1.00",
@@ -13228,7 +13252,7 @@
       "download_text": "AKR",
       "key_description": "Update v1.02 (5.05+) ⇛"
     },
-    "https://akirabox.com/qLQ36oR9Ez19/file": {
+    "https://akirabox.com/rk9zKvo6P30l/file": {
       "region": "EUR",
       "size": "20GB",
       "version": "1.00",
@@ -13883,7 +13907,7 @@
       "download_text": "AKR",
       "key_description": "DLCs ⇛"
     },
-    "https://akirabox.com/7d5GLrpjQ3xR/file": {
+    "https://akirabox.com/qw1zenx8vGXy/file": {
       "region": "EUR",
       "size": "20GB",
       "version": "1.00",
@@ -13895,7 +13919,7 @@
       "download_text": "AKR",
       "key_description": "Game (11.50+) ⇛"
     },
-    "https://akirabox.com/9AqGQBM1EmMn/file": {
+    "https://akirabox.com/E1x3AlPo6myk/file": {
       "region": "EUR",
       "size": "20GB",
       "version": "1.00",
@@ -32463,7 +32487,7 @@
       "download_text": "AKR",
       "key_description": "Update v1.04 (11.00) ⇛"
     },
-    "https://akirabox.com/0JgG7Qx53oYW/file": {
+    "https://akirabox.com/2bJG8qwkDmOB/file": {
       "region": "EUR",
       "size": "17.6GB",
       "version": "1.00",
@@ -32475,7 +32499,7 @@
       "download_text": "AKR",
       "key_description": "Game (5.05+) ⇛"
     },
-    "https://akirabox.com/0JgG70wJ1moY/file": {
+    "https://akirabox.com/dkD3YayNl3LQ/file": {
       "region": "EUR",
       "size": "17.6GB",
       "version": "1.00",

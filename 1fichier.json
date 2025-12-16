@@ -9684,6 +9684,42 @@
       "download_text": "OneFile",
       "key_description": "DLC ⇛"
     },
+    "https://1fichier.com/?g27rjkg5zssqvf6m48ov&af=4186346": {
+      "region": "EUR",
+      "size": "799 MB",
+      "version": "1.00",
+      "release": "May 9, 2024",
+      "min_fw": "12.00+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/11/Crow-Country-PS4-PKG.webp",
+      "name": "Crow Country",
+      "type": "game",
+      "download_text": "OneFile",
+      "key_description": "Game (12.00+) ⇛"
+    },
+    "https://1fichier.com/?qsas5s5qfu0k3k4edi5d&af=4186346": {
+      "region": "EUR",
+      "size": "799 MB",
+      "version": "1.00",
+      "release": "May 9, 2024",
+      "min_fw": "Fix 6.72/7.xx/9.00/11.00",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/11/Crow-Country-PS4-PKG.webp",
+      "name": "Crow Country",
+      "type": "update",
+      "download_text": "OneFile",
+      "key_description": "Update v1.01 (Fix 6.72/7.xx/9.00/11.00) ⇛"
+    },
+    "https://1fichier.com/?tm71y6tc5pobcpzwy4rz&af=4186346": {
+      "region": "EUR",
+      "size": "799 MB",
+      "version": "1.00",
+      "release": "May 9, 2024",
+      "min_fw": "Fix 5.05",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/11/Crow-Country-PS4-PKG.webp",
+      "name": "Crow Country",
+      "type": "update",
+      "download_text": "OneFile",
+      "key_description": "Update v1.01 (Fix 5.05) ⇛"
+    },
     "https://1fichier.com/?4m3617980ec2cmzc3qge&af=4186346": {
       "region": "EUR",
       "size": "799 MB",

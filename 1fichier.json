@@ -15984,7 +15984,7 @@
       "name": "Evil West",
       "type": "game",
       "download_text": "OneFile",
-      "key_description": "Game (9.00+) ⇛"
+      "key_description": "Game v1.06 (9.00+) ⇛"
     },
     "https://1fichier.com/?6jwwiuj1bp7ya2u6276z&af=4186346": {
       "region": "EUR",
@@ -15994,9 +15994,9 @@
       "min_fw": "9.00+",
       "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/Evil-West-PS4-PKG.webp",
       "name": "Evil West",
-      "type": "update",
+      "type": "game",
       "download_text": "OneFile",
-      "key_description": "Update v1.06 (9.00+) ⇛"
+      "key_description": "Optional Fix v1.06 (9.00+) ⇛"
     },
     "https://1fichier.com/?qmc6ylholespg1w03x2d&af=4186346": {
       "region": "EUR",
@@ -23705,24 +23705,24 @@
       "size": "30GB",
       "version": "1.00",
       "release": "March 27, 2018",
-      "min_fw": "9.00+",
+      "min_fw": "5.05+",
       "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/04/Injustice-2-Legendary-Edition-PS4-PKG.webp",
       "name": "Injustice 2 Legendary Edition",
       "type": "game",
       "download_text": "OneFile",
-      "key_description": "Game (9.00+) ⇛"
+      "key_description": "Game (5.05+) ⇛"
     },
     "https://1fichier.com/?xf6lnh8sqmsv60h8txc9&af=4186346": {
       "region": "EUR",
       "size": "30GB",
       "version": "1.00",
       "release": "March 27, 2018",
-      "min_fw": "9.00+",
+      "min_fw": "5.05+",
       "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/04/Injustice-2-Legendary-Edition-PS4-PKG.webp",
       "name": "Injustice 2 Legendary Edition",
       "type": "update",
       "download_text": "OneFile",
-      "key_description": "Update v1.04 (9.00+) ⇛"
+      "key_description": "Update v1.04 (5.05+) ⇛"
     },
     "https://1fichier.com/?ych10cqzdu587rz6hwfo&af=4186346": {
       "region": "USA",
@@ -33568,30 +33568,6 @@
       "download_text": "OneFile",
       "key_description": "DLC ⇛"
     },
-    "https://1fichier.com/?e7psyde2u42xep77z9a9&af=4186346": {
-      "region": "EUR",
-      "size": "397.15 MB",
-      "version": "1.00",
-      "release": "August 15, 2017",
-      "min_fw": "5.05+",
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/Nidhogg-2-PS4-PKG.webp",
-      "name": "Nidhogg 2",
-      "type": "game",
-      "download_text": "OneFile",
-      "key_description": "Game (5.05+) ⇛"
-    },
-    "https://1fichier.com/?gd1on8cxwscgvpfngm94&af=4186346": {
-      "region": "EUR",
-      "size": "397.15 MB",
-      "version": "1.00",
-      "release": "August 15, 2017",
-      "min_fw": "5.05+",
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/Nidhogg-2-PS4-PKG.webp",
-      "name": "Nidhogg 2",
-      "type": "update",
-      "download_text": "OneFile",
-      "key_description": "Update v1.07 (5.05+) ⇛"
-    },
     "https://1fichier.com/?x0l1nv7408ke0kb720il&af=4186346": {
       "region": "EUR",
       "size": "500MB",
@@ -33615,6 +33591,30 @@
       "type": "update",
       "download_text": "OneFile",
       "key_description": "Update v1.02 (5.05+) ⇛"
+    },
+    "https://1fichier.com/?e7psyde2u42xep77z9a9&af=4186346": {
+      "region": "EUR",
+      "size": "397.15 MB",
+      "version": "1.00",
+      "release": "August 15, 2017",
+      "min_fw": "5.05+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/Nidhogg-2-PS4-PKG.webp",
+      "name": "Nidhogg 2",
+      "type": "game",
+      "download_text": "OneFile",
+      "key_description": "Game (5.05+) ⇛"
+    },
+    "https://1fichier.com/?gd1on8cxwscgvpfngm94&af=4186346": {
+      "region": "EUR",
+      "size": "397.15 MB",
+      "version": "1.00",
+      "release": "August 15, 2017",
+      "min_fw": "5.05+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/Nidhogg-2-PS4-PKG.webp",
+      "name": "Nidhogg 2",
+      "type": "update",
+      "download_text": "OneFile",
+      "key_description": "Update v1.07 (5.05+) ⇛"
     },
     "https://1fichier.com/?l85tz68ijgs1udp3fkom&af=4186346": {
       "region": "EUR",
@@ -43548,7 +43548,7 @@
       "download_text": "OneFile",
       "key_description": "DLC v3 (14) ⇛"
     },
-    "https://1fichier.com/?chpiyz2z5hczfdn9uezz&af=4186346": {
+    "https://1fichier.com/?dkpkt4rbb3wpmkijz3r2&af=4186346": {
       "region": "USA",
       "size": "34GB",
       "version": "1.00",
@@ -43599,58 +43599,6 @@
       "type": "dlc",
       "download_text": "OneFile",
       "key_description": "DLC v2 (9) ⇛"
-    },
-    "https://1fichier.com/?4vivdpi396q2tw4qxrms&af=4186346": {
-      "region": "USA",
-      "size": "34GB",
-      "version": "1.00",
-      "release": "Jan 30, 2025",
-      "min_fw": null,
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/02/Sniper-Elite-Resistance-Deluxe-Edition-PS4-PKG.webp",
-      "cusa": "CUSA44067",
-      "name": "Sniper Elite Resistance Deluxe Edition",
-      "type": "game",
-      "download_text": "OneFile",
-      "key_description": "Game ⇛"
-    },
-    "https://1fichier.com/?8zkrm9vh2e8fh9w3shb9&af=4186346": {
-      "region": "USA",
-      "size": "34GB",
-      "version": "1.00",
-      "release": "Jan 30, 2025",
-      "min_fw": "Fix 5.05/6.72/7.02/7.55/9.00/11.00",
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/02/Sniper-Elite-Resistance-Deluxe-Edition-PS4-PKG.webp",
-      "cusa": "CUSA44067",
-      "name": "Sniper Elite Resistance Deluxe Edition",
-      "type": "update",
-      "download_text": "OneFile",
-      "key_description": "Update v1.08 (Fix 5.05/6.72/7.02/7.55/9.00/11.00) ⇛"
-    },
-    "https://1fichier.com/?4yn8s3qhqagepqeqeubr&af=4186346": {
-      "region": "USA",
-      "size": "34GB",
-      "version": "1.00",
-      "release": "Jan 30, 2025",
-      "min_fw": null,
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/02/Sniper-Elite-Resistance-Deluxe-Edition-PS4-PKG.webp",
-      "cusa": "CUSA44067",
-      "name": "Sniper Elite Resistance Deluxe Edition",
-      "type": "update",
-      "download_text": "OneFile",
-      "key_description": "Update v1.08 (PS5) ⇛"
-    },
-    "https://1fichier.com/?cyrclp4cv3jl9w9vfuzl&af=4186346": {
-      "region": "USA",
-      "size": "34GB",
-      "version": "2",
-      "release": "Jan 30, 2025",
-      "min_fw": null,
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/02/Sniper-Elite-Resistance-Deluxe-Edition-PS4-PKG.webp",
-      "cusa": "CUSA44067",
-      "name": "Sniper Elite Resistance Deluxe Edition",
-      "type": "dlc",
-      "download_text": "OneFile",
-      "key_description": "DLC (v2) ⇛"
     },
     "https://1fichier.com/?oi5rij287oqq0wpd9dn5&af=4186346": {
       "region": "EUR",

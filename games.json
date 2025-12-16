@@ -3771,7 +3771,7 @@
       "name": "Evil West",
       "type": "game",
       "download_text": "Viki",
-      "key_description": "Game (9.00+) ⇛"
+      "key_description": "Game v1.06 (9.00+) ⇛"
     },
     "https://vikingfile.com/f/YXNdKf9XXa": {
       "region": "EUR",
@@ -3781,9 +3781,9 @@
       "min_fw": "9.00+",
       "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/Evil-West-PS4-PKG.webp",
       "name": "Evil West",
-      "type": "update",
+      "type": "game",
       "download_text": "Viki",
-      "key_description": "Update v1.06 (9.00+) ⇛"
+      "key_description": "Optional Fix v1.06 (9.00+) ⇛"
     },
     "https://vikingfile.com/f/IG0DSbbmct": {
       "region": "EUR",
@@ -5281,24 +5281,24 @@
       "size": "30GB",
       "version": "1.00",
       "release": "March 27, 2018",
-      "min_fw": "9.00+",
+      "min_fw": "5.05+",
       "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/04/Injustice-2-Legendary-Edition-PS4-PKG.webp",
       "name": "Injustice 2 Legendary Edition",
       "type": "game",
       "download_text": "Viki",
-      "key_description": "Game (9.00+) ⇛"
+      "key_description": "Game (5.05+) ⇛"
     },
     "https://vikingfile.com/f/2Y5JMYUD3C": {
       "region": "EUR",
       "size": "30GB",
       "version": "1.00",
       "release": "March 27, 2018",
-      "min_fw": "9.00+",
+      "min_fw": "5.05+",
       "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/04/Injustice-2-Legendary-Edition-PS4-PKG.webp",
       "name": "Injustice 2 Legendary Edition",
       "type": "update",
       "download_text": "Viki",
-      "key_description": "Update v1.04 (9.00+) ⇛"
+      "key_description": "Update v1.04 (5.05+) ⇛"
     },
     "https://vikingfile.com/f/JGAbkPluAH": {
       "region": "USA",

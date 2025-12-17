@@ -39349,6 +39349,42 @@
       "download_text": "OneFile",
       "key_description": "Update 1.01 (Fix 5.05)"
     },
+    "https://1fichier.com/?o8v8b1r2m7gl9d837o8v&af=4186346": {
+      "region": "EUR",
+      "size": "3.29 GB",
+      "version": "1.00",
+      "release": "14 April 2022",
+      "min_fw": "9.00+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/Road-96-PS4-PKG.webp",
+      "name": "Road 96",
+      "type": "game",
+      "download_text": "OneFile",
+      "key_description": "Game (9.00+) ⇛"
+    },
+    "https://1fichier.com/?5u8eihd4g41i7l8robfs&af=4186346": {
+      "region": "EUR",
+      "size": "3.29 GB",
+      "version": "1.00",
+      "release": "14 April 2022",
+      "min_fw": "9.00+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/Road-96-PS4-PKG.webp",
+      "name": "Road 96",
+      "type": "update",
+      "download_text": "OneFile",
+      "key_description": "Update v1.01 (9.00+) ⇛"
+    },
+    "https://1fichier.com/?oyh0v12sucpxct5ktlzx&af=4186346": {
+      "region": "EUR",
+      "size": "3.29 GB",
+      "version": "1.00",
+      "release": "14 April 2022",
+      "min_fw": "Fix 5.05/6.72/7.xx/8.xx",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/Road-96-PS4-PKG.webp",
+      "name": "Road 96",
+      "type": "update",
+      "download_text": "OneFile",
+      "key_description": "Update v1.01 (Fix 5.05/6.72/7.xx/8.xx) ⇛"
+    },
     "https://1fichier.com/?qqtm7xhee9gkcqioe224&af=4186346": {
       "region": "EUR",
       "size": "3.29 GB",

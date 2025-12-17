@@ -28121,6 +28121,42 @@
       "download_text": "AKR",
       "key_description": "DLC (2) ⇛"
     },
+    "https://akirabox.com/N2p3DZgVRGMa/file": {
+      "region": "EUR",
+      "size": "3.29 GB",
+      "version": "1.00",
+      "release": "14 April 2022",
+      "min_fw": "9.00+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/Road-96-PS4-PKG.webp",
+      "name": "Road 96",
+      "type": "game",
+      "download_text": "AKR",
+      "key_description": "Game (9.00+) ⇛"
+    },
+    "https://akirabox.com/qLQ361eWBm19/file": {
+      "region": "EUR",
+      "size": "3.29 GB",
+      "version": "1.00",
+      "release": "14 April 2022",
+      "min_fw": "9.00+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/Road-96-PS4-PKG.webp",
+      "name": "Road 96",
+      "type": "update",
+      "download_text": "AKR",
+      "key_description": "Update v1.01 (9.00+) ⇛"
+    },
+    "https://akirabox.com/gXeGO1YBk3Aa/file": {
+      "region": "EUR",
+      "size": "3.29 GB",
+      "version": "1.00",
+      "release": "14 April 2022",
+      "min_fw": "Fix 5.05/6.72/7.xx/8.xx",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/Road-96-PS4-PKG.webp",
+      "name": "Road 96",
+      "type": "update",
+      "download_text": "AKR",
+      "key_description": "Update v1.01 (Fix 5.05/6.72/7.xx/8.xx) ⇛"
+    },
     "https://akirabox.com/obj3j7grzDxJ/file": {
       "region": "EUR",
       "size": "5.29 GB",

@@ -9770,7 +9770,7 @@
       "download_text": "AKR",
       "key_description": "Full DLC ⇛"
     },
-    "https://akirabox.com/LK0G1XE4z917/file": {
+    "https://akirabox.com/qw1zenx64GXy/file": {
       "region": "EUR",
       "size": "19GB",
       "version": "1.00",
@@ -13808,6 +13808,30 @@
       "type": "dlc",
       "download_text": "AKR",
       "key_description": "Ruin DLC ⇛"
+    },
+    "https://akirabox.com/b5Ozd0g19zB8/file": {
+      "region": "EUR",
+      "size": "1GB",
+      "version": "1.00",
+      "release": "April 4, 2024",
+      "min_fw": null,
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/12/Freedom-Planet-2-PS4-PKG.webp",
+      "name": "Freedom Planet 2",
+      "type": "game",
+      "download_text": "AKR",
+      "key_description": "Game ⇛"
+    },
+    "https://akirabox.com/RMKGJD4qL31o/file": {
+      "region": "EUR",
+      "size": "1GB",
+      "version": "1.00",
+      "release": "April 4, 2024",
+      "min_fw": "Fix 5.05/6.72/7.02/7.55/9.00/11.00",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/12/Freedom-Planet-2-PS4-PKG.webp",
+      "name": "Freedom Planet 2",
+      "type": "update",
+      "download_text": "AKR",
+      "key_description": "Update v1.02 (Fix 5.05/6.72/7.02/7.55/9.00/11.00) ⇛"
     },
     "https://akirabox.com/QN9mEgpxz6dW/file": {
       "region": "USA",
@@ -19729,7 +19753,7 @@
       "download_text": "AKR",
       "key_description": "Update v1.06 (Fix 5.05 / 6.72 / 7.02 / 7.50)⇛"
     },
-    "https://akirabox.com/LK0G1b2Nm917/file": {
+    "https://akirabox.com/1RgzRB5Pvzbp/file": {
       "region": "EUR",
       "size": "17.86 GB",
       "version": "1.00",
@@ -19741,7 +19765,7 @@
       "download_text": "AKR",
       "key_description": "Game (7.50+) ⇛"
     },
-    "https://akirabox.com/2bJG8b273OBE/file": {
+    "https://akirabox.com/l76mZVQebman/file": {
       "region": "EUR",
       "size": "17.86 GB",
       "version": "1.00",
@@ -23338,7 +23362,7 @@
       "download_text": "AKR",
       "key_description": "Update v1.09 ⇛"
     },
-    "https://akirabox.com/5pVzNWKAWG7w/file": {
+    "https://akirabox.com/BnkmWRayQGR0/file": {
       "region": "EUR",
       "size": "16GB",
       "version": "1.00",
@@ -38076,7 +38100,7 @@
       "download_text": "AKR",
       "key_description": "Update v1.04 (Fix 5.05/6.72/7.02/7.55/9.00/11.00) ⇛"
     },
-    "https://akirabox.com/0KezkXwpGD1X/file": {
+    "https://akirabox.com/qLQ361v77m19/file": {
       "region": "EUR",
       "size": "25 GB",
       "version": "1.00",
@@ -39410,7 +39434,7 @@
       "download_text": "AKR",
       "key_description": "DLC (4) ⇛"
     },
-    "https://akirabox.com/2bJG81ZD6mOB/file": {
+    "https://akirabox.com/E1x3AlPXrmyk/file": {
       "region": "EUR",
       "size": "18GB",
       "version": "1.00",

@@ -3552,6 +3552,18 @@
       "download_text": "CyB1K",
       "key_description": "Version ⇛"
     },
+    "https://www.superpsx.com/ps4-firmware-jailbreak-faqs/": {
+      "region": "EUR",
+      "size": "~5 GB",
+      "version": "1.00",
+      "release": "June 6, 2024",
+      "min_fw": "5.05+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/12/Octopath-Travele-PS4-PKG.webp",
+      "name": "Octopath Travele",
+      "type": "game",
+      "download_text": "Read Here",
+      "key_description": "FAQs"
+    },
     "https://www.keeplinks.org/p41/683ed18986ccf": {
       "region": "USA",
       "size": "6GB",

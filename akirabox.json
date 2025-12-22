@@ -19876,7 +19876,7 @@
       "download_text": "AKR",
       "key_description": "Update v1.05 (Fix 5.05) ⇛"
     },
-    "https://akirabox.com/gXeGOqxj3Aa7/file": {
+    "https://akirabox.com/vgKGxDOe8G8Q/file": {
       "region": "USA",
       "size": "41.36 GB",
       "version": "1.00",
@@ -19889,7 +19889,7 @@
       "download_text": "AKR",
       "key_description": "Game ⇛"
     },
-    "https://akirabox.com/ex5z26ryzKqk/file": {
+    "https://akirabox.com/qLQ364o2lG19/file": {
       "region": "USA",
       "size": "41.36 GB",
       "version": "1.00",
@@ -19900,9 +19900,9 @@
       "name": "Like A Dragon Gaiden",
       "type": "update",
       "download_text": "AKR",
-      "key_description": "Update v1.10 (Fix 5.05/6.72/7.02/7.55/9.00) ⇛"
+      "key_description": "Update v1.22 (Fix 5.05/6.72/7.02/7.55/9.00) ⇛"
     },
-    "https://akirabox.com/jJD3Vlb7Ga5Q/file": {
+    "https://akirabox.com/9AqGQdBArzMn/file": {
       "region": "USA",
       "size": "41.36 GB",
       "version": "1.00",
@@ -36318,6 +36318,42 @@
       "type": "dlc",
       "download_text": "AKR",
       "key_description": "DLC ⇛"
+    },
+    "https://akirabox.com/APVmarg753Xo/file": {
+      "region": "EUR",
+      "size": "24GB",
+      "version": "1.00",
+      "release": "Feb 14, 2025",
+      "min_fw": null,
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/02/The-Legend-of-Heroes-Trails-through-Daybreak-II-PS4-PKG.webp",
+      "name": "The Legend Of Heroes Trails Through Daybreak II",
+      "type": "game",
+      "download_text": "AKR",
+      "key_description": "Game (9.50+) ⇛"
+    },
+    "https://akirabox.com/dZxG5412RzVj/file": {
+      "region": "EUR",
+      "size": "24GB",
+      "version": "1.00",
+      "release": "Feb 14, 2025",
+      "min_fw": null,
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/02/The-Legend-of-Heroes-Trails-through-Daybreak-II-PS4-PKG.webp",
+      "name": "The Legend Of Heroes Trails Through Daybreak II",
+      "type": "update",
+      "download_text": "AKR",
+      "key_description": "Update v1.02 (9.50+) ⇛"
+    },
+    "https://akirabox.com/dkD3YOqYwGLQ/file": {
+      "region": "EUR",
+      "size": "24GB",
+      "version": "1.00",
+      "release": "Feb 14, 2025",
+      "min_fw": null,
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/02/The-Legend-of-Heroes-Trails-through-Daybreak-II-PS4-PKG.webp",
+      "name": "The Legend Of Heroes Trails Through Daybreak II",
+      "type": "dlc",
+      "download_text": "AKR",
+      "key_description": "DLC (13) ⇛"
     },
     "https://akirabox.com/qw1zej9VGXyn/file": {
       "region": "EUR",

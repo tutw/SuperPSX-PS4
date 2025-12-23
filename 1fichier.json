@@ -324,6 +324,42 @@
       "download_text": "OneFile",
       "key_description": "Update v1.02 (5.05+) ⇛"
     },
+    "https://1fichier.com/?vehn22afx8w0gtwr1z7s&af=4186346": {
+      "region": "EUR",
+      "size": "3GB",
+      "version": "1.00",
+      "release": "July 31, 2025",
+      "min_fw": "12.00+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/12/9-Years-of-Shadows-PS4-PKG.webp",
+      "name": "9 Years Of Shadows",
+      "type": "game",
+      "download_text": "OneFile",
+      "key_description": "Game (12.00+) ⇛"
+    },
+    "https://1fichier.com/?r3l00j6bqw2qrbmyjkws&af=4186346": {
+      "region": "EUR",
+      "size": "3GB",
+      "version": "1.00",
+      "release": "July 31, 2025",
+      "min_fw": "Fix 6.72/7.xx/9.00/11.00/12.00",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/12/9-Years-of-Shadows-PS4-PKG.webp",
+      "name": "9 Years Of Shadows",
+      "type": "update",
+      "download_text": "OneFile",
+      "key_description": "Update v1.02 (Fix 6.72/7.xx/9.00/11.00/12.00) ⇛"
+    },
+    "https://1fichier.com/?6go36r7kpsfnfm1v09ku&af=4186346": {
+      "region": "EUR",
+      "size": "3GB",
+      "version": "1.00",
+      "release": "July 31, 2025",
+      "min_fw": "Fix 5.05",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/12/9-Years-of-Shadows-PS4-PKG.webp",
+      "name": "9 Years Of Shadows",
+      "type": "update",
+      "download_text": "OneFile",
+      "key_description": "Update v1.02 (Fix 5.05) ⇛"
+    },
     "https://1fichier.com/?nx9x0vuegdo1xi1jb1j3&af=4186346": {
       "region": "EUR",
       "size": "337.64 MB",
@@ -6208,6 +6244,54 @@
       "type": "update",
       "download_text": "OneFile",
       "key_description": "Update v1.01 (Fix 5.05/6.72/7.xx) ⇛"
+    },
+    "https://1fichier.com/?qfyypulbqargr71cwrr0&af=4186346": {
+      "region": "EUR",
+      "size": "7GB",
+      "version": "1.00",
+      "release": "19 Sept 2024",
+      "min_fw": null,
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/12/Broken-Sword-Shadow-of-The-Templars-Reforged-PS4-PKG.webp",
+      "name": "Broken Sword Shadow Of The Templars Reforged",
+      "type": "game",
+      "download_text": "OneFile",
+      "key_description": "Game ⇛"
+    },
+    "https://1fichier.com/?qqtecmo8p9neqa43r4ew&af=4186346": {
+      "region": "EUR",
+      "size": "7GB",
+      "version": "1.00",
+      "release": "19 Sept 2024",
+      "min_fw": "12.00+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/12/Broken-Sword-Shadow-of-The-Templars-Reforged-PS4-PKG.webp",
+      "name": "Broken Sword Shadow Of The Templars Reforged",
+      "type": "update",
+      "download_text": "OneFile",
+      "key_description": "Update v1.01 (12.00+) ⇛"
+    },
+    "https://1fichier.com/?zspld32r0x15djcjax9a&af=4186346": {
+      "region": "EUR",
+      "size": "7GB",
+      "version": "1.00",
+      "release": "19 Sept 2024",
+      "min_fw": "Fix 9.00+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/12/Broken-Sword-Shadow-of-The-Templars-Reforged-PS4-PKG.webp",
+      "name": "Broken Sword Shadow Of The Templars Reforged",
+      "type": "update",
+      "download_text": "OneFile",
+      "key_description": "Update v1.01 (Fix 9.00+)(@Oxeres) ⇛"
+    },
+    "https://1fichier.com/?ybtlpy9s625nd2fss5le&af=4186346": {
+      "region": "EUR",
+      "size": "7GB",
+      "version": "1.00",
+      "release": "19 Sept 2024",
+      "min_fw": "Fix 5.05+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/12/Broken-Sword-Shadow-of-The-Templars-Reforged-PS4-PKG.webp",
+      "name": "Broken Sword Shadow Of The Templars Reforged",
+      "type": "update",
+      "download_text": "OneFile",
+      "key_description": "Update v1.01 (Fix 5.05+)(@Pout) ⇛"
     },
     "https://1fichier.com/?7pxfi5gn0ph24l2rpfay&af=4186346": {
       "region": "EUR",
@@ -18373,6 +18457,42 @@
       "type": "update",
       "download_text": "OneFile",
       "key_description": "Update v1.02 (Fix 5.05/6.72/7.02/7.55/9.00/11.00) ⇛"
+    },
+    "https://1fichier.com/?lopqrvs7bqphxheklm96&af=4186346": {
+      "region": "EUR",
+      "size": "5GB",
+      "version": "1.00",
+      "release": "Jan 10, 2025",
+      "min_fw": null,
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/12/Freedom-Wars-Remastered-Contribution-Edition-PS4-PKG.webp",
+      "name": "Freedom Wars Remastered Contribution Edition",
+      "type": "game",
+      "download_text": "OneFile",
+      "key_description": "Game ⇛"
+    },
+    "https://1fichier.com/?pzciz0uoyy5akayi9n3y&af=4186346": {
+      "region": "EUR",
+      "size": "5GB",
+      "version": "1.00",
+      "release": "Jan 10, 2025",
+      "min_fw": "Fix 5.05 / 6.72 / 7.02 / 7.55 / 9.00 / 11.00",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/12/Freedom-Wars-Remastered-Contribution-Edition-PS4-PKG.webp",
+      "name": "Freedom Wars Remastered Contribution Edition",
+      "type": "update",
+      "download_text": "OneFile",
+      "key_description": "Update v1.09 (Fix 5.05 / 6.72 / 7.02 / 7.55 / 9.00 / 11.00) ⇛"
+    },
+    "https://1fichier.com/?iu8p5mg7ki1as2snxad4&af=4186346": {
+      "region": "EUR",
+      "size": "5GB",
+      "version": "1.00",
+      "release": "Jan 10, 2025",
+      "min_fw": null,
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/12/Freedom-Wars-Remastered-Contribution-Edition-PS4-PKG.webp",
+      "name": "Freedom Wars Remastered Contribution Edition",
+      "type": "dlc",
+      "download_text": "OneFile",
+      "key_description": "DLC ⇛"
     },
     "https://1fichier.com/?0r8t8n9ytwtfsez2b11b&af=4186346": {
       "region": "EUR",
@@ -31961,6 +32081,30 @@
       "download_text": "OneFile",
       "key_description": "Update 1.01 (Fix 5.05/6.72/7.02)⇛"
     },
+    "https://1fichier.com/?0uvj84gdfmo4bjbw1njw&af=4186346": {
+      "region": "EUR",
+      "size": "1GB",
+      "version": "1.00",
+      "release": "June 5, 2025",
+      "min_fw": null,
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/12/Myst-PS4-PKG.webp",
+      "name": "Myst",
+      "type": "game",
+      "download_text": "OneFile",
+      "key_description": "Game ⇛"
+    },
+    "https://1fichier.com/?q56irrt98s8vi4t3doa0&af=4186346": {
+      "region": "EUR",
+      "size": "1GB",
+      "version": "1.00",
+      "release": "June 5, 2025",
+      "min_fw": "Fix 5.05 / 6.72 / 7.02 / 7.55 / 9.00 / 11.00",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/12/Myst-PS4-PKG.webp",
+      "name": "Myst",
+      "type": "update",
+      "download_text": "OneFile",
+      "key_description": "Update v1.01 (Fix 5.05 / 6.72 / 7.02 / 7.55 / 9.00 / 11.00) ⇛"
+    },
     "https://1fichier.com/?et4imkvaz5hzl4bp7bm9&af=4186346": {
       "region": "EUR",
       "size": "1.24 GB",
@@ -33628,30 +33772,6 @@
       "download_text": "OneFile",
       "key_description": "DLC ⇛"
     },
-    "https://1fichier.com/?x0l1nv7408ke0kb720il&af=4186346": {
-      "region": "EUR",
-      "size": "500MB",
-      "version": "1.00",
-      "release": "October 14, 2014",
-      "min_fw": "5.05+",
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/08/Nidhogg-PS4-PKG.webp",
-      "name": "Nidhogg 2",
-      "type": "game",
-      "download_text": "OneFile",
-      "key_description": "Game (5.05+) ⇛"
-    },
-    "https://1fichier.com/?bry9hepim2a628h6iylm&af=4186346": {
-      "region": "EUR",
-      "size": "500MB",
-      "version": "1.00",
-      "release": "October 14, 2014",
-      "min_fw": "5.05+",
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/08/Nidhogg-PS4-PKG.webp",
-      "name": "Nidhogg 2",
-      "type": "update",
-      "download_text": "OneFile",
-      "key_description": "Update v1.02 (5.05+) ⇛"
-    },
     "https://1fichier.com/?e7psyde2u42xep77z9a9&af=4186346": {
       "region": "EUR",
       "size": "397.15 MB",
@@ -33675,6 +33795,30 @@
       "type": "update",
       "download_text": "OneFile",
       "key_description": "Update v1.07 (5.05+) ⇛"
+    },
+    "https://1fichier.com/?x0l1nv7408ke0kb720il&af=4186346": {
+      "region": "EUR",
+      "size": "500MB",
+      "version": "1.00",
+      "release": "October 14, 2014",
+      "min_fw": "5.05+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/08/Nidhogg-PS4-PKG.webp",
+      "name": "Nidhogg 2",
+      "type": "game",
+      "download_text": "OneFile",
+      "key_description": "Game (5.05+) ⇛"
+    },
+    "https://1fichier.com/?bry9hepim2a628h6iylm&af=4186346": {
+      "region": "EUR",
+      "size": "500MB",
+      "version": "1.00",
+      "release": "October 14, 2014",
+      "min_fw": "5.05+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/08/Nidhogg-PS4-PKG.webp",
+      "name": "Nidhogg 2",
+      "type": "update",
+      "download_text": "OneFile",
+      "key_description": "Update v1.02 (5.05+) ⇛"
     },
     "https://1fichier.com/?l85tz68ijgs1udp3fkom&af=4186346": {
       "region": "EUR",
@@ -38890,6 +39034,30 @@
       "type": "game",
       "download_text": "OneFile",
       "key_description": "Game (4.55+) ⇛"
+    },
+    "https://1fichier.com/?r3kef3xroqiq5nwitlwr&af=4186346": {
+      "region": "EUR",
+      "size": "8GB",
+      "version": "1.00",
+      "release": "May 8, 2025",
+      "min_fw": null,
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/12/Revenge-of-The-Savage-Planet-PS4-PKG.webp",
+      "name": "Revenge Of The Savage Planet",
+      "type": "game",
+      "download_text": "OneFile",
+      "key_description": "Game ⇛"
+    },
+    "https://1fichier.com/?k82uz39xlazlraa9qd51&af=4186346": {
+      "region": "EUR",
+      "size": "8GB",
+      "version": "1.00",
+      "release": "May 8, 2025",
+      "min_fw": "Fix 5.05 / 6.72 / 7.02 / 7.55 / 9.00 / 11.00",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/12/Revenge-of-The-Savage-Planet-PS4-PKG.webp",
+      "name": "Revenge Of The Savage Planet",
+      "type": "update",
+      "download_text": "OneFile",
+      "key_description": "Update v1.04 (Fix 5.05 / 6.72 / 7.02 / 7.55 / 9.00 / 11.00) ⇛"
     },
     "https://1fichier.com/?bmask85jhbd294owwtz3&af=4186346": {
       "region": "EUR",
@@ -50113,6 +50281,30 @@
       "download_text": "OneFile",
       "key_description": "Update v1.03 (Fix 5.05/6.72/7.xx/8.xx) ⇛"
     },
+    "https://1fichier.com/?89kvv9rnrptrdf5ik2no&af=4186346": {
+      "region": "EUR",
+      "size": "4GB",
+      "version": "1.00",
+      "release": "Aug 7, 2025",
+      "min_fw": null,
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/12/The-House-of-The-Dead-2-Remake-PS4-PKG.webp",
+      "name": "The House Of The Dead 2 Remake",
+      "type": "game",
+      "download_text": "OneFile",
+      "key_description": "Game ⇛"
+    },
+    "https://1fichier.com/?s7xbga95n60zpeoixak3&af=4186346": {
+      "region": "EUR",
+      "size": "4GB",
+      "version": "1.00",
+      "release": "Aug 7, 2025",
+      "min_fw": "Fix 5.05 / 6.72 / 7.02 / 7.55 / 9.00 / 11.00",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/12/The-House-of-The-Dead-2-Remake-PS4-PKG.webp",
+      "name": "The House Of The Dead 2 Remake",
+      "type": "update",
+      "download_text": "OneFile",
+      "key_description": "Update v1.01 (Fix 5.05 / 6.72 / 7.02 / 7.55 / 9.00 / 11.00) ⇛"
+    },
     "https://1fichier.com/?1j5h1jh45nfclnz8y0qh&af=4186346": {
       "region": "EUR",
       "size": "767.82 MB",
@@ -51158,6 +51350,18 @@
       "type": "update",
       "download_text": "OneFile",
       "key_description": "Update v1.03 (9.00+) ⇛"
+    },
+    "https://1fichier.com/?7t4txy327ifley363vhs&af=4186346": {
+      "region": "EUR",
+      "size": "418 MB",
+      "version": "1.00",
+      "release": "July 18, 2018",
+      "min_fw": "5.55+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/The-Mooseman-PS4-PKG.webp",
+      "name": "The Mooseman",
+      "type": "update",
+      "download_text": "OneFile",
+      "key_description": "Game + Update 1.01 ⇛"
     },
     "https://1fichier.com/?oad2nowad4xozc6as4hq&af=4186346": {
       "region": "EUR",
@@ -52977,6 +53181,30 @@
       "download_text": "OneFile",
       "key_description": "Update v1.04 ⇛"
     },
+    "https://1fichier.com/?eobqpfn268vi9jjjwt9e&af=4186346": {
+      "region": "EUR",
+      "size": "45GB",
+      "version": "1.00",
+      "release": "October 28, 2016",
+      "min_fw": "5.05+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/12/Titanfall-2-PS4-PKG-1.webp",
+      "name": "Titanfall 2",
+      "type": "game",
+      "download_text": "OneFile",
+      "key_description": "Game (5.05+) ⇛"
+    },
+    "https://1fichier.com/?ydk9bmqteq009ig3rqis&af=4186346": {
+      "region": "EUR",
+      "size": "45GB",
+      "version": "1.00",
+      "release": "October 28, 2016",
+      "min_fw": "5.05+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/12/Titanfall-2-PS4-PKG-1.webp",
+      "name": "Titanfall 2",
+      "type": "update",
+      "download_text": "OneFile",
+      "key_description": "Update v1.13 (5.05+) ⇛"
+    },
     "https://1fichier.com/?nze3knkexrg06o0ga497&af=4186346": {
       "region": "USA",
       "size": "2.19 GB",
@@ -53871,6 +54099,54 @@
       "type": "update",
       "download_text": "OneFile",
       "key_description": "Update 1.04 (6.72+) ⇛"
+    },
+    "https://1fichier.com/?xlq9cfra7czw05s6c6lu&af=4186346": {
+      "region": "EUR",
+      "size": "6GB",
+      "version": "1.00",
+      "release": "8 Dec 2022",
+      "min_fw": "12.00",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/12/Trailmakers-PS4-PKG.webp",
+      "name": "Trailmakers",
+      "type": "game",
+      "download_text": "OneFile",
+      "key_description": "Game (12.00) ⇛"
+    },
+    "https://1fichier.com/?wqhdnv3iub56rp6jbr0r&af=4186346": {
+      "region": "EUR",
+      "size": "6GB",
+      "version": "1.00",
+      "release": "8 Dec 2022",
+      "min_fw": "Fix 6.72/7.xx/9.00/11.00",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/12/Trailmakers-PS4-PKG.webp",
+      "name": "Trailmakers",
+      "type": "update",
+      "download_text": "OneFile",
+      "key_description": "Update v2.23 (Fix 6.72/7.xx/9.00/11.00) ⇛"
+    },
+    "https://1fichier.com/?cqjjk9ds8kh74ydt3sd0&af=4186346": {
+      "region": "EUR",
+      "size": "6GB",
+      "version": "1.00",
+      "release": "8 Dec 2022",
+      "min_fw": "Fix 5.05",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/12/Trailmakers-PS4-PKG.webp",
+      "name": "Trailmakers",
+      "type": "update",
+      "download_text": "OneFile",
+      "key_description": "Update v2.23 (Fix 5.05)"
+    },
+    "https://1fichier.com/?o8bcboypy9yfoflhgq4a&af=4186346": {
+      "region": "EUR",
+      "size": "6GB",
+      "version": "1.00",
+      "release": "8 Dec 2022",
+      "min_fw": null,
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/12/Trailmakers-PS4-PKG.webp",
+      "name": "Trailmakers",
+      "type": "dlc",
+      "download_text": "OneFile",
+      "key_description": "DLC (14) ⇛"
     },
     "https://1fichier.com/?tqt1nyem01w81r0i56ih&af=4186346": {
       "region": "EUR",
@@ -56198,6 +56474,30 @@
       "type": "update",
       "download_text": "OneFile",
       "key_description": "Update v1.09 (7.50+) ⇛"
+    },
+    "https://1fichier.com/?qqb6qkgcixmyzn0lb9jy&af=4186346": {
+      "region": "EUR",
+      "size": "5GB",
+      "version": "1.00",
+      "release": "Jul 17, 2025",
+      "min_fw": "12.00",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/12/Upin-Ipin-Universe-PS4-PKG.webp",
+      "name": "Upin Ipin Universe",
+      "type": "game",
+      "download_text": "OneFile",
+      "key_description": "Game (12.00) ⇛"
+    },
+    "https://1fichier.com/?9d3jmsfyl44fwp44t8uk&af=4186346": {
+      "region": "EUR",
+      "size": "5GB",
+      "version": "1.00",
+      "release": "Jul 17, 2025",
+      "min_fw": "Fix 5.05/6.72/7.xx/9.00/11.00",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/12/Upin-Ipin-Universe-PS4-PKG.webp",
+      "name": "Upin Ipin Universe",
+      "type": "update",
+      "download_text": "OneFile",
+      "key_description": "Update v1.06 (Fix 5.05/6.72/7.xx/9.00/11.00)"
     },
     "https://1fichier.com/?sf5rku9k3wrz8x2y282s&af=4186346": {
       "region": "EUR",

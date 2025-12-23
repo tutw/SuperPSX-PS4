@@ -120,6 +120,42 @@
       "download_text": "Viki",
       "key_description": "Update v1.01 (Fix 5.05) ⇛"
     },
+    "https://vikingfile.com/f/mhBalt6MCS": {
+      "region": "EUR",
+      "size": "3GB",
+      "version": "1.00",
+      "release": "July 31, 2025",
+      "min_fw": "12.00+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/12/9-Years-of-Shadows-PS4-PKG.webp",
+      "name": "9 Years Of Shadows",
+      "type": "game",
+      "download_text": "Viki",
+      "key_description": "Game (12.00+) ⇛"
+    },
+    "https://vikingfile.com/f/rsJNDNed20": {
+      "region": "EUR",
+      "size": "3GB",
+      "version": "1.00",
+      "release": "July 31, 2025",
+      "min_fw": "Fix 6.72/7.xx/9.00/11.00/12.00",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/12/9-Years-of-Shadows-PS4-PKG.webp",
+      "name": "9 Years Of Shadows",
+      "type": "update",
+      "download_text": "Viki",
+      "key_description": "Update v1.02 (Fix 6.72/7.xx/9.00/11.00/12.00) ⇛"
+    },
+    "https://vikingfile.com/f/Xqce31oxJU": {
+      "region": "EUR",
+      "size": "3GB",
+      "version": "1.00",
+      "release": "July 31, 2025",
+      "min_fw": "Fix 5.05",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/12/9-Years-of-Shadows-PS4-PKG.webp",
+      "name": "9 Years Of Shadows",
+      "type": "update",
+      "download_text": "Viki",
+      "key_description": "Update v1.02 (Fix 5.05) ⇛"
+    },
     "https://vikingfile.com/f/veAqRUxqKd": {
       "region": "EUR",
       "size": "3GB",
@@ -1298,6 +1334,54 @@
       "type": "update",
       "download_text": "Viki",
       "key_description": "Update v1.02 (Fix 5.05/6.72/7.xx/8.xx) ⇛"
+    },
+    "https://vikingfile.com/f/prhlKsSTPM": {
+      "region": "EUR",
+      "size": "7GB",
+      "version": "1.00",
+      "release": "19 Sept 2024",
+      "min_fw": null,
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/12/Broken-Sword-Shadow-of-The-Templars-Reforged-PS4-PKG.webp",
+      "name": "Broken Sword Shadow Of The Templars Reforged",
+      "type": "game",
+      "download_text": "Viki",
+      "key_description": "Game ⇛"
+    },
+    "https://vikingfile.com/f/iwB1LUrV4V": {
+      "region": "EUR",
+      "size": "7GB",
+      "version": "1.00",
+      "release": "19 Sept 2024",
+      "min_fw": "12.00+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/12/Broken-Sword-Shadow-of-The-Templars-Reforged-PS4-PKG.webp",
+      "name": "Broken Sword Shadow Of The Templars Reforged",
+      "type": "update",
+      "download_text": "Viki",
+      "key_description": "Update v1.01 (12.00+) ⇛"
+    },
+    "https://vikingfile.com/f/NVLu2dZZk7": {
+      "region": "EUR",
+      "size": "7GB",
+      "version": "1.00",
+      "release": "19 Sept 2024",
+      "min_fw": "Fix 9.00+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/12/Broken-Sword-Shadow-of-The-Templars-Reforged-PS4-PKG.webp",
+      "name": "Broken Sword Shadow Of The Templars Reforged",
+      "type": "update",
+      "download_text": "Viki",
+      "key_description": "Update v1.01 (Fix 9.00+)(@Oxeres) ⇛"
+    },
+    "https://vikingfile.com/f/S0yPp2GpQ8": {
+      "region": "EUR",
+      "size": "7GB",
+      "version": "1.00",
+      "release": "19 Sept 2024",
+      "min_fw": "Fix 5.05+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/12/Broken-Sword-Shadow-of-The-Templars-Reforged-PS4-PKG.webp",
+      "name": "Broken Sword Shadow Of The Templars Reforged",
+      "type": "update",
+      "download_text": "Viki",
+      "key_description": "Update v1.01 (Fix 5.05+)(@Pout) ⇛"
     },
     "https://vikingfile.com/f/9aVmTyAyBy": {
       "region": "EUR",
@@ -4541,6 +4625,42 @@
       "download_text": "Viki",
       "key_description": "Update v1.02 (Fix 5.05/6.72/7.02/7.55/9.00/11.00) ⇛"
     },
+    "https://vikingfile.com/f/Yt6OPGZ6Le": {
+      "region": "EUR",
+      "size": "5GB",
+      "version": "1.00",
+      "release": "Jan 10, 2025",
+      "min_fw": null,
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/12/Freedom-Wars-Remastered-Contribution-Edition-PS4-PKG.webp",
+      "name": "Freedom Wars Remastered Contribution Edition",
+      "type": "game",
+      "download_text": "Viki",
+      "key_description": "Game ⇛"
+    },
+    "https://vikingfile.com/f/AK9TIPLgwf": {
+      "region": "EUR",
+      "size": "5GB",
+      "version": "1.00",
+      "release": "Jan 10, 2025",
+      "min_fw": "Fix 5.05 / 6.72 / 7.02 / 7.55 / 9.00 / 11.00",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/12/Freedom-Wars-Remastered-Contribution-Edition-PS4-PKG.webp",
+      "name": "Freedom Wars Remastered Contribution Edition",
+      "type": "update",
+      "download_text": "Viki",
+      "key_description": "Update v1.09 (Fix 5.05 / 6.72 / 7.02 / 7.55 / 9.00 / 11.00) ⇛"
+    },
+    "https://vikingfile.com/f/imJhZQvD7R": {
+      "region": "EUR",
+      "size": "5GB",
+      "version": "1.00",
+      "release": "Jan 10, 2025",
+      "min_fw": null,
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/12/Freedom-Wars-Remastered-Contribution-Edition-PS4-PKG.webp",
+      "name": "Freedom Wars Remastered Contribution Edition",
+      "type": "dlc",
+      "download_text": "Viki",
+      "key_description": "DLC ⇛"
+    },
     "https://vikingfile.com/f/KbgBppCrPw": {
       "region": "EUR",
       "size": "20GB",
@@ -7036,6 +7156,30 @@
       "download_text": "Viki",
       "key_description": "Update v14.10 (Fix 5.05) ⇛"
     },
+    "https://vikingfile.com/f/spGGiWQfVq": {
+      "region": "EUR",
+      "size": "1GB",
+      "version": "1.00",
+      "release": "June 5, 2025",
+      "min_fw": null,
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/12/Myst-PS4-PKG.webp",
+      "name": "Myst",
+      "type": "game",
+      "download_text": "Viki",
+      "key_description": "Game ⇛"
+    },
+    "https://vikingfile.com/f/ARkkqhUzOG": {
+      "region": "EUR",
+      "size": "1GB",
+      "version": "1.00",
+      "release": "June 5, 2025",
+      "min_fw": "Fix 5.05 / 6.72 / 7.02 / 7.55 / 9.00 / 11.00",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/12/Myst-PS4-PKG.webp",
+      "name": "Myst",
+      "type": "update",
+      "download_text": "Viki",
+      "key_description": "Update v1.01 (Fix 5.05 / 6.72 / 7.02 / 7.55 / 9.00 / 11.00) ⇛"
+    },
     "https://vikingfile.com/f/IHAH2g0yo2": {
       "region": "EUR",
       "size": "22.71 GB",
@@ -8459,6 +8603,30 @@
       "type": "update",
       "download_text": "Viki",
       "key_description": "Update v1.01 (5.05+) ⇛"
+    },
+    "https://vikingfile.com/f/xb5KdyZaer": {
+      "region": "EUR",
+      "size": "8GB",
+      "version": "1.00",
+      "release": "May 8, 2025",
+      "min_fw": null,
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/12/Revenge-of-The-Savage-Planet-PS4-PKG.webp",
+      "name": "Revenge Of The Savage Planet",
+      "type": "game",
+      "download_text": "Viki",
+      "key_description": "Game ⇛"
+    },
+    "https://vikingfile.com/f/YjbrYw80kG": {
+      "region": "EUR",
+      "size": "8GB",
+      "version": "1.00",
+      "release": "May 8, 2025",
+      "min_fw": "Fix 5.05 / 6.72 / 7.02 / 7.55 / 9.00 / 11.00",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/12/Revenge-of-The-Savage-Planet-PS4-PKG.webp",
+      "name": "Revenge Of The Savage Planet",
+      "type": "update",
+      "download_text": "Viki",
+      "key_description": "Update v1.04 (Fix 5.05 / 6.72 / 7.02 / 7.55 / 9.00 / 11.00) ⇛"
     },
     "https://vikingfile.com/f/YespAm9ui7": {
       "region": "EUR",
@@ -10677,6 +10845,30 @@
       "download_text": "Viki",
       "key_description": "DLC ⇛"
     },
+    "https://vikingfile.com/f/ICjcCIWHhN": {
+      "region": "EUR",
+      "size": "4GB",
+      "version": "1.00",
+      "release": "Aug 7, 2025",
+      "min_fw": null,
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/12/The-House-of-The-Dead-2-Remake-PS4-PKG.webp",
+      "name": "The House Of The Dead 2 Remake",
+      "type": "game",
+      "download_text": "Viki",
+      "key_description": "Game ⇛"
+    },
+    "https://vikingfile.com/f/ZQHyLoNuN8": {
+      "region": "EUR",
+      "size": "4GB",
+      "version": "1.00",
+      "release": "Aug 7, 2025",
+      "min_fw": "Fix 5.05 / 6.72 / 7.02 / 7.55 / 9.00 / 11.00",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/12/The-House-of-The-Dead-2-Remake-PS4-PKG.webp",
+      "name": "The House Of The Dead 2 Remake",
+      "type": "update",
+      "download_text": "Viki",
+      "key_description": "Update v1.01 (Fix 5.05 / 6.72 / 7.02 / 7.55 / 9.00 / 11.00) ⇛"
+    },
     "https://vikingfile.com/f/V3pTGu6Fjr": {
       "region": "EUR",
       "size": "115MB",
@@ -11121,6 +11313,30 @@
       "download_text": "Viki",
       "key_description": "DLC (v2) ⇛"
     },
+    "https://vikingfile.com/f/9HOSsz8WMH": {
+      "region": "EUR",
+      "size": "45GB",
+      "version": "1.00",
+      "release": "October 28, 2016",
+      "min_fw": "5.05+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/12/Titanfall-2-PS4-PKG-1.webp",
+      "name": "Titanfall 2",
+      "type": "game",
+      "download_text": "Viki",
+      "key_description": "Game (5.05+) ⇛"
+    },
+    "https://vikingfile.com/f/Jbc5VB5Xg6": {
+      "region": "EUR",
+      "size": "45GB",
+      "version": "1.00",
+      "release": "October 28, 2016",
+      "min_fw": "5.05+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/12/Titanfall-2-PS4-PKG-1.webp",
+      "name": "Titanfall 2",
+      "type": "update",
+      "download_text": "Viki",
+      "key_description": "Update v1.13 (5.05+) ⇛"
+    },
     "https://vikingfile.com/f/YvIEWrOgbk": {
       "region": "USA",
       "size": "10 GB",
@@ -11234,6 +11450,66 @@
       "type": "update",
       "download_text": "Viki",
       "key_description": "Update v1.03 (Fix 5.05/6.72/7.xx/9.00/11.00) ⇛"
+    },
+    "https://vikingfile.com/f/tlfZaURvtq": {
+      "region": "EUR",
+      "size": "6GB",
+      "version": "1.00",
+      "release": "8 Dec 2022",
+      "min_fw": "12.00",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/12/Trailmakers-PS4-PKG.webp",
+      "name": "Trailmakers",
+      "type": "game",
+      "download_text": "Viki",
+      "key_description": "Game (12.00) ⇛"
+    },
+    "https://vikingfile.com/f/KxYDcQNoPj": {
+      "region": "EUR",
+      "size": "6GB",
+      "version": "1.00",
+      "release": "8 Dec 2022",
+      "min_fw": null,
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/12/Trailmakers-PS4-PKG.webp",
+      "name": "Trailmakers",
+      "type": "update",
+      "download_text": "Viki",
+      "key_description": "Update v2.23 OptionalFix ⇛"
+    },
+    "https://vikingfile.com/f/XMmJwREz0U": {
+      "region": "EUR",
+      "size": "6GB",
+      "version": "1.00",
+      "release": "8 Dec 2022",
+      "min_fw": "Fix 6.72/7.xx/9.00/11.00",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/12/Trailmakers-PS4-PKG.webp",
+      "name": "Trailmakers",
+      "type": "update",
+      "download_text": "Viki",
+      "key_description": "Update v2.23 (Fix 6.72/7.xx/9.00/11.00) ⇛"
+    },
+    "https://vikingfile.com/f/GTWTR2HqzC": {
+      "region": "EUR",
+      "size": "6GB",
+      "version": "1.00",
+      "release": "8 Dec 2022",
+      "min_fw": "Fix 5.05",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/12/Trailmakers-PS4-PKG.webp",
+      "name": "Trailmakers",
+      "type": "update",
+      "download_text": "Viki",
+      "key_description": "Update v2.23 (Fix 5.05)"
+    },
+    "https://vikingfile.com/f/fzcjRMeKYm": {
+      "region": "EUR",
+      "size": "6GB",
+      "version": "1.00",
+      "release": "8 Dec 2022",
+      "min_fw": null,
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/12/Trailmakers-PS4-PKG.webp",
+      "name": "Trailmakers",
+      "type": "dlc",
+      "download_text": "Viki",
+      "key_description": "DLC (14) ⇛"
     },
     "https://vikingfile.com/f/mLNN09dV85": {
       "region": "EUR",
@@ -11827,6 +12103,42 @@
       "type": "dlc",
       "download_text": "Viki",
       "key_description": "DLC ⇛"
+    },
+    "https://vikingfile.com/f/PRaxAFUgVD": {
+      "region": "EUR",
+      "size": "5GB",
+      "version": "1.00",
+      "release": "Jul 17, 2025",
+      "min_fw": "12.00",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/12/Upin-Ipin-Universe-PS4-PKG.webp",
+      "name": "Upin Ipin Universe",
+      "type": "game",
+      "download_text": "Viki",
+      "key_description": "Game (12.00) ⇛"
+    },
+    "https://vikingfile.com/f/gf18JavzNY": {
+      "region": "EUR",
+      "size": "5GB",
+      "version": "1.00",
+      "release": "Jul 17, 2025",
+      "min_fw": "12.00",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/12/Upin-Ipin-Universe-PS4-PKG.webp",
+      "name": "Upin Ipin Universe",
+      "type": "update",
+      "download_text": "Viki",
+      "key_description": "Update v1.06 OptionalFix (12.00) ⇛"
+    },
+    "https://vikingfile.com/f/kvLE6GjPYk": {
+      "region": "EUR",
+      "size": "5GB",
+      "version": "1.00",
+      "release": "Jul 17, 2025",
+      "min_fw": "Fix 5.05/6.72/7.xx/9.00/11.00",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/12/Upin-Ipin-Universe-PS4-PKG.webp",
+      "name": "Upin Ipin Universe",
+      "type": "update",
+      "download_text": "Viki",
+      "key_description": "Update v1.06 (Fix 5.05/6.72/7.xx/9.00/11.00)"
     },
     "https://vikingfile.com/f/fphzbcel7q": {
       "region": "EUR",

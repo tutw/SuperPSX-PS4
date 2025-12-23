@@ -300,6 +300,42 @@
       "download_text": "AKR",
       "key_description": "Update v1.02 (5.05+) ⇛"
     },
+    "https://akirabox.com/RMKGJJXZ2G1o/file": {
+      "region": "EUR",
+      "size": "3GB",
+      "version": "1.00",
+      "release": "July 31, 2025",
+      "min_fw": "12.00+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/12/9-Years-of-Shadows-PS4-PKG.webp",
+      "name": "9 Years Of Shadows",
+      "type": "game",
+      "download_text": "AKR",
+      "key_description": "Game (12.00+) ⇛"
+    },
+    "https://akirabox.com/b5OzdjB8ymB8/file": {
+      "region": "EUR",
+      "size": "3GB",
+      "version": "1.00",
+      "release": "July 31, 2025",
+      "min_fw": "Fix 6.72/7.xx/9.00/11.00/12.00",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/12/9-Years-of-Shadows-PS4-PKG.webp",
+      "name": "9 Years Of Shadows",
+      "type": "update",
+      "download_text": "AKR",
+      "key_description": "Update v1.02 (Fix 6.72/7.xx/9.00/11.00/12.00) ⇛"
+    },
+    "https://akirabox.com/9QWmpgYBrGEB/file": {
+      "region": "EUR",
+      "size": "3GB",
+      "version": "1.00",
+      "release": "July 31, 2025",
+      "min_fw": "Fix 5.05",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/12/9-Years-of-Shadows-PS4-PKG.webp",
+      "name": "9 Years Of Shadows",
+      "type": "update",
+      "download_text": "AKR",
+      "key_description": "Update v1.02 (Fix 5.05) ⇛"
+    },
     "https://akirabox.com/2bJG8OWgzOBE/file": {
       "region": "USA",
       "size": "3.9GB",
@@ -4549,6 +4585,54 @@
       "type": "update",
       "download_text": "AKR",
       "key_description": "Update v1.01 (Fix 5.05/6.72/7.xx) ⇛"
+    },
+    "https://akirabox.com/l5YzMgwaOmyO/file": {
+      "region": "EUR",
+      "size": "7GB",
+      "version": "1.00",
+      "release": "19 Sept 2024",
+      "min_fw": null,
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/12/Broken-Sword-Shadow-of-The-Templars-Reforged-PS4-PKG.webp",
+      "name": "Broken Sword Shadow Of The Templars Reforged",
+      "type": "game",
+      "download_text": "AKR",
+      "key_description": "Game ⇛"
+    },
+    "https://akirabox.com/1RgzR16JP3bp/file": {
+      "region": "EUR",
+      "size": "7GB",
+      "version": "1.00",
+      "release": "19 Sept 2024",
+      "min_fw": "12.00+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/12/Broken-Sword-Shadow-of-The-Templars-Reforged-PS4-PKG.webp",
+      "name": "Broken Sword Shadow Of The Templars Reforged",
+      "type": "update",
+      "download_text": "AKR",
+      "key_description": "Update v1.01 (12.00+) ⇛"
+    },
+    "https://akirabox.com/k0embjJgamVb/file": {
+      "region": "EUR",
+      "size": "7GB",
+      "version": "1.00",
+      "release": "19 Sept 2024",
+      "min_fw": "Fix 9.00+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/12/Broken-Sword-Shadow-of-The-Templars-Reforged-PS4-PKG.webp",
+      "name": "Broken Sword Shadow Of The Templars Reforged",
+      "type": "update",
+      "download_text": "AKR",
+      "key_description": "Update v1.01 (Fix 9.00+)(@Oxeres) ⇛"
+    },
+    "https://akirabox.com/Pbe3PdM0Q3lX/file": {
+      "region": "EUR",
+      "size": "7GB",
+      "version": "1.00",
+      "release": "19 Sept 2024",
+      "min_fw": "Fix 5.05+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/12/Broken-Sword-Shadow-of-The-Templars-Reforged-PS4-PKG.webp",
+      "name": "Broken Sword Shadow Of The Templars Reforged",
+      "type": "update",
+      "download_text": "AKR",
+      "key_description": "Update v1.01 (Fix 5.05+)(@Pout) ⇛"
     },
     "https://akirabox.com/k0embvLAamVb/file": {
       "region": "EUR",
@@ -13832,6 +13916,42 @@
       "type": "update",
       "download_text": "AKR",
       "key_description": "Update v1.02 (Fix 5.05/6.72/7.02/7.55/9.00/11.00) ⇛"
+    },
+    "https://akirabox.com/ex5z2B4PlzKq/file": {
+      "region": "EUR",
+      "size": "5GB",
+      "version": "1.00",
+      "release": "Jan 10, 2025",
+      "min_fw": null,
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/12/Freedom-Wars-Remastered-Contribution-Edition-PS4-PKG.webp",
+      "name": "Freedom Wars Remastered Contribution Edition",
+      "type": "game",
+      "download_text": "AKR",
+      "key_description": "Game ⇛"
+    },
+    "https://akirabox.com/jJD3VvR6E3a5/file": {
+      "region": "EUR",
+      "size": "5GB",
+      "version": "1.00",
+      "release": "Jan 10, 2025",
+      "min_fw": "Fix 5.05 / 6.72 / 7.02 / 7.55 / 9.00 / 11.00",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/12/Freedom-Wars-Remastered-Contribution-Edition-PS4-PKG.webp",
+      "name": "Freedom Wars Remastered Contribution Edition",
+      "type": "update",
+      "download_text": "AKR",
+      "key_description": "Update v1.09 (Fix 5.05 / 6.72 / 7.02 / 7.55 / 9.00 / 11.00) ⇛"
+    },
+    "https://akirabox.com/9AqGQdBXNzMn/file": {
+      "region": "EUR",
+      "size": "5GB",
+      "version": "1.00",
+      "release": "Jan 10, 2025",
+      "min_fw": null,
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/12/Freedom-Wars-Remastered-Contribution-Edition-PS4-PKG.webp",
+      "name": "Freedom Wars Remastered Contribution Edition",
+      "type": "dlc",
+      "download_text": "AKR",
+      "key_description": "DLC ⇛"
     },
     "https://akirabox.com/QN9mEgpxz6dW/file": {
       "region": "USA",
@@ -23314,6 +23434,30 @@
       "download_text": "AKR",
       "key_description": "Update v14.10 (Fix 5.05) ⇛"
     },
+    "https://akirabox.com/5pVzN0Pr0m7w/file": {
+      "region": "EUR",
+      "size": "1GB",
+      "version": "1.00",
+      "release": "June 5, 2025",
+      "min_fw": null,
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/12/Myst-PS4-PKG.webp",
+      "name": "Myst",
+      "type": "game",
+      "download_text": "AKR",
+      "key_description": "Game ⇛"
+    },
+    "https://akirabox.com/7d5GLgEjazxR/file": {
+      "region": "EUR",
+      "size": "1GB",
+      "version": "1.00",
+      "release": "June 5, 2025",
+      "min_fw": "Fix 5.05 / 6.72 / 7.02 / 7.55 / 9.00 / 11.00",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/12/Myst-PS4-PKG.webp",
+      "name": "Myst",
+      "type": "update",
+      "download_text": "AKR",
+      "key_description": "Update v1.01 (Fix 5.05 / 6.72 / 7.02 / 7.55 / 9.00 / 11.00) ⇛"
+    },
     "https://akirabox.com/qPez4AJPGOYn/file": {
       "region": "EUR",
       "size": "32 GB",
@@ -24465,30 +24609,6 @@
       "download_text": "AKR",
       "key_description": "DLC v2 ⇛"
     },
-    "https://akirabox.com/obj3jbwn23Dx/file": {
-      "region": "EUR",
-      "size": "500MB",
-      "version": "1.00",
-      "release": "October 14, 2014",
-      "min_fw": "5.05+",
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/08/Nidhogg-PS4-PKG.webp",
-      "name": "Nidhogg 2",
-      "type": "game",
-      "download_text": "AKR",
-      "key_description": "Game (5.05+) ⇛"
-    },
-    "https://akirabox.com/RMKGJXrkl31o/file": {
-      "region": "EUR",
-      "size": "500MB",
-      "version": "1.00",
-      "release": "October 14, 2014",
-      "min_fw": "5.05+",
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/08/Nidhogg-PS4-PKG.webp",
-      "name": "Nidhogg 2",
-      "type": "update",
-      "download_text": "AKR",
-      "key_description": "Update v1.02 (5.05+) ⇛"
-    },
     "https://akirabox.com/7d5GLr56V3xR/file": {
       "region": "EUR",
       "size": "397.15 MB",
@@ -24512,6 +24632,30 @@
       "type": "update",
       "download_text": "AKR",
       "key_description": "Update v1.07 (5.05+) ⇛"
+    },
+    "https://akirabox.com/obj3jbwn23Dx/file": {
+      "region": "EUR",
+      "size": "500MB",
+      "version": "1.00",
+      "release": "October 14, 2014",
+      "min_fw": "5.05+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/08/Nidhogg-PS4-PKG.webp",
+      "name": "Nidhogg 2",
+      "type": "game",
+      "download_text": "AKR",
+      "key_description": "Game (5.05+) ⇛"
+    },
+    "https://akirabox.com/RMKGJXrkl31o/file": {
+      "region": "EUR",
+      "size": "500MB",
+      "version": "1.00",
+      "release": "October 14, 2014",
+      "min_fw": "5.05+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/08/Nidhogg-PS4-PKG.webp",
+      "name": "Nidhogg 2",
+      "type": "update",
+      "download_text": "AKR",
+      "key_description": "Update v1.02 (5.05+) ⇛"
     },
     "https://akirabox.com/0Kezk9162mD1/file": {
       "region": "EUR",
@@ -27962,6 +28106,30 @@
       "type": "dlc",
       "download_text": "AKR",
       "key_description": "DLC ⇛"
+    },
+    "https://akirabox.com/7d5GLgrpbzxR/file": {
+      "region": "EUR",
+      "size": "8GB",
+      "version": "1.00",
+      "release": "May 8, 2025",
+      "min_fw": null,
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/12/Revenge-of-The-Savage-Planet-PS4-PKG.webp",
+      "name": "Revenge Of The Savage Planet",
+      "type": "game",
+      "download_text": "AKR",
+      "key_description": "Game ⇛"
+    },
+    "https://akirabox.com/dZxG5415PzVj/file": {
+      "region": "EUR",
+      "size": "8GB",
+      "version": "1.00",
+      "release": "May 8, 2025",
+      "min_fw": "Fix 5.05 / 6.72 / 7.02 / 7.55 / 9.00 / 11.00",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/12/Revenge-of-The-Savage-Planet-PS4-PKG.webp",
+      "name": "Revenge Of The Savage Planet",
+      "type": "update",
+      "download_text": "AKR",
+      "key_description": "Update v1.04 (Fix 5.05 / 6.72 / 7.02 / 7.55 / 9.00 / 11.00) ⇛"
     },
     "https://akirabox.com/M2BGwQbk3j40/file": {
       "region": "EUR",
@@ -35869,6 +36037,30 @@
       "download_text": "AKR",
       "key_description": "Update v1.03 (Fix 5.05/6.72/7.xx/8.xx) ⇛"
     },
+    "https://akirabox.com/APVmargjv3Xo/file": {
+      "region": "EUR",
+      "size": "4GB",
+      "version": "1.00",
+      "release": "Aug 7, 2025",
+      "min_fw": null,
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/12/The-House-of-The-Dead-2-Remake-PS4-PKG.webp",
+      "name": "The House Of The Dead 2 Remake",
+      "type": "game",
+      "download_text": "AKR",
+      "key_description": "Game ⇛"
+    },
+    "https://akirabox.com/wgWGq5Y8yG4o/file": {
+      "region": "EUR",
+      "size": "4GB",
+      "version": "1.00",
+      "release": "Aug 7, 2025",
+      "min_fw": "Fix 5.05 / 6.72 / 7.02 / 7.55 / 9.00 / 11.00",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/12/The-House-of-The-Dead-2-Remake-PS4-PKG.webp",
+      "name": "The House Of The Dead 2 Remake",
+      "type": "update",
+      "download_text": "AKR",
+      "key_description": "Update v1.01 (Fix 5.05 / 6.72 / 7.02 / 7.55 / 9.00 / 11.00) ⇛"
+    },
     "https://akirabox.com/5pVzNq8X37wv/file": {
       "region": "EUR",
       "size": "767.82 MB",
@@ -37809,6 +38001,30 @@
       "download_text": "AKR",
       "key_description": "DLC ⇛"
     },
+    "https://akirabox.com/dkD3YOqE7GLQ/file": {
+      "region": "EUR",
+      "size": "45GB",
+      "version": "1.00",
+      "release": "October 28, 2016",
+      "min_fw": "5.05+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/12/Titanfall-2-PS4-PKG-1.webp",
+      "name": "Titanfall 2",
+      "type": "game",
+      "download_text": "AKR",
+      "key_description": "Game (5.05+) ⇛"
+    },
+    "https://akirabox.com/dZxG541x6zVj/file": {
+      "region": "EUR",
+      "size": "45GB",
+      "version": "1.00",
+      "release": "October 28, 2016",
+      "min_fw": "5.05+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/12/Titanfall-2-PS4-PKG-1.webp",
+      "name": "Titanfall 2",
+      "type": "update",
+      "download_text": "AKR",
+      "key_description": "Update v1.13 (5.05+) ⇛"
+    },
     "https://akirabox.com/Pbe3PkvJmlX6/file": {
       "region": "USA",
       "size": "2.19 GB",
@@ -38489,6 +38705,66 @@
       "type": "update",
       "download_text": "AKR",
       "key_description": "Update 1.03 (Fix 5.05/6.72/7.02/7.55/9.00) ⇛"
+    },
+    "https://akirabox.com/RMKGJJkR2G1o/file": {
+      "region": "EUR",
+      "size": "6GB",
+      "version": "1.00",
+      "release": "8 Dec 2022",
+      "min_fw": "12.00",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/12/Trailmakers-PS4-PKG.webp",
+      "name": "Trailmakers",
+      "type": "game",
+      "download_text": "AKR",
+      "key_description": "Game (12.00) ⇛"
+    },
+    "https://akirabox.com/QN9mEaYjLm6d/file": {
+      "region": "EUR",
+      "size": "6GB",
+      "version": "1.00",
+      "release": "8 Dec 2022",
+      "min_fw": null,
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/12/Trailmakers-PS4-PKG.webp",
+      "name": "Trailmakers",
+      "type": "update",
+      "download_text": "AKR",
+      "key_description": "Update v2.23 OptionalFix ⇛"
+    },
+    "https://akirabox.com/EL73g6jREm9B/file": {
+      "region": "EUR",
+      "size": "6GB",
+      "version": "1.00",
+      "release": "8 Dec 2022",
+      "min_fw": "Fix 6.72/7.xx/9.00/11.00",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/12/Trailmakers-PS4-PKG.webp",
+      "name": "Trailmakers",
+      "type": "update",
+      "download_text": "AKR",
+      "key_description": "Update v2.23 (Fix 6.72/7.xx/9.00/11.00) ⇛"
+    },
+    "https://akirabox.com/2WVGr1Q64zkx/file": {
+      "region": "EUR",
+      "size": "6GB",
+      "version": "1.00",
+      "release": "8 Dec 2022",
+      "min_fw": "Fix 5.05",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/12/Trailmakers-PS4-PKG.webp",
+      "name": "Trailmakers",
+      "type": "update",
+      "download_text": "AKR",
+      "key_description": "Update v2.23 (Fix 5.05)"
+    },
+    "https://akirabox.com/M2BGwOwkNGj4/file": {
+      "region": "EUR",
+      "size": "6GB",
+      "version": "1.00",
+      "release": "8 Dec 2022",
+      "min_fw": null,
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/12/Trailmakers-PS4-PKG.webp",
+      "name": "Trailmakers",
+      "type": "dlc",
+      "download_text": "AKR",
+      "key_description": "DLC (14) ⇛"
     },
     "https://akirabox.com/jJD3VW1pOza5/file": {
       "region": "EUR",
@@ -40254,6 +40530,42 @@
       "type": "update",
       "download_text": "AKR",
       "key_description": "Update v1.09 (7.50+) ⇛"
+    },
+    "https://akirabox.com/gXeGOagZP3Aa/file": {
+      "region": "EUR",
+      "size": "5GB",
+      "version": "1.00",
+      "release": "Jul 17, 2025",
+      "min_fw": "12.00",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/12/Upin-Ipin-Universe-PS4-PKG.webp",
+      "name": "Upin Ipin Universe",
+      "type": "game",
+      "download_text": "AKR",
+      "key_description": "Game (12.00) ⇛"
+    },
+    "https://akirabox.com/b5OzdjBD9mB8/file": {
+      "region": "EUR",
+      "size": "5GB",
+      "version": "1.00",
+      "release": "Jul 17, 2025",
+      "min_fw": "12.00",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/12/Upin-Ipin-Universe-PS4-PKG.webp",
+      "name": "Upin Ipin Universe",
+      "type": "update",
+      "download_text": "AKR",
+      "key_description": "Update v1.06 OptionalFix (12.00) ⇛"
+    },
+    "https://akirabox.com/qLQ364o2YG19/file": {
+      "region": "EUR",
+      "size": "5GB",
+      "version": "1.00",
+      "release": "Jul 17, 2025",
+      "min_fw": "Fix 5.05/6.72/7.xx/9.00/11.00",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/12/Upin-Ipin-Universe-PS4-PKG.webp",
+      "name": "Upin Ipin Universe",
+      "type": "update",
+      "download_text": "AKR",
+      "key_description": "Update v1.06 (Fix 5.05/6.72/7.xx/9.00/11.00)"
     },
     "https://akirabox.com/LJlGn1lWAz15/file": {
       "region": "EUR",

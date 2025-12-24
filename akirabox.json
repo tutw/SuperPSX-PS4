@@ -20275,42 +20275,6 @@
       "download_text": "AKR",
       "key_description": "Additional Content DLC ⇛"
     },
-    "https://akirabox.com/qPez4ARxGOYn/file": {
-      "region": "EUR",
-      "size": "2.56 GB",
-      "version": "1.00",
-      "release": "28 April 2017",
-      "min_fw": "5.05+",
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/06/Little-Nightmares-PS4-cover.webp",
-      "name": "Little Nightmares",
-      "type": "game",
-      "download_text": "AKR",
-      "key_description": "Game (5.05+) ⇛"
-    },
-    "https://akirabox.com/qw1zed6j3Xyn/file": {
-      "region": "EUR",
-      "size": "2.56 GB",
-      "version": "1.00",
-      "release": "28 April 2017",
-      "min_fw": "5.05+",
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/06/Little-Nightmares-PS4-cover.webp",
-      "name": "Little Nightmares",
-      "type": "update",
-      "download_text": "AKR",
-      "key_description": "Update v1.07 (5.05+) ⇛"
-    },
-    "https://akirabox.com/E1x3AVXnzyk6/file": {
-      "region": "EUR",
-      "size": "2.56 GB",
-      "version": "1.00",
-      "release": "28 April 2017",
-      "min_fw": null,
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/06/Little-Nightmares-PS4-cover.webp",
-      "name": "Little Nightmares",
-      "type": "dlc",
-      "download_text": "AKR",
-      "key_description": "DLC (7) ⇛"
-    },
     "https://akirabox.com/qw1zeDW03Xyn/file": {
       "region": "EUR",
       "size": "4 GB",

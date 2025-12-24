@@ -27471,6 +27471,78 @@
       "download_text": "OneFile",
       "key_description": "Update v1.08 (Fix 5.05/6.72/7.02) ⇛"
     },
+    "https://1fichier.com/?0xxn83s2jvmxdy4s07jd&af=4186346": {
+      "region": "EUR",
+      "size": "2.56 GB",
+      "version": "1.00",
+      "release": "28 April 2017",
+      "min_fw": "5.05+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/06/Little-Nightmares-PS4-cover.webp",
+      "name": "Little Nightmares",
+      "type": "game",
+      "download_text": "OneFile",
+      "key_description": "Game (5.05+) ⇛"
+    },
+    "https://1fichier.com/?0raeianh6ujc14d5ewrp&af=4186346": {
+      "region": "EUR",
+      "size": "2.56 GB",
+      "version": "1.00",
+      "release": "28 April 2017",
+      "min_fw": "5.05+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/06/Little-Nightmares-PS4-cover.webp",
+      "name": "Little Nightmares",
+      "type": "update",
+      "download_text": "OneFile",
+      "key_description": "Update v1.07 (5.05+) ⇛"
+    },
+    "https://1fichier.com/?1nwhk5xoc4zlcb4bcc5e&af=4186346": {
+      "region": "EUR",
+      "size": "2.56 GB",
+      "version": "1.00",
+      "release": "28 April 2017",
+      "min_fw": null,
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/06/Little-Nightmares-PS4-cover.webp",
+      "name": "Little Nightmares",
+      "type": "dlc",
+      "download_text": "OneFile",
+      "key_description": "DLC (7) ⇛"
+    },
+    "https://1fichier.com/?0xxn83s2jvmxdy4s07jd": {
+      "region": "EUR",
+      "size": "2.56 GB",
+      "version": "1.00",
+      "release": "28 April 2017",
+      "min_fw": null,
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/06/Little-Nightmares-PS4-cover.webp",
+      "name": "Little Nightmares",
+      "type": "game",
+      "download_text": "OneFile",
+      "key_description": "Game ⇛"
+    },
+    "https://1fichier.com/?0raeianh6ujc14d5ewrp": {
+      "region": "EUR",
+      "size": "2.56 GB",
+      "version": "1.00",
+      "release": "28 April 2017",
+      "min_fw": "5.05",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/06/Little-Nightmares-PS4-cover.webp",
+      "name": "Little Nightmares",
+      "type": "update",
+      "download_text": "OneFile",
+      "key_description": "Update v1.07 (5.05) ⇛"
+    },
+    "https://1fichier.com/?1nwhk5xoc4zlcb4bcc5e": {
+      "region": "EUR",
+      "size": "2.56 GB",
+      "version": "1.00",
+      "release": "28 April 2017",
+      "min_fw": null,
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/06/Little-Nightmares-PS4-cover.webp",
+      "name": "Little Nightmares",
+      "type": "dlc",
+      "download_text": "OneFile",
+      "key_description": "DLC (7) ⇛"
+    },
     "https://1fichier.com/?orjt3jl7x0xvuse2gj6x&af=4186346": {
       "region": "EUR",
       "size": "4 GB",
@@ -33700,30 +33772,6 @@
       "download_text": "OneFile",
       "key_description": "DLC ⇛"
     },
-    "https://1fichier.com/?x0l1nv7408ke0kb720il&af=4186346": {
-      "region": "EUR",
-      "size": "500MB",
-      "version": "1.00",
-      "release": "October 14, 2014",
-      "min_fw": "5.05+",
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/08/Nidhogg-PS4-PKG.webp",
-      "name": "Nidhogg 2",
-      "type": "game",
-      "download_text": "OneFile",
-      "key_description": "Game (5.05+) ⇛"
-    },
-    "https://1fichier.com/?bry9hepim2a628h6iylm&af=4186346": {
-      "region": "EUR",
-      "size": "500MB",
-      "version": "1.00",
-      "release": "October 14, 2014",
-      "min_fw": "5.05+",
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/08/Nidhogg-PS4-PKG.webp",
-      "name": "Nidhogg 2",
-      "type": "update",
-      "download_text": "OneFile",
-      "key_description": "Update v1.02 (5.05+) ⇛"
-    },
     "https://1fichier.com/?e7psyde2u42xep77z9a9&af=4186346": {
       "region": "EUR",
       "size": "397.15 MB",
@@ -33747,6 +33795,30 @@
       "type": "update",
       "download_text": "OneFile",
       "key_description": "Update v1.07 (5.05+) ⇛"
+    },
+    "https://1fichier.com/?x0l1nv7408ke0kb720il&af=4186346": {
+      "region": "EUR",
+      "size": "500MB",
+      "version": "1.00",
+      "release": "October 14, 2014",
+      "min_fw": "5.05+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/08/Nidhogg-PS4-PKG.webp",
+      "name": "Nidhogg 2",
+      "type": "game",
+      "download_text": "OneFile",
+      "key_description": "Game (5.05+) ⇛"
+    },
+    "https://1fichier.com/?bry9hepim2a628h6iylm&af=4186346": {
+      "region": "EUR",
+      "size": "500MB",
+      "version": "1.00",
+      "release": "October 14, 2014",
+      "min_fw": "5.05+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/08/Nidhogg-PS4-PKG.webp",
+      "name": "Nidhogg 2",
+      "type": "update",
+      "download_text": "OneFile",
+      "key_description": "Update v1.02 (5.05+) ⇛"
     },
     "https://1fichier.com/?l85tz68ijgs1udp3fkom&af=4186346": {
       "region": "EUR",

@@ -5788,6 +5788,42 @@
       "download_text": "Viki",
       "key_description": "Game Info Fix ⇛"
     },
+    "https://vikingfile.com/f/vDeL3A9fG3": {
+      "region": "EUR",
+      "size": "380MB",
+      "version": "1.00",
+      "release": "November 13, 2020",
+      "min_fw": null,
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/KINGDOM-HEARTS-Melody-of-Memory-PS4-PKG.webp",
+      "name": "Kingdom Hearts Melody Memory",
+      "type": "game",
+      "download_text": "Viki",
+      "key_description": "Game ⇛"
+    },
+    "https://vikingfile.com/f/8VwxAapDi6": {
+      "region": "EUR",
+      "size": "380MB",
+      "version": "1.00",
+      "release": "November 13, 2020",
+      "min_fw": null,
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/KINGDOM-HEARTS-Melody-of-Memory-PS4-PKG.webp",
+      "name": "Kingdom Hearts Melody Memory",
+      "type": "update",
+      "download_text": "Viki",
+      "key_description": "Update v1.04 ⇛"
+    },
+    "https://vikingfile.com/f/8VwxAapDi6&af=4186346": {
+      "region": "EUR",
+      "size": "380MB",
+      "version": "1.00",
+      "release": "November 13, 2020",
+      "min_fw": null,
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/KINGDOM-HEARTS-Melody-of-Memory-PS4-PKG.webp",
+      "name": "Kingdom Hearts Melody Memory",
+      "type": "update",
+      "download_text": "OneFile",
+      "key_description": "Update v1.04 ⇛"
+    },
     "https://vikingfile.com/f/jZqEjXDZEx": {
       "region": "EUR",
       "size": "33.94 GB",

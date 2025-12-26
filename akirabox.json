@@ -16218,6 +16218,114 @@
       "download_text": "AKR",
       "key_description": "DLC ⇛"
     },
+    "https://akirabox.com/Pbe3PdMyW3lX/file": {
+      "region": "EUR",
+      "size": "26GB",
+      "version": "1.00",
+      "release": "January 11, 2019",
+      "min_fw": null,
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/12/Hitman-Absolution-HD-PS4-PKG.webp",
+      "name": "Hitman Absolution HD",
+      "type": "game",
+      "download_text": "AKR",
+      "key_description": "Game (5.50+) ⇛"
+    },
+    "https://akirabox.com/BnkmWEVyPzR0/file": {
+      "region": "EUR",
+      "size": "26GB",
+      "version": "1.00",
+      "release": "January 11, 2019",
+      "min_fw": null,
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/12/Hitman-Absolution-HD-PS4-PKG.webp",
+      "name": "Hitman Absolution HD",
+      "type": "update",
+      "download_text": "AKR",
+      "key_description": "Update v1.02 (5.50+) ⇛"
+    },
+    "https://akirabox.com/ex5z2Bk7BzKq/file": {
+      "region": "EUR",
+      "size": "26GB",
+      "version": "1.00",
+      "release": "January 11, 2019",
+      "min_fw": "Fix 5.05",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/12/Hitman-Absolution-HD-PS4-PKG.webp",
+      "name": "Hitman Absolution HD",
+      "type": "update",
+      "download_text": "AKR",
+      "key_description": "Update v1.02 (Fix 5.05) ⇛"
+    },
+    "https://akirabox.com/QN9mEaYyRm6d/file": {
+      "region": "EUR",
+      "size": "5GB",
+      "version": "1.00",
+      "release": "January 11, 2019",
+      "min_fw": null,
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/12/Hitman-Blood-Money-HD-PS4-PKG.webp",
+      "name": "Hitman Blood Money HD",
+      "type": "game",
+      "download_text": "AKR",
+      "key_description": "Game (5.50+) ⇛"
+    },
+    "https://akirabox.com/qLQ364p7KG19/file": {
+      "region": "EUR",
+      "size": "5GB",
+      "version": "1.00",
+      "release": "January 11, 2019",
+      "min_fw": null,
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/12/Hitman-Blood-Money-HD-PS4-PKG.webp",
+      "name": "Hitman Blood Money HD",
+      "type": "update",
+      "download_text": "AKR",
+      "key_description": "Update v1.02 (5.50+) ⇛"
+    },
+    "https://akirabox.com/ZvqzlAYk0GaD/file": {
+      "region": "EUR",
+      "size": "5GB",
+      "version": "2",
+      "release": "January 11, 2019",
+      "min_fw": "Fix 5.05",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/12/Hitman-Blood-Money-HD-PS4-PKG.webp",
+      "name": "Hitman Blood Money HD",
+      "type": "update",
+      "download_text": "AKR",
+      "key_description": "Update v1.02 (Fix 5.05)(v2) ⇛"
+    },
+    "https://akirabox.com/Pbe3Pdg4Y3lX/file": {
+      "region": "EUR",
+      "size": "45GB",
+      "version": "1.00",
+      "release": "November 7, 2017",
+      "min_fw": null,
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/12/Hitman-Game-of-The-Year-Edition-PS4-PKG.webp",
+      "name": "Hitman Game Of The Year Edition",
+      "type": "game",
+      "download_text": "AKR",
+      "key_description": "Game ⇛"
+    },
+    "https://akirabox.com/0KezkEo7jmD1/file": {
+      "region": "EUR",
+      "size": "45GB",
+      "version": "1.00",
+      "release": "November 7, 2017",
+      "min_fw": null,
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/12/Hitman-Game-of-The-Year-Edition-PS4-PKG.webp",
+      "name": "Hitman Game Of The Year Edition",
+      "type": "update",
+      "download_text": "AKR",
+      "key_description": "Update v1.37 ⇛"
+    },
+    "https://akirabox.com/l5YzMgxZKmyO/file": {
+      "region": "EUR",
+      "size": "45GB",
+      "version": "1.00",
+      "release": "November 7, 2017",
+      "min_fw": null,
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/12/Hitman-Game-of-The-Year-Edition-PS4-PKG.webp",
+      "name": "Hitman Game Of The Year Edition",
+      "type": "dlc",
+      "download_text": "AKR",
+      "key_description": "All DLC ⇛"
+    },
     "https://akirabox.com/vgKGx2r838Qn/file": {
       "region": "EUR",
       "size": "2.5 GB",
@@ -17430,6 +17538,30 @@
       "type": "update",
       "download_text": "AKR",
       "key_description": "Update v1.04 (5.05+) ⇛"
+    },
+    "https://akirabox.com/0PdzyvvD4GeA/file": {
+      "region": "EUR",
+      "size": "19GB",
+      "version": "1.00",
+      "release": "November 12, 2013",
+      "min_fw": null,
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/12/Injustice-Gods-Among-Us-Ultimate-Edition-PS4-PKG.webp",
+      "name": "Injustice Gods Among Us Ultimate Edition",
+      "type": "game",
+      "download_text": "AKR",
+      "key_description": "Game ⇛"
+    },
+    "https://akirabox.com/5pVzN00WJm7w/file": {
+      "region": "EUR",
+      "size": "19GB",
+      "version": "1.00",
+      "release": "November 12, 2013",
+      "min_fw": null,
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/12/Injustice-Gods-Among-Us-Ultimate-Edition-PS4-PKG.webp",
+      "name": "Injustice Gods Among Us Ultimate Edition",
+      "type": "update",
+      "download_text": "AKR",
+      "key_description": "Update v1.02 ⇛"
     },
     "https://akirabox.com/b5OzdJLLamB8/file": {
       "region": "USA",
@@ -39937,6 +40069,30 @@
       "type": "game",
       "download_text": "AKR",
       "key_description": "(Fix 5.05) ⇛"
+    },
+    "https://akirabox.com/qLQ3641qBG19/file": {
+      "region": "EUR",
+      "size": "600MB",
+      "version": "1.00",
+      "release": "March 28, 2017",
+      "min_fw": "5.05+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/12/Ultimate-Chicken-Horse-PS4-PKG.webp",
+      "name": "Ultimate Chicken Horse",
+      "type": "game",
+      "download_text": "AKR",
+      "key_description": "Game (5.05+) ⇛"
+    },
+    "https://akirabox.com/gXeGOa1Ak3Aa/file": {
+      "region": "EUR",
+      "size": "600MB",
+      "version": "1.00",
+      "release": "March 28, 2017",
+      "min_fw": "5.05+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/12/Ultimate-Chicken-Horse-PS4-PKG.webp",
+      "name": "Ultimate Chicken Horse",
+      "type": "update",
+      "download_text": "AKR",
+      "key_description": "Update v1.10 (5.05+) ⇛"
     },
     "https://akirabox.com/7d5GL1gAjmxR/file": {
       "region": "EUR",

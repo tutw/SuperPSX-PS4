@@ -5931,6 +5931,90 @@
       "type": "game",
       "download_text": "ZippyS",
       "key_description": "Game ⇛"
+    },
+    "https://buzzheavier.com/30qssasaaa3y": {
+      "region": "EUR",
+      "size": "7GB",
+      "version": "1.00",
+      "release": "February 2, 2021",
+      "min_fw": null,
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/Ys-IX_-Monstrum-Nox-PS4-PKG.webp",
+      "name": "Ys IX Monstrum Nox",
+      "type": "game",
+      "download_text": "BuzzH",
+      "key_description": "Game (7.50+) ⇛"
+    },
+    "https://buzzheavier.com/3r3yv2vtitg7": {
+      "region": "EUR",
+      "size": "7GB",
+      "version": "1.00",
+      "release": "February 2, 2021",
+      "min_fw": null,
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/Ys-IX_-Monstrum-Nox-PS4-PKG.webp",
+      "name": "Ys IX Monstrum Nox",
+      "type": "update",
+      "download_text": "BuzzH",
+      "key_description": "Update v1.02 (7.50+) ⇛"
+    },
+    "https://buzzheavier.com/oisyw4fqtx8o": {
+      "region": "EUR",
+      "size": "7GB",
+      "version": "1.00",
+      "release": "February 2, 2021",
+      "min_fw": "Fix 5.05",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/Ys-IX_-Monstrum-Nox-PS4-PKG.webp",
+      "name": "Ys IX Monstrum Nox",
+      "type": "update",
+      "download_text": "BuzzH",
+      "key_description": "Update v1.02 (Fix 5.05)"
+    },
+    "https://buzzheavier.com/tedc8cygqlha": {
+      "region": "EUR",
+      "size": "7GB",
+      "version": "1.00",
+      "release": "February 2, 2021",
+      "min_fw": null,
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/Ys-IX_-Monstrum-Nox-PS4-PKG.webp",
+      "name": "Ys IX Monstrum Nox",
+      "type": "dlc",
+      "download_text": "BuzzH",
+      "key_description": "DLC ⇛"
+    },
+    "https://datanodes.to/0x29x9pbrpho/[SPSX]-Ys.X.Nordics.Ultimate.Edition-CUSA47529-USA-Game-PS4.pkg": {
+      "region": "EUR",
+      "size": "40GB",
+      "version": "1.00",
+      "release": "September 25, 2024",
+      "min_fw": "5.05+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/12/Ys-X-Nordics-Digital-Ultimate-Edition.webp",
+      "name": "Ys X Nordics Ultimate Edition",
+      "type": "game",
+      "download_text": "DataN",
+      "key_description": "Game ⇛"
+    },
+    "https://datanodes.to/od3pjtr1xs56/[SPSX]-Ys.X.Nordics.Ultimate.Edition-CUSA47529-USA-v1.03-[Fix.5.05-11.00]-PS4.pkg": {
+      "region": "EUR",
+      "size": "40GB",
+      "version": "1.00",
+      "release": "September 25, 2024",
+      "min_fw": "Fix 5.05/6.72/7.02/7.55/9.00/11.00",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/12/Ys-X-Nordics-Digital-Ultimate-Edition.webp",
+      "name": "Ys X Nordics Ultimate Edition",
+      "type": "update",
+      "download_text": "DataN",
+      "key_description": "Update 1.03 (Fix 5.05/6.72/7.02/7.55/9.00/11.00)"
+    },
+    "https://datanodes.to/nlwi3fethgh0/[SPSX]-Ys.X.Nordics.Ultimate.Edition-CUSA47529-USA-DLCs-PS4.rar": {
+      "region": "EUR",
+      "size": "40GB",
+      "version": "1.00",
+      "release": "September 25, 2024",
+      "min_fw": "5.05+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/12/Ys-X-Nordics-Digital-Ultimate-Edition.webp",
+      "name": "Ys X Nordics Ultimate Edition",
+      "type": "dlc",
+      "download_text": "DataN",
+      "key_description": "DLC"
     }
   }
 }

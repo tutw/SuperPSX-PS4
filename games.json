@@ -12921,66 +12921,6 @@
       "type": "game",
       "download_text": "Viki",
       "key_description": "Fix (5.05 / 6.72 / 7.02 / 7.55 / 9.00 / 11.00) ⇛"
-    },
-    "https://vikingfile.com/f/NxKQp9Uicn": {
-      "region": "EUR",
-      "size": "1GB",
-      "version": "1.00",
-      "release": "November 20, 2018",
-      "min_fw": "6.72+",
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/10/Youtubers-Life-OMG-PS4-PKG.webp",
-      "name": "Youtubers Life Omg",
-      "type": "game",
-      "download_text": "Viki",
-      "key_description": "Game (6.72+) ⇛"
-    },
-    "https://vikingfile.com/f/wEbMthF0Wy": {
-      "region": "EUR",
-      "size": "1GB",
-      "version": "1.00",
-      "release": "November 20, 2018",
-      "min_fw": "Fix 5.05/6.72",
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/10/Youtubers-Life-OMG-PS4-PKG.webp",
-      "name": "Youtubers Life Omg",
-      "type": "update",
-      "download_text": "Viki",
-      "key_description": "Update v1.06 (Fix 5.05/6.72) ⇛"
-    },
-    "https://vikingfile.com/f/371Es3kpz2": {
-      "region": "EUR",
-      "size": "159MB",
-      "version": "1.00",
-      "release": "25 Aug 2022",
-      "min_fw": "9.00+",
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/09/Zengeon-PS4-PKG.webp",
-      "name": "Zengeon",
-      "type": "game",
-      "download_text": "Viki",
-      "key_description": "Game + Upv1.08 (9.00+) ⇛"
-    },
-    "https://vikingfile.com/f/JuWH45I3Qd": {
-      "region": "EUR",
-      "size": "159MB",
-      "version": "1.00",
-      "release": "25 Aug 2022",
-      "min_fw": "Fix 5.05/6.72/7.xx",
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/09/Zengeon-PS4-PKG.webp",
-      "name": "Zengeon",
-      "type": "update",
-      "download_text": "Viki",
-      "key_description": "Update v1.08 (Fix 5.05/6.72/7.xx) ⇛"
-    },
-    "https://vikingfile.com/f/NNqG0iic8j": {
-      "region": "EUR",
-      "size": "4.5GB",
-      "version": "1.01",
-      "release": "June 16, 2022",
-      "min_fw": "9.00+",
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/08/Zorro-The-Chronicles-PS4-PKG.webp",
-      "name": "Zorro The Chronicles",
-      "type": "game",
-      "download_text": "Viki",
-      "key_description": "Game (v1.01)(9.00+) ⇛"
     }
   }
 }

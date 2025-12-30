@@ -2026,6 +2026,30 @@
       "download_text": "WeTFR",
       "key_description": "Game ⇛"
     },
+    "https://www.rootz.so/d/1lF5Em": {
+      "region": "EUR",
+      "size": "12GB",
+      "version": "1.00",
+      "release": "Nov 17, 2022",
+      "min_fw": null,
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/12/Goat-Simulator-3-PS4-PKG.webp",
+      "name": "Goat Simulator 3",
+      "type": "game",
+      "download_text": "RTZ",
+      "key_description": "Game ⇛"
+    },
+    "https://www.rootz.so/d/gcYGe": {
+      "region": "EUR",
+      "size": "12GB",
+      "version": "1.00",
+      "release": "Nov 17, 2022",
+      "min_fw": "Fix 5.05-12.00",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/12/Goat-Simulator-3-PS4-PKG.webp",
+      "name": "Goat Simulator 3",
+      "type": "update",
+      "download_text": "RTZ",
+      "key_description": "Update v1.10 (Fix 5.05-12.00) ⇛"
+    },
     "https://anotepad.com/notes/455tdrbk": {
       "region": "EUR",
       "size": "5.35 GB",
@@ -3855,6 +3879,42 @@
       "type": "game",
       "download_text": "ZippyS",
       "key_description": "Game ⇛"
+    },
+    "https://www.rootz.so/d/u5CYy": {
+      "region": "EUR",
+      "size": "6GB",
+      "version": "1.00",
+      "release": "Sep 26, 2025",
+      "min_fw": null,
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/12/PAC-MAN-WORLD-2-Re-PAC-PS4.webp",
+      "name": "Pac Man World 2 Re Pac Deluxe Edition",
+      "type": "game",
+      "download_text": "RTZ",
+      "key_description": "Game ⇛"
+    },
+    "https://www.rootz.so/d/26lRKK": {
+      "region": "EUR",
+      "size": "6GB",
+      "version": "1.00",
+      "release": "Sep 26, 2025",
+      "min_fw": "Fix 5.05 / 6.72 / 7.02 / 7.55 / 9.00 / 11.00",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/12/PAC-MAN-WORLD-2-Re-PAC-PS4.webp",
+      "name": "Pac Man World 2 Re Pac Deluxe Edition",
+      "type": "update",
+      "download_text": "RTZ",
+      "key_description": "Update v1.03 (Fix 5.05 / 6.72 / 7.02 / 7.55 / 9.00 / 11.00) ⇛"
+    },
+    "https://www.rootz.so/d/22jaSm": {
+      "region": "EUR",
+      "size": "6GB",
+      "version": "1.00",
+      "release": "Sep 26, 2025",
+      "min_fw": null,
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/12/PAC-MAN-WORLD-2-Re-PAC-PS4.webp",
+      "name": "Pac Man World 2 Re Pac Deluxe Edition",
+      "type": "dlc",
+      "download_text": "RTZ",
+      "key_description": "DLC ⇛"
     },
     "https://filecrypt.co/Container/47DBBAC293.html": {
       "region": "EUR",

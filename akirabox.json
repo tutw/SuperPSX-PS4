@@ -14571,6 +14571,30 @@
       "download_text": "AKR",
       "key_description": "Game (5.05+) ⇛"
     },
+    "https://akirabox.com/ZvqzlA0bBGaD/file": {
+      "region": "EUR",
+      "size": "12GB",
+      "version": "1.00",
+      "release": "Nov 17, 2022",
+      "min_fw": null,
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/12/Goat-Simulator-3-PS4-PKG.webp",
+      "name": "Goat Simulator 3",
+      "type": "game",
+      "download_text": "AKR",
+      "key_description": "Game ⇛"
+    },
+    "https://akirabox.com/BnkmWE7aYzR0/file": {
+      "region": "EUR",
+      "size": "12GB",
+      "version": "1.00",
+      "release": "Nov 17, 2022",
+      "min_fw": "Fix 5.05-12.00",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/12/Goat-Simulator-3-PS4-PKG.webp",
+      "name": "Goat Simulator 3",
+      "type": "update",
+      "download_text": "AKR",
+      "key_description": "Update v1.10 (Fix 5.05-12.00) ⇛"
+    },
     "https://akirabox.com/b5Ozdkw43B8L/file": {
       "region": "EUR",
       "size": "10.45 GB",
@@ -26140,6 +26164,42 @@
       "type": "update",
       "download_text": "AKR",
       "key_description": "Update v1.01 (5.05+) ⇛"
+    },
+    "https://akirabox.com/qLQ364xkEG19/file": {
+      "region": "EUR",
+      "size": "6GB",
+      "version": "1.00",
+      "release": "Sep 26, 2025",
+      "min_fw": null,
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/12/PAC-MAN-WORLD-2-Re-PAC-PS4.webp",
+      "name": "Pac Man World 2 Re Pac Deluxe Edition",
+      "type": "game",
+      "download_text": "AKR",
+      "key_description": "Game ⇛"
+    },
+    "https://akirabox.com/b5Ozdjp4AmB8/file": {
+      "region": "EUR",
+      "size": "6GB",
+      "version": "1.00",
+      "release": "Sep 26, 2025",
+      "min_fw": "Fix 5.05 / 6.72 / 7.02 / 7.55 / 9.00 / 11.00",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/12/PAC-MAN-WORLD-2-Re-PAC-PS4.webp",
+      "name": "Pac Man World 2 Re Pac Deluxe Edition",
+      "type": "update",
+      "download_text": "AKR",
+      "key_description": "Update v1.03 (Fix 5.05 / 6.72 / 7.02 / 7.55 / 9.00 / 11.00) ⇛"
+    },
+    "https://akirabox.com/M2BGwOWv5Gj4/folder": {
+      "region": "EUR",
+      "size": "6GB",
+      "version": "1.00",
+      "release": "Sep 26, 2025",
+      "min_fw": null,
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/12/PAC-MAN-WORLD-2-Re-PAC-PS4.webp",
+      "name": "Pac Man World 2 Re Pac Deluxe Edition",
+      "type": "dlc",
+      "download_text": "AKR",
+      "key_description": "DLC ⇛"
     },
     "https://akirabox.com/E1x3AdYyDmyk/file": {
       "region": "EUR",

@@ -11831,30 +11831,6 @@
       "download_text": "AKR",
       "key_description": "Update v1.04 (Fix 5.05/6.72/7.xx/8.xx) ⇛"
     },
-    "https://akirabox.com/E1x3AArn3yk6/file": {
-      "region": "EUR",
-      "size": "1.08 GB",
-      "version": "1.00",
-      "release": "5 April 2015",
-      "min_fw": "5.05+",
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/Ether-One-PS4-PKG.webp",
-      "name": "Ether One",
-      "type": "game",
-      "download_text": "AKR",
-      "key_description": "Game (5.05+) ⇛"
-    },
-    "https://akirabox.com/qw1ze2NjGXyn/file": {
-      "region": "EUR",
-      "size": "1.08 GB",
-      "version": "1.00",
-      "release": "5 April 2015",
-      "min_fw": "5.05+",
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/Ether-One-PS4-PKG.webp",
-      "name": "Ether One",
-      "type": "update",
-      "download_text": "AKR",
-      "key_description": "Update v1.06 (5.05+) ⇛"
-    },
     "https://akirabox.com/2bJG81jy7mOB/file": {
       "region": "EUR",
       "size": "2GB",

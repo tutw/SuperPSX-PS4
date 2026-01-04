@@ -4583,6 +4583,54 @@
       "download_text": "OneFile",
       "key_description": "Update v.2.09 (Fix 5.05/6.72/7.xx) ⇛"
     },
+    "https://1fichier.com/?maapfonqd7r89eka4p9q&af=4186346": {
+      "region": "EUR",
+      "size": "36GB",
+      "version": "1.00",
+      "release": "November 16, 2016",
+      "min_fw": "5.05+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2026/01/BioShock-Infinite-The-Complete-Edition-PS4-PKG.webp",
+      "name": "Bioshock Infinite The Complete Edition",
+      "type": "game",
+      "download_text": "OneFile",
+      "key_description": "Game (5.05+) ⇛"
+    },
+    "https://1fichier.com/?vjdclgcy2kwtrfb1llh2&af=4186346": {
+      "region": "EUR",
+      "size": "36GB",
+      "version": "1.00",
+      "release": "November 16, 2016",
+      "min_fw": "5.05+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2026/01/BioShock-Infinite-The-Complete-Edition-PS4-PKG.webp",
+      "name": "Bioshock Infinite The Complete Edition",
+      "type": "update",
+      "download_text": "OneFile",
+      "key_description": "Update v1.02 (5.05+) ⇛"
+    },
+    "https://1fichier.com/?bcxcznbnzb6ofccez58m&af=4186346": {
+      "region": "EUR",
+      "size": "26GB",
+      "version": "1.00",
+      "release": "September 13, 2016",
+      "min_fw": "5.05+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2026/01/Bioshock-The-Collection-PS4-PKG.webp",
+      "name": "Bioshock The Collection",
+      "type": "game",
+      "download_text": "OneFile",
+      "key_description": "Game (5.05+) ⇛"
+    },
+    "https://1fichier.com/?1z393iqzf92pxcfkgnpy&af=4186346": {
+      "region": "EUR",
+      "size": "26GB",
+      "version": "1.00",
+      "release": "September 13, 2016",
+      "min_fw": "5.05+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2026/01/Bioshock-The-Collection-PS4-PKG.webp",
+      "name": "Bioshock The Collection",
+      "type": "update",
+      "download_text": "OneFile",
+      "key_description": "Update v1.03 (5.05+) ⇛"
+    },
     "https://1fichier.com/?pdnf9b399grfag4rbgu5&af=4186346": {
       "region": "EUR",
       "size": "3.84 GB",
@@ -33940,30 +33988,6 @@
       "download_text": "OneFile",
       "key_description": "DLC ⇛"
     },
-    "https://1fichier.com/?x0l1nv7408ke0kb720il&af=4186346": {
-      "region": "EUR",
-      "size": "500MB",
-      "version": "1.00",
-      "release": "October 14, 2014",
-      "min_fw": "5.05+",
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/08/Nidhogg-PS4-PKG.webp",
-      "name": "Nidhogg 2",
-      "type": "game",
-      "download_text": "OneFile",
-      "key_description": "Game (5.05+) ⇛"
-    },
-    "https://1fichier.com/?bry9hepim2a628h6iylm&af=4186346": {
-      "region": "EUR",
-      "size": "500MB",
-      "version": "1.00",
-      "release": "October 14, 2014",
-      "min_fw": "5.05+",
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/08/Nidhogg-PS4-PKG.webp",
-      "name": "Nidhogg 2",
-      "type": "update",
-      "download_text": "OneFile",
-      "key_description": "Update v1.02 (5.05+) ⇛"
-    },
     "https://1fichier.com/?e7psyde2u42xep77z9a9&af=4186346": {
       "region": "EUR",
       "size": "397.15 MB",
@@ -33987,6 +34011,30 @@
       "type": "update",
       "download_text": "OneFile",
       "key_description": "Update v1.07 (5.05+) ⇛"
+    },
+    "https://1fichier.com/?x0l1nv7408ke0kb720il&af=4186346": {
+      "region": "EUR",
+      "size": "500MB",
+      "version": "1.00",
+      "release": "October 14, 2014",
+      "min_fw": "5.05+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/08/Nidhogg-PS4-PKG.webp",
+      "name": "Nidhogg 2",
+      "type": "game",
+      "download_text": "OneFile",
+      "key_description": "Game (5.05+) ⇛"
+    },
+    "https://1fichier.com/?bry9hepim2a628h6iylm&af=4186346": {
+      "region": "EUR",
+      "size": "500MB",
+      "version": "1.00",
+      "release": "October 14, 2014",
+      "min_fw": "5.05+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/08/Nidhogg-PS4-PKG.webp",
+      "name": "Nidhogg 2",
+      "type": "update",
+      "download_text": "OneFile",
+      "key_description": "Update v1.02 (5.05+) ⇛"
     },
     "https://1fichier.com/?l85tz68ijgs1udp3fkom&af=4186346": {
       "region": "EUR",

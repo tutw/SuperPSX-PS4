@@ -471,6 +471,54 @@
       "download_text": "Here",
       "key_description": "Installation ⇛"
     },
+    "https://www.rootz.so/d/AWqZM": {
+      "region": "EUR",
+      "size": "36GB",
+      "version": "1.00",
+      "release": "November 16, 2016",
+      "min_fw": "5.05+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2026/01/BioShock-Infinite-The-Complete-Edition-PS4-PKG.webp",
+      "name": "Bioshock Infinite The Complete Edition",
+      "type": "game",
+      "download_text": "RTZ",
+      "key_description": "Game (5.05+) ⇛"
+    },
+    "https://www.rootz.so/d/71YXI": {
+      "region": "EUR",
+      "size": "36GB",
+      "version": "1.00",
+      "release": "November 16, 2016",
+      "min_fw": "5.05+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2026/01/BioShock-Infinite-The-Complete-Edition-PS4-PKG.webp",
+      "name": "Bioshock Infinite The Complete Edition",
+      "type": "update",
+      "download_text": "RTZ",
+      "key_description": "Update v1.02 (5.05+) ⇛"
+    },
+    "https://www.rootz.so/d/1e8NdI": {
+      "region": "EUR",
+      "size": "26GB",
+      "version": "1.00",
+      "release": "September 13, 2016",
+      "min_fw": "5.05+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2026/01/Bioshock-The-Collection-PS4-PKG.webp",
+      "name": "Bioshock The Collection",
+      "type": "game",
+      "download_text": "RTZ",
+      "key_description": "Game (5.05+) ⇛"
+    },
+    "https://www.rootz.so/d/1W4fuC": {
+      "region": "EUR",
+      "size": "26GB",
+      "version": "1.00",
+      "release": "September 13, 2016",
+      "min_fw": "5.05+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2026/01/Bioshock-The-Collection-PS4-PKG.webp",
+      "name": "Bioshock The Collection",
+      "type": "update",
+      "download_text": "RTZ",
+      "key_description": "Update v1.03 (5.05+) ⇛"
+    },
     "https://buzzheavier.com/kbmb7zoxp2k4": {
       "region": "EUR",
       "size": "765 MB",

@@ -4703,6 +4703,30 @@
       "download_text": "MediaF",
       "key_description": "Skin Pack DLC ⇛"
     },
+    "https://www.rootz.so/d/1wcsSG": {
+      "region": "EUR",
+      "size": "10 GB",
+      "version": "1.00",
+      "release": "August 1, 2024",
+      "min_fw": null,
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2026/01/Star-Wars-Bounty-Hunter-PS4-PKG.webp",
+      "name": "Star Wars Bounty Hunter",
+      "type": "game",
+      "download_text": "Rootz",
+      "key_description": "Game ⇛"
+    },
+    "https://www.rootz.so/d/fumtU": {
+      "region": "EUR",
+      "size": "10 GB",
+      "version": "1.00",
+      "release": "August 1, 2024",
+      "min_fw": "Fix 5.05/6.72/7.02/7.55/9.00/11.00",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2026/01/Star-Wars-Bounty-Hunter-PS4-PKG.webp",
+      "name": "Star Wars Bounty Hunter",
+      "type": "update",
+      "download_text": "Rootz",
+      "key_description": "Update v1.03 (Fix 5.05/6.72/7.02/7.55/9.00/11.00) ⇛"
+    },
     "https://buzzheavier.com/vabg59juld32": {
       "region": "USA",
       "size": "200MB",

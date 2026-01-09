@@ -16310,6 +16310,42 @@
       "download_text": "OneFile",
       "key_description": "Update v1.01 (Fix 5.05 / 6.72 / 7.02) ⇛"
     },
+    "https://1fichier.com/?28p9jed02jwb3udwzer6&af=4186346": {
+      "region": "EUR",
+      "size": "12.37 GB",
+      "version": "1.22",
+      "release": "March 5, 2024",
+      "min_fw": "11.00+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/Expeditions_-A-MudRunner-Game-Supreme-Edition-PS4-PKG.webp",
+      "name": "Expeditions A Mudrunner Game",
+      "type": "game",
+      "download_text": "OneFile",
+      "key_description": "Game (v1.22) (11.00+)⇛"
+    },
+    "https://1fichier.com/?bxfigmqm37x4q8t2vwe9&af=4186346": {
+      "region": "EUR",
+      "size": "12.37 GB",
+      "version": "1.00",
+      "release": "March 5, 2024",
+      "min_fw": "Fix 5.05/6.72/7.xx/9.00",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/Expeditions_-A-MudRunner-Game-Supreme-Edition-PS4-PKG.webp",
+      "name": "Expeditions A Mudrunner Game",
+      "type": "update",
+      "download_text": "OneFile",
+      "key_description": "Update v1.22 (Fix 5.05/6.72/7.xx/9.00) ⇛"
+    },
+    "https://1fichier.com/?nm3i5abtvrhm3uoyfzsb&af=4186346": {
+      "region": "EUR",
+      "size": "12.37 GB",
+      "version": "1.00",
+      "release": "March 5, 2024",
+      "min_fw": null,
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/Expeditions_-A-MudRunner-Game-Supreme-Edition-PS4-PKG.webp",
+      "name": "Expeditions A Mudrunner Game",
+      "type": "dlc",
+      "download_text": "OneFile",
+      "key_description": "DLC v2 (9) ⇛"
+    },
     "https://1fichier.com/?risshv3yloq42115v3bu": {
       "region": "EUR",
       "size": "12.37 GB",
@@ -18029,7 +18065,7 @@
       "name": "Five Nights At Freddys Help Wanted",
       "type": "update",
       "download_text": "OneFile",
-      "key_description": "Update 1.22 (6.72+) ⇛"
+      "key_description": "Update v1.22 (6.72+) ⇛"
     },
     "https://1fichier.com/?rfj9xrzxh8fz4b4iilva&af=4186346": {
       "region": "EUR",
@@ -18041,7 +18077,7 @@
       "name": "Five Nights At Freddys Help Wanted",
       "type": "update",
       "download_text": "OneFile",
-      "key_description": "Update 1.22 (Fix 5.05+) ⇛"
+      "key_description": "Update v1.22 (Fix 5.05+) ⇛"
     },
     "https://1fichier.com/?0w5vko4vlv13j6vnv1za&af=4186346": {
       "region": "EUR",
@@ -40258,66 +40294,6 @@
       "download_text": "OneFile",
       "key_description": "Update v1.22 (Fix 5.05/6.72/7.02) ⇛"
     },
-    "https://1fichier.com/?uaerzno0eiewzc7ovojr&af=4186346": {
-      "region": "EUR",
-      "size": "15GB",
-      "version": "1.00",
-      "release": "Oct 24, 2024",
-      "min_fw": "11.00",
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/11/Romancing-SaGa-2-PS4-PKG.webp",
-      "name": "Romancing Saga 2 Revenge Of The Seven",
-      "type": "game",
-      "download_text": "OneFile",
-      "key_description": "Game v1.01 (11.00) ⇛"
-    },
-    "https://1fichier.com/?s66frdtgsinz2fsk1wkz&af=4186346": {
-      "region": "EUR",
-      "size": "15GB",
-      "version": "1.00",
-      "release": "Oct 24, 2024",
-      "min_fw": "Fix 9.00",
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/11/Romancing-SaGa-2-PS4-PKG.webp",
-      "name": "Romancing Saga 2 Revenge Of The Seven",
-      "type": "update",
-      "download_text": "OneFile",
-      "key_description": "Update v1.01 (Fix 9.00) ⇛"
-    },
-    "https://1fichier.com/?9m9ynifmqc6rm3pupz2h&af=4186346": {
-      "region": "EUR",
-      "size": "15GB",
-      "version": "1.00",
-      "release": "Oct 24, 2024",
-      "min_fw": "Fix 5.05-7.55",
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/11/Romancing-SaGa-2-PS4-PKG.webp",
-      "name": "Romancing Saga 2 Revenge Of The Seven",
-      "type": "update",
-      "download_text": "OneFile",
-      "key_description": "Update v1.01 (Fix 5.05-7.55) ⇛"
-    },
-    "https://1fichier.com/?q2ylew6h6tutzm4q78ka&af=4186346": {
-      "region": "EUR",
-      "size": "15GB",
-      "version": "1.00",
-      "release": "Oct 24, 2024",
-      "min_fw": null,
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/11/Romancing-SaGa-2-PS4-PKG.webp",
-      "name": "Romancing Saga 2 Revenge Of The Seven",
-      "type": "dlc",
-      "download_text": "OneFile",
-      "key_description": "DLC ⇛"
-    },
-    "https://1fichier.com/?zhthkq2ok0u6zzi4rbam&af=4186346&af=4186346": {
-      "region": "EUR",
-      "size": "15GB",
-      "version": "1.00",
-      "release": "Oct 24, 2024",
-      "min_fw": null,
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/11/Romancing-SaGa-2-PS4-PKG.webp",
-      "name": "Romancing Saga 2 Revenge Of The Seven",
-      "type": "update",
-      "download_text": "OneFile",
-      "key_description": "English Patch ⇛"
-    },
     "https://1fichier.com/?x6xlagiphk2msyb5kry6&af=4186346": {
       "region": "EUR",
       "size": "3.34 GB",
@@ -56195,6 +56171,42 @@
       "type": "game",
       "download_text": "OneFile",
       "key_description": "Game (11.00) ⇛"
+    },
+    "https://1fichier.com/?ppmpygn5zdiyg6dyci7q&af=4186346": {
+      "region": "EUR",
+      "size": "1.94 GB",
+      "version": "1.00",
+      "release": "25 Jan, 2024",
+      "min_fw": "11.00",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/06/Under-Night-In-Birth-II-SysCeles-PS4-PKG-1.webp",
+      "name": "Under Night In Birth II Sysceles",
+      "type": "update",
+      "download_text": "OneFile",
+      "key_description": "Update v1.35 (11.00) ⇛"
+    },
+    "https://1fichier.com/?s8nfmpvrl7id8pebbj8m&af=4186346": {
+      "region": "EUR",
+      "size": "1.94 GB",
+      "version": "1.00",
+      "release": "25 Jan, 2024",
+      "min_fw": "Fix 5.05/6.72/7.xx/9.00",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/06/Under-Night-In-Birth-II-SysCeles-PS4-PKG-1.webp",
+      "name": "Under Night In Birth II Sysceles",
+      "type": "update",
+      "download_text": "OneFile",
+      "key_description": "Update v1.35 (Fix 5.05/6.72/7.xx/9.00) ⇛"
+    },
+    "https://1fichier.com/?l2yul0f8vvzztu7j4dun&af=4186346": {
+      "region": "EUR",
+      "size": "1.94 GB",
+      "version": "1.00",
+      "release": "25 Jan, 2024",
+      "min_fw": null,
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/06/Under-Night-In-Birth-II-SysCeles-PS4-PKG-1.webp",
+      "name": "Under Night In Birth II Sysceles",
+      "type": "dlc",
+      "download_text": "OneFile",
+      "key_description": "DLC v2 (6) ⇛"
     },
     "https://1fichier.com/?8rtmaz95z35vufcfuafz&af=4186346": {
       "region": "EUR",

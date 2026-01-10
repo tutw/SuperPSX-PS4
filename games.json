@@ -3929,42 +3929,6 @@
       "download_text": "Viki",
       "key_description": "Wild East DLC ⇛"
     },
-    "https://vikingfile.com/f/APcNUvlZvM": {
-      "region": "EUR",
-      "size": "28GB",
-      "version": "1.04",
-      "release": "November 22, 2022",
-      "min_fw": null,
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/Evil-West-PS4-PKG.webp",
-      "name": "Evil West",
-      "type": "game",
-      "download_text": "Viki",
-      "key_description": "Game (v1.04) ⇛"
-    },
-    "https://vikingfile.com/f/YQDCvfJblC": {
-      "region": "EUR",
-      "size": "28GB",
-      "version": "1.00",
-      "release": "November 22, 2022",
-      "min_fw": "Fix 5.05/6.72/7.02/7.55/9.00",
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/Evil-West-PS4-PKG.webp",
-      "name": "Evil West",
-      "type": "update",
-      "download_text": "Viki",
-      "key_description": "Update v1.04 (Fix 5.05/6.72/7.02/7.55/9.00) ⇛"
-    },
-    "https://vikingfile.com/f/X57onoxAvM": {
-      "region": "EUR",
-      "size": "28GB",
-      "version": "1.00",
-      "release": "November 22, 2022",
-      "min_fw": null,
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/Evil-West-PS4-PKG.webp",
-      "name": "Evil West",
-      "type": "dlc",
-      "download_text": "Viki",
-      "key_description": "DLC ⇛"
-    },
     "https://vikingfile.com/f/UVWywquTR0": {
       "region": "EUR",
       "size": "12.37 GB",
@@ -5371,54 +5335,6 @@
       "type": "update",
       "download_text": "Viki",
       "key_description": "Update v1.04 (Fix 5.05/6.72/7.xx/9.00) ⇛"
-    },
-    "https://vikingfile.com/f/bAMbIukKSj": {
-      "region": "EUR",
-      "size": "2GB",
-      "version": "1.00",
-      "release": "November 3, 2022",
-      "min_fw": null,
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/06/Horse-Tales-Emerald-Valley-Ranch-Deluxe-Edition-PS4.webp",
-      "name": "Horse Tales Emerald Valley Ranch Deluxe Edition",
-      "type": "game",
-      "download_text": "Viki",
-      "key_description": "Game (9.50+) ⇛"
-    },
-    "https://vikingfile.com/f/68Rx1BAiLa": {
-      "region": "EUR",
-      "size": "2GB",
-      "version": "1.00",
-      "release": "November 3, 2022",
-      "min_fw": null,
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/06/Horse-Tales-Emerald-Valley-Ranch-Deluxe-Edition-PS4.webp",
-      "name": "Horse Tales Emerald Valley Ranch Deluxe Edition",
-      "type": "update",
-      "download_text": "Viki",
-      "key_description": "Update v1.05 (9.50+) ⇛"
-    },
-    "https://vikingfile.com/f/4S34aNl04Y": {
-      "region": "EUR",
-      "size": "2GB",
-      "version": "1.00",
-      "release": "November 3, 2022",
-      "min_fw": "Fix 5.05/6.72/7.xx/9.00",
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/06/Horse-Tales-Emerald-Valley-Ranch-Deluxe-Edition-PS4.webp",
-      "name": "Horse Tales Emerald Valley Ranch Deluxe Edition",
-      "type": "update",
-      "download_text": "Viki",
-      "key_description": "Update v1.05 (Fix 5.05/6.72/7.xx/9.00) ⇛"
-    },
-    "https://vikingfile.com/f/fxNC9QJtXJ": {
-      "region": "EUR",
-      "size": "2GB",
-      "version": "1.00",
-      "release": "November 3, 2022",
-      "min_fw": null,
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/06/Horse-Tales-Emerald-Valley-Ranch-Deluxe-Edition-PS4.webp",
-      "name": "Horse Tales Emerald Valley Ranch Deluxe Edition",
-      "type": "dlc",
-      "download_text": "Viki",
-      "key_description": "DLC Deluxe Edition ⇛"
     },
     "https://vikingfile.com/f/uZQveOWE3Z": {
       "region": "EUR",

@@ -7710,7 +7710,7 @@
       "name": "Catastronauts",
       "type": "update",
       "download_text": "OneFile",
-      "key_description": "Update 1.01 ⇛"
+      "key_description": "Update v1.01 ⇛"
     },
     "https://1fichier.com/?nz99x7xxki9uiupbjwcl&af=4186346": {
       "region": "EUR",
@@ -7722,7 +7722,7 @@
       "name": "Catastronauts",
       "type": "update",
       "download_text": "OneFile",
-      "key_description": "Update 1.01 (Fix 5.05) ⇛"
+      "key_description": "Update v1.01 (Fix 5.05) ⇛"
     },
     "https://1fichier.com/?vgyi7lp924ascs3pabfo&af=4186346": {
       "region": "USA",
@@ -9563,6 +9563,30 @@
       "type": "update",
       "download_text": "OneFile",
       "key_description": "Update 1.28 (Fix 5.05/6.72/7.xx/8.xx/9.00) ⇛"
+    },
+    "https://1fichier.com/?t0vmwtz09lcg1j9rj4yo&af=4186346": {
+      "region": "EUR",
+      "size": "37GB",
+      "version": "1.00",
+      "release": "Nov 19, 2025",
+      "min_fw": "12.00",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2026/01/Cricket-26-The-Official-Game-of-the-Ashes-PS4-PKG.webp",
+      "name": "Cricket 26 The Official Game Of The Ashes",
+      "type": "game",
+      "download_text": "OneFile",
+      "key_description": "Game (12.00) (NO OFFLINE) ⇛"
+    },
+    "https://1fichier.com/?qjfmobssr2e34fxtov4n&af=4186346": {
+      "region": "EUR",
+      "size": "37GB",
+      "version": "1.00",
+      "release": "Nov 19, 2025",
+      "min_fw": "Fix 5.05/6.72/7.xx/9.00/11.00/12.00",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2026/01/Cricket-26-The-Official-Game-of-the-Ashes-PS4-PKG.webp",
+      "name": "Cricket 26 The Official Game Of The Ashes",
+      "type": "update",
+      "download_text": "OneFile",
+      "key_description": "Update v1.19 (Fix 5.05/6.72/7.xx/9.00/11.00/12.00)(NO OFFLINE) ⇛"
     },
     "https://1fichier.com/?p63ogpujqmc716y19sxf&af=4186346": {
       "region": "EUR",
@@ -38279,6 +38303,42 @@
       "download_text": "OneFile",
       "key_description": "Game + Update 1.02 + Update 1.02 (Fix 5.05/6.72/7.xx) ⇛"
     },
+    "https://1fichier.com/?mp6i70lcitzuyzmuvpyf&af=4186346": {
+      "region": "EUR",
+      "size": "2GB",
+      "version": "1.00",
+      "release": "December 8, 2020",
+      "min_fw": null,
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2026/01/Puyo-Puyo-Tetris-2-PS4-PKG.webp",
+      "name": "Puyo Puyo Tetris 2",
+      "type": "game",
+      "download_text": "OneFile",
+      "key_description": "Game (7.50+) ⇛"
+    },
+    "https://1fichier.com/?0fbb5ex181tpmpw9eofr&af=4186346": {
+      "region": "EUR",
+      "size": "2GB",
+      "version": "1.00",
+      "release": "December 8, 2020",
+      "min_fw": null,
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2026/01/Puyo-Puyo-Tetris-2-PS4-PKG.webp",
+      "name": "Puyo Puyo Tetris 2",
+      "type": "update",
+      "download_text": "OneFile",
+      "key_description": "Update v1.32 (7.50+) ⇛"
+    },
+    "https://1fichier.com/?cvkv7si5nvmxxmw5c2ny&af=4186346": {
+      "region": "EUR",
+      "size": "2GB",
+      "version": "1.00",
+      "release": "December 8, 2020",
+      "min_fw": "Fix 5.05/6.72/7.xx",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2026/01/Puyo-Puyo-Tetris-2-PS4-PKG.webp",
+      "name": "Puyo Puyo Tetris 2",
+      "type": "update",
+      "download_text": "OneFile",
+      "key_description": "Update v1.32 (Fix 5.05/6.72/7.xx) ⇛"
+    },
     "https://1fichier.com/?n489y9iyy0i02wyp9zo7&af=4186346": {
       "region": "USA",
       "size": "4GB",
@@ -40293,6 +40353,66 @@
       "type": "update",
       "download_text": "OneFile",
       "key_description": "Update v1.22 (Fix 5.05/6.72/7.02) ⇛"
+    },
+    "https://1fichier.com/?uaerzno0eiewzc7ovojr&af=4186346": {
+      "region": "EUR",
+      "size": "15GB",
+      "version": "1.00",
+      "release": "Oct 24, 2024",
+      "min_fw": "11.00",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/11/Romancing-SaGa-2-PS4-PKG.webp",
+      "name": "Romancing Saga 2 Revenge Of The Seven",
+      "type": "game",
+      "download_text": "OneFile",
+      "key_description": "Game v1.01 (11.00) ⇛"
+    },
+    "https://1fichier.com/?s66frdtgsinz2fsk1wkz&af=4186346": {
+      "region": "EUR",
+      "size": "15GB",
+      "version": "1.00",
+      "release": "Oct 24, 2024",
+      "min_fw": "Fix 9.00",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/11/Romancing-SaGa-2-PS4-PKG.webp",
+      "name": "Romancing Saga 2 Revenge Of The Seven",
+      "type": "update",
+      "download_text": "OneFile",
+      "key_description": "Update v1.01 (Fix 9.00) ⇛"
+    },
+    "https://1fichier.com/?9m9ynifmqc6rm3pupz2h&af=4186346": {
+      "region": "EUR",
+      "size": "15GB",
+      "version": "1.00",
+      "release": "Oct 24, 2024",
+      "min_fw": "Fix 5.05-7.55",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/11/Romancing-SaGa-2-PS4-PKG.webp",
+      "name": "Romancing Saga 2 Revenge Of The Seven",
+      "type": "update",
+      "download_text": "OneFile",
+      "key_description": "Update v1.01 (Fix 5.05-7.55) ⇛"
+    },
+    "https://1fichier.com/?q2ylew6h6tutzm4q78ka&af=4186346": {
+      "region": "EUR",
+      "size": "15GB",
+      "version": "1.00",
+      "release": "Oct 24, 2024",
+      "min_fw": null,
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/11/Romancing-SaGa-2-PS4-PKG.webp",
+      "name": "Romancing Saga 2 Revenge Of The Seven",
+      "type": "dlc",
+      "download_text": "OneFile",
+      "key_description": "DLC ⇛"
+    },
+    "https://1fichier.com/?zhthkq2ok0u6zzi4rbam&af=4186346&af=4186346": {
+      "region": "EUR",
+      "size": "15GB",
+      "version": "1.00",
+      "release": "Oct 24, 2024",
+      "min_fw": null,
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/11/Romancing-SaGa-2-PS4-PKG.webp",
+      "name": "Romancing Saga 2 Revenge Of The Seven",
+      "type": "update",
+      "download_text": "OneFile",
+      "key_description": "English Patch ⇛"
     },
     "https://1fichier.com/?x6xlagiphk2msyb5kry6&af=4186346": {
       "region": "EUR",
@@ -55614,6 +55734,18 @@
       "type": "game",
       "download_text": "OneFile",
       "key_description": "Game (v1.02)(9.00+ ⇛"
+    },
+    "https://1fichier.com/?kor44vv5lpn1cz0wut61&af=4186346": {
+      "region": "EUR",
+      "size": "4GB",
+      "version": "1.00",
+      "release": "December 5, 2015",
+      "min_fw": "5.05+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2026/01/Twisted-Metal-Black-PS4-PKG.webp",
+      "name": "Twisted Metal Black",
+      "type": "game",
+      "download_text": "OneFile",
+      "key_description": "Game (5.05+) ⇛"
     },
     "https://1fichier.com/?xyyyrqd33fjq808qg8xd&af=4186346": {
       "region": "EUR",

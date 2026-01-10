@@ -5621,6 +5621,42 @@
       "download_text": "AKR",
       "key_description": "Update v1.11 (Fix 5.05 / 6.72 / 7.02 / 7.55 / 9.00 / 11.00) ⇛"
     },
+    "https://akirabox.com/0rpmv6557mRg/file": {
+      "region": "EUR",
+      "size": "666 MB",
+      "version": "1.00",
+      "release": "September 28, 2018",
+      "min_fw": "5.50+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/Catastronauts-PS4-PKG.webp",
+      "name": "Catastronauts",
+      "type": "game",
+      "download_text": "AKR",
+      "key_description": "Game ⇛"
+    },
+    "https://akirabox.com/QN9mEa77wm6d/file": {
+      "region": "EUR",
+      "size": "666 MB",
+      "version": "1.00",
+      "release": "September 28, 2018",
+      "min_fw": "5.50+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/Catastronauts-PS4-PKG.webp",
+      "name": "Catastronauts",
+      "type": "update",
+      "download_text": "AKR",
+      "key_description": "Update v1.01 ⇛"
+    },
+    "https://akirabox.com/M2BGwO77OGj4/file": {
+      "region": "EUR",
+      "size": "666 MB",
+      "version": "1.00",
+      "release": "September 28, 2018",
+      "min_fw": "Fix 5.05",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/Catastronauts-PS4-PKG.webp",
+      "name": "Catastronauts",
+      "type": "update",
+      "download_text": "AKR",
+      "key_description": "Update v1.01 (Fix 5.05) ⇛"
+    },
     "https://akirabox.com/LK0G1q1M9G91/file": {
       "region": "USA",
       "size": "700MB",
@@ -6848,6 +6884,30 @@
       "type": "update",
       "download_text": "AKR",
       "key_description": "Update v1.30 (Fix 5.05/6.72/7.xx/8.xx/9.00) ⇛"
+    },
+    "https://akirabox.com/RMKGJJ7q1G1o/file": {
+      "region": "EUR",
+      "size": "37GB",
+      "version": "1.00",
+      "release": "Nov 19, 2025",
+      "min_fw": "12.00",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2026/01/Cricket-26-The-Official-Game-of-the-Ashes-PS4-PKG.webp",
+      "name": "Cricket 26 The Official Game Of The Ashes",
+      "type": "game",
+      "download_text": "AKR",
+      "key_description": "Game (12.00) (NO OFFLINE) ⇛"
+    },
+    "https://akirabox.com/vgKGxDRn9G8Q/file": {
+      "region": "EUR",
+      "size": "37GB",
+      "version": "1.00",
+      "release": "Nov 19, 2025",
+      "min_fw": "Fix 5.05/6.72/7.xx/9.00/11.00/12.00",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2026/01/Cricket-26-The-Official-Game-of-the-Ashes-PS4-PKG.webp",
+      "name": "Cricket 26 The Official Game Of The Ashes",
+      "type": "update",
+      "download_text": "AKR",
+      "key_description": "Update v1.19 (Fix 5.05/6.72/7.xx/9.00/11.00/12.00)(NO OFFLINE) ⇛"
     },
     "https://akirabox.com/obj3jl7dGDxJ/file": {
       "region": "EUR",
@@ -27713,6 +27773,42 @@
       "download_text": "AKR",
       "key_description": "Update v1.02 (Fix 5.05/6.72/7.02/7,55/9.00) ⇛"
     },
+    "https://akirabox.com/ex5z2BOADzKq/file": {
+      "region": "EUR",
+      "size": "2GB",
+      "version": "1.00",
+      "release": "December 8, 2020",
+      "min_fw": null,
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2026/01/Puyo-Puyo-Tetris-2-PS4-PKG.webp",
+      "name": "Puyo Puyo Tetris 2",
+      "type": "game",
+      "download_text": "AKR",
+      "key_description": "Game (7.50+) ⇛"
+    },
+    "https://akirabox.com/jJD3VvN853a5/file": {
+      "region": "EUR",
+      "size": "2GB",
+      "version": "1.00",
+      "release": "December 8, 2020",
+      "min_fw": null,
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2026/01/Puyo-Puyo-Tetris-2-PS4-PKG.webp",
+      "name": "Puyo Puyo Tetris 2",
+      "type": "update",
+      "download_text": "AKR",
+      "key_description": "Update v1.32 (7.50+) ⇛"
+    },
+    "https://akirabox.com/EL73g65Z9m9B/file": {
+      "region": "EUR",
+      "size": "2GB",
+      "version": "1.00",
+      "release": "December 8, 2020",
+      "min_fw": "Fix 5.05/6.72/7.xx",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2026/01/Puyo-Puyo-Tetris-2-PS4-PKG.webp",
+      "name": "Puyo Puyo Tetris 2",
+      "type": "update",
+      "download_text": "AKR",
+      "key_description": "Update v1.32 (Fix 5.05/6.72/7.xx) ⇛"
+    },
     "https://akirabox.com/BnkmWM40zR0y/file": {
       "region": "USA",
       "size": "4GB",
@@ -28777,6 +28873,30 @@
       "type": "update",
       "download_text": "AKR",
       "key_description": "Update v1.22 (Fix 5.05/6.72/7.02) ⇛"
+    },
+    "https://akirabox.com/qPez4q9YxGOY/file": {
+      "region": "EUR",
+      "size": "15GB",
+      "version": "1.00",
+      "release": "Oct 24, 2024",
+      "min_fw": "Fix 9.00",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/11/Romancing-SaGa-2-PS4-PKG.webp",
+      "name": "Romancing Saga 2 Revenge Of The Seven",
+      "type": "update",
+      "download_text": "AKR",
+      "key_description": "Update v1.01 (Fix 9.00) ⇛"
+    },
+    "https://akirabox.com/Xkrzoq8vRmBO/file": {
+      "region": "EUR",
+      "size": "15GB",
+      "version": "1.00",
+      "release": "Oct 24, 2024",
+      "min_fw": "Fix 5.05-7.55",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/11/Romancing-SaGa-2-PS4-PKG.webp",
+      "name": "Romancing Saga 2 Revenge Of The Seven",
+      "type": "update",
+      "download_text": "AKR",
+      "key_description": "Update v1.01 (Fix 5.05-7.55) ⇛"
     },
     "https://akirabox.com/qPez4KoN3OYn/file": {
       "region": "EUR",
@@ -39934,6 +40054,18 @@
       "type": "update",
       "download_text": "AKR",
       "key_description": "Update v1.01 (Fix 5.05/6.72/7.xx/8.0x) ⇛"
+    },
+    "https://akirabox.com/LJlGng5XZm15/file": {
+      "region": "EUR",
+      "size": "4GB",
+      "version": "1.00",
+      "release": "December 5, 2015",
+      "min_fw": "5.05+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2026/01/Twisted-Metal-Black-PS4-PKG.webp",
+      "name": "Twisted Metal Black",
+      "type": "game",
+      "download_text": "AKR",
+      "key_description": "Game (5.05+) ⇛"
     },
     "https://akirabox.com/EL73gjWpjm9B/file": {
       "region": "EUR",

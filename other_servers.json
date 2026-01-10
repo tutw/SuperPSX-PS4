@@ -1287,6 +1287,30 @@
       "download_text": "PixelB",
       "key_description": "Update 1.28 (Fix 5.05/6.72/7.xx/8.xx/9.00) ⇛"
     },
+    "https://www.rootz.so/d/iif8C": {
+      "region": "EUR",
+      "size": "37GB",
+      "version": "1.00",
+      "release": "Nov 19, 2025",
+      "min_fw": "12.00",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2026/01/Cricket-26-The-Official-Game-of-the-Ashes-PS4-PKG.webp",
+      "name": "Cricket 26 The Official Game Of The Ashes",
+      "type": "game",
+      "download_text": "RTZ",
+      "key_description": "Game (12.00) (NO OFFLINE) ⇛"
+    },
+    "https://www.rootz.so/d/1rN320": {
+      "region": "EUR",
+      "size": "37GB",
+      "version": "1.00",
+      "release": "Nov 19, 2025",
+      "min_fw": "Fix 5.05/6.72/7.xx/9.00/11.00/12.00",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2026/01/Cricket-26-The-Official-Game-of-the-Ashes-PS4-PKG.webp",
+      "name": "Cricket 26 The Official Game Of The Ashes",
+      "type": "update",
+      "download_text": "RTZ",
+      "key_description": "Update v1.19 (Fix 5.05/6.72/7.xx/9.00/11.00/12.00)(NO OFFLINE) ⇛"
+    },
     "https://buzzheavier.com/cd95tjx85850": {
       "region": "EUR",
       "size": "2GB",
@@ -4228,6 +4252,42 @@
       "download_text": "ZippyS",
       "key_description": "Game + Update 1.04 ⇛"
     },
+    "https://www.rootz.so/d/1LOA1g": {
+      "region": "EUR",
+      "size": "2GB",
+      "version": "1.00",
+      "release": "December 8, 2020",
+      "min_fw": null,
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2026/01/Puyo-Puyo-Tetris-2-PS4-PKG.webp",
+      "name": "Puyo Puyo Tetris 2",
+      "type": "game",
+      "download_text": "RTZ",
+      "key_description": "Game (7.50+) ⇛"
+    },
+    "https://www.rootz.so/d/1HMJA8": {
+      "region": "EUR",
+      "size": "2GB",
+      "version": "1.00",
+      "release": "December 8, 2020",
+      "min_fw": null,
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2026/01/Puyo-Puyo-Tetris-2-PS4-PKG.webp",
+      "name": "Puyo Puyo Tetris 2",
+      "type": "update",
+      "download_text": "RTZ",
+      "key_description": "Update v1.32 (7.50+) ⇛"
+    },
+    "https://www.rootz.so/d/4g4Su": {
+      "region": "EUR",
+      "size": "2GB",
+      "version": "1.00",
+      "release": "December 8, 2020",
+      "min_fw": "Fix 5.05/6.72/7.xx",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2026/01/Puyo-Puyo-Tetris-2-PS4-PKG.webp",
+      "name": "Puyo Puyo Tetris 2",
+      "type": "update",
+      "download_text": "RTZ",
+      "key_description": "Update v1.32 (Fix 5.05/6.72/7.xx) ⇛"
+    },
     "https://filecrypt.co/Container/FC54C1185D.html": {
       "region": "EUR",
       "size": "14 GB",
@@ -5388,6 +5448,18 @@
       "type": "update",
       "download_text": "ZippyS",
       "key_description": "Game + Update 1.01 ⇛"
+    },
+    "https://www.rootz.so/d/yq4aO": {
+      "region": "EUR",
+      "size": "4GB",
+      "version": "1.00",
+      "release": "December 5, 2015",
+      "min_fw": "5.05+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2026/01/Twisted-Metal-Black-PS4-PKG.webp",
+      "name": "Twisted Metal Black",
+      "type": "game",
+      "download_text": "RTZ",
+      "key_description": "Game (5.05+) ⇛"
     },
     "https://filecrypt.co/Container/1071ADA6EF.html": {
       "region": "EUR",

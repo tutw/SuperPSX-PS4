@@ -19978,6 +19978,30 @@
       "download_text": "AKR",
       "key_description": "Update v1.05 ⇛"
     },
+    "https://akirabox.com/1RgzR1MK13bp/file": {
+      "region": "EUR",
+      "size": "4GB",
+      "version": "1.00",
+      "release": "October 2016",
+      "min_fw": "5.05+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2026/01/Lets-Sing-9-Version-Espanola-PS4-PKG.webp",
+      "name": "Lets Sing 9 Version Espanola",
+      "type": "game",
+      "download_text": "AKR",
+      "key_description": "Game (5.05+) ⇛"
+    },
+    "https://akirabox.com/0KezkEnZomD1/file": {
+      "region": "EUR",
+      "size": "4GB",
+      "version": "1.00",
+      "release": "October 2016",
+      "min_fw": "5.05+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2026/01/Lets-Sing-9-Version-Espanola-PS4-PKG.webp",
+      "name": "Lets Sing 9 Version Espanola",
+      "type": "update",
+      "download_text": "AKR",
+      "key_description": "Update v1.05 (5.05+) ⇛"
+    },
     "https://akirabox.com/qPez40ZNzOYn/file": {
       "region": "EUR",
       "size": "4GB",

@@ -3338,91 +3338,19 @@
       "download_text": "ZippyS",
       "key_description": "Game + Update 1.30 ⇛"
     },
-    "https://ouo.io/S5RZEe": {
+    "https://www.rootz.so/d/UoWsS": {
       "region": "EUR",
       "size": "17 GB",
       "version": "1.00",
       "release": "July 10, 2020",
       "min_fw": "7.00+",
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/NASCAR-Heat-5-PS4-PKG.webp",
-      "name": "Nascar Heat 5",
-      "type": "update",
-      "download_text": "ZippyS",
-      "key_description": "Game + Update 1.11 ⇛"
-    },
-    "https://ouo.io/tuxDFpP": {
-      "region": "EUR",
-      "size": "17 GB",
-      "version": "1.00",
-      "release": "July 10, 2020",
-      "min_fw": "7.00+",
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/NASCAR-Heat-5-PS4-PKG.webp",
-      "name": "Nascar Heat 5",
-      "type": "update",
-      "download_text": "OneFile",
-      "key_description": "Game + Update 1.11 ⇛"
-    },
-    "https://ouo.io/bgSbR5n": {
-      "region": "EUR",
-      "size": "17 GB",
-      "version": "1.00",
-      "release": "July 10, 2020",
-      "min_fw": "7.00+",
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/NASCAR-Heat-5-PS4-PKG.webp",
-      "name": "Nascar Heat 5",
-      "type": "update",
-      "download_text": "LetsU",
-      "key_description": "Game + Update 1.11  ⇛"
-    },
-    "https://ouo.io/FOLfJl9": {
-      "region": "EUR",
-      "size": "17 GB",
-      "version": "1.00",
-      "release": "July 10, 2020",
-      "min_fw": "7.00+",
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/NASCAR-Heat-5-PS4-PKG.webp",
-      "name": "Nascar Heat 5",
-      "type": "update",
-      "download_text": "ZippyS",
-      "key_description": "Game + Update 1.11  ⇛"
-    },
-    "https://ouo.io/Bqmdff": {
-      "region": "EUR",
-      "size": "17 GB",
-      "version": "1.00",
-      "release": "July 10, 2020",
-      "min_fw": "7.00+",
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/NASCAR-Heat-5-PS4-PKG.webp",
-      "name": "Nascar Heat 5",
-      "type": "update",
-      "download_text": "OneFile",
-      "key_description": "Game + Update 1.11  ⇛"
-    },
-    "https://ouo.io/zew2Uh9": {
-      "region": "EUR",
-      "size": "17 GB",
-      "version": "1.00",
-      "release": "July 10, 2020",
-      "min_fw": "5.05/6.72/7.02",
       "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/NASCAR-Heat-5-PS4-PKG.webp",
       "name": "Nascar Heat 5",
       "type": "game",
-      "download_text": "ZippyS",
-      "key_description": "Fix (5.05/6.72/7.02) ⇛"
+      "download_text": "RTZ",
+      "key_description": "Game (7.00+) ⇛"
     },
-    "https://ouo.io/VTBoM0": {
-      "region": "EUR",
-      "size": "17 GB",
-      "version": "1.00",
-      "release": "July 10, 2020",
-      "min_fw": "5.05/6.72/7.02",
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/NASCAR-Heat-5-PS4-PKG.webp",
-      "name": "Nascar Heat 5",
-      "type": "game",
-      "download_text": "OneFile",
-      "key_description": "Fix (5.05/6.72/7.02) ⇛"
-    },
-    "https://ouo.io/IUM0ja": {
+    "https://www.rootz.so/d/Qmg0u": {
       "region": "EUR",
       "size": "17 GB",
       "version": "1.00",
@@ -3431,8 +3359,20 @@
       "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/NASCAR-Heat-5-PS4-PKG.webp",
       "name": "Nascar Heat 5",
       "type": "update",
-      "download_text": "ZippyS",
-      "key_description": "Game + Update 1.11  ⇛"
+      "download_text": "RTZ",
+      "key_description": "Update v1.11 ⇛"
+    },
+    "https://www.rootz.so/d/1ZR3ui": {
+      "region": "EUR",
+      "size": "17 GB",
+      "version": "1.00",
+      "release": "July 10, 2020",
+      "min_fw": "Fix 5.05/6.72",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/NASCAR-Heat-5-PS4-PKG.webp",
+      "name": "Nascar Heat 5",
+      "type": "update",
+      "download_text": "RTZ",
+      "key_description": "Update v1.11 (Fix 5.05/6.72) ⇛"
     },
     "https://www.keeplinks.org/p41/66ac5e4056182": {
       "region": "EUR",

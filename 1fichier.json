@@ -5208,7 +5208,7 @@
       "name": "Blazerush",
       "type": "game",
       "download_text": "OneFile",
-      "key_description": "Game ⇛"
+      "key_description": "Game ⇛"
     },
     "https://1fichier.com/?mptd1s4v769ag4no2d80&af=4186346": {
       "region": "EUR",
@@ -32574,6 +32574,42 @@
       "type": "update",
       "download_text": "OneFile",
       "key_description": "Update v1.13 (6.72+) ⇛"
+    },
+    "https://1fichier.com/?ltllyljwuqtanznn2hvo&af=4186346": {
+      "region": "EUR",
+      "size": "17 GB",
+      "version": "1.00",
+      "release": "July 10, 2020",
+      "min_fw": "7.00+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/NASCAR-Heat-5-PS4-PKG.webp",
+      "name": "Nascar Heat 5",
+      "type": "game",
+      "download_text": "OneFile",
+      "key_description": "Game (7.00+) ⇛"
+    },
+    "https://1fichier.com/?2fxhpp58ubj3bhju60el&af=4186346": {
+      "region": "EUR",
+      "size": "17 GB",
+      "version": "1.00",
+      "release": "July 10, 2020",
+      "min_fw": "7.00+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/NASCAR-Heat-5-PS4-PKG.webp",
+      "name": "Nascar Heat 5",
+      "type": "update",
+      "download_text": "OneFile",
+      "key_description": "Update v1.11 ⇛"
+    },
+    "https://1fichier.com/?jmplxpf9uz4700fl5k79&af=4186346": {
+      "region": "EUR",
+      "size": "17 GB",
+      "version": "1.00",
+      "release": "July 10, 2020",
+      "min_fw": "Fix 5.05/6.72",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/NASCAR-Heat-5-PS4-PKG.webp",
+      "name": "Nascar Heat 5",
+      "type": "update",
+      "download_text": "OneFile",
+      "key_description": "Update v1.11 (Fix 5.05/6.72) ⇛"
     },
     "https://1fichier.com/?o005ielqgi41qb669xan&af=4186346": {
       "region": "EUR",

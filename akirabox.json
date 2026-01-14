@@ -3851,6 +3851,18 @@
       "download_text": "AKR",
       "key_description": "DLC ⇛"
     },
+    "https://akirabox.com/9AqGQdr5RzMn/file": {
+      "region": "EUR",
+      "size": "491 MB",
+      "version": "1.00",
+      "release": "Dec 16, 2015",
+      "min_fw": "3.11+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/BlazeRush-PS4-PKG.webp",
+      "name": "Blazerush",
+      "type": "game",
+      "download_text": "AKR",
+      "key_description": "Game ⇛"
+    },
     "https://akirabox.com/wgWGqKPD34oy/file": {
       "region": "EUR",
       "size": "27GB",
@@ -23939,6 +23951,42 @@
       "type": "update",
       "download_text": "AKR",
       "key_description": "Update v1.13 (6.72+) ⇛"
+    },
+    "https://akirabox.com/BnkmWEjXPzR0/file": {
+      "region": "EUR",
+      "size": "17 GB",
+      "version": "1.00",
+      "release": "July 10, 2020",
+      "min_fw": "7.00+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/NASCAR-Heat-5-PS4-PKG.webp",
+      "name": "Nascar Heat 5",
+      "type": "game",
+      "download_text": "AKR",
+      "key_description": "Game (7.00+) ⇛"
+    },
+    "https://akirabox.com/0PdzyvxbkGeA/file": {
+      "region": "EUR",
+      "size": "17 GB",
+      "version": "1.00",
+      "release": "July 10, 2020",
+      "min_fw": "7.00+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/NASCAR-Heat-5-PS4-PKG.webp",
+      "name": "Nascar Heat 5",
+      "type": "update",
+      "download_text": "AKR",
+      "key_description": "Update v1.11 ⇛"
+    },
+    "https://akirabox.com/QN9mEaVARm6d/file": {
+      "region": "EUR",
+      "size": "17 GB",
+      "version": "1.00",
+      "release": "July 10, 2020",
+      "min_fw": "Fix 5.05/6.72",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/NASCAR-Heat-5-PS4-PKG.webp",
+      "name": "Nascar Heat 5",
+      "type": "update",
+      "download_text": "AKR",
+      "key_description": "Update v1.11 (Fix 5.05/6.72) ⇛"
     },
     "https://akirabox.com/APVmaJdj63Xo/file": {
       "region": "EUR",

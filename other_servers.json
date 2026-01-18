@@ -2134,6 +2134,30 @@
       "download_text": "Here",
       "key_description": "DLC Contents ⇛"
     },
+    "https://www.rootz.so/d/n15Bw": {
+      "region": "EUR",
+      "size": "3.28 GB",
+      "version": "1.00",
+      "release": "April 30, 2021",
+      "min_fw": "9.00+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/Green-Hell-PS4-PKG.webp",
+      "name": "Green Hel",
+      "type": "game",
+      "download_text": "RTZ",
+      "key_description": "Game (9.00+) ⇛"
+    },
+    "https://www.rootz.so/d/1ykfPU": {
+      "region": "EUR",
+      "size": "3.28 GB",
+      "version": "1.00",
+      "release": "April 30, 2021",
+      "min_fw": "Fix 5.05/6.72/7.xx/9.00",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/Green-Hell-PS4-PKG.webp",
+      "name": "Green Hel",
+      "type": "update",
+      "download_text": "RTZ",
+      "key_description": "Update v1.14 (Fix 5.05/6.72/7.xx/9.00) ⇛"
+    },
     "https://ranoz.gg/file/8Pd25Iqv": {
       "region": "EUR",
       "size": "1GB",
@@ -2846,6 +2870,42 @@
       "type": "update",
       "download_text": "PixelD",
       "key_description": "Update v1.08 (9.00+) ⇛"
+    },
+    "https://www.rootz.so/d/Zys7c": {
+      "region": "EUR",
+      "size": "1.16GB",
+      "version": "1.00",
+      "release": "18 Apr 2025",
+      "min_fw": "12.00",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2026/01/Leila-PS4-PKG.webp",
+      "name": "Leila",
+      "type": "game",
+      "download_text": "RTZ",
+      "key_description": "Game (12.00) ⇛"
+    },
+    "https://www.rootz.so/d/1idFxI": {
+      "region": "EUR",
+      "size": "1.16GB",
+      "version": "1.00",
+      "release": "18 Apr 2025",
+      "min_fw": "Fix 6.72/7.xx/9.00/11.00/12.00",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2026/01/Leila-PS4-PKG.webp",
+      "name": "Leila",
+      "type": "update",
+      "download_text": "RTZ",
+      "key_description": "Update v1.02 (Fix 6.72/7.xx/9.00/11.00/12.00) ⇛"
+    },
+    "https://www.rootz.so/d/1mf6oq": {
+      "region": "EUR",
+      "size": "1.16GB",
+      "version": "1.00",
+      "release": "18 Apr 2025",
+      "min_fw": "Fix 5.05",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2026/01/Leila-PS4-PKG.webp",
+      "name": "Leila",
+      "type": "update",
+      "download_text": "RTZ",
+      "key_description": "Update v1.02 (Fix 5.05) ⇛"
     },
     "https://filecrypt.co/Container/F437EC70D3.html": {
       "region": "EUR",
@@ -4423,6 +4483,54 @@
       "download_text": "Here",
       "key_description": "Installation ⇛"
     },
+    "https://www.rootz.so/d/RvAOW": {
+      "region": "EUR",
+      "size": "247MB",
+      "version": "1.00",
+      "release": "May 18, 2021",
+      "min_fw": "9.00+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2026/01/Rising-Hell-PS4-PKG.webp",
+      "name": "Rising Hell",
+      "type": "game",
+      "download_text": "RTZ",
+      "key_description": "Game (9.00+) ⇛"
+    },
+    "https://www.rootz.so/d/1IJFUO": {
+      "region": "EUR",
+      "size": "247MB",
+      "version": "1.00",
+      "release": "May 18, 2021",
+      "min_fw": "Fix 5.05/6.72/7.xx/9.00",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2026/01/Rising-Hell-PS4-PKG.webp",
+      "name": "Rising Hell",
+      "type": "update",
+      "download_text": "RTZ",
+      "key_description": "Update v1.04 (Fix 5.05/6.72/7.xx/9.00) ⇛"
+    },
+    "https://www.rootz.so/d/NtJWy": {
+      "region": "EUR",
+      "size": "247MB",
+      "version": "1.00",
+      "release": "May 18, 2021",
+      "min_fw": "9.00+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2026/01/Rising-Hell-PS4-PKG.webp",
+      "name": "Rising Hell",
+      "type": "game",
+      "download_text": "RTZ",
+      "key_description": "Game (9.00+) ⇛"
+    },
+    "https://www.rootz.so/d/1WXhQm": {
+      "region": "EUR",
+      "size": "247MB",
+      "version": "1.00",
+      "release": "May 18, 2021",
+      "min_fw": "Fix 5.05/6.72/7.xx/9.00",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2026/01/Rising-Hell-PS4-PKG.webp",
+      "name": "Rising Hell",
+      "type": "update",
+      "download_text": "RTZ",
+      "key_description": "Update v1.04 (Fix 5.05/6.72/7.xx/9.00) ⇛"
+    },
     "https://www.keeplinks.org/p41/66a374fbc3ca3": {
       "region": "EUR",
       "size": "2.01 GB",
@@ -4530,6 +4638,42 @@
       "type": "dlc",
       "download_text": "Here",
       "key_description": "DLC Contents ⇛"
+    },
+    "https://www.rootz.so/d/v4mv2": {
+      "region": "EUR",
+      "size": "8GB",
+      "version": "1.00",
+      "release": "September 15, 2022",
+      "min_fw": "9.00+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2026/01/SBK22-PS4-PKG.webp",
+      "name": "Sbk22",
+      "type": "game",
+      "download_text": "RTZ",
+      "key_description": "Game (9.00+) ⇛"
+    },
+    "https://www.rootz.so/d/2BmsTo": {
+      "region": "EUR",
+      "size": "8GB",
+      "version": "1.00",
+      "release": "September 15, 2022",
+      "min_fw": "9.00+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2026/01/SBK22-PS4-PKG.webp",
+      "name": "Sbk22",
+      "type": "update",
+      "download_text": "RTZ",
+      "key_description": "Update v1.02 (9.00+) ⇛"
+    },
+    "https://www.rootz.so/d/1EHOcq": {
+      "region": "EUR",
+      "size": "8GB",
+      "version": "1.00",
+      "release": "September 15, 2022",
+      "min_fw": null,
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2026/01/SBK22-PS4-PKG.webp",
+      "name": "Sbk22",
+      "type": "dlc",
+      "download_text": "RTZ",
+      "key_description": "DLC ⇛"
     },
     "https://anotepad.com/notes/njm23jbp": {
       "region": "EUR",
@@ -5054,15 +5198,15 @@
     },
     "https://www.rootz.so/d/1aZYIK": {
       "region": "EUR",
-      "size": "9.12 GB",
+      "size": "2GB",
       "version": "1.00",
-      "release": "February 21, 2023",
-      "min_fw": "Fix 5.05 / 6.72 / 7.02 / 7.55 / 9.00 / 11.00",
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/The-Legend-of-Dragoon-PS4-PKG.webp",
-      "name": "The Legend Of Dragoon",
-      "type": "update",
+      "release": "October 25, 2022",
+      "min_fw": "5.05 / 6.72 / 7.02 / 7.55 / 9.00 / 11.00",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2026/01/Yomawari-Lost-in-the-Dark-PS4-PKG.webp",
+      "name": "Yomawari Lost In The Dark",
+      "type": "game",
       "download_text": "RTZ",
-      "key_description": "Update v1.04 (Fix 5.05 / 6.72 / 7.02 / 7.55 / 9.00 / 11.00) ⇛"
+      "key_description": "Fix (5.05 / 6.72 / 7.02 / 7.55 / 9.00 / 11.00) ⇛"
     },
     "https://www.keeplinks.org/p41/68382f96d84a3": {
       "region": "USA",
@@ -6123,6 +6267,18 @@
       "type": "game",
       "download_text": "ZippyS",
       "key_description": "Game ⇛"
+    },
+    "https://www.rootz.so/d/i2Zma": {
+      "region": "EUR",
+      "size": "2GB",
+      "version": "1.00",
+      "release": "October 25, 2022",
+      "min_fw": "9.00+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2026/01/Yomawari-Lost-in-the-Dark-PS4-PKG.webp",
+      "name": "Yomawari Lost In The Dark",
+      "type": "game",
+      "download_text": "RTZ",
+      "key_description": "Game (9.00+) ⇛"
     },
     "https://buzzheavier.com/30qssasaaa3y": {
       "region": "EUR",

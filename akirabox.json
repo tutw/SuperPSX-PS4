@@ -24966,30 +24966,6 @@
       "download_text": "AKR",
       "key_description": "DLC v2 ⇛"
     },
-    "https://akirabox.com/obj3jbwn23Dx/file": {
-      "region": "EUR",
-      "size": "500MB",
-      "version": "1.00",
-      "release": "October 14, 2014",
-      "min_fw": "5.05+",
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/08/Nidhogg-PS4-PKG.webp",
-      "name": "Nidhogg 2",
-      "type": "game",
-      "download_text": "AKR",
-      "key_description": "Game (5.05+) ⇛"
-    },
-    "https://akirabox.com/RMKGJXrkl31o/file": {
-      "region": "EUR",
-      "size": "500MB",
-      "version": "1.00",
-      "release": "October 14, 2014",
-      "min_fw": "5.05+",
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/08/Nidhogg-PS4-PKG.webp",
-      "name": "Nidhogg 2",
-      "type": "update",
-      "download_text": "AKR",
-      "key_description": "Update v1.02 (5.05+) ⇛"
-    },
     "https://akirabox.com/7d5GLr56V3xR/file": {
       "region": "EUR",
       "size": "397.15 MB",
@@ -25013,6 +24989,30 @@
       "type": "update",
       "download_text": "AKR",
       "key_description": "Update v1.07 (5.05+) ⇛"
+    },
+    "https://akirabox.com/obj3jbwn23Dx/file": {
+      "region": "EUR",
+      "size": "500MB",
+      "version": "1.00",
+      "release": "October 14, 2014",
+      "min_fw": "5.05+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/08/Nidhogg-PS4-PKG.webp",
+      "name": "Nidhogg 2",
+      "type": "game",
+      "download_text": "AKR",
+      "key_description": "Game (5.05+) ⇛"
+    },
+    "https://akirabox.com/RMKGJXrkl31o/file": {
+      "region": "EUR",
+      "size": "500MB",
+      "version": "1.00",
+      "release": "October 14, 2014",
+      "min_fw": "5.05+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/08/Nidhogg-PS4-PKG.webp",
+      "name": "Nidhogg 2",
+      "type": "update",
+      "download_text": "AKR",
+      "key_description": "Update v1.02 (5.05+) ⇛"
     },
     "https://akirabox.com/0Kezk9162mD1/file": {
       "region": "EUR",
@@ -39638,6 +39638,54 @@
       "type": "update",
       "download_text": "AKR",
       "key_description": "Update v1.01 (Fix 5.05) ⇛"
+    },
+    "https://akirabox.com/XkrzoAYDWmBO/file": {
+      "region": "EUR",
+      "size": "7GB",
+      "version": "1.00",
+      "release": "March 9, 2023",
+      "min_fw": "11.00",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/04/Transport-Fever-2-Console-Edition-PS4-PKG.webp",
+      "name": "Transport Fever 2 Console Edition",
+      "type": "game",
+      "download_text": "AKR",
+      "key_description": "Game (11.00) ⇛"
+    },
+    "https://akirabox.com/qPez4kdJM3OY/file": {
+      "region": "EUR",
+      "size": "7GB",
+      "version": "1.00",
+      "release": "March 9, 2023",
+      "min_fw": "11.00",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/04/Transport-Fever-2-Console-Edition-PS4-PKG.webp",
+      "name": "Transport Fever 2 Console Edition",
+      "type": "update",
+      "download_text": "AKR",
+      "key_description": "Update v1.12 (11.00) ⇛"
+    },
+    "https://akirabox.com/qw1zern0xGXy/file": {
+      "region": "EUR",
+      "size": "7GB",
+      "version": "1.00",
+      "release": "March 9, 2023",
+      "min_fw": "Fix 5.05/6.72/7.xx/9.00",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/04/Transport-Fever-2-Console-Edition-PS4-PKG.webp",
+      "name": "Transport Fever 2 Console Edition",
+      "type": "update",
+      "download_text": "AKR",
+      "key_description": "Update v1.12 (Fix 5.05/6.72/7.xx/9.00) ⇛"
+    },
+    "https://akirabox.com/dZxG5JgPemVj/folder": {
+      "region": "EUR",
+      "size": "7GB",
+      "version": "1.00",
+      "release": "March 9, 2023",
+      "min_fw": null,
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/04/Transport-Fever-2-Console-Edition-PS4-PKG.webp",
+      "name": "Transport Fever 2 Console Edition",
+      "type": "dlc",
+      "download_text": "AKR",
+      "key_description": "DLC (2) ⇛"
     },
     "https://akirabox.com/qLQ36oOJ1z19/file": {
       "region": "EUR",

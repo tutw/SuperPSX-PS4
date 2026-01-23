@@ -10564,7 +10564,7 @@
     },
     "https://akirabox.com/M2BGwkgeRGj4/file": {
       "region": "EUR",
-      "size": "35 GB",
+      "size": "35GB",
       "version": "1.00",
       "release": "January 17, 2020",
       "min_fw": "6.72+",
@@ -10574,9 +10574,9 @@
       "download_text": "AKR",
       "key_description": "Game (6.72+) ⇛"
     },
-    "https://akirabox.com/LJlGnorRem15/file": {
+    "https://akirabox.com/LJlGngA4Zm15/file": {
       "region": "EUR",
-      "size": "35 GB",
+      "size": "35GB",
       "version": "1.00",
       "release": "January 17, 2020",
       "min_fw": "5.05/6.72",
@@ -10584,11 +10584,11 @@
       "name": "Dragon Ball Z Kakarot",
       "type": "update",
       "download_text": "AKR",
-      "key_description": "Update v2.12 (5.05/6.72)  ⇛"
+      "key_description": "Update v2.30 (5.05/6.72)  ⇛"
     },
-    "https://akirabox.com/vgKGxxr49G8Q/file": {
+    "https://akirabox.com/E1x3Ag2LRGyk/file": {
       "region": "EUR",
-      "size": "35 GB",
+      "size": "35GB",
       "version": "1.00",
       "release": "January 17, 2020",
       "min_fw": null,
@@ -10596,7 +10596,19 @@
       "name": "Dragon Ball Z Kakarot",
       "type": "dlc",
       "download_text": "AKR",
-      "key_description": "DLC v2 (18) ⇛"
+      "key_description": "DLC v4 (20) ⇛"
+    },
+    "https://akirabox.com/qw1ze9jOQzXy/file": {
+      "region": "EUR",
+      "size": "35GB",
+      "version": "1.00",
+      "release": "January 17, 2020",
+      "min_fw": null,
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/DRAGON-BALL-Z_-KAKAROT-PS4-PKG.webp",
+      "name": "Dragon Ball Z Kakarot",
+      "type": "dlc",
+      "download_text": "AKR",
+      "key_description": "DLC (25)(@DUPLEX & Opoisso893) ⇛"
     },
     "https://akirabox.com/APVmaqndmXo8/file": {
       "region": "USA",
@@ -15596,31 +15608,19 @@
       "download_text": "AKR",
       "key_description": "Game (7.55+) ⇛"
     },
-    "https://akirabox.com/0rpmvqEAJGRg/file": {
+    "https://akirabox.com/l76mZDO8pzan/file": {
       "region": "EUR",
       "size": "48 GB",
       "version": "1.00",
       "release": "June 11, 2021",
-      "min_fw": "9.00+",
+      "min_fw": "Fix 5.05/6.72/7.xx/9.00/11.00",
       "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/Guilty-Gear-Strive-PS4-PKG.webp",
       "name": "Guilty Gear Strive",
       "type": "update",
       "download_text": "AKR",
-      "key_description": "Update v1.45 (9.00+) ⇛"
+      "key_description": "Update v1.51 (Fix 5.05/6.72/7.xx/9.00/11.00) ⇛"
     },
-    "https://akirabox.com/N2p3DEag8zMa/file": {
-      "region": "EUR",
-      "size": "48 GB",
-      "version": "1.00",
-      "release": "June 11, 2021",
-      "min_fw": "Fix 5.05/6.72/7.xx/8.xx",
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/Guilty-Gear-Strive-PS4-PKG.webp",
-      "name": "Guilty Gear Strive",
-      "type": "update",
-      "download_text": "AKR",
-      "key_description": "Update v1.45 (Fix 5.05/6.72/7.xx/8.xx) ⇛"
-    },
-    "https://akirabox.com/XkrzoAWMPmBO/file": {
+    "https://akirabox.com/qPez4BbjNmOY/file": {
       "region": "EUR",
       "size": "48 GB",
       "version": "1.00",
@@ -24966,30 +24966,6 @@
       "download_text": "AKR",
       "key_description": "DLC v2 ⇛"
     },
-    "https://akirabox.com/obj3jbwn23Dx/file": {
-      "region": "EUR",
-      "size": "500MB",
-      "version": "1.00",
-      "release": "October 14, 2014",
-      "min_fw": "5.05+",
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/08/Nidhogg-PS4-PKG.webp",
-      "name": "Nidhogg 2",
-      "type": "game",
-      "download_text": "AKR",
-      "key_description": "Game (5.05+) ⇛"
-    },
-    "https://akirabox.com/RMKGJXrkl31o/file": {
-      "region": "EUR",
-      "size": "500MB",
-      "version": "1.00",
-      "release": "October 14, 2014",
-      "min_fw": "5.05+",
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/08/Nidhogg-PS4-PKG.webp",
-      "name": "Nidhogg 2",
-      "type": "update",
-      "download_text": "AKR",
-      "key_description": "Update v1.02 (5.05+) ⇛"
-    },
     "https://akirabox.com/7d5GLr56V3xR/file": {
       "region": "EUR",
       "size": "397.15 MB",
@@ -25013,6 +24989,30 @@
       "type": "update",
       "download_text": "AKR",
       "key_description": "Update v1.07 (5.05+) ⇛"
+    },
+    "https://akirabox.com/obj3jbwn23Dx/file": {
+      "region": "EUR",
+      "size": "500MB",
+      "version": "1.00",
+      "release": "October 14, 2014",
+      "min_fw": "5.05+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/08/Nidhogg-PS4-PKG.webp",
+      "name": "Nidhogg 2",
+      "type": "game",
+      "download_text": "AKR",
+      "key_description": "Game (5.05+) ⇛"
+    },
+    "https://akirabox.com/RMKGJXrkl31o/file": {
+      "region": "EUR",
+      "size": "500MB",
+      "version": "1.00",
+      "release": "October 14, 2014",
+      "min_fw": "5.05+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/08/Nidhogg-PS4-PKG.webp",
+      "name": "Nidhogg 2",
+      "type": "update",
+      "download_text": "AKR",
+      "key_description": "Update v1.02 (5.05+) ⇛"
     },
     "https://akirabox.com/0Kezk9162mD1/file": {
       "region": "EUR",
@@ -26619,6 +26619,54 @@
       "type": "update",
       "download_text": "AKR",
       "key_description": "Update v1.07 (7.50+) ⇛"
+    },
+    "https://akirabox.com/E1x3Ag2rDGyk/file": {
+      "region": "EUR",
+      "size": "21.97 GB",
+      "version": "1.00",
+      "release": "March 1, 2022",
+      "min_fw": "11.00+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/Pathfinder-Wrath-of-the-Righteous-PS4-PKG.webp",
+      "name": "Pathfinder Wrath Of The Righteous",
+      "type": "game",
+      "download_text": "AKR",
+      "key_description": "Game (11.00+) ⇛"
+    },
+    "https://akirabox.com/E9Qz94KRb3OL/file": {
+      "region": "EUR",
+      "size": "21.97 GB",
+      "version": "1.00",
+      "release": "March 1, 2022",
+      "min_fw": null,
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/Pathfinder-Wrath-of-the-Righteous-PS4-PKG.webp",
+      "name": "Pathfinder Wrath Of The Righteous",
+      "type": "update",
+      "download_text": "AKR",
+      "key_description": "Update v2.13_OptionalFix_[11.00] ⇛"
+    },
+    "https://akirabox.com/jar3X6298G2d/file": {
+      "region": "EUR",
+      "size": "21.97 GB",
+      "version": "1.00",
+      "release": "March 1, 2022",
+      "min_fw": "Fix 5.05/6.72/7.xx/9.00/11.00",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/Pathfinder-Wrath-of-the-Righteous-PS4-PKG.webp",
+      "name": "Pathfinder Wrath Of The Righteous",
+      "type": "update",
+      "download_text": "AKR",
+      "key_description": "Update v2.13 (Fix 5.05/6.72/7.xx/9.00/11.00)"
+    },
+    "https://akirabox.com/XkrzooedZzBO/file": {
+      "region": "EUR",
+      "size": "21.97 GB",
+      "version": "1.00",
+      "release": "March 1, 2022",
+      "min_fw": null,
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/Pathfinder-Wrath-of-the-Righteous-PS4-PKG.webp",
+      "name": "Pathfinder Wrath Of The Righteous",
+      "type": "dlc",
+      "download_text": "AKR",
+      "key_description": "DLC v2 (7) ⇛"
     },
     "https://akirabox.com/jar3XL8Z32dD/folder": {
       "region": "EUR",

@@ -1554,6 +1554,42 @@
       "download_text": "Buzz",
       "key_description": "Game (5.05+) ⇛"
     },
+    "https://www.rootz.so/d/1ErzjE": {
+      "region": "EUR",
+      "size": "35GB",
+      "version": "1.00",
+      "release": "January 17, 2020",
+      "min_fw": "5.05/6.72",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/DRAGON-BALL-Z_-KAKAROT-PS4-PKG.webp",
+      "name": "Dragon Ball Z Kakarot",
+      "type": "update",
+      "download_text": "RTZ",
+      "key_description": "Update v2.30 (5.05/6.72)  ⇛"
+    },
+    "https://www.rootz.so/d/TsrGi": {
+      "region": "EUR",
+      "size": "35GB",
+      "version": "1.00",
+      "release": "January 17, 2020",
+      "min_fw": null,
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/DRAGON-BALL-Z_-KAKAROT-PS4-PKG.webp",
+      "name": "Dragon Ball Z Kakarot",
+      "type": "dlc",
+      "download_text": "RTZ",
+      "key_description": "DLC v4 (20) ⇛"
+    },
+    "https://www.rootz.so/d/1kawpU": {
+      "region": "EUR",
+      "size": "35GB",
+      "version": "1.00",
+      "release": "January 17, 2020",
+      "min_fw": null,
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/DRAGON-BALL-Z_-KAKAROT-PS4-PKG.webp",
+      "name": "Dragon Ball Z Kakarot",
+      "type": "dlc",
+      "download_text": "RTZ",
+      "key_description": "DLC (25)(@DUPLEX & Opoisso893) ⇛"
+    },
     "https://ouo.io/ja2PTq": {
       "region": "EUR",
       "size": "10.59GB",
@@ -2325,6 +2361,30 @@
       "type": "update",
       "download_text": "DataN",
       "key_description": "Update 1.07 (Fix 5.05/6.72/7.02/7.55/9.00/11.00) ⇛"
+    },
+    "https://www.rootz.so/d/1Aq8rg": {
+      "region": "EUR",
+      "size": "48 GB",
+      "version": "1.00",
+      "release": "June 11, 2021",
+      "min_fw": "Fix 5.05/6.72/7.xx/9.00/11.00",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/Guilty-Gear-Strive-PS4-PKG.webp",
+      "name": "Guilty Gear Strive",
+      "type": "update",
+      "download_text": "RTZ",
+      "key_description": "Update v1.51 (Fix 5.05/6.72/7.xx/9.00/11.00) ⇛"
+    },
+    "https://www.rootz.so/d/Xui8G": {
+      "region": "EUR",
+      "size": "48 GB",
+      "version": "1.00",
+      "release": "June 11, 2021",
+      "min_fw": null,
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/Guilty-Gear-Strive-PS4-PKG.webp",
+      "name": "Guilty Gear Strive",
+      "type": "dlc",
+      "download_text": "RTZ",
+      "key_description": "DLC v2 (29) ⇛"
     },
     "https://ouo.io/dtknOV": {
       "region": "EUR",
@@ -4119,6 +4179,54 @@
       "type": "update",
       "download_text": "OneFile",
       "key_description": "Update 1.03 (Fix 5.05) ⇛"
+    },
+    "https://www.rootz.so/d/ykaH2": {
+      "region": "EUR",
+      "size": "21.97 GB",
+      "version": "1.00",
+      "release": "March 1, 2022",
+      "min_fw": "11.00+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/Pathfinder-Wrath-of-the-Righteous-PS4-PKG.webp",
+      "name": "Pathfinder Wrath Of The Righteous",
+      "type": "game",
+      "download_text": "RTZ",
+      "key_description": "Game (11.00+) ⇛"
+    },
+    "https://www.rootz.so/d/1gZ5xw": {
+      "region": "EUR",
+      "size": "21.97 GB",
+      "version": "1.00",
+      "release": "March 1, 2022",
+      "min_fw": null,
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/Pathfinder-Wrath-of-the-Righteous-PS4-PKG.webp",
+      "name": "Pathfinder Wrath Of The Righteous",
+      "type": "update",
+      "download_text": "RTZ",
+      "key_description": "Update v2.13_OptionalFix_[11.00] ⇛"
+    },
+    "https://www.rootz.so/d/1seeYa": {
+      "region": "EUR",
+      "size": "21.97 GB",
+      "version": "1.00",
+      "release": "March 1, 2022",
+      "min_fw": "Fix 5.05/6.72/7.xx/9.00/11.00",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/Pathfinder-Wrath-of-the-Righteous-PS4-PKG.webp",
+      "name": "Pathfinder Wrath Of The Righteous",
+      "type": "update",
+      "download_text": "RTZ",
+      "key_description": "Update v2.13 (Fix 5.05/6.72/7.xx/9.00/11.00)"
+    },
+    "https://www.rootz.so/d/Pr0PA": {
+      "region": "EUR",
+      "size": "21.97 GB",
+      "version": "1.00",
+      "release": "March 1, 2022",
+      "min_fw": null,
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/Pathfinder-Wrath-of-the-Righteous-PS4-PKG.webp",
+      "name": "Pathfinder Wrath Of The Righteous",
+      "type": "dlc",
+      "download_text": "RTZ",
+      "key_description": "DLC v2 (7) ⇛"
     },
     "https://1cloudfile.com/folder/27a8ac85157a65418731e5b122eca63d/[SPSX]-Persona.3.Portable-CUSA33872-EUR-Game-PS4-CyB1K": {
       "region": "EUR",

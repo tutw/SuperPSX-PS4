@@ -14085,7 +14085,7 @@
     },
     "https://1fichier.com/?kyjf4o8819793cjrm0zd&af=4186346": {
       "region": "EUR",
-      "size": "35 GB",
+      "size": "35GB",
       "version": "1.00",
       "release": "January 17, 2020",
       "min_fw": "6.72+",
@@ -14097,7 +14097,7 @@
     },
     "https://1fichier.com/?zx7cw26p2rfw2s95dqeo&af=4186346": {
       "region": "EUR",
-      "size": "35 GB",
+      "size": "35GB",
       "version": "1.00",
       "release": "January 17, 2020",
       "min_fw": "5.05/6.72",
@@ -14105,11 +14105,11 @@
       "name": "Dragon Ball Z Kakarot",
       "type": "update",
       "download_text": "OneFile",
-      "key_description": "Update v2.12 (5.05/6.72)  ⇛"
+      "key_description": "Update v2.30 (5.05/6.72)  ⇛"
     },
-    "https://1fichier.com/?116dwj5at06ghjapcu7c&af=4186346": {
+    "https://1fichier.com/?vpsnewhe1n4zdcma6pkg&af=4186346": {
       "region": "EUR",
-      "size": "35 GB",
+      "size": "35GB",
       "version": "1.00",
       "release": "January 17, 2020",
       "min_fw": null,
@@ -14117,7 +14117,19 @@
       "name": "Dragon Ball Z Kakarot",
       "type": "dlc",
       "download_text": "OneFile",
-      "key_description": "DLC v2 (18) ⇛"
+      "key_description": "DLC v4 (20) ⇛"
+    },
+    "https://1fichier.com/?4w64fbzlhirzwj73oxl3&af=4186346": {
+      "region": "EUR",
+      "size": "35GB",
+      "version": "1.00",
+      "release": "January 17, 2020",
+      "min_fw": null,
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/DRAGON-BALL-Z_-KAKAROT-PS4-PKG.webp",
+      "name": "Dragon Ball Z Kakarot",
+      "type": "dlc",
+      "download_text": "OneFile",
+      "key_description": "DLC (25)(@DUPLEX & Opoisso893) ⇛"
     },
     "https://1fichier.com/?dp6fw3tdo7ggtm8cab1r&af=4186346": {
       "region": "USA",
@@ -20965,31 +20977,19 @@
       "download_text": "OneFile",
       "key_description": "Game (7.55+) ⇛"
     },
-    "https://1fichier.com/?hw8ergpt4gv102z5r387&af=4186346": {
+    "https://1fichier.com/?846cppqlx1n107n0xyk3&af=4186346": {
       "region": "EUR",
       "size": "48 GB",
       "version": "1.00",
       "release": "June 11, 2021",
-      "min_fw": "9.00+",
+      "min_fw": "Fix 5.05/6.72/7.xx/9.00/11.00",
       "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/Guilty-Gear-Strive-PS4-PKG.webp",
       "name": "Guilty Gear Strive",
       "type": "update",
       "download_text": "OneFile",
-      "key_description": "Update v1.45 (9.00+) ⇛"
+      "key_description": "Update v1.51 (Fix 5.05/6.72/7.xx/9.00/11.00) ⇛"
     },
-    "https://1fichier.com/?ksw1re5t3r0l4msn18mg&af=4186346": {
-      "region": "EUR",
-      "size": "48 GB",
-      "version": "1.00",
-      "release": "June 11, 2021",
-      "min_fw": "Fix 5.05/6.72/7.xx/8.xx",
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/Guilty-Gear-Strive-PS4-PKG.webp",
-      "name": "Guilty Gear Strive",
-      "type": "update",
-      "download_text": "OneFile",
-      "key_description": "Update v1.45 (Fix 5.05/6.72/7.xx/8.xx) ⇛"
-    },
-    "https://1fichier.com/?ew1r8cbgq6kj742xc5rk&af=4186346": {
+    "https://1fichier.com/?azhpejcwlzd7gp20z34d&af=4186346": {
       "region": "EUR",
       "size": "48 GB",
       "version": "1.00",
@@ -34057,30 +34057,6 @@
       "download_text": "OneFile",
       "key_description": "DLC ⇛"
     },
-    "https://1fichier.com/?x0l1nv7408ke0kb720il&af=4186346": {
-      "region": "EUR",
-      "size": "500MB",
-      "version": "1.00",
-      "release": "October 14, 2014",
-      "min_fw": "5.05+",
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/08/Nidhogg-PS4-PKG.webp",
-      "name": "Nidhogg 2",
-      "type": "game",
-      "download_text": "OneFile",
-      "key_description": "Game (5.05+) ⇛"
-    },
-    "https://1fichier.com/?bry9hepim2a628h6iylm&af=4186346": {
-      "region": "EUR",
-      "size": "500MB",
-      "version": "1.00",
-      "release": "October 14, 2014",
-      "min_fw": "5.05+",
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/08/Nidhogg-PS4-PKG.webp",
-      "name": "Nidhogg 2",
-      "type": "update",
-      "download_text": "OneFile",
-      "key_description": "Update v1.02 (5.05+) ⇛"
-    },
     "https://1fichier.com/?e7psyde2u42xep77z9a9&af=4186346": {
       "region": "EUR",
       "size": "397.15 MB",
@@ -34104,6 +34080,30 @@
       "type": "update",
       "download_text": "OneFile",
       "key_description": "Update v1.07 (5.05+) ⇛"
+    },
+    "https://1fichier.com/?x0l1nv7408ke0kb720il&af=4186346": {
+      "region": "EUR",
+      "size": "500MB",
+      "version": "1.00",
+      "release": "October 14, 2014",
+      "min_fw": "5.05+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/08/Nidhogg-PS4-PKG.webp",
+      "name": "Nidhogg 2",
+      "type": "game",
+      "download_text": "OneFile",
+      "key_description": "Game (5.05+) ⇛"
+    },
+    "https://1fichier.com/?bry9hepim2a628h6iylm&af=4186346": {
+      "region": "EUR",
+      "size": "500MB",
+      "version": "1.00",
+      "release": "October 14, 2014",
+      "min_fw": "5.05+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/08/Nidhogg-PS4-PKG.webp",
+      "name": "Nidhogg 2",
+      "type": "update",
+      "download_text": "OneFile",
+      "key_description": "Update v1.02 (5.05+) ⇛"
     },
     "https://1fichier.com/?l85tz68ijgs1udp3fkom&af=4186346": {
       "region": "EUR",
@@ -36381,6 +36381,54 @@
       "type": "update",
       "download_text": "OneFile",
       "key_description": "Update v1.07 (7.50+) ⇛"
+    },
+    "https://1fichier.com/?bfcqzrn7yk5p3a0i7luf&af=4186346": {
+      "region": "EUR",
+      "size": "21.97 GB",
+      "version": "1.00",
+      "release": "March 1, 2022",
+      "min_fw": "11.00+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/Pathfinder-Wrath-of-the-Righteous-PS4-PKG.webp",
+      "name": "Pathfinder Wrath Of The Righteous",
+      "type": "game",
+      "download_text": "OneFile",
+      "key_description": "Game (11.00+) ⇛"
+    },
+    "https://1fichier.com/?i2er1sgd8bh9r4qyvots&af=4186346": {
+      "region": "EUR",
+      "size": "21.97 GB",
+      "version": "1.00",
+      "release": "March 1, 2022",
+      "min_fw": null,
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/Pathfinder-Wrath-of-the-Righteous-PS4-PKG.webp",
+      "name": "Pathfinder Wrath Of The Righteous",
+      "type": "update",
+      "download_text": "OneFile",
+      "key_description": "Update v2.13_OptionalFix_[11.00] ⇛"
+    },
+    "https://1fichier.com/?sc0m0pjiueupvsplrurd&af=4186346": {
+      "region": "EUR",
+      "size": "21.97 GB",
+      "version": "1.00",
+      "release": "March 1, 2022",
+      "min_fw": "Fix 5.05/6.72/7.xx/9.00/11.00",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/Pathfinder-Wrath-of-the-Righteous-PS4-PKG.webp",
+      "name": "Pathfinder Wrath Of The Righteous",
+      "type": "update",
+      "download_text": "OneFile",
+      "key_description": "Update v2.13 (Fix 5.05/6.72/7.xx/9.00/11.00)"
+    },
+    "https://1fichier.com/?8qbpu8eyfzkbo3s4oon6&af=4186346": {
+      "region": "EUR",
+      "size": "21.97 GB",
+      "version": "1.00",
+      "release": "March 1, 2022",
+      "min_fw": null,
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/Pathfinder-Wrath-of-the-Righteous-PS4-PKG.webp",
+      "name": "Pathfinder Wrath Of The Righteous",
+      "type": "dlc",
+      "download_text": "OneFile",
+      "key_description": "DLC v2 (7) ⇛"
     },
     "https://1fichier.com/?u5t5anfjp97uoepnlql5&af=4186346": {
       "region": "EUR",

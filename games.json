@@ -3160,7 +3160,7 @@
     },
     "https://vikingfile.com/f/I30ywmMfNR": {
       "region": "EUR",
-      "size": "35 GB",
+      "size": "35GB",
       "version": "1.00",
       "release": "January 17, 2020",
       "min_fw": "6.72+",
@@ -3169,30 +3169,6 @@
       "type": "game",
       "download_text": "Viki",
       "key_description": "Game (6.72+) ⇛"
-    },
-    "https://vikingfile.com/f/n61DMP5fCt": {
-      "region": "EUR",
-      "size": "35 GB",
-      "version": "1.00",
-      "release": "January 17, 2020",
-      "min_fw": "5.05/6.72",
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/DRAGON-BALL-Z_-KAKAROT-PS4-PKG.webp",
-      "name": "Dragon Ball Z Kakarot",
-      "type": "update",
-      "download_text": "Viki",
-      "key_description": "Update v2.12 (5.05/6.72)  ⇛"
-    },
-    "https://vikingfile.com/f/zJ7m8SwRim": {
-      "region": "EUR",
-      "size": "35 GB",
-      "version": "1.00",
-      "release": "January 17, 2020",
-      "min_fw": null,
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/DRAGON-BALL-Z_-KAKAROT-PS4-PKG.webp",
-      "name": "Dragon Ball Z Kakarot",
-      "type": "dlc",
-      "download_text": "Viki",
-      "key_description": "DLC v2 (18) ⇛"
     },
     "https://vikingfile.com/f/tFdZ6jh0Pl": {
       "region": "EUR",
@@ -4960,42 +4936,6 @@
       "type": "game",
       "download_text": "Viki",
       "key_description": "Game (7.55+) ⇛"
-    },
-    "https://vikingfile.com/f/bgD80D23RJ": {
-      "region": "EUR",
-      "size": "48 GB",
-      "version": "1.00",
-      "release": "June 11, 2021",
-      "min_fw": "9.00+",
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/Guilty-Gear-Strive-PS4-PKG.webp",
-      "name": "Guilty Gear Strive",
-      "type": "update",
-      "download_text": "Viki",
-      "key_description": "Update v1.45 (9.00+) ⇛"
-    },
-    "https://vikingfile.com/f/wlQZuTx1ha": {
-      "region": "EUR",
-      "size": "48 GB",
-      "version": "1.00",
-      "release": "June 11, 2021",
-      "min_fw": "Fix 5.05/6.72/7.xx/8.xx",
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/Guilty-Gear-Strive-PS4-PKG.webp",
-      "name": "Guilty Gear Strive",
-      "type": "update",
-      "download_text": "Viki",
-      "key_description": "Update v1.45 (Fix 5.05/6.72/7.xx/8.xx) ⇛"
-    },
-    "https://vikingfile.com/f/CP5e6rh2op": {
-      "region": "EUR",
-      "size": "48 GB",
-      "version": "1.00",
-      "release": "June 11, 2021",
-      "min_fw": null,
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/Guilty-Gear-Strive-PS4-PKG.webp",
-      "name": "Guilty Gear Strive",
-      "type": "dlc",
-      "download_text": "Viki",
-      "key_description": "DLC v2 (29) ⇛"
     },
     "https://vikingfile.com/f/NMFU13OcMr": {
       "region": "EUR",

@@ -26693,6 +26693,30 @@
       "download_text": "OneFile",
       "key_description": "DLCs ⇛"
     },
+    "https://1fichier.com/?8imu7tc4k55a7y62ltwa&af=4186346": {
+      "region": "EUR",
+      "size": "5GB",
+      "version": "1.00",
+      "release": "Sep 30, 2025",
+      "min_fw": null,
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2026/01/LEGO-Party-PS4-PKG.jpg",
+      "name": "Lego Party",
+      "type": "game",
+      "download_text": "OneFile",
+      "key_description": "Game (12.02) ⇛"
+    },
+    "https://1fichier.com/?7kc0ez96pi1x4br971md&af=4186346": {
+      "region": "EUR",
+      "size": "5GB",
+      "version": "1.00",
+      "release": "Sep 30, 2025",
+      "min_fw": "Fix 5.05/6.72/7.xx/9.00/11.00/12.00",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2026/01/LEGO-Party-PS4-PKG.jpg",
+      "name": "Lego Party",
+      "type": "update",
+      "download_text": "OneFile",
+      "key_description": "Update v1.06 (Fix 5.05/6.72/7.xx/9.00/11.00/12.00) ⇛"
+    },
     "https://1fichier.com/?2697w94t22cn450mqps4&af=4186346": {
       "region": "USA",
       "size": "8.5 GB",
@@ -34749,6 +34773,30 @@
       "download_text": "OneFile",
       "key_description": "Update v1.05 (7.00+) ⇛"
     },
+    "https://1fichier.com/?vtdhrz4c7j46exegenpw&af=4186346": {
+      "region": "EUR",
+      "size": "5GB",
+      "version": "1.00",
+      "release": "June 6, 2024",
+      "min_fw": "11.00+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/12/Octopath-Travele-PS4-PKG.webp",
+      "name": "Octopath Travele",
+      "type": "game",
+      "download_text": "OneFile",
+      "key_description": "Game (11.00+) ⇛"
+    },
+    "https://1fichier.com/?p8yx3n5rjjpir89ghqt8&af=4186346": {
+      "region": "EUR",
+      "size": "5GB",
+      "version": "1.00",
+      "release": "June 6, 2024",
+      "min_fw": "Fix 5.05/6.72/7.xx/9.00/11.00",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/12/Octopath-Travele-PS4-PKG.webp",
+      "name": "Octopath Travele",
+      "type": "update",
+      "download_text": "OneFile",
+      "key_description": "Update v1.01 (Fix 5.05/6.72/7.xx/9.00/11.00) ⇛"
+    },
     "https://1fichier.com/?0hky0g6prrlgqxrsvxp4&af=4186346": {
       "region": "USA",
       "size": "6GB",
@@ -42767,6 +42815,18 @@
       "type": "update",
       "download_text": "OneFile",
       "key_description": "Update v1.02 (Fix.5.05-6.72)"
+    },
+    "https://1fichier.com/?ap2p0dj3tmczztkrmjpp&af=4186346": {
+      "region": "EUR",
+      "size": "3GB",
+      "version": "1.00",
+      "release": "25 Oct 2021",
+      "min_fw": "5.05/6.72/7.xx/9.00+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2026/01/Shaolin-vs-Wutang-PS4-PKG.jpg",
+      "name": "Shaolin Vs Wutang",
+      "type": "game",
+      "download_text": "OneFile",
+      "key_description": "Game (5.05/6.72/7.xx/9.00+) ⇛"
     },
     "https://1fichier.com/?gxr4lyaaosju09bmqrm5&af=4186346": {
       "region": "EUR",

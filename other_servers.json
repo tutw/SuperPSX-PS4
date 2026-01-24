@@ -2931,6 +2931,30 @@
       "download_text": "PixelD",
       "key_description": "Update v1.08 (9.00+) ⇛"
     },
+    "https://www.rootz.so/d/A4GDQ": {
+      "region": "EUR",
+      "size": "5GB",
+      "version": "1.00",
+      "release": "Sep 30, 2025",
+      "min_fw": null,
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2026/01/LEGO-Party-PS4-PKG.jpg",
+      "name": "Lego Party",
+      "type": "game",
+      "download_text": "RTZ",
+      "key_description": "Game (12.02) ⇛"
+    },
+    "https://www.rootz.so/d/1Iie36": {
+      "region": "EUR",
+      "size": "5GB",
+      "version": "1.00",
+      "release": "Sep 30, 2025",
+      "min_fw": "Fix 5.05/6.72/7.xx/9.00/11.00/12.00",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2026/01/LEGO-Party-PS4-PKG.jpg",
+      "name": "Lego Party",
+      "type": "update",
+      "download_text": "RTZ",
+      "key_description": "Update v1.06 (Fix 5.05/6.72/7.xx/9.00/11.00/12.00) ⇛"
+    },
     "https://www.rootz.so/d/Zys7c": {
       "region": "EUR",
       "size": "1.16GB",
@@ -3779,18 +3803,6 @@
       "type": "update",
       "download_text": "BUZZ",
       "key_description": "Update v5.56 (5.05/6.72/7.xx/9.00) ⇛"
-    },
-    "https://www.superpsx.com/ps4-firmware-jailbreak-faqs/": {
-      "region": "EUR",
-      "size": "~5 GB",
-      "version": "1.00",
-      "release": "June 6, 2024",
-      "min_fw": "5.05+",
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/12/Octopath-Travele-PS4-PKG.webp",
-      "name": "Octopath Travele",
-      "type": "game",
-      "download_text": "Read Here",
-      "key_description": "FAQs"
     },
     "https://www.keeplinks.org/p41/683ed18986ccf": {
       "region": "USA",
@@ -4782,6 +4794,18 @@
       "type": "dlc",
       "download_text": "RTZ",
       "key_description": "DLC ⇛"
+    },
+    "https://www.rootz.so/d/27OyAq": {
+      "region": "EUR",
+      "size": "3GB",
+      "version": "1.00",
+      "release": "25 Oct 2021",
+      "min_fw": "5.05/6.72/7.xx/9.00+",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2026/01/Shaolin-vs-Wutang-PS4-PKG.jpg",
+      "name": "Shaolin Vs Wutang",
+      "type": "game",
+      "download_text": "RTZ",
+      "key_description": "Game (5.05/6.72/7.xx/9.00+) ⇛"
     },
     "https://anotepad.com/notes/njm23jbp": {
       "region": "EUR",
